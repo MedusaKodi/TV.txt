@@ -1,0 +1,285 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAS ERSTE (ARD)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DASERSTE(ARD).png" group-title="EU Germany",DE: DAS ERSTE (ARD)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22546
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAS ERSTE HD (ARD)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DASERSTEHD(ARD).png" group-title="EU Germany",DE: DAS ERSTE HD (ARD)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22545
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ARTE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ARTEHD.png" group-title="EU Germany",DE: ARTE HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22544
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZDF HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZDFHD.png" group-title="EU Germany",DE: ZDF HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22543
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZDF NEO" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZDFNEO.png" group-title="EU Germany",DE: ZDF NEO
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22542
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 3 SAT" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/3SAT.png" group-title="EU Germany",DE: 3 SAT
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22541
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTL.png" group-title="EU Germany",DE: RTL
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22540
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL2" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTL2.png" group-title="EU Germany",DE: RTL2
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22539
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL PLUS" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTLPLUS.png" group-title="EU Germany",DE: RTL PLUS
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22538
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL CRIME HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTLCRIMEHD.png" group-title="EU Germany",DE: RTL CRIME HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22537
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL PASSION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTLPASSIONHD.png" group-title="EU Germany",DE: RTL PASSION HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22536
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL NITRO" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTLNITRO.png" group-title="EU Germany",DE: RTL NITRO
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22535
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SUPER RTL" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SUPERRTL.png" group-title="EU Germany",DE: SUPER RTL
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22534
+#EXTINF:-1 tvg-ID="" tvg-name="DE: VOX" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/VOX.png" group-title="EU Germany",DE: VOX
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22533
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EOTV" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/EOTV.png" group-title="EU Germany",DE: EOTV
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22532
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZEE ONE" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZEEONE.png" group-title="EU Germany",DE: ZEE ONE
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22531
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SWR FERNSEHEN BW" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SWRFERNSEHENBW.png" group-title="EU Germany",DE: SWR FERNSEHEN BW
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22530
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NITRO" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NITRO.png" group-title="EU Germany",DE: NITRO
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22529
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: HD  =====" tvg-logo="" group-title="EU Germany",===== DE: HD  =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22528
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTLHD.png" group-title="EU Germany",DE: RTL HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22527
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RTL 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/RTL2HD.png" group-title="EU Germany",DE: RTL 2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22526
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SAT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SAT1HD.png" group-title="EU Germany",DE: SAT 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22525
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SAT 1 GOLD HD" tvg-logo="" group-title="EU Germany",DE: SAT 1 GOLD HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22524
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SIXX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SIXXHD.png" group-title="EU Germany",DE: SIXX HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22523
+#EXTINF:-1 tvg-ID="" tvg-name="DE: VOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/VOXHD.png" group-title="EU Germany",DE: VOX HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22522
+#EXTINF:-1 tvg-ID="" tvg-name="DE: KABEL 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/KABEL1HD.png" group-title="EU Germany",DE: KABEL 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22521
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PROSIEBEN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/PROSIEBENHD.png" group-title="EU Germany",DE: PROSIEBEN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22520
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PROSIEBEN MAXX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/PROSIEBENMAXXHD.png" group-title="EU Germany",DE: PROSIEBEN MAXX HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22519
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DMAX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/TURKIYE/DMAXHDPLUS.png" group-title="EU Germany",DE: DMAX HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22518
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TELE 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/LATINO/TELETRAK.png" group-title="EU Germany",DE: TELE 5 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22517
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ZEE ONE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ZEEONE.png" group-title="EU Germany",DE: ZEE ONE HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22516
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: KINO =====" tvg-logo="" group-title="EU Germany",===== DE: KINO =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22515
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKY1HD.png" group-title="EU Germany",DE: SKY 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22514
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAHD.png" group-title="EU Germany",DE: SKY CINEMA HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22513
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA  1 HD" tvg-logo="" group-title="EU Germany",DE: SKY CINEMA  1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22512
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA  24 HD" tvg-logo="" group-title="EU Germany",DE: SKY CINEMA  24 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22511
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA FAMILY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAFAMILYHD.png" group-title="EU Germany",DE: SKY CINEMA FAMILY HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22510
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA ACTION HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAACTIONHD.png" group-title="EU Germany",DE: SKY CINEMA ACTION HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22509
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA EMOTION" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAEMOTION.png" group-title="EU Germany",DE: SKY CINEMA EMOTION
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22508
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA NOSTALGIE" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMANOSTALGIE.png" group-title="EU Germany",DE: SKY CINEMA NOSTALGIE
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22507
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY CINEMA HITS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYCINEMAHITSHD.png" group-title="EU Germany",DE: SKY CINEMA HITS HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22506
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT COMEDY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/TNTCOMEDYHD.png" group-title="EU Germany",DE: TNT COMEDY HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22505
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY ATLANTIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYATLANTICHD.png" group-title="EU Germany",DE: SKY ATLANTIC HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22504
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOVIESINEMA GERMAN 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/moviesinema.png" group-title="EU Germany",DE: MOVIESINEMA GERMAN 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22503
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOVIESINEMA GERMAN 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/moviesinema.png" group-title="EU Germany",DE: MOVIESINEMA GERMAN 2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22502
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOVIESINEMA GERMAN 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/moviesinema.png" group-title="EU Germany",DE: MOVIESINEMA GERMAN 3 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22501
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOVIESINEMA GERMAN 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/moviesinema.png" group-title="EU Germany",DE: MOVIESINEMA GERMAN 4 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22500
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOVIESINEMA GERMAN 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/moviesinema.png" group-title="EU Germany",DE: MOVIESINEMA GERMAN 5 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22499
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: SKY SELECT =====" tvg-logo="" group-title="EU Germany",===== DE: SKY SELECT =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22498
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT1HD.png" group-title="EU Germany",DE: SKY SELECT 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22497
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT2HD.png" group-title="EU Germany",DE: SKY SELECT 2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22496
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 3 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT3HD.png" group-title="EU Germany",DE: SKY SELECT 3 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22495
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 4 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT4HD.png" group-title="EU Germany",DE: SKY SELECT 4 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22494
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SELECT 5 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSELECT5HD.png" group-title="EU Germany",DE: SKY SELECT 5 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22493
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY ATLANTIC" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYATLANTIC.png" group-title="EU Germany",DE: SKY ATLANTIC
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22492
+#EXTINF:-1 tvg-ID="" tvg-name="DE: KINOWELT TV" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/KINOWELTTV.png" group-title="EU Germany",DE: KINOWELT TV
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22491
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT FILM" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/TNTFILM.png" group-title="EU Germany",DE: TNT FILM
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22490
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: UNTERHALTUNG =====" tvg-logo="" group-title="EU Germany",===== DE: UNTERHALTUNG =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22489
+#EXTINF:-1 tvg-ID="" tvg-name="DE: FOX HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/FOXHD.png" group-title="EU Germany",DE: FOX HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22488
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 13TH STREET HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/13THSTREETHD.png" group-title="EU Germany",DE: 13TH STREET HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22487
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SYFY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SYFYHD.png" group-title="EU Germany",DE: SYFY HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22486
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TNT SERIE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/TNTSERIEHD.png" group-title="EU Germany",DE: TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22485
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY TNT SERIE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYTNTSERIE.png" group-title="EU Germany",DE: SKY TNT SERIE HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22484
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ROMANCE TV" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ROMANCETV.png" group-title="EU Germany",DE: ROMANCE TV
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22483
+#EXTINF:-1 tvg-ID="" tvg-name="DE: FOX SERIE" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/FOXSERIE.png" group-title="EU Germany",DE: FOX SERIE
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22482
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY KRIMI" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYKRIMI.png" group-title="EU Germany",DE: SKY KRIMI
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22481
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 13TH STREET" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/13THSTREET.png" group-title="EU Germany",DE: 13TH STREET
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22480
+#EXTINF:-1 tvg-ID="" tvg-name="DE: E! ENTERTAINMENT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/E!ENTERTAINMENT.png" group-title="EU Germany",DE: E! ENTERTAINMENT HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22479
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MTV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/MTV.png" group-title="EU Germany",DE: MTV HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22478
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NICK /MTV HD" tvg-logo="" group-title="EU Germany",DE: NICK /MTV HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22477
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DELUXE MUSIC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DELUXEMUSICHD.png" group-title="EU Germany",DE: DELUXE MUSIC HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22476
+#EXTINF:-1 tvg-ID="" tvg-name="DE: VIVA/COMEDY CENTRAL" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/NEDERLAND/COMEDYCENTRAL.png" group-title="EU Germany",DE: VIVA/COMEDY CENTRAL
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22475
+#EXTINF:-1 tvg-ID="" tvg-name="DE: VH1" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/VH1.png" group-title="EU Germany",DE: VH1
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22474
+#EXTINF:-1 tvg-ID="" tvg-name="DE: JUKEBOX" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/JUKEBOX.png" group-title="EU Germany",DE: JUKEBOX
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22473
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: DOKUMENTARFILME =====" tvg-logo="" group-title="EU Germany",===== DE: DOKUMENTARFILME =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22472
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DISCOVERY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DISCOVERYHD.png" group-title="EU Germany",DE: DISCOVERY HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22471
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NGC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCHD.png" group-title="EU Germany",DE: NGC HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22470
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NGC WILD HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",DE: NGC WILD HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22469
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HISTORY HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/HISTORYHD.png" group-title="EU Germany",DE: HISTORY HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22468
+#EXTINF:-1 tvg-ID="" tvg-name="DE: TLC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/TLCHD.png" group-title="EU Germany",DE: TLC HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22467
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY ARTS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYARTSHD.png" group-title="EU Germany",DE: SKY ARTS HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22466
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NGC" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCHD.png" group-title="EU Germany",DE: NGC
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22465
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NGC WILD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NGCWILDHD.png" group-title="EU Germany",DE: NGC WILD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22464
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HISTORY CHANNEL" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DISCOVERYCHANNEL.png" group-title="EU Germany",DE: HISTORY CHANNEL
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22463
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SPIEGEL GESCHICHTE" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SPIEGELGESCHICHTE.png" group-title="EU Germany",DE: SPIEGEL GESCHICHTE
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22462
+#EXTINF:-1 tvg-ID="" tvg-name="DE: A&E" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/A&E.png" group-title="EU Germany",DE: A&E
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22461
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: JUGEND =====" tvg-logo="" group-title="EU Germany",===== DE: JUGEND =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22460
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DISNEY CHANNEL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DISNEYCHANNELHD.png" group-title="EU Germany",DE: DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22459
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DISNEY JUNIOR HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DISNEYJUNIORHD.png" group-title="EU Germany",DE: DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22458
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DISNEY CINEMAGIC" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DISNEYCINEMAGIC.png" group-title="EU Germany",DE: DISNEY CINEMAGIC
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22457
+#EXTINF:-1 tvg-ID="" tvg-name="DE: NICK /MTV" tvg-logo="" group-title="EU Germany",DE: NICK /MTV
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22456
+#EXTINF:-1 tvg-ID="" tvg-name="DE: KIKA" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/KIKA.png" group-title="EU Germany",DE: KIKA
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22455
+#EXTINF:-1 tvg-ID="" tvg-name="DE: CARTOON NETWORK" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/CARTOONNETWORK.png" group-title="EU Germany",DE: CARTOON NETWORK
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22454
+#EXTINF:-1 tvg-ID="" tvg-name="DE: BOOMERANG" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/BOOMERANG.png" group-title="EU Germany",DE: BOOMERANG
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22453
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: NACHRICHTEN =====" tvg-logo="" group-title="EU Germany",===== DE: NACHRICHTEN =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22452
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EURONEWS" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/EURONEWS.png" group-title="EU Germany",DE: EURONEWS
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22451
+#EXTINF:-1 tvg-ID="" tvg-name="DE: N TV" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/NTV.png" group-title="EU Germany",DE: N TV
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22450
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: ANDERE =====" tvg-logo="" group-title="EU Germany",===== DE: ANDERE =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22449
+#EXTINF:-1 tvg-ID="" tvg-name="DE: JUWELO HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/JUKEBOX.png" group-title="EU Germany",DE: JUWELO HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22448
+#EXTINF:-1 tvg-ID="" tvg-name="DE: PEARL TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/NEDERLAND/NPOZAPEXTRA.png" group-title="EU Germany",DE: PEARL TV HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22447
+#EXTINF:-1 tvg-ID="" tvg-name="DE: 123TV HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/SCANDINAVIAN/TV12HD.png" group-title="EU Germany",DE: 123TV HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22446
+#EXTINF:-1 tvg-ID="" tvg-name="DE: ANIXE HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/ANIXEHD.png" group-title="EU Germany",DE: ANIXE HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22445
+#EXTINF:-1 tvg-ID="" tvg-name="DE: QVC HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/QVCU.K..png" group-title="EU Germany",DE: QVC HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22444
+#EXTINF:-1 tvg-ID="" tvg-name="DE: QVC2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/QVCU.K..png" group-title="EU Germany",DE: QVC2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22443
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HSE 24 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/FRANCE/FOOT24HD.png" group-title="EU Germany",DE: HSE 24 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22442
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HSE 24 EXTRA HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/QVCEXTRA.png" group-title="EU Germany",DE: HSE 24 EXTRA HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22441
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MDR CRINGEN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/GENERAL.png" group-title="EU Germany",DE: MDR CRINGEN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22440
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MDR S-ANHALT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/SCANDINAVIAN/SJUANHD.png" group-title="EU Germany",DE: MDR S-ANHALT HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22439
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MDR SACHSEN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/CANADA/CHCH.png" group-title="EU Germany",DE: MDR SACHSEN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22438
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR AACHEN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/NEDERLAND/24KITCHEN.png" group-title="EU Germany",DE: WDR AACHEN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22437
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR BONN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/BOOMERANG.png" group-title="EU Germany",DE: WDR BONN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22436
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR DUISBURG HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/LATINO/BOOMRANG.png" group-title="EU Germany",DE: WDR DUISBURG HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22435
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RBB BERLIN HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/KABEL1HD.png" group-title="EU Germany",DE: RBB BERLIN HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22434
+#EXTINF:-1 tvg-ID="" tvg-name="DE: RBB BRANDEN BURG" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/NEDERLAND/L1LIMBURGTV.png" group-title="EU Germany",DE: RBB BRANDEN BURG
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22433
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SONNENKLAR HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/UK/SONYCRIMECHANNEL2.png" group-title="EU Germany",DE: SONNENKLAR HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22432
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WDR WUPPERTAL HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/LATINO/BAND.png" group-title="EU Germany",DE: WDR WUPPERTAL HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22431
+#EXTINF:-1 tvg-ID="" tvg-name="DE: WELT HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/TURKIYE/POWERHDPLUS.png" group-title="EU Germany",DE: WELT HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22430
+#EXTINF:-1 tvg-ID="" tvg-name="DE: HEIMAT KANAL" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/HEIMATKANAL.png" group-title="EU Germany",DE: HEIMAT KANAL
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22429
+#EXTINF:-1 tvg-ID="" tvg-name="DE: CLASSICA" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/CLASSICA.png" group-title="EU Germany",DE: CLASSICA
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22428
+#EXTINF:-1 tvg-ID="" tvg-name="===== DE: SPORT =====" tvg-logo="" group-title="EU Germany",===== DE: SPORT =====
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22427
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT NEWS HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSPORTNEWSHD.png" group-title="EU Germany",DE: SKY SPORT NEWS HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22426
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SPORT 1  HD" tvg-logo="" group-title="EU Germany",DE: SPORT 1  HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22425
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EUROSPORT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/SPAIN/EUROSPORT1.png" group-title="EU Germany",DE: EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22424
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EUROSPORT 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/EUROSPORT2HD.png" group-title="EU Germany",DE: EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22423
+#EXTINF:-1 tvg-ID="" tvg-name="DE: EUROSPORT 2  XTRA HD" tvg-logo="" group-title="EU Germany",DE: EUROSPORT 2  XTRA HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22422
+#EXTINF:-1 tvg-ID="" tvg-name="DE: MOTORVISION" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/MOTORVISION.png" group-title="EU Germany",DE: MOTORVISION
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22421
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 1 BAR FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DAZN1BARFHD.png" group-title="EU Germany",DE: DAZN 1 BAR FHD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22420
+#EXTINF:-1 tvg-ID="" tvg-name="DE: DAZN 2 BAR FHD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/DAZN2BARFHD.png" group-title="EU Germany",DE: DAZN 2 BAR FHD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22419
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT1HD.png" group-title="EU Germany",DE: SKY SPORT 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22418
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 2 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT2HD.png" group-title="EU Germany",DE: SKY SPORT 2 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22417
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 1" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT1.png" group-title="EU Germany",DE: SKY SPORT 1
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22416
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY SPORT 2" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYSPORT2.png" group-title="EU Germany",DE: SKY SPORT 2
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22415
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 1 HD" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA1FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 1 HD
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22414
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 2 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA2FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 2 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22413
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 3 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA3FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 3 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22412
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 4 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA4FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 4 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22411
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 5 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA5FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 5 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22410
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 6 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA6FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 6 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22409
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 7 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA7FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 7 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22408
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 8 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA8FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 8 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22407
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 9 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA9FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 9 HD (ON MATCH TIME)
+plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://rocksat.ddns.net:25461/xmbdp2f8/NyRF5yPNtK/22406
+#EXTINF:-1 tvg-ID="" tvg-name="DE: SKY BUNDESLIGA 10 HD (ON MATCH TIME)" tvg-logo="plugin://plugin.video.f4mTester/?name=DIVINO&streamtype=TSDOWNLOADER&amp;url=http://logo.noih.tv/GERMANY/SKYBUNDESLIGA10FHD.png" group-title="EU Germany",DE: SKY BUNDESLIGA 10 HD (ON MATCH TIME)
