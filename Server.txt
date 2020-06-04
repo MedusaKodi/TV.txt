@@ -4,7 +4,7 @@
 
 
 
-<item>
+item>
 <title>[B][COLOR gold]Server 2[/COLOR]<title>
 <link>http://ignorame<link><thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
@@ -23,7 +23,7 @@
 
 
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
@@ -41,7 +41,7 @@ Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inha
 <item>
 
 <channels>
-<channel>
+channel>
 <name>[COLOR gold]server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
