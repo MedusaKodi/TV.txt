@@ -24,7 +24,7 @@ item>
 
 
 channels>
-<channel>
+channel>
 <name>[COLOR gold]server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server2.txt</externallink>
