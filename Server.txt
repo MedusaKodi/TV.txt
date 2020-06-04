@@ -1,0 +1,46 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>[COLOR gold]vv[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test.m3u</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]server 1[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server2.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+<item>
+<title>[B][I][COLOR red]Voodoo[COLOR beige][COLOR white]TV 3[/B][/I][/COLOR]<title>
+<link>http://ignorame<link><thumbnail>https://raw.githubusercontent.com/Voodoo19/Voodoo-/master/Icons/German%20TV.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
+<info>[B][I][COLOR red]!!!! Stabiles IPTV gibt es bei ZAPTO TV!!!!
+Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
+<item>
+
+<channels>
+<channel>
+<name>[COLOR gold]server 2[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
+<fanart>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+<channels>
+<channel>
+<name>[COLOR gold]Wagas[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<info></info>
+</channel>
