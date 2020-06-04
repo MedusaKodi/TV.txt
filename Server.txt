@@ -1,15 +1,3 @@
-<layouttype>thumbnail</layouttype>
-
-
-<channels>
-<channel>
-<name>[COLOR gold]Server 1[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server1.txt</externallink>
-<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
-<info></info>
-</channel>
-
 <item>
 
 
@@ -22,6 +10,18 @@
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
 <info>[B][I][COLOR red]</info>
 <item>
+
+
+<channels>
+<channel>
+<name>[COLOR gold]Server 1[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server1.txt</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
+<info></info>
+</channel>
+
+
 
 <channels>
 <channel>
