@@ -3,9 +3,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]vv[/COLOR]</name>
+<name>[COLOR gold]Server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test.m3u</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server1.txt</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/deutschland-flagge.jpg</fanart>
 <info></info>
 </channel>
