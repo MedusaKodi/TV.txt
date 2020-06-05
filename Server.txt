@@ -23,8 +23,8 @@ item>
 
 
 
-channels>
-channel>
+<channels>
+<channel>
 <name>[COLOR gold]server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Server2.txt</externallink>
@@ -40,8 +40,8 @@ channel>
 Wir sind weiter fuer euch erreichbar in Telegram [/B][/I][/COLOR]  Fuer den Inhalt des addons uebernimmt VOODOO keine Verantwortung.</info>
 <item>
 
-channels>
-channel>
+<channels>
+<channel>
 <name>[COLOR gold]server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/Sunrise-TV/raw/master/deutschland-flagge.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/SunriseKodi/TV2.0/master/Deutsch/Test2.txt</externallink>
