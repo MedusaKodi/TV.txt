@@ -14,6 +14,6 @@ item>
 item>
 <title>[B][COLOR gold]test[/COLOR]<title>
 <link>http://ignorame<link><thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.medusal</jsonrpc>
+<jsonrpc>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server1.txt</jsonrpc>
 <info>[B][I][COLOR red]</info>
 <item>
