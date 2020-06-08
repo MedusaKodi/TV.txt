@@ -12,8 +12,8 @@ item>
 <item>
 
 item>
-<title>[B][COLOR gold]Server 2[/COLOR]<title>
+<title>[B][COLOR gold]test[/COLOR]<title>
 <link>http://ignorame<link><thumbnail></thumbnail>
-<jsonrpc>pvr://pvr.medusa</jsonrpc>
+<jsonrpc>plugin://plugin.video.medusal</jsonrpc>
 <info>[B][I][COLOR red]</info>
 <item>
