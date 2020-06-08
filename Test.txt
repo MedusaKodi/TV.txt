@@ -5,8 +5,15 @@
 
 
 item>
-<title>[B][COLOR gold]Server 2[/COLOR]<title>
+<title>[B][COLOR gold]Server 1[/COLOR]<title>
 <link>http://ignorame<link><thumbnail></thumbnail>
 <jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
+<info>[B][I][COLOR red]</info>
+<item>
+
+item>
+<title>[B][COLOR gold]Server 2[/COLOR]<title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<jsonrpc>plugin://pvr.medusa</jsonrpc>
 <info>[B][I][COLOR red]</info>
 <item>
