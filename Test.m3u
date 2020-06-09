@@ -1,0 +1,436 @@
+#EXTM3U
+
+
+
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF 1 HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21140
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36263
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF 2 HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21139
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36264
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR [/B orange][/B][/COLOR]AT- ORF 3 HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21138
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF Sport Plus HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33421
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ORF Sport Plus SD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36265
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ATV FHD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21145
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- ATV 2 HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21146
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Puls 4 AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21136
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Servus TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21134
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Nick Austria AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21142
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Austria 24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21144
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Baden TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21143
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Okto TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21141
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- R9 Austria
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21135
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- RTL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24456
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- RTL Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24461
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24460
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Nitro
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24462
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Kabel Eins
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24459
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sixx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24455
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24453
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sport1  HD AT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33422
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24465
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sat 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24464
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Dmax FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/24463
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33388
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sport Austria 1  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/28808
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport Austria 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33418
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport 2 Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/28821
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport Austria 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33419
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport 3 Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/28820
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- Sky Sport Austria 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33420
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]AT- sky Sport Austria 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/28819
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35611
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35612
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35613
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35614
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35615
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35616
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35617
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35618
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35619
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Netflix Deutsche HD10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/35620
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27728
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27727
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27726
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27725
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27724
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27723
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27722
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27721
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 9
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27720
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Select 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27719
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Max Select 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36281
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Max Select 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36282
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Max Select 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36283
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Max Select 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36284
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Max Select 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36285
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Movies Boss 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36292
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Movies Boss 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36293
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Movies Boss 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36294
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Movies Boss 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36295
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36286
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 2HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36287
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 3HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36288
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 4HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36289
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 5HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36290
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Kino Box 6HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36291
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Eagle Cinema Aktion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36266
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Animation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36267
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36270
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Eagle Cinema Aventeuer HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36262
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Drama
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36268
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Geshichte
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36269
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Kinosaal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36271
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Komedie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36272
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema L
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36273
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema MyThologie
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36274
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Premiere
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36275
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Romantisch
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36276
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Sci-Fi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36277
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36278
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Entdeckernatur 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36279
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Eagle Cinema 007
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36280
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27667
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Atlantic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27668
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Cinema  1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27674
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27672
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Cinema  24
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27673
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky EMOTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27666
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Cinema Family
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27671
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Nostalgie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27664
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27675
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Hits
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27670
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27669
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Krimi HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27665
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TNT Comedy HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27663
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TNT Film HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27662
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Fox Hd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27598
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Das Erste HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27627
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL 1HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27637
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL 1SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36673
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27638
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL 2SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36674
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27636
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL Plus SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36675
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- NITRO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27639
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ZDF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27634
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ZDF Info HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27633
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ZDF Neo HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27632
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sixx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27643
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sixx SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/36676
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Pro 7HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/28434
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Pro 7SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27646
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Pro 7 Fun HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27644
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Pro 7 Maxx HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27645
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- SAT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27648
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- SAT 1 Gold HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27647
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sat 1 Emotions HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27619
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- VOX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27642
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Puls 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27654
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- 3 SAT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27631
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Arte HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27641
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Universal Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27657
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Phoenix HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27600
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Kabel 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27640
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Kabel 1 Doku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27609
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Kabel 1 Classics HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27804
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ARD Alpha
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27590
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27635
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TELE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27615
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Anixe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27618
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27656
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TNT Serie HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27661
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL Crime HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27653
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL Passion HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27650
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- 13th Street
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27660
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Heimat Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27616
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Kinowelt TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27655
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ROMANCE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27620
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- ZEE ONE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27649
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Boomerang
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27625
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27624
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- KIKA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27602
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27593
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27621
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Disney Cinemagic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27623
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Disney Junior
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27630
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Nickelodeon
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27626
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Baby TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27589
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Super RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27629
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TOGGO Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27628
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- DAZN Bar 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33382
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- DAZN Bar 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33383
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport News HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33379
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33368
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33369
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33370
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33371
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33372
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33373
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33374
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33375
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33376
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33377
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport 11 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33378
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33359
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33360
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33361
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33362
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33363
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33364
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33365
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33366
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Bundesliga 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33367
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De-Sky Sport Bundesliga 10 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33237
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- EuroSport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33380
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- EuroSport 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33381
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Eurosport 2 HD XTRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33203
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sport 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33384
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Sky Sport Austria HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/33358
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- JukeBox HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27597
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Classica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27617
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- MTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27596
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- MTV Dance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27595
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Deluxe Music HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27591
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Discovery Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27612
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- E! Entertainment HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27599
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- History HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27610
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27606
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- RTL Living HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27651
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27613
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27607
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- DMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27611
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Planet HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27953
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27604
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- NTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27601
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- N24 Doku
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27608
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27658
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Welt HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27603
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Tagesschau24 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27586
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Spiegel TV Wissen HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/27605
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Baden Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21471
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Wdr Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21470
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Deutsches Musik
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21469
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Douna Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21468
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Franken Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21472
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Hr Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21466
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Munchen Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21473
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Oberpfalz Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21478
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Ran 1Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21476
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Rbw Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21475
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Trp 1Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21477
+#EXTINF:-1  tvg-id="DE" tvg-name="DOC" tvg-logo="http://pavootv.com/MedusaLogo/Pavootv.png"group-title="Medusa",[B][COLOR lime][/B][/COLOR][B][COLOR orange][/B][/COLOR]De- Tva Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=Medusa;url=http://linux-app.tv:6204/60400655844704/32991126026152/21467
