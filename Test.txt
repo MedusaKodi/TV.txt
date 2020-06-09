@@ -11,12 +11,3 @@ item>
 <info>[B][I][COLOR red]</info>
 <item>
 
-item>
-<title>[B][COLOR gold]Server 2[/COLOR]<title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<jsonrpc></jsonrpc>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Test.m3u</externallink>
-<info>[B][I][COLOR red]</info>
-<item>
-
-
