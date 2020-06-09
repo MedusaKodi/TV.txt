@@ -13,8 +13,8 @@ item>
 
 item>
 <title>[B][COLOR gold]Server 1[/COLOR]<title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
+<link>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server2.txt <link><thumbnail></thumbnail>
+<jsonrpc></jsonrpc>
 <info>[B][I][COLOR red]</info>
 <item>
 
