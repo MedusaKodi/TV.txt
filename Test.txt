@@ -12,9 +12,10 @@ item>
 <item>
 
 item>
-<title>[B][COLOR gold]Server 2[/COLOR]<title>
-<link>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server2.m3u <link><thumbnail></thumbnail>
-<jsonrpc> </jsonrpc>
+<title>[B][COLOR gold]Server 3[/COLOR]<title>
+<link>http://ignorame<link><thumbnail></thumbnail>
+<jsonrpc></jsonrpc>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Server2.m3u</externallink>
 <info>[B][I][COLOR red]</info>
 <item>
 
