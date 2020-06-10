@@ -1,4 +1,4 @@
-<chanbels>
+<channels>
 
 <channel>
 <title><![CDATA[TURKvod OZEL IPTV BOLUMU]]></title>
