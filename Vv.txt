@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<items>
-    <playlist_name><![CDATA[LOKAL LIST]]></playlist_name>
+<chanbels>
 
 <channel>
 <title><![CDATA[TURKvod OZEL IPTV BOLUMU]]></title>
@@ -38,4 +36,4 @@
 <playlist_url><![CDATA[TURKvodModul@http://cpradof.darkwebrepo.gq/logos/Listas/regiotv.m3u@m3u@TURKvod]]></playlist_url>
 </channel>
 	
-</items>
+</channels>
