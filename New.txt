@@ -1,0 +1,833 @@
+﻿#EXTM3U
+
+#EXTINF:-1,DE: CINE SELECT 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27047
+
+#EXTINF:-1,DE: CINE SELECT 2 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27048
+
+#EXTINF:-1,DE: CINE SELECT 3 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27049
+
+#EXTINF:-1,DE: CINE SELECT 4 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27050
+
+#EXTINF:-1,DE: CINE SELECT 5 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27051
+
+#EXTINF:-1,DE: DAZN 1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27059
+
+#EXTINF:-1,DE: DAZN 2 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27061
+
+#EXTINF:-1,DE: Disney Channel FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27069
+
+#EXTINF:-1,DE: Disney Cinemagic FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27070
+
+#EXTINF:-1,DE: Disney Jr
+
+http://showmetv.org:80/Showmevip20/8581000/27071
+
+#EXTINF:-1,DE: Disney XD HD
+
+http://showmetv.org:80/Showmevip20/8581000/27072
+
+#EXTINF:-1,DE: EUROSPORT HD
+
+http://showmetv.org:80/Showmevip20/8581000/27090
+
+#EXTINF:-1,DE: EUROSPORT 1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27086
+
+#EXTINF:-1,DE: EUROSPORT 2 EXTRA FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27087
+
+#EXTINF:-1,DE: EUROSPORT 2 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27088
+
+#EXTINF:-1,DE: DAS ERSTE FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27057
+
+#EXTINF:-1,DE: ZDF HD
+
+http://showmetv.org:80/Showmevip20/8581000/27424
+
+#EXTINF:-1,DE: ZDF info HD
+
+http://showmetv.org:80/Showmevip20/8581000/27426
+
+#EXTINF:-1,DE: ZDF NEO HD
+
+http://showmetv.org:80/Showmevip20/8581000/27427
+
+#EXTINF:-1,DE: ZEE ONE FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27428
+
+#EXTINF:-1,DE: RTL 1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27225
+
+#EXTINF:-1,DE: RTL Crime FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27227
+
+#EXTINF:-1,DE: RTL FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27228
+
+#EXTINF:-1,DE: RTL II HD
+
+http://showmetv.org:80/Showmevip20/8581000/27229
+
+#EXTINF:-1,DE: RTL Living FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27230
+
+#EXTINF:-1,DE: RTL NITRO FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27231
+
+#EXTINF:-1,DE: RTL Passion FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27232
+
+#EXTINF:-1,DE: RTL plus HD
+
+http://showmetv.org:80/Showmevip20/8581000/27233
+
+#EXTINF:-1,DE: RTL Super
+
+http://showmetv.org:80/Showmevip20/8581000/27234
+
+#EXTINF:-1,DE: 13 STREET HD
+
+http://showmetv.org:80/Showmevip20/8581000/27002
+
+#EXTINF:-1,DE: 13th Street FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27003
+
+#EXTINF:-1,DE:WDR
+
+http://showmetv.org:80/Showmevip20/8581000/11996
+
+#EXTINF:-1,DE: 3 SAT FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27000
+
+#EXTINF:-1,DE: C&I FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27004
+
+#EXTINF:-1,DE: ANIMAL PLANET HD
+
+http://showmetv.org:80/Showmevip20/8581000/27008
+
+#EXTINF:-1,DE: ANIXE FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27009
+
+#EXTINF:-1,DE: ARD FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27010
+
+#EXTINF:-1,DE: 123 TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27001
+
+#EXTINF:-1,DE: ARTE HD
+
+http://showmetv.org:80/Showmevip20/8581000/27011
+
+#EXTINF:-1,DE: Atv HD
+
+http://showmetv.org:80/Showmevip20/8581000/27012
+
+#EXTINF:-1,DE: Austria 24
+
+http://showmetv.org:80/Showmevip20/8581000/27015
+
+#EXTINF:-1,DE: Auto Motor Sport HD
+
+http://showmetv.org:80/Showmevip20/8581000/27017
+
+#EXTINF:-1,DE: AXN HD
+
+http://showmetv.org:80/Showmevip20/8581000/27019
+
+#EXTINF:-1,DE: BADEN TV
+
+http://showmetv.org:80/Showmevip20/8581000/27030
+
+#EXTINF:-1,DE: Bayern FC TV
+
+http://showmetv.org:80/Showmevip20/8581000/27031
+
+#EXTINF:-1,DE: Bibel TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27032
+
+#EXTINF:-1,DE: Bibel TV Musik
+
+http://showmetv.org:80/Showmevip20/8581000/27033
+
+#EXTINF:-1,DE: BIBELl TV MUSIK HD
+
+http://showmetv.org:80/Showmevip20/8581000/27034
+
+#EXTINF:-1,DE: Blizz TV
+
+http://showmetv.org:80/Showmevip20/8581000/27035
+
+#EXTINF:-1,DE: BLK Regional TV
+
+http://showmetv.org:80/Showmevip20/8581000/27036
+
+#EXTINF:-1,DE: BLK TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27037
+
+#EXTINF:-1,DE: Boomerang HD
+
+http://showmetv.org:80/Showmevip20/8581000/27038
+
+#EXTINF:-1,DE: BR Fernsehen HD
+
+http://showmetv.org:80/Showmevip20/8581000/27039
+
+#EXTINF:-1,DE: BR HD LIVE
+
+http://showmetv.org:80/Showmevip20/8581000/27040
+
+#EXTINF:-1,DE: BW Family TV
+
+http://showmetv.org:80/Showmevip20/8581000/27043
+
+#EXTINF:-1,DE: CARTOON NETWORK FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27044
+
+#EXTINF:-1,DE: CHEMNITZ FERNSEHEN HD
+
+http://showmetv.org:80/Showmevip20/8581000/27046
+
+#EXTINF:-1,DE: Cinema 24
+
+http://showmetv.org:80/Showmevip20/8581000/27052
+
+#EXTINF:-1,DE: Comedy Central HD
+
+http://showmetv.org:80/Showmevip20/8581000/27054
+
+#EXTINF:-1,DE: DEL Sport 1
+
+http://showmetv.org:80/Showmevip20/8581000/27062
+
+#EXTINF:-1,DE: Discovery Channel HD
+
+http://showmetv.org:80/Showmevip20/8581000/27066
+
+#EXTINF:-1,DE: Discovery Science HD
+
+http://showmetv.org:80/Showmevip20/8581000/27067
+
+#EXTINF:-1,DE: Disney Ch
+
+http://showmetv.org:80/Showmevip20/8581000/27068
+
+#EXTINF:-1,DE: DMAX FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27074
+
+#EXTINF:-1,DE: DRF 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27079
+
+#EXTINF:-1,DE: DW TV
+
+http://showmetv.org:80/Showmevip20/8581000/27080
+
+#EXTINF:-1,DE: E! FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27081
+
+#EXTINF:-1,DE: ERF 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27083
+
+#EXTINF:-1,DE: euronews HD
+
+http://showmetv.org:80/Showmevip20/8581000/27085
+
+#EXTINF:-1,DE: Family TV
+
+http://showmetv.org:80/Showmevip20/8581000/27093
+
+#EXTINF:-1,DE: FC Bayern TV FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27094
+
+#EXTINF:-1,DE: Fix & Foxi
+
+http://showmetv.org:80/Showmevip20/8581000/27095
+
+#EXTINF:-1,DE: FOX FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27097
+
+#EXTINF:-1,DE: Heimatkanal HD
+
+http://showmetv.org:80/Showmevip20/8581000/27104
+
+#EXTINF:-1,DE: History Channel HD
+
+http://showmetv.org:80/Showmevip20/8581000/27105
+
+#EXTINF:-1,DE: HSE 24 EXTRA HD
+
+http://showmetv.org:80/Showmevip20/8581000/27111
+
+#EXTINF:-1,DE: HSE 24 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27112
+
+#EXTINF:-1,DE: Kabel
+
+http://showmetv.org:80/Showmevip20/8581000/27118
+
+#EXTINF:-1,DE: Kabel 1 Classic HD
+
+http://showmetv.org:80/Showmevip20/8581000/27119
+
+#EXTINF:-1,DE: Kabel 1 Doku
+
+http://showmetv.org:80/Showmevip20/8581000/27120
+
+#EXTINF:-1,DE: Kabel 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27121
+
+#EXTINF:-1,DE: Kabel Eins Classica HD
+
+http://showmetv.org:80/Showmevip20/8581000/27122
+
+#EXTINF:-1,DE: Kabel Eins Doku HD
+
+http://showmetv.org:80/Showmevip20/8581000/27124
+
+#EXTINF:-1,DE: Kabel Eins FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27125
+
+#EXTINF:-1,DE: KabelJournal TV
+
+http://showmetv.org:80/Showmevip20/8581000/27126
+
+#EXTINF:-1,DE: MDF HD
+
+http://showmetv.org:80/Showmevip20/8581000/27137
+
+#EXTINF:-1,DE: MDR HD
+
+http://showmetv.org:80/Showmevip20/8581000/27138
+
+#EXTINF:-1,DE: Melodie Express TV
+
+http://showmetv.org:80/Showmevip20/8581000/27141
+
+#EXTINF:-1,DE: Melodie TV
+
+http://showmetv.org:80/Showmevip20/8581000/27142
+
+#EXTINF:-1,DE: Mimusica HD
+
+http://showmetv.org:80/Showmevip20/8581000/27143
+
+#EXTINF:-1,DE: MotorVision HD
+
+http://showmetv.org:80/Showmevip20/8581000/27144
+
+#EXTINF:-1,DE: MOTORVISON TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27145
+
+#EXTINF:-1,DE: MTV FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27146
+
+#EXTINF:-1,DE: Munchen TV FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27148
+
+#EXTINF:-1,DE: Music TV 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27149
+
+#EXTINF:-1,DE: N24 Doku HD
+
+http://showmetv.org:80/Showmevip20/8581000/27152
+
+#EXTINF:-1,DE: N24 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27153
+
+#EXTINF:-1,DE: NAHE TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27154
+
+#EXTINF:-1,DE: NAT GEO FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27155
+
+#EXTINF:-1,DE: NAT GEO Wild FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27156
+
+#EXTINF:-1,DE: NDR HD
+
+http://showmetv.org:80/Showmevip20/8581000/27157
+
+#EXTINF:-1,DE: Nickelodeon HD
+
+http://showmetv.org:80/Showmevip20/8581000/27163
+
+#EXTINF:-1,DE: NITRO HD
+
+http://showmetv.org:80/Showmevip20/8581000/27165
+
+#EXTINF:-1,DE: ONE HD
+
+http://showmetv.org:80/Showmevip20/8581000/27187
+
+#EXTINF:-1,DE: One Music HD
+
+http://showmetv.org:80/Showmevip20/8581000/27188
+
+#EXTINF:-1,DE: PEARL TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27189
+
+#EXTINF:-1,DE: Phoenix HD
+
+http://showmetv.org:80/Showmevip20/8581000/27190
+
+#EXTINF:-1,DE: Planai TV
+
+http://showmetv.org:80/Showmevip20/8581000/27191
+
+#EXTINF:-1,DE: PLANET FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27192
+
+#EXTINF:-1,DE: POPCORN SELECT 2 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27194
+
+#EXTINF:-1,DE: POPCORN SELECT 3 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27195
+
+#EXTINF:-1,DE: POPCORN SELECT 4 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27196
+
+#EXTINF:-1,DE: POPCORN SELECT 5 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27197
+
+#EXTINF:-1,DE: Popcorn Select 6 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27198
+
+#EXTINF:-1,DE: POPCORN SELECT 7
+
+http://showmetv.org:80/Showmevip20/8581000/27199
+
+#EXTINF:-1,DE: POPCORN SELECT 8
+
+http://showmetv.org:80/Showmevip20/8581000/27200
+
+#EXTINF:-1,DE: POPCORN SELECT 9
+
+http://showmetv.org:80/Showmevip20/8581000/27201
+
+#EXTINF:-1,DE: POPCORN SELECT 10
+
+http://showmetv.org:80/Showmevip20/8581000/27202
+
+#EXTINF:-1,DE: Pro7 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27203
+
+#EXTINF:-1,DE: Pro7 FUN FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27204
+
+#EXTINF:-1,DE: Pro7 Maxx HD
+
+http://showmetv.org:80/Showmevip20/8581000/27205
+
+#EXTINF:-1,DE: ProSieben FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27206
+
+#EXTINF:-1,DE: ProSieben Fun FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27207
+
+#EXTINF:-1,DE: ProSieben Maxx HD
+
+http://showmetv.org:80/Showmevip20/8581000/27208
+
+#EXTINF:-1,DE: RNF TV
+
+http://showmetv.org:80/Showmevip20/8581000/27223
+
+#EXTINF:-1,DE: ROMANCE TV HD
+
+http://showmetv.org:80/Showmevip20/8581000/27224
+
+#EXTINF:-1,DE: RTS Salzburg TV
+
+http://showmetv.org:80/Showmevip20/8581000/27235
+
+#EXTINF:-1,DE: RWD HD
+
+http://showmetv.org:80/Showmevip20/8581000/27236
+
+#EXTINF:-1,DE: SALZWEDEL
+
+http://showmetv.org:80/Showmevip20/8581000/27237
+
+#EXTINF:-1,DE: SAT 1 Emotions
+
+http://showmetv.org:80/Showmevip20/8581000/27238
+
+#EXTINF:-1,DE: SAT 1 GOLD FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27239
+
+#EXTINF:-1,DE: SAT 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27240
+
+#EXTINF:-1,DE: Servus HD
+
+http://showmetv.org:80/Showmevip20/8581000/27241
+
+#EXTINF:-1,DE: SFR 1
+
+http://showmetv.org:80/Showmevip20/8581000/27242
+
+#EXTINF:-1,DE: Sixx FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27243
+
+#EXTINF:-1,DE: Sony AXN HD
+
+http://showmetv.org:80/Showmevip20/8581000/27331
+
+#EXTINF:-1,DE: SONY Channel
+
+http://showmetv.org:80/Showmevip20/8581000/27332
+
+#EXTINF:-1,DE: Sony Enterainment HD
+
+http://showmetv.org:80/Showmevip20/8581000/27333
+
+#EXTINF:-1,DE: Sport 1 + HD
+
+http://showmetv.org:80/Showmevip20/8581000/27337
+
+#EXTINF:-1,DE: SPORT 1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27338
+
+#EXTINF:-1,DE: SPORT 1 US HD
+
+http://showmetv.org:80/Showmevip20/8581000/27339
+
+#EXTINF:-1,DE: Sport Digital FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27340
+
+#EXTINF:-1,DE: Sport Olympic HD
+
+http://showmetv.org:80/Showmevip20/8581000/27341
+
+#EXTINF:-1,DE: SPORTS 1 USA HD
+
+http://showmetv.org:80/Showmevip20/8581000/27342
+
+#EXTINF:-1,DE: SR HD
+
+http://showmetv.org:80/Showmevip20/8581000/27343
+
+#EXTINF:-1,DE: SRF 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27344
+
+#EXTINF:-1,DE: SRF 2 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27345
+
+#EXTINF:-1,DE: SRF Zwei HD
+
+http://showmetv.org:80/Showmevip20/8581000/27346
+
+#EXTINF:-1,DE: SUPER RTL FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27348
+
+#EXTINF:-1,DE: SWR HD
+
+http://showmetv.org:80/Showmevip20/8581000/27363
+
+#EXTINF:-1,DE: SYFY FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27364
+
+#EXTINF:-1,DE: SYLT 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27365
+
+#EXTINF:-1,DE: TLC FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27384
+
+#EXTINF:-1,DE: TNT COMEDY FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27385
+
+#EXTINF:-1,DE: TNT Film FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27386
+
+#EXTINF:-1,DE: TNT SERIE HD
+
+http://showmetv.org:80/Showmevip20/8581000/27387
+
+#EXTINF:-1,DE: TOGGO plus
+
+http://showmetv.org:80/Showmevip20/8581000/27388
+
+#EXTINF:-1,DE: TOGOO
+
+http://showmetv.org:80/Showmevip20/8581000/27389
+
+#EXTINF:-1,DE: TRP 1
+
+http://showmetv.org:80/Showmevip20/8581000/27390
+
+#EXTINF:-1,DE: TRP1 TELE REGIONAL PASSAU HD
+
+http://showmetv.org:80/Showmevip20/8581000/27391
+
+#EXTINF:-1,DE: TV Aktuelle
+
+http://showmetv.org:80/Showmevip20/8581000/27394
+
+#EXTINF:-1,DE: TV OBERPFALZ HD
+
+http://showmetv.org:80/Showmevip20/8581000/27400
+
+#EXTINF:-1,DE: TV Touring Wurzburg
+
+http://showmetv.org:80/Showmevip20/8581000/27401
+
+#EXTINF:-1,DE: TVO HD
+
+http://showmetv.org:80/Showmevip20/8581000/27404
+
+#EXTINF:-1,DE: UNIVERSAL Channel HD
+
+http://showmetv.org:80/Showmevip20/8581000/27405
+
+#EXTINF:-1,DE: Unniversal HD
+
+http://showmetv.org:80/Showmevip20/8581000/27406
+
+#EXTINF:-1,DE: UNSERDING MUSIC
+
+http://showmetv.org:80/Showmevip20/8581000/27407
+
+#EXTINF:-1,DE: UNSERDING STUDIO HD
+
+http://showmetv.org:80/Showmevip20/8581000/27408
+
+#EXTINF:-1,DE: VIVA COMEDY CENTRAL HD
+
+http://showmetv.org:80/Showmevip20/8581000/27409
+
+#EXTINF:-1,DE: VOX FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27410
+
+#EXTINF:-1,DE: WDR BONN HD
+
+http://showmetv.org:80/Showmevip20/8581000/27413
+
+#EXTINF:-1,DE: WDR DUISBURG HD
+
+http://showmetv.org:80/Showmevip20/8581000/27414
+
+#EXTINF:-1,DE: WDR HD
+
+http://showmetv.org:80/Showmevip20/8581000/27415
+
+#EXTINF:-1,DE: WDR WUPPERTAL HD
+
+http://showmetv.org:80/Showmevip20/8581000/27417
+
+#EXTINF:-1,DE: WTV
+
+http://showmetv.org:80/Showmevip20/8581000/27423
+
+#EXTINF:-1,DE: ZDF IINFO
+
+http://showmetv.org:80/Showmevip20/8581000/27425
+
+#EXTINF:-1,DE: SKY 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27245
+
+#EXTINF:-1,DE: Sky Action FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27246
+
+#EXTINF:-1,DE: Sky Atlantic FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27248
+
+#EXTINF:-1,DE: Sky Cinema +1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27250
+
+#EXTINF:-1,DE: Sky Cinema +24 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27251
+
+#EXTINF:-1,DE: SKY CINEMA 1 FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27252
+
+#EXTINF:-1,DE: SKY CINEMA 24 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27253
+
+#EXTINF:-1,DE: SKY Cinema Action FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27254
+
+#EXTINF:-1,DE: Sky Cinema Atlantic FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27255
+
+#EXTINF:-1,DE: Sky Cinema Comdey
+
+http://showmetv.org:80/Showmevip20/8581000/27256
+
+#EXTINF:-1,DE: Sky Cinema Comedy FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27257
+
+#EXTINF:-1,DE: Sky Cinema Emotion HD
+
+http://showmetv.org:80/Showmevip20/8581000/27258
+
+#EXTINF:-1,DE: Sky Cinema Family FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27259
+
+#EXTINF:-1,DE: Sky Cinema HD
+
+http://showmetv.org:80/Showmevip20/8581000/27260
+
+#EXTINF:-1,DE: Sky Cinema Hits FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27261
+
+#EXTINF:-1,DE: Sky Cinema Nostalgie HD
+
+http://showmetv.org:80/Showmevip20/8581000/27262
+
+#EXTINF:-1,DE: Sky Cinema TLC
+
+http://showmetv.org:80/Showmevip20/8581000/27263
+
+#EXTINF:-1,DE: SKY Cinema Trierch HD
+
+http://showmetv.org:80/Showmevip20/8581000/27264
+
+#EXTINF:-1,DE: Sky Cinema+ HD
+
+http://showmetv.org:80/Showmevip20/8581000/27265
+
+#EXTINF:-1,DE: SKY Comedy HD
+
+http://showmetv.org:80/Showmevip20/8581000/27266
+
+#EXTINF:-1,DE: SKY CRIMI
+
+http://showmetv.org:80/Showmevip20/8581000/27267
+
+#EXTINF:-1,DE: Sky Hits FHD
+
+http://showmetv.org:80/Showmevip20/8581000/27268
+
+#EXTINF:-1,DE: SKY POPCORN SELECT 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27272
+
+#EXTINF:-1,DE: SKY POPCORN SELECT 2 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27273
+
+#EXTINF:-1,DE: SKY POPCORN SELECT 3 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27274
+
+#EXTINF:-1,DE: SKY POPCORN SELECT 4 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27275
+
+#EXTINF:-1,DE: SKY POPCORN SELECT 5 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27276
+
+#EXTINF:-1,DE: Sky Sport 1 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27277
+
+#EXTINF:-1,DE: Sky Sport 2 HD
+
+http://showmetv.org:80/Showmevip20/8581000/27281
+
+#EXTINF:-1,DE: Sky Sport HD 2
+
+http://showmetv.org:80/Showmevip20/8581000/27323
+
+#EXTINF:-1,DE: Sky Sport HD 4
+
+http://showmetv.org:80/Showmevip20/8581000/27324
+
+#EXTINF:-1,DE: Sky Sport News
+
+http://showmetv.org:80/Showmevip20/8581000/27325
