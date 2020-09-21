@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold]TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/New.txt</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Ganznew.txt</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
