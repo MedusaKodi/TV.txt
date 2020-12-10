@@ -24,7 +24,7 @@
 <channel>
 <name>[COLOR gold]Wagas[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Wagas.txt</externallink>
+<externallink>https://wagasworld.com/?q=channel</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
