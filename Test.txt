@@ -9,16 +9,14 @@
 <info></info>
 </channel>
 
-
-
-
-
-<item>
-<title>[B][COLOR gold]Server 1[/COLOR]<title>
-<link>http://ignorame<link><thumbnail></thumbnail>
-<jsonrpc>plugin://plugin.video.tvone11/list_channels/26</jsonrpc>
-<info>[B][I][COLOR red]</info>
-<item>
+<channels>
+<channel>
+<name>[COLOR gold]Vavoo[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<externallink>http://repo.stube.org/tvlist/v/vip/menu.xml</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<info></info>
+</channel>
 
 <channels>
 <channel>
@@ -28,4 +26,12 @@
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
+
+
+
+
+
+
+
+
 
