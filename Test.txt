@@ -4,7 +4,7 @@
 <channel>
 <name>[COLOR gold]TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1</externallink>
+<externallink>https://raw.githubusercontent.com/kilirushi/m3u/master/de.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
@@ -28,7 +28,10 @@ channel>
 </channel>
 
 
+https://raw.githubusercontent.com/kilirushi/m3u/master/de.m3u
 
+
+https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1
 
 
 
