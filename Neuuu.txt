@@ -1,1 +1,7 @@
-
+#EXTM3U
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16532
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3451
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste HD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/22824
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste FHD DE" tvg-logo="https://picon-13398.kxcdn.com/daserstehd.jpg" group-title="Live: Germany",Das Erste FHD DE
