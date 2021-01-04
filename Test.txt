@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR gold]Wagas[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>http://tv.mtbox.hitv.one:8080/get.php?username=7wzniMVm6klg8519&password=1ntIDM1364&type=m3u_plus&output=ts</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Neuu.txt</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
