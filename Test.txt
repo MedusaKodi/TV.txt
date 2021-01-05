@@ -27,11 +27,20 @@ channel>
 <info></info>
 </channel>
 
+<channels>
+<channel>
+<name>[COLOR gold]Server 2[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Neuu.txt</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<info></info>
+</channel>
+
 
 https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/menu.txt
 http://repo.stube.org/tvlist/v/vip/menu.xml
 http://tv.mtbox.hitv.one:8080/get.php?username=7wzniMVm6klg8519&password=1ntIDM1364&type=m3u_plus&output=ts
-
+https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Neuu.txt
 
 
  
