@@ -31,7 +31,7 @@ channel>
 <channel>
 <name>[COLOR gold]Server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Neuu.txt</externallink>
+<externallink>http://cmc.best-tv.me:8080/get.php?username=22232400&password=VU8b4T478O&type=m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
