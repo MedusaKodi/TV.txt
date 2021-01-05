@@ -363,3 +363,136 @@ http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14061
 #EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 DE
 http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1633
 #EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24hd.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15575
+#EXTINF:-1 tvg-id="SkyCinemaSpezial.de" tvg-name="Sky Cinema Special FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaspecialde.jpg" group-title="Live: Germany",Sky Cinema Special FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14312
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="Live: Germany",Sky Cinema Action DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3432
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="Sky Cinema Action FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaactionhd.jpg" group-title="Live: Germany",Sky Cinema Action FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14307
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="Sky Atlantic FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skyatlantichd.jpg" group-title="Live: Germany",Sky Atlantic FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14306
+#EXTINF:-1 tvg-id="SkyCinemaThriller.de" tvg-name="Sky Cinema Thriller FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemathrillerde.jpg" group-title="Live: Germany",Sky Cinema Thriller FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/37451
+#EXTINF:-1 tvg-id="SkyCinemaFun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemacomedy.jpg" group-title="Live: Germany",Sky Cinema Fun DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3430
+#EXTINF:-1 tvg-id="" tvg-name="Sky Family FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemafamilyhd.jpg" group-title="Live: Germany",Sky Family FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15576
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="Live: Germany",Sky Cinema Best Of DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16803
+#EXTINF:-1 tvg-id="SkyCinemaBestOf.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemade.jpg" group-title="Live: Germany",Sky Cinema Best Of FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14305
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="Sky Krimi DE" tvg-logo="https://picon-13398.kxcdn.com/skykrimi.jpg" group-title="Live: Germany",Sky Krimi DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3429
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaclassicsde.jpg" group-title="Live: Germany",Sky Cinema Classics DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9556
+#EXTINF:-1 tvg-id="SkySelect1.de" tvg-name="Sky Select 1 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 1 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11265
+#EXTINF:-1 tvg-id="SkySelect2.de" tvg-name="Sky Select 2 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 2 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11266
+#EXTINF:-1 tvg-id="SkySelect3.de" tvg-name="Sky Select 3 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 3 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11267
+#EXTINF:-1 tvg-id="SkySelect4.de" tvg-name="Sky Select 4 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 4 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11268
+#EXTINF:-1 tvg-id="SkySelect5.de" tvg-name="Sky Select 5 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 5 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11269
+#EXTINF:-1 tvg-id="SkySelect6.de" tvg-name="Sky Select 6 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 6 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11270
+#EXTINF:-1 tvg-id="SkySelect7.de" tvg-name="Sky Select 7 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 7 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11271
+#EXTINF:-1 tvg-id="SkySelect8.de" tvg-name="Sky Select 8 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 8 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11272
+#EXTINF:-1 tvg-id="SkySelect9.de" tvg-name="Sky Select 9 Live DE" tvg-logo="https://picon-13398.kxcdn.com/skyselect.jpg" group-title="Live: Germany",Sky Select 9 Live DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12290
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Dark Future DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Dark Future DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28535
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="13th Street FHD DE" tvg-logo="https://picon-13398.kxcdn.com/13thstreethd.jpg" group-title="Live: Germany",13th Street FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14060
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! DE" tvg-logo="https://picon-13398.kxcdn.com/e.jpg" group-title="Live: Germany",E! DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16502
+#EXTINF:-1 tvg-id="EEntertainment.de" tvg-name="E! HD DE" tvg-logo="https://picon-13398.kxcdn.com/eentertainmenthd.jpg" group-title="Live: Germany",E! HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15567
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX HD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3425
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="FOX FHD DE" tvg-logo="https://picon-13398.kxcdn.com/foxhd.jpg" group-title="Live: Germany",FOX FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14055
+#EXTINF:-1 tvg-id="Kinowelt.de" tvg-name="Kinowelt TV DE" tvg-logo="https://picon-13398.kxcdn.com/kinowelttv.jpg" group-title="Live: Germany",Kinowelt TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12291
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN FHD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9562
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="Sony AXN HD DE" tvg-logo="https://picon-13398.kxcdn.com/axnhd.jpg" group-title="Live: Germany",Sony AXN HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/17498
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="Syfy FHD DE" tvg-logo="https://picon-13398.kxcdn.com/syfyhd.jpg" group-title="Live: Germany",Syfy FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14043
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="TNT Comedy HD DE" tvg-logo="https://picon-13398.kxcdn.com/tntcomedyhd.jpg" group-title="Live: Germany",TNT Comedy HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15577
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="TNT Film FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntfilmhd.jpg" group-title="Live: Germany",TNT Film FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16628
+#EXTINF:-1 tvg-id="TNTSerie.de" tvg-name="TNT Serie FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tntseriehd.jpg" group-title="Live: Germany",TNT Serie FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14303
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 1 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18234
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 2 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18235
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 3 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 3 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18236
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 4 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 4 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18237
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 5 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 5 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18238
+#EXTINF:-1 tvg-id="" tvg-name="Kino Premiere 6 HD DE" tvg-logo="https://picon-13398.kxcdn.com/kinopremierede.jpg" group-title="Live: Germany",Kino Premiere 6 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18239
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 1 Premiere HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 1 Premiere HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26323
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 2 Aktion HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 2 Aktion HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26324
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 3 Komodie HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 3 Komodie HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26325
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 4 Abenteuer HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 4 Abenteuer HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26326
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 5 Animation HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 5 Animation HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26327
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 6 Thriller HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 6 Thriller HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26328
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 7 Horror HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 7 Horror HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26329
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 8 Drama HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 8 Drama HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26330
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 9 Sci-Fi HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 9 Sci-Fi HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26331
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema 10 Lacheln HD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Cinema 10 Lacheln HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26332
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Entdeckernatur 11 4K UHD DE" tvg-logo="https://picon-13398.kxcdn.com/eaglecinemait.jpg" group-title="Live: Germany",Eagle Entdeckernatur 11 4K UHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/26333
+#EXTINF:-1 tvg-id="AstroTV.de" tvg-name="Astro TV DE" tvg-logo="https://picon-13398.kxcdn.com/astrotv.jpg" group-title="Live: Germany",Astro TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12339
+#EXTINF:-1 tvg-id="MunchenTV.de" tvg-name="München TV DE" tvg-logo="https://picon-13398.kxcdn.com/munchentv.jpg" group-title="Live: Germany",München TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/11659
+#EXTINF:-1 tvg-id="DeutscheWelleArabic.de" tvg-name="DW Arabia DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Arabia DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19620
+#EXTINF:-1 tvg-id="DeutscheWelle.de" tvg-name="DW Deutsch DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW Deutsch DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/27791
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-name="DW English DE" tvg-logo="https://picon-13398.kxcdn.com/dw.jpg" group-title="Live: Germany",DW English DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/17300
+#EXTINF:-1 tvg-id="" tvg-name="German Tote TV DE" tvg-logo="https://picon-13398.kxcdn.com/germantotede.jpg" group-title="Live: Germany",German Tote TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/23945
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV DE" tvg-logo="https://picon-13398.kxcdn.com/hgtv.jpg" group-title="Live: Germany",HGTV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/27656
+#EXTINF:-1 tvg-id="" tvg-name="Health TV DE" tvg-logo="https://picon-13398.kxcdn.com/healthtvde.jpg" group-title="Live: Germany",Health TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28231
+#EXTINF:-1 tvg-id="allgaeutv.de" tvg-name="Allgäu TV DE" tvg-logo="https://picon-13398.kxcdn.com/allgautvde.jpg" group-title="Live: Germany",Allgäu TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28232
+#EXTINF:-1 tvg-id="" tvg-name="Baden TV DE" tvg-logo="https://picon-13398.kxcdn.com/badentvde.jpg" group-title="Live: Germany",Baden TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28233
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Hamburg HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Hamburg HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28238
+#EXTINF:-1 tvg-id="" tvg-name="noa4 Norderstedt HD DE" tvg-logo="https://picon-13398.kxcdn.com/noa4de.jpg" group-title="Live: Germany",noa4 Norderstedt HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28239
+#EXTINF:-1 tvg-id="" tvg-name="Frauen Bundesliga HD DE" tvg-logo="https://picon-13398.kxcdn.com/frauenbundesligade.jpg" group-title="Live: Germany",Frauen Bundesliga HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/35184
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons DE" tvg-logo="https://picon-13398.kxcdn.com/nicktoons.jpg" group-title="Live: Germany",Nicktoons DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/37836
+#EXTINF:-1 tvg-id="" tvg-name="Voxup DE" tvg-logo="https://picon-13398.kxcdn.com/voxupde.jpg" group-title="Live: Germany",Voxup DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/52134
+#EXTINF:-1 tvg-id="" tvg-name="QVC UHD DE" tvg-logo="" group-title="Live: Germany",QVC UHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/66354
