@@ -189,3 +189,177 @@ http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7338
 #EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg" group-title="Live: Germany",Sky Bundesliga 2 DE
 http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14551
 #EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2hd.jpg" group-title="Live: Germany",Sky Bundesliga 2 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7339
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3.jpg" group-title="Live: Germany",Sky Bundesliga 3 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14552
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="Sky Bundesliga 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga3hd.jpg" group-title="Live: Germany",Sky Bundesliga 3 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7340
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4.jpg" group-title="Live: Germany",Sky Bundesliga 4 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14553
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="Sky Bundesliga 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga4hd.jpg" group-title="Live: Germany",Sky Bundesliga 4 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7341
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5.jpg" group-title="Live: Germany",Sky Bundesliga 5 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14554
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="Sky Bundesliga 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga5hd.jpg" group-title="Live: Germany",Sky Bundesliga 5 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7342
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6.jpg" group-title="Live: Germany",Sky Bundesliga 6 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14555
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="Sky Bundesliga 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga6hd.jpg" group-title="Live: Germany",Sky Bundesliga 6 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7343
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7.jpg" group-title="Live: Germany",Sky Bundesliga 7 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/24735
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="Sky Bundesliga 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga7hd.jpg" group-title="Live: Germany",Sky Bundesliga 7 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7344
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Bundesliga 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8.jpg" group-title="Live: Germany",Sky Bundesliga 8 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14556
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="Sky Bundesliga 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga8hd.jpg" group-title="Live: Germany",Sky Bundesliga 8 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7345
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9.jpg" group-title="Live: Germany",Sky Bundesliga 9 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14557
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="Sky Bundesliga 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga9hd.jpg" group-title="Live: Germany",Sky Bundesliga 9 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7346
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10.jpg" group-title="Live: Germany",Sky Bundesliga 10 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14558
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="Sky Bundesliga 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga10hd.jpg" group-title="Live: Germany",Sky Bundesliga 10 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7347
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1.jpg" group-title="Live: Germany",Sky Sport 1 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14559
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1479
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport1hd.jpg" group-title="Live: Germany",Sky Sport 1 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7326
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2.jpg" group-title="Live: Germany",Sky Sport 2 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14560
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1480
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport2hd.jpg" group-title="Live: Germany",Sky Sport 2 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7327
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3.jpg" group-title="Live: Germany",Sky Sport 3 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14561
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="Sky Sport 3 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport3hd.jpg" group-title="Live: Germany",Sky Sport 3 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7328
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4.jpg" group-title="Live: Germany",Sky Sport 4 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14562
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="Sky Sport 4 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport4hd.jpg" group-title="Live: Germany",Sky Sport 4 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7329
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5.jpg" group-title="Live: Germany",Sky Sport 5 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14563
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport5hd.jpg" group-title="Live: Germany",Sky Sport 5 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7330
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6.jpg" group-title="Live: Germany",Sky Sport 6 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14564
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="Sky Sport 6 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport6hd.jpg" group-title="Live: Germany",Sky Sport 6 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7331
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7.jpg" group-title="Live: Germany",Sky Sport 7 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14565
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="Sky Sport 7 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport7hd.jpg" group-title="Live: Germany",Sky Sport 7 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7332
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8.jpg" group-title="Live: Germany",Sky Sport 8 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14566
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="Sky Sport 8 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport8hd.jpg" group-title="Live: Germany",Sky Sport 8 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7333
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9.jpg" group-title="Live: Germany",Sky Sport 9 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14567
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="Sky Sport 9 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport9hd.jpg" group-title="Live: Germany",Sky Sport 9 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7334
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="Sky Sport 10 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport10hd.jpg" group-title="Live: Germany",Sky Sport 10 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7335
+#EXTINF:-1 tvg-id="SkySport11.de" tvg-name="Sky Sport 11 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysport11hd.jpg" group-title="Live: Germany",Sky Sport 11 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7336
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 DE" tvg-logo="https://picon-13398.kxcdn.com/sport1-duslelaslu.jpg" group-title="Live: Germany",SPORT1 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9552
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="SPORT1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/sport1hd-duslelaslu.jpg" group-title="Live: Germany",SPORT1 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15745
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigital.jpg" group-title="Live: Germany",sportdigital DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3841
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="sportdigital HD DE" tvg-logo="https://picon-13398.kxcdn.com/sportdigitalhd.jpg" group-title="Live: Germany",sportdigital HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16582
+#EXTINF:-1 tvg-id="AutoMotorundSportChannel.de" tvg-name="Auto Motor und Sport HD DE" tvg-logo="https://picon-13398.kxcdn.com/automotorsporthd.jpg" group-title="Live: Germany",Auto Motor und Sport HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19658
+#EXTINF:-1 tvg-id="" tvg-name="eSports1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ginx.jpg" group-title="Live: Germany",eSports1 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18820
+#EXTINF:-1 tvg-id="FCBayernTV.de" tvg-name="FC Bayern FHD DE" tvg-logo="https://picon-13398.kxcdn.com/fcbde.jpg" group-title="Live: Germany",FC Bayern FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16767
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="Motorvision TV DE" tvg-logo="https://picon-13398.kxcdn.com/motorvisiontv.jpg" group-title="Live: Germany",Motorvision TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9564
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="Animal Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/animalplanethd.jpg" group-title="Live: Germany",Animal Planet HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9561
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE DE" tvg-logo="https://picon-13398.kxcdn.com/anixe.jpg" group-title="Live: Germany",ANIXE DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3445
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="ANIXE FHD DE" tvg-logo="https://picon-13398.kxcdn.com/anixehd.jpg" group-title="Live: Germany",ANIXE FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14576
+#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="Crime + Investigation DE" tvg-logo="https://picon-13398.kxcdn.com/crimeplusinvestigation.jpg" group-title="Live: Germany",Crime + Investigation DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/28577
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3426
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="Discovery Channel FHD DE" tvg-logo="https://picon-13398.kxcdn.com/discoverychannel.jpg" group-title="Live: Germany",Discovery Channel FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14063
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="DMAX DE" tvg-logo="https://picon-13398.kxcdn.com/dmax.jpg" group-title="Live: Germany",DMAX DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3431
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="DMAX HD DE" tvg-logo="https://picon-13398.kxcdn.com/dmaxhd.jpg" group-title="Live: Germany",DMAX HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19683
+#EXTINF:-1 tvg-id="History.de" tvg-name="History DE" tvg-logo="https://picon-13398.kxcdn.com/history.jpg" group-title="Live: Germany",History DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3424
+#EXTINF:-1 tvg-id="History.de" tvg-name="History FHD DE" tvg-logo="https://picon-13398.kxcdn.com/historyhd.jpg" group-title="Live: Germany",History FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14311
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="National Geographic FHD DE" tvg-logo="https://picon-13398.kxcdn.com/nationalgeographichd.jpg" group-title="Live: Germany",National Geographic FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14053
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild HD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1646
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="National Geographic Wild FHD DE" tvg-logo="https://picon-13398.kxcdn.com/natgeowildhd.jpg" group-title="Live: Germany",National Geographic Wild FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14062
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv DE" tvg-logo="https://picon-13398.kxcdn.com/ntv.jpg" group-title="Live: Germany",n-tv DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3449
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="n-tv FHD DE" tvg-logo="https://picon-13398.kxcdn.com/ntvhd.jpg" group-title="Live: Germany",n-tv FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14054
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix DE" tvg-logo="https://picon-13398.kxcdn.com/phoenix.jpg" group-title="Live: Germany",Phoenix DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3454
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="Phoenix FHD DE" tvg-logo="https://picon-13398.kxcdn.com/phoenixhd.jpg" group-title="Live: Germany",Phoenix FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16487
+#EXTINF:-1 tvg-id="Planet.de" tvg-name="Planet HD DE" tvg-logo="https://picon-13398.kxcdn.com/planetde.jpg" group-title="Live: Germany",Planet HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/18394
+#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="Spiegel TV Wissen DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissen.jpg" group-title="Live: Germany",Spiegel TV Wissen DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14045
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="Spiegel Geschichte HD DE" tvg-logo="https://picon-13398.kxcdn.com/spiegeltvwissenhd.jpg" group-title="Live: Germany",Spiegel Geschichte HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16573
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="tagesschau24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tagesschau24hd.jpg" group-title="Live: Germany",tagesschau24 FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15752
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC DE" tvg-logo="https://picon-13398.kxcdn.com/tlc.jpg" group-title="Live: Germany",TLC DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12324
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC FHD DE" tvg-logo="https://picon-13398.kxcdn.com/tlchd.jpg" group-title="Live: Germany",TLC FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15757
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="Universal Channel HD DE" tvg-logo="https://picon-13398.kxcdn.com/universalchannelhd.jpg" group-title="Live: Germany",Universal Channel HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3439
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3448
+#EXTINF:-1 tvg-id="Welt.de" tvg-name="Welt HD DE" tvg-logo="https://picon-13398.kxcdn.com/weltde.jpg" group-title="Live: Germany",Welt HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14573
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="Welt der Wunder DE" tvg-logo="https://picon-13398.kxcdn.com/weltderwunder.jpg" group-title="Live: Germany",Welt der Wunder DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12305
+#EXTINF:-1 tvg-id="Classica.de" tvg-name="CLASSICA DE" tvg-logo="https://picon-13398.kxcdn.com/classica.jpg" group-title="Live: Germany",CLASSICA DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9555
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusic.jpg" group-title="Live: Germany",Deluxe Music DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9554
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="Deluxe Music FHD DE" tvg-logo="https://picon-13398.kxcdn.com/deluxemusichd.jpg" group-title="Live: Germany",Deluxe Music FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14057
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="Deutsches Musik Fernsehen DE" tvg-logo="https://picon-13398.kxcdn.com/deutschesmusikfernsehen.jpg" group-title="Live: Germany",Deutsches Musik Fernsehen DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12334
+#EXTINF:-1 tvg-id="FolxTV.de" tvg-name="Folx TV DE" tvg-logo="https://picon-13398.kxcdn.com/folxtv.jpg" group-title="Live: Germany",Folx TV DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12319
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="JukeBox DE" tvg-logo="https://picon-13398.kxcdn.com/jukebox.jpg" group-title="Live: Germany",JukeBox DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15579
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="MTV HD DE" tvg-logo="https://picon-13398.kxcdn.com/mtvhd.jpg" group-title="Live: Germany",MTV HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15759
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12317
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="Comedy Central HD DE" tvg-logo="https://picon-13398.kxcdn.com/comedycentral.jpg" group-title="Live: Germany",Comedy Central HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19677
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="Sky 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/sky1hd.jpg" group-title="Live: Germany",Sky 1 HD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/9557
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren DE" tvg-logo="https://picon-13398.kxcdn.com/skycinema.jpg" group-title="Live: Germany",Sky Cinema Premieren DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1634
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemahd.jpg" group-title="Live: Germany",Sky Cinema Premieren FHD DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14061
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 DE
+http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1633
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skycinemaplus24hd.jpg" group-title="Live: Germany",Sky Cinema Premieren +24 FHD DE
