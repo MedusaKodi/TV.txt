@@ -170,52 +170,26 @@ http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14056
 #EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="Disney Junior HD DE" tvg-logo="https://picon-13398.kxcdn.com/disneyjnrhd.jpg" group-title="Live: Germany",Disney Junior HD DE
 http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15566
 #EXTINF:-1 tvg-id="FIXandFOXI.de" tvg-name="Fix & Foxi DE" tvg-logo="https://picon-13398.kxcdn.com/fixundfoxi.jpg" group-title="Live: Germany",Fix & Foxi DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/20263
-#EXTINF:-1 tvg-id="Junior.de" tvg-name="Junior DE" tvg-logo="https://picon-13398.kxcdn.com/junior.jpg" group-title="Live: Germany",Junior DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/20207
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKa DE" tvg-logo="https://picon-13398.kxcdn.com/kika.jpg" group-title="Live: Germany",KiKa DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/1648
-#EXTINF:-1 tvg-id="Kika.de" tvg-name="KiKA FHD DE" tvg-logo="https://picon-13398.kxcdn.com/kikahd.jpg" group-title="Live: Germany",KiKA FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16492
-#EXTINF:-1 tvg-id="NickJr.de" tvg-name="Nick Jr. DE" tvg-logo="https://picon-13398.kxcdn.com/nickjr.jpg" group-title="Live: Germany",Nick Jr. DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19165
-#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="Nickelodeon DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeon.jpg" group-title="Live: Germany",Nickelodeon DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19100
-#EXTINF:-1 tvg-id="nickMTV.de" tvg-name="Nick/MTV+ DE" tvg-logo="https://picon-13398.kxcdn.com/nickelodeonhd.jpg" group-title="Live: Germany",Nick/MTV+ DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14571
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL DE" tvg-logo="https://picon-13398.kxcdn.com/superrtl.jpg" group-title="Live: Germany",Super RTL DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3456
-#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="Super RTL FHD DE" tvg-logo="https://picon-13398.kxcdn.com/superrtlhd.jpg" group-title="Live: Germany",Super RTL FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14044
-#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="TOGGO plus DE" tvg-logo="https://picon-13398.kxcdn.com/toggoplus.jpg" group-title="Live: Germany",TOGGO plus DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12323
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 1 FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/23280
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/dznit.jpg" group-title="Live: Germany",DAZN 2 FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/23281
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1.jpg" group-title="Live: Germany",Eurosport 1 DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19101
-#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="Eurosport 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport1hd.jpg" group-title="Live: Germany",Eurosport 1 FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3435
-#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="Eurosport 2 HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2hd.jpg" group-title="Live: Germany",Eurosport 2 HD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/15568
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra HD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra HD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/17281
-#EXTINF:-1 tvg-id="Eurosport2Xtra.de" tvg-name="Eurosport 2 Xtra FHD DE" tvg-logo="https://picon-13398.kxcdn.com/eurosport2xtrade.jpg" group-title="Live: Germany",Eurosport 2 Xtra FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/19099
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnews.jpg" group-title="Live: Germany",Sky Sport News DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14577
-#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="Sky Sport News FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportnewshd.jpg" group-title="Live: Germany",Sky Sport News FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7337
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1.jpg" group-title="Live: Germany",Sky Bundesliga 1 DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14550
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 HD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 HD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/3436
-#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="Sky Bundesliga 1 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga1hd.jpg" group-title="Live: Germany",Sky Bundesliga 1 FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/7338
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2.jpg" group-title="Live: Germany",Sky Bundesliga 2 DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/14551
-#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="Sky Bundesliga 2 FHD DE" tvg-logo="https://picon-13398.kxcdn.com/skysportbundesliga2hd.jpg" group-title="Live: Germany",Sky Bundesliga 2 FHD DE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
