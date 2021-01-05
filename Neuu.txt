@@ -1,0 +1,41 @@
+EXTM3U
+EXTINF:-1 tvg-ID="" tvg-name="[INFO] Corona Virus" tvg-logo="" group-title="Deutschland HD",[INFO] Corona Virus
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/35983
+#EXTINF:-1 tvg-ID="ARD.de" tvg-name="Das Erste HD" tvg-logo="" group-title="Deutschland HD",Das Erste HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33624
+#EXTINF:-1 tvg-ID="ARD-alpha.de" tvg-name="ARD-Alpha HD" tvg-logo="" group-title="Deutschland HD",ARD-Alpha HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33817
+#EXTINF:-1 tvg-ID="tagesschau24.de" tvg-name="Tagesschau24 HD" tvg-logo="" group-title="Deutschland HD",Tagesschau24 HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33818
+#EXTINF:-1 tvg-ID="ZDF.de" tvg-name="ZDF HD" tvg-logo="" group-title="Deutschland HD",ZDF HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33626
+#EXTINF:-1 tvg-ID="ZDFneo.de" tvg-name="ZDF Neo HD" tvg-logo="" group-title="Deutschland HD",ZDF Neo HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33812
+#EXTINF:-1 tvg-ID="ZDFinfo.de" tvg-name="ZDF Info HD" tvg-logo="" group-title="Deutschland HD",ZDF Info HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33813
+#EXTINF:-1 tvg-ID="WDR.de" tvg-name="WDR HD" tvg-logo="" group-title="Deutschland HD",WDR HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33628
+#EXTINF:-1 tvg-ID="3sat.de" tvg-name="3SAT HD" tvg-logo="" group-title="Deutschland HD",3SAT HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33631
+#EXTINF:-1 tvg-ID="ARTE.de" tvg-name="Arte HD" tvg-logo="" group-title="Deutschland HD",Arte HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33632
+#EXTINF:-1 tvg-ID="WELT.de" tvg-name="Welt QHD" tvg-logo="" group-title="Deutschland HD",Welt QHD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33634
+#EXTINF:-1 tvg-ID="ntv.de" tvg-name="N-TV HD" tvg-logo="" group-title="Deutschland HD",N-TV HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33636
+#EXTINF:-1 tvg-ID="ndr.de" tvg-name="NDR HD" tvg-logo="" group-title="Deutschland HD",NDR HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33638
+#EXTINF:-1 tvg-ID="Vox.de" tvg-name="Vox HD" tvg-logo="" group-title="Deutschland HD",Vox HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33642
+#EXTINF:-1 tvg-ID="VOXup.de" tvg-name="Voxup QHD" tvg-logo="" group-title="Deutschland HD",Voxup QHD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/36589
+#EXTINF:-1 tvg-ID="DMax.de" tvg-name="DMAX HD" tvg-logo="" group-title="Deutschland HD",DMAX HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33640
+#EXTINF:-1 tvg-ID="Kabel.de" tvg-name="Kabel Eins HD" tvg-logo="" group-title="Deutschland HD",Kabel Eins HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33644
+#EXTINF:-1 tvg-ID="KabelEinsDoku.de" tvg-name="Kabel Eins Doku HD" tvg-logo="" group-title="Deutschland HD",Kabel Eins Doku HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/39572
+#EXTINF:-1 tvg-ID="Sat1.de" tvg-name="Sat.1 HD" tvg-logo="" group-title="Deutschland HD",Sat.1 HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33646
+#EXTINF:-1 tvg-ID="Sat1Gold.de" tvg-name="Sat.1 Gold HD" tvg-logo="" group-title="Deutschland HD",Sat.1 Gold HD
+http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/33648
