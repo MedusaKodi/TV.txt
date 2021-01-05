@@ -1,8 +1,8 @@
 <item>
 
-channels>
-channel>
-<name>[COLOR gold]TV[/COLOR]</name>
+<channels>
+<channel>
+<name>[COLOR gold]xxx[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
@@ -28,7 +28,7 @@ channel>
 </channel>
 
 channels>
-<channel>
+channel>
 <name>[COLOR gold]Server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
 <externallink>http://cmc.best-tv.me:8080/get.php?username=22232400&password=VU8b4T478O&type=m3u</externallink>
