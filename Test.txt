@@ -34,7 +34,4 @@ http://tv.mtbox.hitv.one:8080/get.php?username=7wzniMVm6klg8519&password=1ntIDM1
 
 
 
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfo.jpg" group-title="Live: Germany",ZDFinfo DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/12295
-#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo FHD DE" tvg-logo="https://picon-13398.kxcdn.com/zdfinfohd.jpg" group-title="Live: Germany",ZDFinfo FHD DE
-http://tv.mtbox.hitv.one:80/7wzniMVm6klg8519/1ntIDM1364/16483
+ 
