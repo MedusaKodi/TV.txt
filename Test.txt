@@ -1,7 +1,7 @@
 <item>
 
-<channels>
-<channel>
+channels>
+channel>
 <name>[COLOR gold]TV[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1</externallink>
@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Test TV[/COLOR]</name>
+<name>[COLOR gold]Server 1[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Neuuu.txt</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
