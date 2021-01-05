@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 EXTINF:-1 tvg-ID="" tvg-name="[INFO] Corona Virus" tvg-logo="" group-title="Deutschland HD",[INFO] Corona Virus
 http://portal-orange.nu:88/AxC2fsKIma/dZEONgUo2t/35983
 #EXTINF:-1 tvg-ID="ARD.de" tvg-name="Das Erste HD" tvg-logo="" group-title="Deutschland HD",Das Erste HD
