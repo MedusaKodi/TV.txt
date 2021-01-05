@@ -27,7 +27,7 @@ channel>
 <info></info>
 </channel>
 
-<channels>
+channels>
 <channel>
 <name>[COLOR gold]Server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
