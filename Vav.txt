@@ -1,0 +1,14 @@
+<item>
+
+
+
+
+
+<channels>
+<channel>
+<name>[COLOR gold]Vavoo[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<externallink>http://repo.stube.org/tvlist/v/vip/menu.xml</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<info></info>
+</channel>
