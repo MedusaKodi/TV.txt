@@ -3,8 +3,8 @@
 <channels>
 <channel>
 <name>[COLOR gold]Vavoo[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/tv-vavoo-app-icon.jpg</thumbnail>
 <externallink>http://repo.stube.org/tvlist/v/vip/menu.xml</externallink>
-<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<fanart>https://github.com/MedusaKodi/TV.txt/blob/master/tv-vavoo-app-icon.jpg</fanart>
 <info></info>
 </channel>
