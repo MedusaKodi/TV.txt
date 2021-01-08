@@ -27,11 +27,11 @@ channel>
 <info></info>
 </channel>
 
-channels>
-channel>
+<channels>
+<channel>
 <name>[COLOR gold]Server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>http://cmc.best-tv.me:8080/get.php?username=22232400&password=VU8b4T478O&type=m3u</externallink>
+<externallink>https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/ad30588083f33f506583cee5c0bddca0da67192d/iptv2.m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
