@@ -31,7 +31,7 @@ channel>
 <channel>
 <name>[COLOR gold]Server 2[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>http://wagasworld.com/Kodi/wwstreamportal.xml</externallink>
+<externallink>https://www.wagasworld.com/livestreams</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
