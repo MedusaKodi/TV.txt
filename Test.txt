@@ -18,21 +18,14 @@
 <info></info>
 </channel>
 
-<channels>
-<channel>
-<name>[COLOR gold]test[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://wagasworld.com/kodi2.php?channel=werbung</externallink>
-<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
-<info></info>
-</channel>
 
 
 
 
-https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/ad30588083f33f506583cee5c0bddca0da67192d/iptv2.m3u
-https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/menu.txt
-http://repo.stube.org/tvlist/v/vip/menu.xml
+
+
+
+
 
 
 
