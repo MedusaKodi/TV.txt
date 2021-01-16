@@ -20,9 +20,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]xltest[/COLOR]</name>
+<name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/mmserverspeicher/MMiptvLIST/ad30588083f33f506583cee5c0bddca0da67192d/iptv2.m3u</externallink>
+<externallink>https://wagasworld.com/kodi2.php?channel=werbung</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
