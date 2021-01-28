@@ -18,6 +18,15 @@
 <info></info>
 </channel>
 
+<channels>
+<channel>
+<name>[COLOR gold]test[/COLOR]</name>
+<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<externallink>http://my.splayertv.net:8080/get.php?username=m6LVV7XFFr&password=m41lBo2WyU&type=m3u</externallink>
+<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<info></info>
+</channel>
+
 
 
 
