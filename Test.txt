@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
-<externallink>http://repo.stube.org/tvlist/w/menu.xml</externallink>
+<externallink>http://tv.trexiptv.com/get.php?username=3a228e45&password=l0YSCgdA6F&type=m3u</externallink>
 <fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
 <info></info>
 </channel>
