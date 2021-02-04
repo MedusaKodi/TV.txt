@@ -3,7 +3,7 @@
 <channels>
 <channel>
 <name>[COLOR gold]Medusa TV 1[/COLOR]</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Gn</externallink>
 <fanart></fanart>
 <info></info>
