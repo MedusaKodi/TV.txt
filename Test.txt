@@ -3,9 +3,9 @@
 <channels>
 <channel>
 <name>[COLOR gold]Medusa TV 1[/COLOR]</name>
-<thumbnail>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</thumbnail>
+<thumbnail></thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Gn</externallink>
-<fanart>https://github.com/SunriseKodi/TV2.0/raw/master/Deutsch/fanart.jpg</fanart>
+<fanart></fanart>
 <info></info>
 </channel>
 
