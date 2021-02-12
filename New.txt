@@ -1,833 +1,631 @@
 ﻿#EXTM3U
-
-#EXTINF:-1,DE: CINE SELECT 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27047
-
-#EXTINF:-1,DE: CINE SELECT 2 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27048
-
-#EXTINF:-1,DE: CINE SELECT 3 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27049
-
-#EXTINF:-1,DE: CINE SELECT 4 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27050
-
-#EXTINF:-1,DE: CINE SELECT 5 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27051
-
-#EXTINF:-1,DE: DAZN 1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27059
-
-#EXTINF:-1,DE: DAZN 2 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27061
-
-#EXTINF:-1,DE: Disney Channel FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27069
-
-#EXTINF:-1,DE: Disney Cinemagic FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27070
-
-#EXTINF:-1,DE: Disney Jr
-
-http://showmetv.org:80/Showmevip20/8581000/27071
-
-#EXTINF:-1,DE: Disney XD HD
-
-http://showmetv.org:80/Showmevip20/8581000/27072
-
-#EXTINF:-1,DE: EUROSPORT HD
-
-http://showmetv.org:80/Showmevip20/8581000/27090
-
-#EXTINF:-1,DE: EUROSPORT 1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27086
-
-#EXTINF:-1,DE: EUROSPORT 2 EXTRA FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27087
-
-#EXTINF:-1,DE: EUROSPORT 2 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27088
-
-#EXTINF:-1,DE: DAS ERSTE FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27057
-
-#EXTINF:-1,DE: ZDF HD
-
-http://showmetv.org:80/Showmevip20/8581000/27424
-
-#EXTINF:-1,DE: ZDF info HD
-
-http://showmetv.org:80/Showmevip20/8581000/27426
-
-#EXTINF:-1,DE: ZDF NEO HD
-
-http://showmetv.org:80/Showmevip20/8581000/27427
-
-#EXTINF:-1,DE: ZEE ONE FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27428
-
-#EXTINF:-1,DE: RTL 1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27225
-
-#EXTINF:-1,DE: RTL Crime FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27227
-
-#EXTINF:-1,DE: RTL FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27228
-
-#EXTINF:-1,DE: RTL II HD
-
-http://showmetv.org:80/Showmevip20/8581000/27229
-
-#EXTINF:-1,DE: RTL Living FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27230
-
-#EXTINF:-1,DE: RTL NITRO FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27231
-
-#EXTINF:-1,DE: RTL Passion FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27232
-
-#EXTINF:-1,DE: RTL plus HD
-
-http://showmetv.org:80/Showmevip20/8581000/27233
-
-#EXTINF:-1,DE: RTL Super
-
-http://showmetv.org:80/Showmevip20/8581000/27234
-
-#EXTINF:-1,DE: 13 STREET HD
-
-http://showmetv.org:80/Showmevip20/8581000/27002
-
-#EXTINF:-1,DE: 13th Street FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27003
-
-#EXTINF:-1,DE:WDR
-
-http://showmetv.org:80/Showmevip20/8581000/11996
-
-#EXTINF:-1,DE: 3 SAT FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27000
-
-#EXTINF:-1,DE: C&I FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27004
-
-#EXTINF:-1,DE: ANIMAL PLANET HD
-
-http://showmetv.org:80/Showmevip20/8581000/27008
-
-#EXTINF:-1,DE: ANIXE FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27009
-
-#EXTINF:-1,DE: ARD FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27010
-
-#EXTINF:-1,DE: 123 TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27001
-
-#EXTINF:-1,DE: ARTE HD
-
-http://showmetv.org:80/Showmevip20/8581000/27011
-
-#EXTINF:-1,DE: Atv HD
-
-http://showmetv.org:80/Showmevip20/8581000/27012
-
-#EXTINF:-1,DE: Austria 24
-
-http://showmetv.org:80/Showmevip20/8581000/27015
-
-#EXTINF:-1,DE: Auto Motor Sport HD
-
-http://showmetv.org:80/Showmevip20/8581000/27017
-
-#EXTINF:-1,DE: AXN HD
-
-http://showmetv.org:80/Showmevip20/8581000/27019
-
-#EXTINF:-1,DE: BADEN TV
-
-http://showmetv.org:80/Showmevip20/8581000/27030
-
-#EXTINF:-1,DE: Bayern FC TV
-
-http://showmetv.org:80/Showmevip20/8581000/27031
-
-#EXTINF:-1,DE: Bibel TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27032
-
-#EXTINF:-1,DE: Bibel TV Musik
-
-http://showmetv.org:80/Showmevip20/8581000/27033
-
-#EXTINF:-1,DE: BIBELl TV MUSIK HD
-
-http://showmetv.org:80/Showmevip20/8581000/27034
-
-#EXTINF:-1,DE: Blizz TV
-
-http://showmetv.org:80/Showmevip20/8581000/27035
-
-#EXTINF:-1,DE: BLK Regional TV
-
-http://showmetv.org:80/Showmevip20/8581000/27036
-
-#EXTINF:-1,DE: BLK TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27037
-
-#EXTINF:-1,DE: Boomerang HD
-
-http://showmetv.org:80/Showmevip20/8581000/27038
-
-#EXTINF:-1,DE: BR Fernsehen HD
-
-http://showmetv.org:80/Showmevip20/8581000/27039
-
-#EXTINF:-1,DE: BR HD LIVE
-
-http://showmetv.org:80/Showmevip20/8581000/27040
-
-#EXTINF:-1,DE: BW Family TV
-
-http://showmetv.org:80/Showmevip20/8581000/27043
-
-#EXTINF:-1,DE: CARTOON NETWORK FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27044
-
-#EXTINF:-1,DE: CHEMNITZ FERNSEHEN HD
-
-http://showmetv.org:80/Showmevip20/8581000/27046
-
-#EXTINF:-1,DE: Cinema 24
-
-http://showmetv.org:80/Showmevip20/8581000/27052
-
-#EXTINF:-1,DE: Comedy Central HD
-
-http://showmetv.org:80/Showmevip20/8581000/27054
-
-#EXTINF:-1,DE: DEL Sport 1
-
-http://showmetv.org:80/Showmevip20/8581000/27062
-
-#EXTINF:-1,DE: Discovery Channel HD
-
-http://showmetv.org:80/Showmevip20/8581000/27066
-
-#EXTINF:-1,DE: Discovery Science HD
-
-http://showmetv.org:80/Showmevip20/8581000/27067
-
-#EXTINF:-1,DE: Disney Ch
-
-http://showmetv.org:80/Showmevip20/8581000/27068
-
-#EXTINF:-1,DE: DMAX FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27074
-
-#EXTINF:-1,DE: DRF 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27079
-
-#EXTINF:-1,DE: DW TV
-
-http://showmetv.org:80/Showmevip20/8581000/27080
-
-#EXTINF:-1,DE: E! FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27081
-
-#EXTINF:-1,DE: ERF 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27083
-
-#EXTINF:-1,DE: euronews HD
-
-http://showmetv.org:80/Showmevip20/8581000/27085
-
-#EXTINF:-1,DE: Family TV
-
-http://showmetv.org:80/Showmevip20/8581000/27093
-
-#EXTINF:-1,DE: FC Bayern TV FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27094
-
-#EXTINF:-1,DE: Fix & Foxi
-
-http://showmetv.org:80/Showmevip20/8581000/27095
-
-#EXTINF:-1,DE: FOX FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27097
-
-#EXTINF:-1,DE: Heimatkanal HD
-
-http://showmetv.org:80/Showmevip20/8581000/27104
-
-#EXTINF:-1,DE: History Channel HD
-
-http://showmetv.org:80/Showmevip20/8581000/27105
-
-#EXTINF:-1,DE: HSE 24 EXTRA HD
-
-http://showmetv.org:80/Showmevip20/8581000/27111
-
-#EXTINF:-1,DE: HSE 24 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27112
-
-#EXTINF:-1,DE: Kabel
-
-http://showmetv.org:80/Showmevip20/8581000/27118
-
-#EXTINF:-1,DE: Kabel 1 Classic HD
-
-http://showmetv.org:80/Showmevip20/8581000/27119
-
-#EXTINF:-1,DE: Kabel 1 Doku
-
-http://showmetv.org:80/Showmevip20/8581000/27120
-
-#EXTINF:-1,DE: Kabel 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27121
-
-#EXTINF:-1,DE: Kabel Eins Classica HD
-
-http://showmetv.org:80/Showmevip20/8581000/27122
-
-#EXTINF:-1,DE: Kabel Eins Doku HD
-
-http://showmetv.org:80/Showmevip20/8581000/27124
-
-#EXTINF:-1,DE: Kabel Eins FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27125
-
-#EXTINF:-1,DE: KabelJournal TV
-
-http://showmetv.org:80/Showmevip20/8581000/27126
-
-#EXTINF:-1,DE: MDF HD
-
-http://showmetv.org:80/Showmevip20/8581000/27137
-
-#EXTINF:-1,DE: MDR HD
-
-http://showmetv.org:80/Showmevip20/8581000/27138
-
-#EXTINF:-1,DE: Melodie Express TV
-
-http://showmetv.org:80/Showmevip20/8581000/27141
-
-#EXTINF:-1,DE: Melodie TV
-
-http://showmetv.org:80/Showmevip20/8581000/27142
-
-#EXTINF:-1,DE: Mimusica HD
-
-http://showmetv.org:80/Showmevip20/8581000/27143
-
-#EXTINF:-1,DE: MotorVision HD
-
-http://showmetv.org:80/Showmevip20/8581000/27144
-
-#EXTINF:-1,DE: MOTORVISON TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27145
-
-#EXTINF:-1,DE: MTV FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27146
-
-#EXTINF:-1,DE: Munchen TV FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27148
-
-#EXTINF:-1,DE: Music TV 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27149
-
-#EXTINF:-1,DE: N24 Doku HD
-
-http://showmetv.org:80/Showmevip20/8581000/27152
-
-#EXTINF:-1,DE: N24 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27153
-
-#EXTINF:-1,DE: NAHE TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27154
-
-#EXTINF:-1,DE: NAT GEO FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27155
-
-#EXTINF:-1,DE: NAT GEO Wild FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27156
-
-#EXTINF:-1,DE: NDR HD
-
-http://showmetv.org:80/Showmevip20/8581000/27157
-
-#EXTINF:-1,DE: Nickelodeon HD
-
-http://showmetv.org:80/Showmevip20/8581000/27163
-
-#EXTINF:-1,DE: NITRO HD
-
-http://showmetv.org:80/Showmevip20/8581000/27165
-
-#EXTINF:-1,DE: ONE HD
-
-http://showmetv.org:80/Showmevip20/8581000/27187
-
-#EXTINF:-1,DE: One Music HD
-
-http://showmetv.org:80/Showmevip20/8581000/27188
-
-#EXTINF:-1,DE: PEARL TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27189
-
-#EXTINF:-1,DE: Phoenix HD
-
-http://showmetv.org:80/Showmevip20/8581000/27190
-
-#EXTINF:-1,DE: Planai TV
-
-http://showmetv.org:80/Showmevip20/8581000/27191
-
-#EXTINF:-1,DE: PLANET FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27192
-
-#EXTINF:-1,DE: POPCORN SELECT 2 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27194
-
-#EXTINF:-1,DE: POPCORN SELECT 3 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27195
-
-#EXTINF:-1,DE: POPCORN SELECT 4 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27196
-
-#EXTINF:-1,DE: POPCORN SELECT 5 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27197
-
-#EXTINF:-1,DE: Popcorn Select 6 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27198
-
-#EXTINF:-1,DE: POPCORN SELECT 7
-
-http://showmetv.org:80/Showmevip20/8581000/27199
-
-#EXTINF:-1,DE: POPCORN SELECT 8
-
-http://showmetv.org:80/Showmevip20/8581000/27200
-
-#EXTINF:-1,DE: POPCORN SELECT 9
-
-http://showmetv.org:80/Showmevip20/8581000/27201
-
-#EXTINF:-1,DE: POPCORN SELECT 10
-
-http://showmetv.org:80/Showmevip20/8581000/27202
-
-#EXTINF:-1,DE: Pro7 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27203
-
-#EXTINF:-1,DE: Pro7 FUN FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27204
-
-#EXTINF:-1,DE: Pro7 Maxx HD
-
-http://showmetv.org:80/Showmevip20/8581000/27205
-
-#EXTINF:-1,DE: ProSieben FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27206
-
-#EXTINF:-1,DE: ProSieben Fun FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27207
-
-#EXTINF:-1,DE: ProSieben Maxx HD
-
-http://showmetv.org:80/Showmevip20/8581000/27208
-
-#EXTINF:-1,DE: RNF TV
-
-http://showmetv.org:80/Showmevip20/8581000/27223
-
-#EXTINF:-1,DE: ROMANCE TV HD
-
-http://showmetv.org:80/Showmevip20/8581000/27224
-
-#EXTINF:-1,DE: RTS Salzburg TV
-
-http://showmetv.org:80/Showmevip20/8581000/27235
-
-#EXTINF:-1,DE: RWD HD
-
-http://showmetv.org:80/Showmevip20/8581000/27236
-
-#EXTINF:-1,DE: SALZWEDEL
-
-http://showmetv.org:80/Showmevip20/8581000/27237
-
-#EXTINF:-1,DE: SAT 1 Emotions
-
-http://showmetv.org:80/Showmevip20/8581000/27238
-
-#EXTINF:-1,DE: SAT 1 GOLD FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27239
-
-#EXTINF:-1,DE: SAT 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27240
-
-#EXTINF:-1,DE: Servus HD
-
-http://showmetv.org:80/Showmevip20/8581000/27241
-
-#EXTINF:-1,DE: SFR 1
-
-http://showmetv.org:80/Showmevip20/8581000/27242
-
-#EXTINF:-1,DE: Sixx FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27243
-
-#EXTINF:-1,DE: Sony AXN HD
-
-http://showmetv.org:80/Showmevip20/8581000/27331
-
-#EXTINF:-1,DE: SONY Channel
-
-http://showmetv.org:80/Showmevip20/8581000/27332
-
-#EXTINF:-1,DE: Sony Enterainment HD
-
-http://showmetv.org:80/Showmevip20/8581000/27333
-
-#EXTINF:-1,DE: Sport 1 + HD
-
-http://showmetv.org:80/Showmevip20/8581000/27337
-
-#EXTINF:-1,DE: SPORT 1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27338
-
-#EXTINF:-1,DE: SPORT 1 US HD
-
-http://showmetv.org:80/Showmevip20/8581000/27339
-
-#EXTINF:-1,DE: Sport Digital FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27340
-
-#EXTINF:-1,DE: Sport Olympic HD
-
-http://showmetv.org:80/Showmevip20/8581000/27341
-
-#EXTINF:-1,DE: SPORTS 1 USA HD
-
-http://showmetv.org:80/Showmevip20/8581000/27342
-
-#EXTINF:-1,DE: SR HD
-
-http://showmetv.org:80/Showmevip20/8581000/27343
-
-#EXTINF:-1,DE: SRF 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27344
-
-#EXTINF:-1,DE: SRF 2 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27345
-
-#EXTINF:-1,DE: SRF Zwei HD
-
-http://showmetv.org:80/Showmevip20/8581000/27346
-
-#EXTINF:-1,DE: SUPER RTL FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27348
-
-#EXTINF:-1,DE: SWR HD
-
-http://showmetv.org:80/Showmevip20/8581000/27363
-
-#EXTINF:-1,DE: SYFY FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27364
-
-#EXTINF:-1,DE: SYLT 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27365
-
-#EXTINF:-1,DE: TLC FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27384
-
-#EXTINF:-1,DE: TNT COMEDY FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27385
-
-#EXTINF:-1,DE: TNT Film FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27386
-
-#EXTINF:-1,DE: TNT SERIE HD
-
-http://showmetv.org:80/Showmevip20/8581000/27387
-
-#EXTINF:-1,DE: TOGGO plus
-
-http://showmetv.org:80/Showmevip20/8581000/27388
-
-#EXTINF:-1,DE: TOGOO
-
-http://showmetv.org:80/Showmevip20/8581000/27389
-
-#EXTINF:-1,DE: TRP 1
-
-http://showmetv.org:80/Showmevip20/8581000/27390
-
-#EXTINF:-1,DE: TRP1 TELE REGIONAL PASSAU HD
-
-http://showmetv.org:80/Showmevip20/8581000/27391
-
-#EXTINF:-1,DE: TV Aktuelle
-
-http://showmetv.org:80/Showmevip20/8581000/27394
-
-#EXTINF:-1,DE: TV OBERPFALZ HD
-
-http://showmetv.org:80/Showmevip20/8581000/27400
-
-#EXTINF:-1,DE: TV Touring Wurzburg
-
-http://showmetv.org:80/Showmevip20/8581000/27401
-
-#EXTINF:-1,DE: TVO HD
-
-http://showmetv.org:80/Showmevip20/8581000/27404
-
-#EXTINF:-1,DE: UNIVERSAL Channel HD
-
-http://showmetv.org:80/Showmevip20/8581000/27405
-
-#EXTINF:-1,DE: Unniversal HD
-
-http://showmetv.org:80/Showmevip20/8581000/27406
-
-#EXTINF:-1,DE: UNSERDING MUSIC
-
-http://showmetv.org:80/Showmevip20/8581000/27407
-
-#EXTINF:-1,DE: UNSERDING STUDIO HD
-
-http://showmetv.org:80/Showmevip20/8581000/27408
-
-#EXTINF:-1,DE: VIVA COMEDY CENTRAL HD
-
-http://showmetv.org:80/Showmevip20/8581000/27409
-
-#EXTINF:-1,DE: VOX FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27410
-
-#EXTINF:-1,DE: WDR BONN HD
-
-http://showmetv.org:80/Showmevip20/8581000/27413
-
-#EXTINF:-1,DE: WDR DUISBURG HD
-
-http://showmetv.org:80/Showmevip20/8581000/27414
-
-#EXTINF:-1,DE: WDR HD
-
-http://showmetv.org:80/Showmevip20/8581000/27415
-
-#EXTINF:-1,DE: WDR WUPPERTAL HD
-
-http://showmetv.org:80/Showmevip20/8581000/27417
-
-#EXTINF:-1,DE: WTV
-
-http://showmetv.org:80/Showmevip20/8581000/27423
-
-#EXTINF:-1,DE: ZDF IINFO
-
-http://showmetv.org:80/Showmevip20/8581000/27425
-
-#EXTINF:-1,DE: SKY 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27245
-
-#EXTINF:-1,DE: Sky Action FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27246
-
-#EXTINF:-1,DE: Sky Atlantic FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27248
-
-#EXTINF:-1,DE: Sky Cinema +1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27250
-
-#EXTINF:-1,DE: Sky Cinema +24 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27251
-
-#EXTINF:-1,DE: SKY CINEMA 1 FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27252
-
-#EXTINF:-1,DE: SKY CINEMA 24 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27253
-
-#EXTINF:-1,DE: SKY Cinema Action FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27254
-
-#EXTINF:-1,DE: Sky Cinema Atlantic FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27255
-
-#EXTINF:-1,DE: Sky Cinema Comdey
-
-http://showmetv.org:80/Showmevip20/8581000/27256
-
-#EXTINF:-1,DE: Sky Cinema Comedy FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27257
-
-#EXTINF:-1,DE: Sky Cinema Emotion HD
-
-http://showmetv.org:80/Showmevip20/8581000/27258
-
-#EXTINF:-1,DE: Sky Cinema Family FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27259
-
-#EXTINF:-1,DE: Sky Cinema HD
-
-http://showmetv.org:80/Showmevip20/8581000/27260
-
-#EXTINF:-1,DE: Sky Cinema Hits FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27261
-
-#EXTINF:-1,DE: Sky Cinema Nostalgie HD
-
-http://showmetv.org:80/Showmevip20/8581000/27262
-
-#EXTINF:-1,DE: Sky Cinema TLC
-
-http://showmetv.org:80/Showmevip20/8581000/27263
-
-#EXTINF:-1,DE: SKY Cinema Trierch HD
-
-http://showmetv.org:80/Showmevip20/8581000/27264
-
-#EXTINF:-1,DE: Sky Cinema+ HD
-
-http://showmetv.org:80/Showmevip20/8581000/27265
-
-#EXTINF:-1,DE: SKY Comedy HD
-
-http://showmetv.org:80/Showmevip20/8581000/27266
-
-#EXTINF:-1,DE: SKY CRIMI
-
-http://showmetv.org:80/Showmevip20/8581000/27267
-
-#EXTINF:-1,DE: Sky Hits FHD
-
-http://showmetv.org:80/Showmevip20/8581000/27268
-
-#EXTINF:-1,DE: SKY POPCORN SELECT 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27272
-
-#EXTINF:-1,DE: SKY POPCORN SELECT 2 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27273
-
-#EXTINF:-1,DE: SKY POPCORN SELECT 3 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27274
-
-#EXTINF:-1,DE: SKY POPCORN SELECT 4 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27275
-
-#EXTINF:-1,DE: SKY POPCORN SELECT 5 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27276
-
-#EXTINF:-1,DE: Sky Sport 1 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27277
-
-#EXTINF:-1,DE: Sky Sport 2 HD
-
-http://showmetv.org:80/Showmevip20/8581000/27281
-
-#EXTINF:-1,DE: Sky Sport HD 2
-
-http://showmetv.org:80/Showmevip20/8581000/27323
-
-#EXTINF:-1,DE: Sky Sport HD 4
-
-http://showmetv.org:80/Showmevip20/8581000/27324
-
-#EXTINF:-1,DE: Sky Sport News
-
-http://showmetv.org:80/Showmevip20/8581000/27325
+#EXTINF:-1,Das Erste HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13166
+#EXTINF:-1,Das Erste HD [B] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6262
+#EXTINF:-1,Das Erste DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6256
+#EXTINF:-1,ZDF FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6151
+#EXTINF:-1,ZDF HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/17011
+#EXTINF:-1,ZDF Neo HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/17304
+#EXTINF:-1,RTL FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13565
+#EXTINF:-1,RTL FHD [B] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683243
+#EXTINF:-1,RTL HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6216
+#EXTINF:-1,Sat.1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6210
+#EXTINF:-1,Sat.1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683455
+#EXTINF:-1,Pro 7 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6220
+#EXTINF:-1,Pro 7 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683393
+#EXTINF:-1,Pro Sieben FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8235
+#EXTINF:-1,Pro Sieben HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13144
+#EXTINF:-1,VOX FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13553
+#EXTINF:-1,VOX DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6153
+#EXTINF:-1,VOXup DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679836
+#EXTINF:-1,Kabel 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6242
+#EXTINF:-1,Kabel 1 Classic HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9151
+#EXTINF:-1,Kabel 1 Classic DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679844
+#EXTINF:-1,RTL 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6215
+#EXTINF:-1,RTL 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13136
+#EXTINF:-1,RTL Nitro FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6212
+#EXTINF:-1,RTL Nitro HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13137
+#EXTINF:-1,RTL Passion FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8219
+#EXTINF:-1,RTL Plus DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9152
+#EXTINF:-1,RTL Crime FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6214
+#EXTINF:-1,RTL Crime HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/17012
+#EXTINF:-1,Crime & Investigation FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6263
+#EXTINF:-1,Crime & Investigation HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8197
+#EXTINF:-1,RTL Living FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6150
+#EXTINF:-1,RTL Living HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6213
+#EXTINF:-1,Sat1 Emotion DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13135
+#EXTINF:-1,Sat1 Gold FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6209
+#EXTINF:-1,Pro 7 Fun FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6219
+#EXTINF:-1,Pro 7 Fun HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13145
+#EXTINF:-1,Pro 7 Fun [B] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13142
+#EXTINF:-1,Pro 7 Max FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6218
+#EXTINF:-1,Pro 7 Max HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683394
+#EXTINF:-1,Pro Sieben Maxx HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13143
+#EXTINF:-1,Pro Sieben Maxx FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8234
+#EXTINF:-1,E! Entertainment FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13569
+#EXTINF:-1,E! Entertainment HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9137
+#EXTINF:-1,E! Entertainment DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5095
+#EXTINF:-1,SRF 1 DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6170
+#EXTINF:-1,MDR HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6238
+#EXTINF:-1,MDR S-Anhalt HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8240
+#EXTINF:-1,MDR Sachsen HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8239
+#EXTINF:-1,3Sat FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/16289
+#EXTINF:-1,3sat HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6265
+#EXTINF:-1,NDR HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6225
+#EXTINF:-1,HR FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13150
+#EXTINF:-1,HR HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6243
+#EXTINF:-1,HR Fernsehen HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8225
+#EXTINF:-1,RBB Berlin HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6217
+#EXTINF:-1,BR DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13168
+#EXTINF:-1,SWR HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6165
+#EXTINF:-1,WDR HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6152
+#EXTINF:-1,Franken Fernsehen FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/677835
+#EXTINF:-1,BW Family TV FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6246
+#EXTINF:-1,BW Family TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23772
+#EXTINF:-1,QVC HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13140
+#EXTINF:-1,QVC Beauty & Style DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13141
+#EXTINF:-1,Augsburg TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13170
+#EXTINF:-1,Sonnenklar TV FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13130
+#EXTINF:-1,Event - Covid Info FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679845
+#EXTINF:-1,------- Sports -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678834
+#EXTINF:-1,Sky Sports News FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13555
+#EXTINF:-1,Sky Sports News HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/684431
+#EXTINF:-1,Sky Sport 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/684432
+#EXTINF:-1,Sky Sport 1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683895
+#EXTINF:-1,Sky Sport 1 DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9125
+#EXTINF:-1,Sky Sport 1 [B] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/684429
+#EXTINF:-1,Sky Sport 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7362
+#EXTINF:-1,Sky Sport 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683896
+#EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13563
+#EXTINF:-1,Sky Sport 3 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6182
+#EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13562
+#EXTINF:-1,Sky Sport 4 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9127
+#EXTINF:-1,Sky Sport 5 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13561
+#EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9126
+#EXTINF:-1,Sky Sport 6 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6181
+#EXTINF:-1,Sky Sport 7 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6180
+#EXTINF:-1,Sky Sport 8 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6179
+#EXTINF:-1,Sky Sport 9 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6178
+#EXTINF:-1,Sky Sport 10 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6177
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/684430
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683408
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683409
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13538
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/73136
+#EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/684005
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/135258
+#EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/62223
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/135671
+#EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/62220
+#EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/91235
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/135335
+#EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/62002
+#EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/619225
+#EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6198
+#EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6197
+#EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6196
+#EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6195
+#EXTINF:-1,DAZN 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/661090
+#EXTINF:-1,DAZN 1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/625243
+#EXTINF:-1,DAZN 1 [B] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/661088
+#EXTINF:-1,DAZN 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/661089
+#EXTINF:-1,DAZN 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/50775
+#EXTINF:-1,Sport1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6173
+#EXTINF:-1,Sport1 HD  DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8221
+#EXTINF:-1,Sport1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8226
+#EXTINF:-1,Sport1+ FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679847
+#EXTINF:-1,Sport1+ HD [B] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679848
+#EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679822
+#EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679821
+#EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679823
+#EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679824
+#EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679825
+#EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679826
+#EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679827
+#EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679671
+#EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679672
+#EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679673
+#EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679676
+#EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679674
+#EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679675
+#EXTINF:-1,Eurosport 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8218
+#EXTINF:-1,Eurosport 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9131
+#EXTINF:-1,Eurosport 2 Xtra FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13163
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9130
+#EXTINF:-1,Sport Digital FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8244
+#EXTINF:-1,Sport Digital HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6171
+#EXTINF:-1,Motorvision HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8222
+#EXTINF:-1,Auto Motor Sport FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9132
+#EXTINF:-1,FC Bayern TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9128
+#EXTINF:-1,DEL Sport 1 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679851
+#EXTINF:-1,DEL Sport 2 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679852
+#EXTINF:-1,DEL Sport 3 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679853
+#EXTINF:-1,DEL Sport 4 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679854
+#EXTINF:-1,DEL Sport 5 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679855
+#EXTINF:-1,DEL Sport 6 HD [Match Time] DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679856
+#EXTINF:-1,------- Movies & Series -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678836
+#EXTINF:-1,Sky Action HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5093
+#EXTINF:-1,Sky Action DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6205
+#EXTINF:-1,Sky Cinema Special FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8217
+#EXTINF:-1,Sky Cinema Special HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6252
+#EXTINF:-1,Sky Cinema Thriller FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5089
+#EXTINF:-1,Sky Cinema Thriller HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7372
+#EXTINF:-1,Sky Cinema Thriller DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6193
+#EXTINF:-1,Sky Cinema Premieren FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6194
+#EXTINF:-1,Sky Cinema Premieren HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7373
+#EXTINF:-1,Sky Cinema Premieren +24 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6192
+#EXTINF:-1,Sky Cinema Premieren +24 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13133
+#EXTINF:-1,Sky Cinema Action HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7370
+#EXTINF:-1,Sky Cinema Action DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9146
+#EXTINF:-1,Sky Cinema Fun HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9144
+#EXTINF:-1,Sky Cinema Fun DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6190
+#EXTINF:-1,Sky Cinema Best Of FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7368
+#EXTINF:-1,Sky Cinema Best Of HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8223
+#EXTINF:-1,Sky Cinema Family FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9145
+#EXTINF:-1,Sky Cinema Family HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7369
+#EXTINF:-1,Sky Cinema Classics HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13131
+#EXTINF:-1,Sky Cinema Classics DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6186
+#EXTINF:-1,Sky Cinema Best of DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5088
+#EXTINF:-1,Sky Atlantic HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7367
+#EXTINF:-1,Sky Atlantic DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6204
+#EXTINF:-1,Sky Atlantic +1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13134
+#EXTINF:-1,Sky 13TH Street HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7365
+#EXTINF:-1,13th Street FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5098
+#EXTINF:-1,13th Street HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8198
+#EXTINF:-1,Sky One FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9138
+#EXTINF:-1,One HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9147
+#EXTINF:-1,Fox FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13567
+#EXTINF:-1,Fox HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6245
+#EXTINF:-1,Fox DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23770
+#EXTINF:-1,Syfy FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7364
+#EXTINF:-1,Syfy HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5087
+#EXTINF:-1,Syfy DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6164
+#EXTINF:-1,Sky Krimi HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8220
+#EXTINF:-1,TNT Comedy FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6157
+#EXTINF:-1,TNT Film FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6156
+#EXTINF:-1,TNT Film HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683894
+#EXTINF:-1,TNT Serie FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5084
+#EXTINF:-1,TNT Serie HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6155
+#EXTINF:-1,TNT Serie DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13154
+#EXTINF:-1,Universal FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5265
+#EXTINF:-1,SonyTV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6167
+#EXTINF:-1,Kinowelt HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6240
+#EXTINF:-1,Kinowelt DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/672086
+#EXTINF:-1,Eagle Cinema Premiere FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681946
+#EXTINF:-1,Eagle Cinema Horror FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681942
+#EXTINF:-1,Eagle Cinema Thriller FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681950
+#EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681949
+#EXTINF:-1,Eagle Cinema Animation HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681939
+#EXTINF:-1,Eagle Cinema Mythologie HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681945
+#EXTINF:-1,Eagle Cinema Lächeln HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681944
+#EXTINF:-1,Eagle Cinema Geschichte HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681941
+#EXTINF:-1,Eagle Cinema Romantisch FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/681948
+#EXTINF:-1,Sky Select 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655131
+#EXTINF:-1,Sky Select 1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7375
+#EXTINF:-1,Sky Select 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655130
+#EXTINF:-1,Sky Select 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7376
+#EXTINF:-1,Sky Select 3 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655129
+#EXTINF:-1,Sky Select 3 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7377
+#EXTINF:-1,Sky Select 4 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655128
+#EXTINF:-1,Sky Select 4 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/7378
+#EXTINF:-1,Sky Select 5 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8977
+#EXTINF:-1,Sky Select 5 HD (demnächst) DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655127
+#EXTINF:-1,Sky Select 6 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8976
+#EXTINF:-1,Sky Select 6 FHD (demnächst) DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/655126
+#EXTINF:-1,Sky Select 7 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8975
+#EXTINF:-1,Sky Select 8 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8974
+#EXTINF:-1,PopCorn Select 1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23778
+#EXTINF:-1,PopCorn Select 2 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683536
+#EXTINF:-1,PopCorn Select 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23777
+#EXTINF:-1,PopCorn Select 3 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683537
+#EXTINF:-1,PopCorn Select 3 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23776
+#EXTINF:-1,PopCorn Select 4 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23775
+#EXTINF:-1,PopCorn Select 5 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683540
+#EXTINF:-1,HiperCinema 4K DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683524
+#EXTINF:-1,HyperCinema Boxset FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683534
+#EXTINF:-1,HyperCinema INFO FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683523
+#EXTINF:-1,HyperCinema 1 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683535
+#EXTINF:-1,HyperCinema 2 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683525
+#EXTINF:-1,HyperCinema 3 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683526
+#EXTINF:-1,HyperCinema 4 4K DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683527
+#EXTINF:-1,HyperCinema 5 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683528
+#EXTINF:-1,HyperCinema 6 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683529
+#EXTINF:-1,HyperCinema 7 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683530
+#EXTINF:-1,HyperCinema 8 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683531
+#EXTINF:-1,HyperCinema 9 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683532
+#EXTINF:-1,HyperCinema 10 FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683533
+#EXTINF:-1,AXN FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5097
+#EXTINF:-1,AXN HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6259
+#EXTINF:-1,Comedy Central FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6154
+#EXTINF:-1,Romance TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13152
+#EXTINF:-1,Romance TV DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6211
+#EXTINF:-1,Sky Heimat Kanal HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678481
+#EXTINF:-1,Sky Heimat Kanal DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6188
+#EXTINF:-1,Sixx FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6207
+#EXTINF:-1,Servus TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6208
+#EXTINF:-1,Tele 5 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9150
+#EXTINF:-1,Bibel TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/677497
+#EXTINF:-1,------- Documentary -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678919
+#EXTINF:-1,ZDF Info HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9148
+#EXTINF:-1,N24 Doku DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679837
+#EXTINF:-1,Kabel Eins Doku FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13147
+#EXTINF:-1,Kabel 1 Doku DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679843
+#EXTINF:-1,History Channel FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6244
+#EXTINF:-1,Spiegel Geschichte HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9135
+#EXTINF:-1,Discovery FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13570
+#EXTINF:-1,Discovery HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5096
+#EXTINF:-1,DOXX HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679846
+#EXTINF:-1,Animal Planet FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8196
+#EXTINF:-1,Animal Planet HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13173
+#EXTINF:-1,National Geographic HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8194
+#EXTINF:-1,National Geographic DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6226
+#EXTINF:-1,Nat Geo wild FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6227
+#EXTINF:-1,Nat Geo Wild HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9136
+#EXTINF:-1,Nat Geo Wild DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5085
+#EXTINF:-1,Welt der Wunder HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679838
+#EXTINF:-1,Welt der Wunder DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13129
+#EXTINF:-1,Anixe HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6264
+#EXTINF:-1,Dmax FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6249
+#EXTINF:-1,TLC HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8224
+#EXTINF:-1,Luxe TV FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/676714
+#EXTINF:-1,Sky Arte FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5091
+#EXTINF:-1,Sky Arte HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9139
+#EXTINF:-1,Sky Arte DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6261
+#EXTINF:-1,ARD Alpha HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13171
+#EXTINF:-1,------- News -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678922
+#EXTINF:-1,Euronews DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6248
+#EXTINF:-1,Welt HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6228
+#EXTINF:-1,N-TV FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13149
+#EXTINF:-1,N-TV HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/8195
+#EXTINF:-1,N-TV DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13566
+#EXTINF:-1,Munchen TV DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6229
+#EXTINF:-1,Phoenix HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6221
+#EXTINF:-1,Tagesschau 24 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6163
+#EXTINF:-1,------- Children -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678923
+#EXTINF:-1,Super RTL FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13554
+#EXTINF:-1,Super RTL HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6166
+#EXTINF:-1,KiKa FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679839
+#EXTINF:-1,Kika HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6241
+#EXTINF:-1,Baby TV DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13169
+#EXTINF:-1,Toggo Plus HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/5086
+#EXTINF:-1,Toggo Plus DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/9133
+#EXTINF:-1,Boomerang HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6258
+#EXTINF:-1,Cartoon Network FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6257
+#EXTINF:-1,Disney Channel FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6253
+#EXTINF:-1,Disney Junior FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13568
+#EXTINF:-1,Disney Junior HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6251
+#EXTINF:-1,Junior HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6239
+#EXTINF:-1,Nickelodeon HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6224
+#EXTINF:-1,Fix & Foxi DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/23771
+#EXTINF:-1,Kids Tom&Jerry DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679840
+#EXTINF:-1,------- Music -------
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/678925
+#EXTINF:-1,MTV FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/35466
+#EXTINF:-1,MTV +1 HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679793
+#EXTINF:-1,MTV 80s DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/638080
+#EXTINF:-1,Sky Classica DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6191
+#EXTINF:-1,Classica HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13167
+#EXTINF:-1,GoldStar TV DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/683427
+#EXTINF:-1,Deep House Radio FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679832
+#EXTINF:-1,Urban Radio FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679833
+#EXTINF:-1,Classic Radio FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679834
+#EXTINF:-1,Trap Radio FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679835
+#EXTINF:-1,Rainy Jazz Radio HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/679831
+#EXTINF:-1,Jukebox DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13148
+#EXTINF:-1,Deluxe Music HD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/6255
+#EXTINF:-1,Kronehit FHD DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/14200
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://iptv.rent:8080/jv38z0oqiq/1sy9kcftvy/13165
