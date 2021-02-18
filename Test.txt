@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR gold]Medusa 24/7 Serien[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/3.txt</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/vip.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
