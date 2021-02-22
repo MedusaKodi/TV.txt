@@ -1,0 +1,1097 @@
+#EXTM3U
+#EXTINF:-1,##########   Germany   ##########
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2520
+#EXTINF:-1,13th Street HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/80
+#EXTINF:-1,3sat HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2565
+#EXTINF:-1,Crime Investigation+ DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12394
+#EXTINF:-1,ARD Alpha DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/107
+#EXTINF:-1,AXN HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/105
+#EXTINF:-1,ANIXE FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2563
+#EXTINF:-1,Animal Planet HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2564
+#EXTINF:-1,arte DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/106
+#EXTINF:-1,Astro TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5432
+#EXTINF:-1,Augsburg TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/103
+#EXTINF:-1,BR DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5431
+#EXTINF:-1,Baby TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/104
+#EXTINF:-1,Boomerang DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/13783
+#EXTINF:-1,Boomerang SD+ DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3185
+#EXTINF:-1,DMAX HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/101
+#EXTINF:-1,Das Erste DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2562
+#EXTINF:-1,Deluxe Music DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3184
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5430
+#EXTINF:-1,Discovery Channel HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/59
+#EXTINF:-1,Cartoon Network DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/16366
+#EXTINF:-1,Disney Channel DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/99
+#EXTINF:-1,S Cinema Special HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3183
+#EXTINF:-1,Disney Junior FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/58
+#EXTINF:-1,Nick Jr. HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/16367
+#EXTINF:-1,TOGGO plus DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3851
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2549
+#EXTINF:-1,E! DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5429
+#EXTINF:-1,Eurosport 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1316
+#EXTINF:-1,Eurosport 2 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/97
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/7430
+#EXTINF:-1,FC Bayern TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6491
+#EXTINF:-1,FOX HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2556
+#EXTINF:-1,MediaShop DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5426
+#EXTINF:-1,FOX DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5425
+#EXTINF:-1,HR DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5422
+#EXTINF:-1,Heimatikanal DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3182
+#EXTINF:-1,History HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/95
+#EXTINF:-1,Jukebox DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3854
+#EXTINF:-1,Junior DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3850
+#EXTINF:-1,kabel eins HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/92
+#EXTINF:-1,kabel eins CLASSICS FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/94
+#EXTINF:-1,kabel eins Doku DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/93
+#EXTINF:-1,KiKa DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/91
+#EXTINF:-1,KinoweltTV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90
+#EXTINF:-1,MDR HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/89
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12475
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12474
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12473
+#EXTINF:-1,MTV Dance DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3853
+#EXTINF:-1,Motorvision TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3181
+#EXTINF:-1,Welt HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/88
+#EXTINF:-1,N24 Doku DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5415
+#EXTINF:-1,NDR HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/86
+#EXTINF:-1,National Geographic DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5414
+#EXTINF:-1,National Geographic HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/87
+#EXTINF:-1,Nat Geo Wild DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2561
+#EXTINF:-1,Nickelodeon HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3852
+#EXTINF:-1,n-tv HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/85
+#EXTINF:-1,ORF eins HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2559
+#EXTINF:-1,ORF 2 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2558
+#EXTINF:-1,Phoenix HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3186
+#EXTINF:-1,ProSieben DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3180
+#EXTINF:-1,ProSieben HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83
+#EXTINF:-1,ProSieben MAXX HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82
+#EXTINF:-1,QVC DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5412
+#EXTINF:-1,QVC Beauty & Style DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5411
+#EXTINF:-1,rbb DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5410
+#EXTINF:-1,rbb HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5409
+#EXTINF:-1,RTL DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/81
+#EXTINF:-1,RTL II DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/9348
+#EXTINF:-1,RTL II HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/79
+#EXTINF:-1,RTL Crime DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/77
+#EXTINF:-1,RTL Living HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/76
+#EXTINF:-1,RTL Nitro HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75
+#EXTINF:-1,RTL Passion HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/74
+#EXTINF:-1,RTL plus DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/13971
+#EXTINF:-1,Romance TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3177
+#EXTINF:-1,SAT.1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/72
+#EXTINF:-1,SAT.1 GOLD HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/71
+#EXTINF:-1,SAT.1 emotions DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/73
+#EXTINF:-1,Servus TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/70
+#EXTINF:-1,Silverline Movie Channel HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5490
+#EXTINF:-1,SIXX HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/69
+#EXTINF:-1,S Atlantic HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/66
+#EXTINF:-1,S Cinema Premieren HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/62
+#EXTINF:-1,S Cinema Thriller HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/65
+#EXTINF:-1,S Cinema Premieren +24 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/64
+#EXTINF:-1,S Cinema Action HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/67
+#EXTINF:-1,S Cinema Fun DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/60
+#EXTINF:-1,S Cinema Family HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/63
+#EXTINF:-1,S Cinema Best Of HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2555
+#EXTINF:-1,S Cinema Classics DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3178
+#EXTINF:-1,S Krimi DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3179
+#EXTINF:-1,S Popcorn Select 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8530
+#EXTINF:-1,S Popcorn Select 2 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8529
+#EXTINF:-1,S Popcorn Select 3 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8528
+#EXTINF:-1,S Popcorn Select 4 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8527
+#EXTINF:-1,S Popcorn Select 5 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8526
+#EXTINF:-1,S Popcorn Select 6 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8525
+#EXTINF:-1,S SELECT 1 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12470
+#EXTINF:-1,S Select 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1339
+#EXTINF:-1,S SELECT 1 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12491
+#EXTINF:-1,S SELECT 2 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12469
+#EXTINF:-1,S Select 2 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1338
+#EXTINF:-1,S SELECT 2 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12490
+#EXTINF:-1,S SELECT 3 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12468
+#EXTINF:-1,S Select 3 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1337
+#EXTINF:-1,S SELECT 3 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12489
+#EXTINF:-1,S SELECT 4 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12467
+#EXTINF:-1,S Select 4 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1336
+#EXTINF:-1,S SELECT 4 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12488
+#EXTINF:-1,S SELECT 5 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12466
+#EXTINF:-1,S Select 5 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1335
+#EXTINF:-1,S SELECT 5 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12487
+#EXTINF:-1,S SELECT 6 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12465
+#EXTINF:-1,S Select 6 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1334
+#EXTINF:-1,S Select 7 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1333
+#EXTINF:-1,S Select 8 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1332
+#EXTINF:-1,S Sport 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12697
+#EXTINF:-1,S Sport 2 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12696
+#EXTINF:-1,S Sport 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1323
+#EXTINF:-1,S Sport 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1322
+#EXTINF:-1,S Sport 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12695
+#EXTINF:-1,S Sport 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1320
+#EXTINF:-1,S Sport 7 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1319
+#EXTINF:-1,S Sport 8 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12694
+#EXTINF:-1,S Sport 9 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8693
+#EXTINF:-1,S Sport Austria HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3176
+#EXTINF:-1,S Sport Bundesliga 1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12700
+#EXTINF:-1,S Sport Bundesliga 2 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1330
+#EXTINF:-1,S Sport Bundesliga 3 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12699
+#EXTINF:-1,S Sport Bundesliga 4 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1328
+#EXTINF:-1,S Sport Bundesliga 5 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12698
+#EXTINF:-1,S Sport Bundesliga 6 HD (Live Event) DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1326
+#EXTINF:-1,S Sport News DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/24381
+#EXTINF:-1,S Sport News HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1315
+#EXTINF:-1,Sony TV FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5433
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8789
+#EXTINF:-1,Sport1 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/9271
+#EXTINF:-1,SportDigital HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3187
+#EXTINF:-1,SWR DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5403
+#EXTINF:-1,SWR HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5402
+#EXTINF:-1,Syfy DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3173
+#EXTINF:-1,Tele 5 HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3172
+#EXTINF:-1,TLC DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3171
+#EXTINF:-1,TNT Comedy HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3848
+#EXTINF:-1,TNT Film HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4388
+#EXTINF:-1,TNT Serie HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3175
+#EXTINF:-1,Tom and Jerry HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/10557
+#EXTINF:-1,Tagesschau 24 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5401
+#EXTINF:-1,Universal Channel HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3170
+#EXTINF:-1,Comedy Central DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3169
+#EXTINF:-1,VOX DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/100
+#EXTINF:-1,WDR HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2551
+#EXTINF:-1,WWE DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/7795
+#EXTINF:-1,Welt der Wunder DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5399
+#EXTINF:-1,ZDF FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2550
+#EXTINF:-1,ZDFinfo DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3856
+#EXTINF:-1,ZDFneo DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/3855
+#EXTINF:-1,RTL Zwei HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75471
+#EXTINF:-1,RTL Zwei FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75472
+#EXTINF:-1,VoxUp DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78138
+#EXTINF:-1,Bibel TV Impuls DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78202
+#EXTINF:-1,Bibel TV Musik DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78203
+#EXTINF:-1,Kingdom HD 24/7 VIP DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78487
+#EXTINF:-1,RTL HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78522
+#EXTINF:-1,Planet FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78574
+#EXTINF:-1,Planet HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78575
+#EXTINF:-1,Super RTL HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78578
+#EXTINF:-1,Comedy Central HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78579
+#EXTINF:-1,Tele 5 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78580
+#EXTINF:-1,Tele 5 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78581
+#EXTINF:-1,Bon Gusto HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78598
+#EXTINF:-1,Geo TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78601
+#EXTINF:-1,Die Neue Zeit TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78658
+#EXTINF:-1,Mainfranken Würzburg TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78659
+#EXTINF:-1,Franken HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78660
+#EXTINF:-1,Oberpfalz TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78663
+#EXTINF:-1,Allgäu TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78665
+#EXTINF:-1,EWTN DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78668
+#EXTINF:-1,QVC 2 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78669
+#EXTINF:-1,1-2-3 TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78670
+#EXTINF:-1,Folx TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78671
+#EXTINF:-1,Melodie TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78673
+#EXTINF:-1,Channel 21 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78674
+#EXTINF:-1,Schau TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78676
+#EXTINF:-1,RFO HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78683
+#EXTINF:-1,HSE24 DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/79728
+#EXTINF:-1,HSE24 EXTRA DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/79729
+#EXTINF:-1,DMAX DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/79815
+#EXTINF:-1,DMAX FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/79816
+#EXTINF:-1,ProSieben FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4171
+#EXTINF:-1,Health TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78672
+#EXTINF:-1,Munchen TV FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78664
+#EXTINF:-1,TVA Ostbayern HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78661
+#EXTINF:-1,Genius Plus TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/80917
+#EXTINF:-1,Kinowelt TV HD VIP DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/80972
+#EXTINF:-1,MAX SELECT 1 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82723
+#EXTINF:-1,MAX SELECT 2 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82724
+#EXTINF:-1,MAX SELECT 3 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82725
+#EXTINF:-1,MAX SELECT 4 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82726
+#EXTINF:-1,MAX SELECT 6 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82728
+#EXTINF:-1,MAX SELECT 7 FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82729
+#EXTINF:-1,Baden TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82764
+#EXTINF:-1,Eagle Entdeckernatur 4K UHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82773
+#EXTINF:-1,HGTV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83209
+#EXTINF:-1,S Comedy FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83210
+#EXTINF:-1,S Comedy HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83211
+#EXTINF:-1,TV OBERFRANKEN HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83518
+#EXTINF:-1,Radio Bremen TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/89978
+#EXTINF:-1,Romance TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90931
+#EXTINF:-1,S Serien & Shows FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90928
+#EXTINF:-1,S Serien & Shows HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90927
+#EXTINF:-1,SESmo 4K DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90926
+#EXTINF:-1,QVC Eins 4K DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90925
+#EXTINF:-1, QVC Zwei 4K DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90924
+#EXTINF:-1,Disney Plus Film HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90843
+#EXTINF:-1,Waidwerk FHD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/94495
+#EXTINF:-1,Gute Laune TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/95066
+#EXTINF:-1,Melodie TV Schlager DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/95065
+#EXTINF:-1,Der Aktionär TV DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/95662
+#EXTINF:-1,Radio Bremen TV HD DE
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/89979
+#EXTINF:-1,##########   Netherland   ##########
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2523
+#EXTINF:-1,NPO 1 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75413
+#EXTINF:-1,NPO 1 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/305
+#EXTINF:-1,NPO 1 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/364
+#EXTINF:-1,NPO 1 Extra NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4516
+#EXTINF:-1,NPO 2 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75414
+#EXTINF:-1,NPO 2 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/304
+#EXTINF:-1,NPO 2 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/363
+#EXTINF:-1,NPO 2 Extra NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/41542
+#EXTINF:-1,NPO 3 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/75415
+#EXTINF:-1,NPO 3 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/303
+#EXTINF:-1,NPO 3 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/362
+#EXTINF:-1,RTL 4 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/295
+#EXTINF:-1,RTL 4 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/361
+#EXTINF:-1,RTL 5 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/294
+#EXTINF:-1,RTL 5 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/360
+#EXTINF:-1,SBS6 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/288
+#EXTINF:-1,SBS6 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/357
+#EXTINF:-1,RTL 7 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/293
+#EXTINF:-1,RTL 7 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/359
+#EXTINF:-1,RTL 8 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/292
+#EXTINF:-1,RTL 8 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/358
+#EXTINF:-1,SBS9 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/289
+#EXTINF:-1,RTL Z NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/290
+#EXTINF:-1,Veronica / DisneyXD HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/249
+#EXTINF:-1,Veronica / Disney XD FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6513
+#EXTINF:-1,Net5 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/355
+#EXTINF:-1,NET5 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/260
+#EXTINF:-1,RTL Crime NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/297
+#EXTINF:-1,RTL Lounge NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/291
+#EXTINF:-1,NPO 101 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/300
+#EXTINF:-1,TLC NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/286
+#EXTINF:-1,TLC HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/11090
+#EXTINF:-1,TLC FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6811
+#EXTINF:-1,TV Oranje NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/285
+#EXTINF:-1,Stingray iConcerts NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/229
+#EXTINF:-1,NPO Politiek NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/302
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/301
+#EXTINF:-1,National Geographic HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/258
+#EXTINF:-1,National Geographic FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6849
+#EXTINF:-1,Nat Geo Wild HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/257
+#EXTINF:-1,Nat Geo Wild FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4393
+#EXTINF:-1,Baby TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/247
+#EXTINF:-1,Baby TV [Multi-Audio] NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/22363
+#EXTINF:-1,Nick Jr. NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/256
+#EXTINF:-1,Nick Toons NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/255
+#EXTINF:-1,Nickelodeon / Spike Channel HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/251
+#EXTINF:-1,Cartoon Network NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/253
+#EXTINF:-1,Boomerang NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/252
+#EXTINF:-1,Disney Channel NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/254
+#EXTINF:-1,Disney Junior NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4521
+#EXTINF:-1,Pebble HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4501
+#EXTINF:-1,RTL Telekids NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4522
+#EXTINF:-1,Comedy Central NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/270
+#EXTINF:-1,Comedy Central Extra NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/271
+#EXTINF:-1,Pebble TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/8577
+#EXTINF:-1,ONS NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/296
+#EXTINF:-1,FOX NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/275
+#EXTINF:-1,History HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/265
+#EXTINF:-1,History FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4519
+#EXTINF:-1,Investigation Discovery NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/263
+#EXTINF:-1,L1 TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/268
+#EXTINF:-1,Viceland HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/287
+#EXTINF:-1,192TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/230
+#EXTINF:-1,24 Kitchen NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/267
+#EXTINF:-1,AT5 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/283
+#EXTINF:-1,Animal Planet NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/266
+#EXTINF:-1,Crime+Investigation NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/262
+#EXTINF:-1,Discovery Channel NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/264
+#EXTINF:-1,Discovery Channel HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6812
+#EXTINF:-1,Investigation Discovery FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6512
+#EXTINF:-1,Stingray Djazz FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/228
+#EXTINF:-1,Duck TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/248
+#EXTINF:-1,E! NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/282
+#EXTINF:-1,Film1 Action NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/280
+#EXTINF:-1,Film1 Family NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/279
+#EXTINF:-1,Film1 Premiere HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/278
+#EXTINF:-1,Film1 Premiere FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/356
+#EXTINF:-1,Film1 Drama HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/277
+#EXTINF:-1,Film1 Sundance NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/276
+#EXTINF:-1,Film1 Family HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4529
+#EXTINF:-1,Animal Planet HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4518
+#EXTINF:-1,Animal Planet FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6813
+#EXTINF:-1,BBC Entertainment NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4517
+#EXTINF:-1,Nick Music NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4510
+#EXTINF:-1,Omroep Flevoland NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4488
+#EXTINF:-1,Omrop Fryslân NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4489
+#EXTINF:-1,RTV Rijnmond NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4490
+#EXTINF:-1,MTV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4527
+#EXTINF:-1,MTV HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4526
+#EXTINF:-1,MTV Music 24 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4525
+#EXTINF:-1,Out TV HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4496
+#EXTINF:-1,RTV Utrecht NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4494
+#EXTINF:-1,Omroep Brabant NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4507
+#EXTINF:-1,Omroep Gelderland NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4508
+#EXTINF:-1,Omroep Zeeland NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4509
+#EXTINF:-1,Omroep Zeeland HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4506
+#EXTINF:-1,RTV Drenthe NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4511
+#EXTINF:-1,RTV Ooost NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4512
+#EXTINF:-1,Salto 1 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4514
+#EXTINF:-1,Salto 2 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4513
+#EXTINF:-1,Klipkar TV NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4515
+#EXTINF:-1,Slam! NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4523
+#EXTINF:-1,Spike NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4528
+#EXTINF:-1,TV538 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4524
+#EXTINF:-1,ESPN 1 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/244
+#EXTINF:-1,ESPN 1 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/354
+#EXTINF:-1,ESPN 2 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12632
+#EXTINF:-1,ESPN 2 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/12633
+#EXTINF:-1,ESPN 3 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/242
+#EXTINF:-1,ESPN 3 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6510
+#EXTINF:-1,ESPN 4 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/241
+#EXTINF:-1,ESPN 5 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/240
+#EXTINF:-1,ESPN 5 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6511
+#EXTINF:-1,ESPN 6 HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/239
+#EXTINF:-1,Ziggo Sport Extra 1 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/238
+#EXTINF:-1,Ziggo Sport Extra 2 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/237
+#EXTINF:-1,Ziggo Sport Golf NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/236
+#EXTINF:-1,Ziggo Sport Racing NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/235
+#EXTINF:-1,Ziggo Sport Select NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6112
+#EXTINF:-1,Ziggo Sport Select HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/234
+#EXTINF:-1,Ziggo Sport Select FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6514
+#EXTINF:-1,Ziggo Sport Voetbal NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/233
+#EXTINF:-1,Eurosport 1 FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/246
+#EXTINF:-1,Eurosport 2 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/245
+#EXTINF:-1,Extreme Sports NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/232
+#EXTINF:-1,EDGE Sport HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4531
+#EXTINF:-1,Family7 NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/40216
+#EXTINF:-1,Den Haag FM TV HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/41480
+#EXTINF:-1,NPO Nieuws NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/78591
+#EXTINF:-1,DANCE TRIPPIN FHD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/80956
+#EXTINF:-1,BBC First HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/82811
+#EXTINF:-1,Film Europe HD NL
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/83205
+#EXTINF:-1,##########   Italia   ##########
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2525
+#EXTINF:-1,========== IT Tivusat-Mediaset ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25481
+#EXTINF:-1,Disney Plus Nature HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90842
+#EXTINF:-1,Disney Plus Film 2 HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90841
+#EXTINF:-1,Disney Plus Film HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90840
+#EXTINF:-1,Disney Plus Animation HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/90839
+#EXTINF:-1,Rai 1 FHD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15205
+#EXTINF:-1,Rai 1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/43328
+#EXTINF:-1,Rai 1 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/325
+#EXTINF:-1,Rai 2 FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/43558
+#EXTINF:-1,Rai 2 HD  IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15204
+#EXTINF:-1,Rai 2 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/324
+#EXTINF:-1,Rai 3 FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/323
+#EXTINF:-1,Rai 3 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15203
+#EXTINF:-1,Rai 4 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15202
+#EXTINF:-1,Rai 4 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5240
+#EXTINF:-1,Rai 5 FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15201
+#EXTINF:-1,Rai 5 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/43560
+#EXTINF:-1,Rai 5 1080i IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/43559
+#EXTINF:-1,Rai 5 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5239
+#EXTINF:-1,Rai Gulp FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15200
+#EXTINF:-1,Rai Gulp IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5191
+#EXTINF:-1,Rai Movie HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15199
+#EXTINF:-1,Rai Movie IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5237
+#EXTINF:-1,Rai News 24 FHD IT VIP
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15198
+#EXTINF:-1,Rai News 24 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5195
+#EXTINF:-1,Rai Premium IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5236
+#EXTINF:-1,Rai Scuola IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5234
+#EXTINF:-1,Rai Sport 1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1264
+#EXTINF:-1,Rai Sport 2 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1263
+#EXTINF:-1,Rai Storia IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5235
+#EXTINF:-1,Real Giallo IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1270
+#EXTINF:-1,Real Time FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1283
+#EXTINF:-1,Real Time HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15174
+#EXTINF:-1,Rete 4 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1314
+#EXTINF:-1,Rete 4 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15192
+#EXTINF:-1,Italia Uno IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/327
+#EXTINF:-1,Italia 2 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/328
+#EXTINF:-1,Canale 5 FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/330
+#EXTINF:-1,Canale 5 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/7686
+#EXTINF:-1,Canale 5 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/7685
+#EXTINF:-1,RSI La 1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1313
+#EXTINF:-1,RSI La 2 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1312
+#EXTINF:-1,Mediaset Extra IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5238
+#EXTINF:-1,Mediaset TGCOM24 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5196
+#EXTINF:-1,Mediaset TGCOM24 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15293
+#EXTINF:-1,========== IT S Cinema Italia ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25482
+#EXTINF:-1,S Cinema Uno HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1311
+#EXTINF:-1,S Cinema Uno FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/322
+#EXTINF:-1,S Cinema Uno +24 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1310
+#EXTINF:-1,S Cinema Comedy HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/320
+#EXTINF:-1,S Cinema Drama HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15151
+#EXTINF:-1,S Cinema Drama FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15144
+#EXTINF:-1,S Cinema Due HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1309
+#EXTINF:-1,S Cinema Family HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/319
+#EXTINF:-1,S Cinema Action HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/318
+#EXTINF:-1,S Cinema Romance HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/317
+#EXTINF:-1,S Cinema Romance FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/48660
+#EXTINF:-1,S Cinema Suspense HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/48357
+#EXTINF:-1,S Arte HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5198
+#EXTINF:-1,S Atlantic HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1291
+#EXTINF:-1,FOX HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1290
+#EXTINF:-1,Fox Crime HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1289
+#EXTINF:-1,Fox Crime VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15232
+#EXTINF:-1,Fox Life HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1286
+#EXTINF:-1,========== IT S Primafila ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25483
+#EXTINF:-1,PrimaFila 1 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2195
+#EXTINF:-1,PrimaFila 2 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2194
+#EXTINF:-1,PrimaFila 3 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2193
+#EXTINF:-1,PrimaFila 4 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2192
+#EXTINF:-1,PrimaFila 5 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2191
+#EXTINF:-1,PrimaFila 6 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2190
+#EXTINF:-1,PrimaFila 7 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2189
+#EXTINF:-1,PrimaFila 8 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2188
+#EXTINF:-1,PrimaFila 9 HD 1080P
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/2187
+#EXTINF:-1,========== IT S Premium ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25484
+#EXTINF:-1,Premium Cinema +24 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1305
+#EXTINF:-1,Premium Cinema Comedy IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1302
+#EXTINF:-1,Premium Cinema Energy IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1301
+#EXTINF:-1,Premium Cinema HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1306
+#EXTINF:-1,Premium Crime IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1293
+#EXTINF:-1,Premium Crime HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1294
+#EXTINF:-1,Premium Emotion IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1297
+#EXTINF:-1,Premium Stories IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1295
+#EXTINF:-1,Premium Studio Universal IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1296
+#EXTINF:-1,Premium Action IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1299
+#EXTINF:-1,========== IT S Calcio ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25485
+#EXTINF:-1,S Calcio 1 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/307
+#EXTINF:-1,S Calcio 2 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/306
+#EXTINF:-1,S Calcio 3 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5210
+#EXTINF:-1,S Calcio 4 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5209
+#EXTINF:-1,S Calcio 5 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5208
+#EXTINF:-1,S Calcio 6 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5207
+#EXTINF:-1,S Supercalcio Serie A HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15097
+#EXTINF:-1,S Supercalcio Serie A VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15096
+#EXTINF:-1,S Sport Serie A FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15077
+#EXTINF:-1,========== IT DAZN ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25486
+#EXTINF:-1,========== IT S Sport ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25487
+#EXTINF:-1,S Sport F1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/308
+#EXTINF:-1,S Sport MotoGP HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/310
+#EXTINF:-1,S Sport 1 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15109
+#EXTINF:-1,S Sport 24 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/309
+#EXTINF:-1,S Sport Football HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/315
+#EXTINF:-1,S Sport NBA HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1265
+#EXTINF:-1,S Sport Uno FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/316
+#EXTINF:-1,Sport Italia IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1261
+#EXTINF:-1,Super TV IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5211
+#EXTINF:-1,Super Tennis HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1262
+#EXTINF:-1,SuperTennis VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15086
+#EXTINF:-1,Inter Channel IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/329
+#EXTINF:-1,Juventus Channel VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15189
+#EXTINF:-1,Lazio Style Channel IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1258
+#EXTINF:-1,Milan Channel IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/326
+#EXTINF:-1,Roma Channel IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1256
+#EXTINF:-1,Wrestling IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5212
+#EXTINF:-1,Pesca e Caccia IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1253
+#EXTINF:-1,Caccia e Pesca IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1254
+#EXTINF:-1,Caccia e Pesca VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15271
+#EXTINF:-1,EuroSport 1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1260
+#EXTINF:-1,EuroSport 2 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1259
+#EXTINF:-1,AutoMoto TV IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5213
+#EXTINF:-1,========== IT S Kids ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25488
+#EXTINF:-1,Dea Junior VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15257
+#EXTINF:-1,Disney Channel  1 HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15250
+#EXTINF:-1,Disney Channel HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5185
+#EXTINF:-1,Disney Junior IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5184
+#EXTINF:-1,Nick Junior IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5178
+#EXTINF:-1,Nickelodeon VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15179
+#EXTINF:-1,Cartoon Network IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5187
+#EXTINF:-1,Cartoonito IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5188
+#EXTINF:-1,Cartoonito VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15268
+#EXTINF:-1,Rai YoYo HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5190
+#EXTINF:-1,Boing IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1282
+#EXTINF:-1,K2 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5179
+#EXTINF:-1,K2 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15188
+#EXTINF:-1,Fox Crime FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15242
+#EXTINF:-1,Frisbee IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5180
+#EXTINF:-1,Super! IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5189
+#EXTINF:-1,========== IT S Other ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25489
+#EXTINF:-1,Alice IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5216
+#EXTINF:-1,Baby TV IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5192
+#EXTINF:-1,Blaze +1 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15274
+#EXTINF:-1,Blaze VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15272
+#EXTINF:-1,CLASSICA HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15261
+#EXTINF:-1,Canale 8 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5228
+#EXTINF:-1,Canale Otto IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/26939
+#EXTINF:-1,Cielo HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5217
+#EXTINF:-1,Crime Investigation HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1267
+#EXTINF:-1,Discovery Channel HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1276
+#EXTINF:-1,Discovery Channel HD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15255
+#EXTINF:-1,Discovery Science FHD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15215
+#EXTINF:-1,Discovery Science HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1277
+#EXTINF:-1,Dmax  1 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15247
+#EXTINF:-1,Dmax IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1274
+#EXTINF:-1,Focus IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1273
+#EXTINF:-1,Gambero Rosso HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1272
+#EXTINF:-1,History Channel VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15216
+#EXTINF:-1,History FHD VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15214
+#EXTINF:-1,History HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1275
+#EXTINF:-1,Iris IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5233
+#EXTINF:-1,Italian Fishing IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1251
+#EXTINF:-1,Italian Fishing VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15190
+#EXTINF:-1,La 5 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5232
+#EXTINF:-1,La 7D FHD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/6539
+#EXTINF:-1,La7 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5231
+#EXTINF:-1,La7d HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5230
+#EXTINF:-1,Marco Polo IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5199
+#EXTINF:-1,Nat Geo HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1280
+#EXTINF:-1,Nat Geo Wild HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1279
+#EXTINF:-1,Padre Pio TV VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15279
+#EXTINF:-1,Paramount HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5218
+#EXTINF:-1,Pescare e Cacciare IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1252
+#EXTINF:-1,QVC VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15177
+#EXTINF:-1,S  TG 24 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5197
+#EXTINF:-1,S Uno +1 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1292
+#EXTINF:-1,S Virgin Music TV IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5172
+#EXTINF:-1,TG Norba 24 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15292
+#EXTINF:-1,TV2000 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15287
+#EXTINF:-1,TV2000 HD IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1268
+#EXTINF:-1,TV8 IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5229
+#EXTINF:-1,TV8 VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15269
+#EXTINF:-1,TelePavia VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15294
+#EXTINF:-1,Top Crime IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/1269
+#EXTINF:-1,UnireSat VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15285
+#EXTINF:-1,Video Brescia VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15284
+#EXTINF:-1,Videolina VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15283
+#EXTINF:-1,========== IT Radio ==========
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/25490
+#EXTINF:-1,DeeJay TV IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5223
+#EXTINF:-1,M2O IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/5177
+#EXTINF:-1,m2otv IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/4045
+#EXTINF:-1,Nove TV VIP IT
+http://portal.geniptv.com:8080/DaSilvaFerreira/GpIM3eVmab/15299
