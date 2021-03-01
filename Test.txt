@@ -11,9 +11,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa 24/7 Serien[/COLOR]</name>
+<name>[COLOR gold]Action Filme[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Gen.txt</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Action.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
