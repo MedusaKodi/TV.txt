@@ -40,7 +40,7 @@ channel>
 <channel>
 <name>[COLOR gold]test[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>http://mytv.fun:8080/get.php?username=britishwoman&password=xk1yrcn3il&type=m3u</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/23.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
