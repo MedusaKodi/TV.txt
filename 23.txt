@@ -1,0 +1,1115 @@
+#EXTM3U
+#EXTINF:-1,##########   Germany   ##########
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2520
+#EXTINF:-1,13th Street HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/80
+#EXTINF:-1,3sat HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2565
+#EXTINF:-1,Crime Investigation+ DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12394
+#EXTINF:-1,ARD Alpha DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/107
+#EXTINF:-1,AXN HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/105
+#EXTINF:-1,ANIXE FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2563
+#EXTINF:-1,Animal Planet HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2564
+#EXTINF:-1,arte DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/106
+#EXTINF:-1,Astro TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5432
+#EXTINF:-1,Augsburg TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/103
+#EXTINF:-1,BR DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5431
+#EXTINF:-1,Baby TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/104
+#EXTINF:-1,Boomerang DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/13783
+#EXTINF:-1,Boomerang SD+ DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3185
+#EXTINF:-1,DMAX HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/101
+#EXTINF:-1,Das Erste DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2562
+#EXTINF:-1,Deluxe Music DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3184
+#EXTINF:-1,Deutsches Musik Fernsehen DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5430
+#EXTINF:-1,Discovery Channel HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/59
+#EXTINF:-1,Cartoon Network DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/16366
+#EXTINF:-1,Disney Channel DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/99
+#EXTINF:-1,S Cinema Special HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3183
+#EXTINF:-1,Disney Junior FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/58
+#EXTINF:-1,Nick Jr. HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/16367
+#EXTINF:-1,TOGGO plus DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3851
+#EXTINF:-1,TOGGO plus von Super RTL DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2549
+#EXTINF:-1,E! DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5429
+#EXTINF:-1,Eurosport 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1316
+#EXTINF:-1,Eurosport 2 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/97
+#EXTINF:-1,Eurosport 2 Xtra HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/7430
+#EXTINF:-1,FC Bayern TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/6491
+#EXTINF:-1,FOX HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2556
+#EXTINF:-1,MediaShop DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5426
+#EXTINF:-1,FOX DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5425
+#EXTINF:-1,HR DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5422
+#EXTINF:-1,Heimatikanal DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3182
+#EXTINF:-1,History HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/95
+#EXTINF:-1,Jukebox DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3854
+#EXTINF:-1,Junior DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3850
+#EXTINF:-1,kabel eins HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/92
+#EXTINF:-1,kabel eins CLASSICS FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/94
+#EXTINF:-1,kabel eins Doku DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/93
+#EXTINF:-1,KiKa DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/91
+#EXTINF:-1,KinoweltTV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90
+#EXTINF:-1,MDR HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/89
+#EXTINF:-1,MOVIESINEMA GERMAN 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12475
+#EXTINF:-1,MOVIESINEMA GERMAN 2 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12474
+#EXTINF:-1,MOVIESINEMA GERMAN 3 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12473
+#EXTINF:-1,MTV Dance DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3853
+#EXTINF:-1,Motorvision TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3181
+#EXTINF:-1,Welt HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/88
+#EXTINF:-1,N24 Doku DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5415
+#EXTINF:-1,NDR HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/86
+#EXTINF:-1,National Geographic DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5414
+#EXTINF:-1,National Geographic HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/87
+#EXTINF:-1,Nat Geo Wild DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2561
+#EXTINF:-1,Nickelodeon HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3852
+#EXTINF:-1,n-tv HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/85
+#EXTINF:-1,ORF eins HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2559
+#EXTINF:-1,ORF 2 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2558
+#EXTINF:-1,Phoenix HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3186
+#EXTINF:-1,ProSieben DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3180
+#EXTINF:-1,ProSieben HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/83
+#EXTINF:-1,ProSieben MAXX HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82
+#EXTINF:-1,QVC DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5412
+#EXTINF:-1,QVC Beauty & Style DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5411
+#EXTINF:-1,rbb DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5410
+#EXTINF:-1,rbb HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5409
+#EXTINF:-1,RTL DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/81
+#EXTINF:-1,RTL II DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/9348
+#EXTINF:-1,RTL II HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/79
+#EXTINF:-1,RTL Crime DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/77
+#EXTINF:-1,RTL Living HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/76
+#EXTINF:-1,RTL Nitro HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75
+#EXTINF:-1,RTL Passion HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/74
+#EXTINF:-1,RTL plus DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/13971
+#EXTINF:-1,Romance TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3177
+#EXTINF:-1,SAT.1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/72
+#EXTINF:-1,SAT.1 GOLD HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/71
+#EXTINF:-1,SAT.1 emotions DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/73
+#EXTINF:-1,Servus TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/70
+#EXTINF:-1,Silverline Movie Channel HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5490
+#EXTINF:-1,SIXX HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/69
+#EXTINF:-1,S Atlantic HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/66
+#EXTINF:-1,S Cinema Premieren HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/62
+#EXTINF:-1,S Cinema Thriller HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/65
+#EXTINF:-1,S Cinema Premieren +24 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/64
+#EXTINF:-1,S Cinema Action HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/67
+#EXTINF:-1,S Cinema Fun DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/60
+#EXTINF:-1,S Cinema Family HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/63
+#EXTINF:-1,S Cinema Best Of HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2555
+#EXTINF:-1,S Cinema Classics DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3178
+#EXTINF:-1,S Krimi DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3179
+#EXTINF:-1,S Popcorn Select 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8530
+#EXTINF:-1,S Popcorn Select 2 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8529
+#EXTINF:-1,S Popcorn Select 3 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8528
+#EXTINF:-1,S Popcorn Select 4 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8527
+#EXTINF:-1,S Popcorn Select 5 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8526
+#EXTINF:-1,S Popcorn Select 6 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8525
+#EXTINF:-1,S SELECT 1 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12470
+#EXTINF:-1,S Select 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1339
+#EXTINF:-1,S SELECT 1 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12491
+#EXTINF:-1,S SELECT 2 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12469
+#EXTINF:-1,S Select 2 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1338
+#EXTINF:-1,S SELECT 2 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12490
+#EXTINF:-1,S SELECT 3 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12468
+#EXTINF:-1,S Select 3 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1337
+#EXTINF:-1,S SELECT 3 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12489
+#EXTINF:-1,S SELECT 4 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12467
+#EXTINF:-1,S Select 4 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1336
+#EXTINF:-1,S SELECT 4 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12488
+#EXTINF:-1,S SELECT 5 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12466
+#EXTINF:-1,S Select 5 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1335
+#EXTINF:-1,S SELECT 5 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12487
+#EXTINF:-1,S SELECT 6 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12465
+#EXTINF:-1,S Select 6 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1334
+#EXTINF:-1,S Select 7 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1333
+#EXTINF:-1,S Select 8 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1332
+#EXTINF:-1,S Sport 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12697
+#EXTINF:-1,S Sport 2 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12696
+#EXTINF:-1,S Sport 3 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1323
+#EXTINF:-1,S Sport 4 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1322
+#EXTINF:-1,S Sport 5 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12695
+#EXTINF:-1,S Sport 6 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1320
+#EXTINF:-1,S Sport 7 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1319
+#EXTINF:-1,S Sport 8 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12694
+#EXTINF:-1,S Sport 9 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8693
+#EXTINF:-1,S Sport Austria HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3176
+#EXTINF:-1,S Sport Bundesliga 1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12700
+#EXTINF:-1,S Sport Bundesliga 2 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1330
+#EXTINF:-1,S Sport Bundesliga 3 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12699
+#EXTINF:-1,S Sport Bundesliga 4 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1328
+#EXTINF:-1,S Sport Bundesliga 5 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/12698
+#EXTINF:-1,S Sport Bundesliga 6 HD (Live Event) DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1326
+#EXTINF:-1,S Sport News DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/24381
+#EXTINF:-1,S Sport News HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/1315
+#EXTINF:-1,Sony TV FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5433
+#EXTINF:-1,SPIEGEL Geschichte DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3174
+#EXTINF:-1,Spiegel TV Wissen HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/8789
+#EXTINF:-1,Sport1 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/9271
+#EXTINF:-1,SportDigital HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3187
+#EXTINF:-1,SWR DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5403
+#EXTINF:-1,SWR HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5402
+#EXTINF:-1,Syfy DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3173
+#EXTINF:-1,Tele 5 HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3172
+#EXTINF:-1,TLC DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3171
+#EXTINF:-1,TNT Comedy HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3848
+#EXTINF:-1,TNT Film HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/4388
+#EXTINF:-1,TNT Serie HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3175
+#EXTINF:-1,Tom and Jerry HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/10557
+#EXTINF:-1,Tagesschau 24 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5401
+#EXTINF:-1,Universal Channel HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3170
+#EXTINF:-1,Comedy Central DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3169
+#EXTINF:-1,VOX DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/100
+#EXTINF:-1,WDR HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2551
+#EXTINF:-1,WWE DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/7795
+#EXTINF:-1,Welt der Wunder DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5399
+#EXTINF:-1,ZDF FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2550
+#EXTINF:-1,ZDFinfo DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3856
+#EXTINF:-1,ZDFneo DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3855
+#EXTINF:-1,RTL Zwei HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75471
+#EXTINF:-1,RTL Zwei FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75472
+#EXTINF:-1,VoxUp DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78138
+#EXTINF:-1,Bibel TV Impuls DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78202
+#EXTINF:-1,Bibel TV Musik DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78203
+#EXTINF:-1,Kingdom HD 24/7 VIP DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78487
+#EXTINF:-1,RTL HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78522
+#EXTINF:-1,Planet FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78574
+#EXTINF:-1,Planet HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78575
+#EXTINF:-1,Super RTL HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78578
+#EXTINF:-1,Comedy Central HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78579
+#EXTINF:-1,Tele 5 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78580
+#EXTINF:-1,Tele 5 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78581
+#EXTINF:-1,Bon Gusto HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78598
+#EXTINF:-1,Geo TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78601
+#EXTINF:-1,Die Neue Zeit TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78658
+#EXTINF:-1,Mainfranken Würzburg TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78659
+#EXTINF:-1,Franken HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78660
+#EXTINF:-1,Oberpfalz TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78663
+#EXTINF:-1,Allgäu TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78665
+#EXTINF:-1,EWTN DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78668
+#EXTINF:-1,QVC 2 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78669
+#EXTINF:-1,1-2-3 TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78670
+#EXTINF:-1,Folx TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78671
+#EXTINF:-1,Melodie TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78673
+#EXTINF:-1,Channel 21 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78674
+#EXTINF:-1,Schau TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78676
+#EXTINF:-1,RFO HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78683
+#EXTINF:-1,HSE24 DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/79728
+#EXTINF:-1,HSE24 EXTRA DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/79729
+#EXTINF:-1,DMAX DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/79815
+#EXTINF:-1,DMAX FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/79816
+#EXTINF:-1,ProSieben FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/4171
+#EXTINF:-1,Health TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78672
+#EXTINF:-1,Munchen TV FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78664
+#EXTINF:-1,TVA Ostbayern HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/78661
+#EXTINF:-1,Genius Plus TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/80917
+#EXTINF:-1,Kinowelt TV HD VIP DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/80972
+#EXTINF:-1,MAX SELECT 1 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82723
+#EXTINF:-1,MAX SELECT 2 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82724
+#EXTINF:-1,MAX SELECT 3 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82725
+#EXTINF:-1,MAX SELECT 4 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82726
+#EXTINF:-1,MAX SELECT 6 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82728
+#EXTINF:-1,MAX SELECT 7 FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82729
+#EXTINF:-1,Baden TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82764
+#EXTINF:-1,Eagle Entdeckernatur 4K UHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/82773
+#EXTINF:-1,HGTV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/83209
+#EXTINF:-1,S Comedy FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/83210
+#EXTINF:-1,S Comedy HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/83211
+#EXTINF:-1,TV OBERFRANKEN HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/83518
+#EXTINF:-1,Radio Bremen TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/89978
+#EXTINF:-1,Romance TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90931
+#EXTINF:-1,S Serien & Shows FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90928
+#EXTINF:-1,S Serien & Shows HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90927
+#EXTINF:-1,SESmo 4K DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90926
+#EXTINF:-1,QVC Eins 4K DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90925
+#EXTINF:-1, QVC Zwei 4K DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90924
+#EXTINF:-1,Disney Plus Film HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90843
+#EXTINF:-1,Waidwerk FHD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/94495
+#EXTINF:-1,Gute Laune TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/95066
+#EXTINF:-1,Melodie TV Schlager DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/95065
+#EXTINF:-1,Der Aktionär TV DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/95662
+#EXTINF:-1,Radio Bremen TV HD DE
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/89979
+#EXTINF:-1,Mr Bean AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/96413
+#EXTINF:-1,Shpk Nazi 24/7 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/96412
+#EXTINF:-1,##########   Albania   ##########
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2521
+#EXTINF:-1,RTK 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19493
+#EXTINF:-1,RTK 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75257
+#EXTINF:-1,RTK 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/168
+#EXTINF:-1,RTK 1 (BackUP) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5809
+#EXTINF:-1,KTV FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19491
+#EXTINF:-1,KTV FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5700
+#EXTINF:-1,KTV HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2151
+#EXTINF:-1,RTV 21 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19490
+#EXTINF:-1,RTV21 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/164
+#EXTINF:-1,RTV21 (BackUP) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5813
+#EXTINF:-1,RTV21 Toksor AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5491
+#EXTINF:-1,Klan FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19485
+#EXTINF:-1,Klan HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/172
+#EXTINF:-1,Klan TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/171
+#EXTINF:-1,Klan Kosova FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19488
+#EXTINF:-1,Klan Kosova AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/124
+#EXTINF:-1,Klan Kosova HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2150
+#EXTINF:-1,Klan Plus FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19484
+#EXTINF:-1,Klan Plus AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/6423
+#EXTINF:-1,Klan Plus HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/170
+#EXTINF:-1,Alsat M FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19487
+#EXTINF:-1,Alsat M AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/155
+#EXTINF:-1,Alsat M HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2152
+#EXTINF:-1,Top Channel FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19486
+#EXTINF:-1,Top Channel AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/173
+#EXTINF:-1,Top Channel HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2154
+#EXTINF:-1,Vizion Plus FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19480
+#EXTINF:-1,Vizion+ HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/169
+#EXTINF:-1,T7 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19483
+#EXTINF:-1,T7 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/13186
+#EXTINF:-1,T7 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/13185
+#EXTINF:-1,TV Dukagjini FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19481
+#EXTINF:-1,TV Dukagjini HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/138
+#EXTINF:-1,RTV 21 MK FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19489
+#EXTINF:-1,RTV21 Maqedonia AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/160
+#EXTINF:-1,RTV 21 Mix FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19474
+#EXTINF:-1,RTV21 Mix AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/161
+#EXTINF:-1,RTV 21 NewsBiz FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19470
+#EXTINF:-1,RTV21 Newsbiz AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2145
+#EXTINF:-1,Kanal 10 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19475
+#EXTINF:-1,Arta News FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19471
+#EXTINF:-1,Arta News AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2111
+#EXTINF:-1,TV Arta AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/113
+#EXTINF:-1,RTSH 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19492
+#EXTINF:-1,RTSH 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5582
+#EXTINF:-1,TVSH HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/158
+#EXTINF:-1,First Chanel FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19476
+#EXTINF:-1,First Channel AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/151
+#EXTINF:-1,1 First Kosova AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2118
+#EXTINF:-1,Family FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19464
+#EXTINF:-1,Plus HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/688
+#EXTINF:-1,Film Nje FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19466
+#EXTINF:-1,Film Nje HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/123
+#EXTINF:-1,FILM 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5496
+#EXTINF:-1,Film Dy FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19465
+#EXTINF:-1,Film Dy HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/176
+#EXTINF:-1,FILM 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5495
+#EXTINF:-1,T FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19463
+#EXTINF:-1,T HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2153
+#EXTINF:-1,Film Aksion AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2104
+#EXTINF:-1,Film Hits AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/150
+#EXTINF:-1,Film Hits FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/91034
+#EXTINF:-1,Film Hits Plus 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5578
+#EXTINF:-1,Film Thriller AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/177
+#EXTINF:-1,Film Drame AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/175
+#EXTINF:-1,Film Komedi AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2103
+#EXTINF:-1,Film Autor AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/174
+#EXTINF:-1,Film Stinet AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2120
+#EXTINF:-1,Film Junior TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5516
+#EXTINF:-1,Explorer History AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/120
+#EXTINF:-1,Explorer Shkence AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/122
+#EXTINF:-1,Explorer Natyra AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/121
+#EXTINF:-1,National Geographic FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19459
+#EXTINF:-1,Living FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19454
+#EXTINF:-1,Living HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/128
+#EXTINF:-1,Jolly FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19455
+#EXTINF:-1,Tring Jolly HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5242
+#EXTINF:-1,Tring Super FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19456
+#EXTINF:-1,Tring Super AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/109
+#EXTINF:-1,Tring Max Action AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2121
+#EXTINF:-1,Tring 3+ AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2122
+#EXTINF:-1,Tring Comedy AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/133
+#EXTINF:-1,Tring Fantasy AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/131
+#EXTINF:-1,Tring Life AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2105
+#EXTINF:-1,Tring Shqip AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/108
+#EXTINF:-1,Tring Smile AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/135
+#EXTINF:-1,Tring World AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/136
+#EXTINF:-1,Tring Planet AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/134
+#EXTINF:-1,Tring History AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/132
+#EXTINF:-1,TRING KIDS AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5492
+#EXTINF:-1,Tring Tring AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/110
+#EXTINF:-1,Film Kids AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5507
+#EXTINF:-1,MRTV 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19479
+#EXTINF:-1,News 24 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19467
+#EXTINF:-1,Ora News FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19472
+#EXTINF:-1,ID Xtra FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19457
+#EXTINF:-1,Channel One FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19473
+#EXTINF:-1,Discovery FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19461
+#EXTINF:-1,Discovery Science FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19460
+#EXTINF:-1,Animal Planet FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19458
+#EXTINF:-1,Apollon News FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19469
+#EXTINF:-1,Abc News FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19468
+#EXTINF:-1,Episode HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21104
+#EXTINF:-1,Art Doku 1 HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21103
+#EXTINF:-1,Art Doku 2 HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21102
+#EXTINF:-1,Art Kino 1 HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21107
+#EXTINF:-1,Art Kino 2 HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21106
+#EXTINF:-1,Art Kino 3 HD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21105
+#EXTINF:-1,Zjarr TV FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19453
+#EXTINF:-1,RTK 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/167
+#EXTINF:-1,RTK 2 (BackUP) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5810
+#EXTINF:-1,RTK 3 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/166
+#EXTINF:-1,RTK 3 (BackUP) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5811
+#EXTINF:-1,RTK 4 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/165
+#EXTINF:-1,RTK 4 (BackUP) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5812
+#EXTINF:-1,RTSH 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5581
+#EXTINF:-1,RTSH 3 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5580
+#EXTINF:-1,RTSH ART HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/157
+#EXTINF:-1,RTSH Film HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5579
+#EXTINF:-1,RTSH Gjirokastra HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2134
+#EXTINF:-1,RTSH Korca HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2136
+#EXTINF:-1,Rtsh Muzike AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90923
+#EXTINF:-1,RTV21 Junior AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/159
+#EXTINF:-1,RTV 21 Plus FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19450
+#EXTINF:-1,RTV21 Plus AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/163
+#EXTINF:-1,RTV 21 Popullore FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19451
+#EXTINF:-1,RTV21 Popullore AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/162
+#EXTINF:-1,Era TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2115
+#EXTINF:-1,Elrodi TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2140
+#EXTINF:-1,Syri Blue FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5546
+#EXTINF:-1,Dasma TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2138
+#EXTINF:-1,Super Sonic AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/114
+#EXTINF:-1,Folklorit TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5519
+#EXTINF:-1,Folk Plus AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5520
+#EXTINF:-1,Turbo Channel TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5523
+#EXTINF:-1,BBF Musik AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2133
+#EXTINF:-1,TV Opoja AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2139
+#EXTINF:-1,TV Zjarr AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/152
+#EXTINF:-1,ON TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5535
+#EXTINF:-1,Tetova TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2107
+#EXTINF:-1,Music AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/115
+#EXTINF:-1,MTV Kosova AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/116
+#EXTINF:-1,Click TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5517
+#EXTINF:-1,City TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5521
+#EXTINF:-1,Club TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5518
+#EXTINF:-1,Diaspora TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5525
+#EXTINF:-1,MFM Musik AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5529
+#EXTINF:-1,MUSIC BOX HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5493
+#EXTINF:-1,STV-Folk AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/146
+#EXTINF:-1,TV Folk AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/139
+#EXTINF:-1,AMOL TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5539
+#EXTINF:-1,Star Plus Shkoder FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19478
+#EXTINF:-1,RTV Islam AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5252
+#EXTINF:-1,RTV Iliria HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/7121
+#EXTINF:-1,RTV Pendimi
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/13039
+#EXTINF:-1,Bang Bang AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2106
+#EXTINF:-1,Cufo TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2123
+#EXTINF:-1,Alb Action AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2132
+#EXTINF:-1,Alb Comedy AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2130
+#EXTINF:-1,Alb Folk AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/143
+#EXTINF:-1,Alb Hits/Bulk AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5553
+#EXTINF:-1,Alb Islam AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5248
+#EXTINF:-1,Alb Movie HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5313
+#EXTINF:-1,Alb Music HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2098
+#EXTINF:-1,Alb Popullore AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2097
+#EXTINF:-1,Alb Western HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2126
+#EXTINF:-1,Channel One HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/126
+#EXTINF:-1,Apollon AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5315
+#EXTINF:-1,Top News AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2144
+#EXTINF:-1,ABC News AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/118
+#EXTINF:-1,News 24 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2142
+#EXTINF:-1,News 24 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2141
+#EXTINF:-1,Ora News HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/119
+#EXTINF:-1,S Aksion AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5549
+#EXTINF:-1,S Drama AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5550
+#EXTINF:-1,S Histori AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5547
+#EXTINF:-1,S Komedi AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5551
+#EXTINF:-1,S Music HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5538
+#EXTINF:-1,S Novela AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5501
+#EXTINF:-1,S Planet AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5500
+#EXTINF:-1,S Shkence AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5548
+#EXTINF:-1,Kino Action AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5559
+#EXTINF:-1,X Gold 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5556
+#EXTINF:-1,Kino Family HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5557
+#EXTINF:-1,Kino Premiere 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2102
+#EXTINF:-1,Kino Premiere 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2101
+#EXTINF:-1,Kino Premiere 3 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2100
+#EXTINF:-1,Kino Romanca HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5558
+#EXTINF:-1,Kino Sci-Fi HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5560
+#EXTINF:-1,Kino Thriller HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5561
+#EXTINF:-1,Digi Gold 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/686
+#EXTINF:-1,Digi Gold 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/685
+#EXTINF:-1,Digi Gold 3 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/684
+#EXTINF:-1,Digi Gold 4 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/683
+#EXTINF:-1,Travel Channel FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19462
+#EXTINF:-1,Travel Channel AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5545
+#EXTINF:-1,TV Besa Prizren AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5541
+#EXTINF:-1,Shenja TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2116
+#EXTINF:-1,Fox HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5577
+#EXTINF:-1,Fox Life AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5576
+#EXTINF:-1,Tema TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5243
+#EXTINF:-1,TV Sharri AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2113
+#EXTINF:-1,X Filma 24 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3709
+#EXTINF:-1,Medina TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5245
+#EXTINF:-1,Mekke TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5246
+#EXTINF:-1,Star+ Shkodra AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3705
+#EXTINF:-1,Zana Islam HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5251
+#EXTINF:-1,MRT 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2147
+#EXTINF:-1,MRT 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2146
+#EXTINF:-1,JUG TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3707
+#EXTINF:-1,Tip TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5515
+#EXTINF:-1,Peace TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2148
+#EXTINF:-1,Muse AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/129
+#EXTINF:-1,Nat Geo AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5544
+#EXTINF:-1,Fox Crime AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5575
+#EXTINF:-1,Baby TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5533
+#EXTINF:-1,Sofia TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5514
+#EXTINF:-1,Digi Gold AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/687
+#EXTINF:-1,RTV Presheva AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3693
+#EXTINF:-1,RTV MALISHEVA FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3692
+#EXTINF:-1,RTV Jug AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5314
+#EXTINF:-1,RTV ILIRIDA HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29504
+#EXTINF:-1,Filma24 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2119
+#EXTINF:-1,Alb Action HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5555
+#EXTINF:-1,Alb UK HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/154
+#EXTINF:-1,TOP Estrada TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5528
+#EXTINF:-1,Alb Humor 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2129
+#EXTINF:-1,Alb Humor 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2128
+#EXTINF:-1,Alb Thriller AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2127
+#EXTINF:-1,TV Mitrovica AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2112
+#EXTINF:-1,In TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5542
+#EXTINF:-1,Lugina Islam HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5250
+#EXTINF:-1,AV TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3690
+#EXTINF:-1,AAB HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5503
+#EXTINF:-1,Adria AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/125
+#EXTINF:-1,Animal Planet HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5543
+#EXTINF:-1,Antena HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5508
+#EXTINF:-1,Channel 7 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3691
+#EXTINF:-1,Dielli TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5502
+#EXTINF:-1,Docu Box HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5498
+#EXTINF:-1,Drita TV (Test) AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3699
+#EXTINF:-1,FAST AND FUN BOX HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5497
+#EXTINF:-1,FILM BOX EXTRA HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5494
+#EXTINF:-1,Film Shqip AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5554
+#EXTINF:-1,Kanali 7 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2143
+#EXTINF:-1,Kanal 10 FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/90912
+#EXTINF:-1,Kitchen AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5506
+#EXTINF:-1,KS Ilahi Nasheed Channel AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5253
+#EXTINF:-1,KSport Islam TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5254
+#EXTINF:-1,MKTV 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5504
+#EXTINF:-1,My Music AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/117
+#EXTINF:-1,Report TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5536
+#EXTINF:-1,Roma TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5531
+#EXTINF:-1,3 Plus AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2117
+#EXTINF:-1,Smile TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5540
+#EXTINF:-1,Tom And Jerry HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/10558
+#EXTINF:-1,TOP Music AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5532
+#EXTINF:-1,TV 1 Shkoder AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/111
+#EXTINF:-1,TV Apollon AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/112
+#EXTINF:-1,TV ASHKALI ILAHI HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29994
+#EXTINF:-1,TV Dibra AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/148
+#EXTINF:-1,TV Koha AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2114
+#EXTINF:-1,TV Opinion AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5522
+#EXTINF:-1,TV Syri Vision AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/3710
+#EXTINF:-1,TV Tirana AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/137
+#EXTINF:-1,TV Mix Islam HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14169
+#EXTINF:-1,Vizion Plus AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/2135
+#EXTINF:-1,Syri Vision TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5499
+#EXTINF:-1,X Gold 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14021
+#EXTINF:-1,Zico TV HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/149
+#EXTINF:-1,Shota TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29503
+#EXTINF:-1,Euro Film HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29498
+#EXTINF:-1,Euro Film 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29499
+#EXTINF:-1,Euro Film 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29500
+#EXTINF:-1,Euro Film 3 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29501
+#EXTINF:-1,Euro Film 4 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/29502
+#EXTINF:-1,KS Premiere 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14032
+#EXTINF:-1,KS Premiere 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14031
+#EXTINF:-1,KS Premiere 3 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14030
+#EXTINF:-1,KS Premiere 4 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14029
+#EXTINF:-1,KS SHQIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14024
+#EXTINF:-1,KS AKSION AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14023
+#EXTINF:-1,KS COMEDY AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/14022
+#EXTINF:-1,Tv 1 Channel Shkoder FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19477
+#EXTINF:-1,Tv Kopliku FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19452
+#EXTINF:-1,T7 Sport HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/22882
+#EXTINF:-1,Motors TV AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5509
+#EXTINF:-1,Tele Sport AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/130
+#EXTINF:-1,EuroSport 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19439
+#EXTINF:-1,Eurosport 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5511
+#EXTINF:-1,EuroSport 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19438
+#EXTINF:-1,Eurosport 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5510
+#EXTINF:-1,RTSH Sport FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19433
+#EXTINF:-1,RTSH Sport AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/156
+#EXTINF:-1,K Sport 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/676
+#EXTINF:-1,K Sport 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/675
+#EXTINF:-1,K Sport 3 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/674
+#EXTINF:-1,K Sport 4 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/673
+#EXTINF:-1,Super Sport 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/680
+#EXTINF:-1,Super Sport 2 FHD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/679
+#EXTINF:-1,Super Sport 3 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/678
+#EXTINF:-1,Super Sport 4 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/677
+#EXTINF:-1,Super Sport 5 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5513
+#EXTINF:-1,Super Sport 6 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/5512
+#EXTINF:-1,Super Sport Kosova 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/682
+#EXTINF:-1,Super Sport Kosova 2 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/681
+#EXTINF:-1,Tring Sport 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19437
+#EXTINF:-1,Tring Sport 1 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/672
+#EXTINF:-1,Tring Sport 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19436
+#EXTINF:-1,Tring Sport 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/671
+#EXTINF:-1,Tring Sport 3 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19435
+#EXTINF:-1,Tring Sport 3 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/670
+#EXTINF:-1,Tring Sport 4 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19434
+#EXTINF:-1,Tring Sport 4 AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/669
+#EXTINF:-1,Art Sport 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21101
+#EXTINF:-1,Art Sport 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21100
+#EXTINF:-1,Art Sport 3 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/21099
+#EXTINF:-1,Super Sport Kosova 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19449
+#EXTINF:-1,Super Sport Kosova 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19448
+#EXTINF:-1,Super Sport Kosova 3 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19447
+#EXTINF:-1,Super Sport 1 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19446
+#EXTINF:-1,Super Sport 2 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19445
+#EXTINF:-1,Super Sport 3 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19444
+#EXTINF:-1,Super Sport 4 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19443
+#EXTINF:-1,Super Sport 5 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19442
+#EXTINF:-1,Super Sport 6 FHD VIP AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/19441
+#EXTINF:-1,Tele One 1 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75473
+#EXTINF:-1,Tele One 2 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75474
+#EXTINF:-1,Tele One 3 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75475
+#EXTINF:-1,Tele One 4 HD AL
+http://euroserver.streamtv.to:8080/Kemalvic01/5Swuxbjctd/75476
