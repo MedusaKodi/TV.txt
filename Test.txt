@@ -18,11 +18,11 @@
 <info></info>
 </channel>
 
-channels>
-channel>
+<channels>
+<channel>
 <name>[COLOR gold]xxx[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Woppegong/Woppegong/master/tv1</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/XXXX.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
