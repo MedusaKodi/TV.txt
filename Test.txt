@@ -11,9 +11,9 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Action Filme[/COLOR]</name>
+<name>[COLOR gold]VOD[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Action.txt</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Vod.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
