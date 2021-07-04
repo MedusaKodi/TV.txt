@@ -1,6 +1,4 @@
-http://mytv.fun:8080/lxufhebhs/q0j2beks7d/6267
-#EXTINF:-1,------- Main & Regional -------
-http://mytv.fun:8080/lxufhebhs/q0j2beks7d/678832
+#EXTM3U
 #EXTINF:-1,Das Erste HD DE
 http://mytv.fun:8080/lxufhebhs/q0j2beks7d/13166
 #EXTINF:-1,Das Erste [B] HD DE
