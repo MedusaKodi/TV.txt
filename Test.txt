@@ -20,7 +20,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 3 (on)[/COLOR]</name>
+<name>[COLOR green]Medusa TV 3 (on)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server3.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
@@ -29,7 +29,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 4 (off)[/COLOR]</name>
+<name>[COLOR red]Medusa TV 4 (off)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server4.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
@@ -38,7 +38,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 5 (on)[/COLOR]</name>
+<name>[COLOR green]Medusa TV 5 (on)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server5.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
@@ -47,7 +47,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 6 (off)[/COLOR]</name>
+<name>[COLOR red]Medusa TV 6 (off)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server6.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
@@ -56,7 +56,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 7 (on)[/COLOR]</name>
+<name>[COLOR green]Medusa TV 7 (on)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server7.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
@@ -65,7 +65,7 @@
 
 <channels>
 <channel>
-<name>[COLOR gold]Medusa TV 8 (on)[/COLOR]</name>
+<name>[COLOR green]Medusa TV 8 (on)[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server8.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
