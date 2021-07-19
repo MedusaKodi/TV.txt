@@ -1,634 +1,634 @@
 #EXTM3U
-#EXNTIF:-1,Das Erste HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13166
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678832
+#EXTINF:-1,Das Erste HD DE
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13166
 #EXTINF:-1,Das Erste [B] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6262
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6262
 #EXTINF:-1,Das Erste DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6256
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6256
 #EXTINF:-1,ZDF FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6151
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6151
 #EXTINF:-1,ZDF HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/17011
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/17011
 #EXTINF:-1,ZDF Neo HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/17304
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/17304
 #EXTINF:-1,RTL FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13565
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13565
 #EXTINF:-1,RTL FHD [B] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683243
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683243
 #EXTINF:-1,RTL HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6216
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6216
 #EXTINF:-1,Sat.1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6210
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6210
 #EXTINF:-1,Sat.1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683455
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683455
 #EXTINF:-1,ProSieben FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6220
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6220
 #EXTINF:-1,ProSieben [B] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8235
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8235
 #EXTINF:-1,ProSieben HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683393
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683393
 #EXTINF:-1,ProSieben [B] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13144
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13144
 #EXTINF:-1,VOX FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13553
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13553
 #EXTINF:-1,VOX HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6153
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6153
 #EXTINF:-1,VOXup DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679836
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679836
 #EXTINF:-1,Kabel 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6242
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6242
 #EXTINF:-1,Kabel 1 Classic HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9151
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9151
 #EXTINF:-1,Kabel 1 Classic DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679844
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679844
 #EXTINF:-1,RTL 2 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6215
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6215
 #EXTINF:-1,RTL 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13136
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13136
 #EXTINF:-1,RTL Nitro FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6212
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6212
 #EXTINF:-1,RTL Nitro HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13137
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13137
 #EXTINF:-1,RTL Passion FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8219
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8219
 #EXTINF:-1,RTL Plus DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9152
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9152
 #EXTINF:-1,RTL Crime FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6214
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6214
 #EXTINF:-1,RTL Crime HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/17012
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/17012
 #EXTINF:-1,Crime & Investigation FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6263
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6263
 #EXTINF:-1,Crime & Investigation HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8197
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8197
 #EXTINF:-1,RTL Living FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6150
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6150
 #EXTINF:-1,RTL Living HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6213
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6213
 #EXTINF:-1,Sat1 Emotion DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13135
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13135
 #EXTINF:-1,Sat1 Gold FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6209
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6209
 #EXTINF:-1,ProSieben Fun FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6219
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6219
 #EXTINF:-1,ProSieben Fun HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13145
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13145
 #EXTINF:-1,ProSieben Fun [B] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13142
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13142
 #EXTINF:-1,ProSieben Maxx FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6218
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6218
 #EXTINF:-1,ProSieben Maxx HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683394
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683394
 #EXTINF:-1,Pro Sieben Maxx HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13143
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13143
 #EXTINF:-1,Pro Sieben Maxx FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8234
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8234
 #EXTINF:-1,Puls 24 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688788
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688788
 #EXTINF:-1,Puls 4 DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688789
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688789
 #EXTINF:-1,E! Entertainment FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13569
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13569
 #EXTINF:-1,E! Entertainment HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9137
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9137
 #EXTINF:-1,E! Entertainment DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5095
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5095
 #EXTINF:-1,SRF 1 DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6170
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6170
 #EXTINF:-1,MDR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6238
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6238
 #EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8240
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8240
 #EXTINF:-1,MDR Sachsen HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8239
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8239
 #EXTINF:-1,3Sat FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/16289
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/16289
 #EXTINF:-1,3sat HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6265
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6265
 #EXTINF:-1,NDR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6225
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6225
 #EXTINF:-1,HR FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13150
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13150
 #EXTINF:-1,HR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6243
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6243
 #EXTINF:-1,HR Fernsehen HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8225
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8225
 #EXTINF:-1,RBB Berlin HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6217
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6217
 #EXTINF:-1,BR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687568
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687568
 #EXTINF:-1,BR DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13168
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13168
 #EXTINF:-1,SWR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6165
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6165
 #EXTINF:-1,WDR HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6152
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6152
 #EXTINF:-1,noa4 Hamburg FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688727
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688727
 #EXTINF:-1,Franken Fernsehen FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/677835
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/677835
 #EXTINF:-1,BW Family TV FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6246
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6246
 #EXTINF:-1,BW Family TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23772
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23772
 #EXTINF:-1,QVC HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13140
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13140
 #EXTINF:-1,QVC Beauty & Style DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13141
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13141
 #EXTINF:-1,Sonnenklar TV FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13130
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13130
 #EXTINF:-1,Event - Covid Info FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679845
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679845
 #EXTINF:-1,------- Sports -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678834
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678834
 #EXTINF:-1,Sky Sport F1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687666
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687666
 #EXTINF:-1,Sky Sport F1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687667
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687667
 #EXTINF:-1,Sky Sports News FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13555
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13555
 #EXTINF:-1,Sky Sports News HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/684431
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/684431
 #EXTINF:-1,Sky Sport 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/684432
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/684432
 #EXTINF:-1,Sky Sport 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683895
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683895
 #EXTINF:-1,Sky Sport 1 DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9125
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9125
 #EXTINF:-1,Sky Sport 1 [B] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/684429
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/684429
 #EXTINF:-1,Sky Sport 2 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7362
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7362
 #EXTINF:-1,Sky Sport 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683896
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683896
 #EXTINF:-1,Sky Sport 3 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13563
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13563
 #EXTINF:-1,Sky Sport 3 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6182
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6182
 #EXTINF:-1,Sky Sport 4 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13562
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13562
 #EXTINF:-1,Sky Sport 4 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9127
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9127
 #EXTINF:-1,Sky Sport 5 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13561
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13561
 #EXTINF:-1,Sky Sport 5 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9126
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9126
 #EXTINF:-1,Sky Sport 6 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6181
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6181
 #EXTINF:-1,Sky Sport 7 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6180
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6180
 #EXTINF:-1,Sky Sport 8 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6179
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6179
 #EXTINF:-1,Sky Sport 9 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6178
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6178
 #EXTINF:-1,Sky Sport 10 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6177
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6177
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/684430
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/684430
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683408
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683408
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683409
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683409
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13538
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13538
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/73136
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/73136
 #EXTINF:-1,Sky Sport Bundesliga 1 [Match Time-B] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/684005
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/684005
 #EXTINF:-1,Sky Sport Bundesliga 2 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/62223
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/62223
 #EXTINF:-1,Sky Sport Bundesliga 2 [Match Time-B] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/135258
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/135258
 #EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/135671
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/135671
 #EXTINF:-1,Sky Sport Bundesliga 3 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/62220
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/62220
 #EXTINF:-1,Sky Sport Bundesliga 4 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/91235
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/91235
 #EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/135335
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/135335
 #EXTINF:-1,Sky Sport Bundesliga 5 [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/62002
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/62002
 #EXTINF:-1,Sky Sport Bundesliga 6 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/619225
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/619225
 #EXTINF:-1,Sky Sport Bundesliga 7 [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6198
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6198
 #EXTINF:-1,Sky Sport Bundesliga 8 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6197
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6197
 #EXTINF:-1,Sky Sport Bundesliga 9 [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6196
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6196
 #EXTINF:-1,Sky Sport Bundesliga 10 [Match Time] FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6195
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6195
 #EXTINF:-1,Sky Sport Austria 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688793
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688793
 #EXTINF:-1,Sky Sport Austria 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688795
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688795
 #EXTINF:-1,DAZN 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/625243
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/625243
 #EXTINF:-1,DAZN 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/50775
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/50775
 #EXTINF:-1,Sport1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6173
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6173
 #EXTINF:-1,Sport1 HD  DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8221
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8221
 #EXTINF:-1,Sport1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8226
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8226
 #EXTINF:-1,Sport1+ FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679847
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679847
 #EXTINF:-1,Sport1+ HD [B] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679848
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679848
 #EXTINF:-1,eSports 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687730
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687730
 #EXTINF:-1,Telekom Fußball 1 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679821
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679821
 #EXTINF:-1,Telekom Fußball 2 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679822
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679822
 #EXTINF:-1,Telekom Fußball 3 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679823
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679823
 #EXTINF:-1,Telekom Fußball 4 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679824
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679824
 #EXTINF:-1,Telekom Fußball 5 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679825
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679825
 #EXTINF:-1,Telekom Fußball 6 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679826
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679826
 #EXTINF:-1,Telekom Fußball 7 HD [Match Time] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679827
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679827
 #EXTINF:-1,Telekom Fußball 8 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688721
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688721
 #EXTINF:-1,Telekom Eishockey 1 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679671
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679671
 #EXTINF:-1,Telekom Eishockey 2 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679672
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679672
 #EXTINF:-1,Telekom Eishockey 3 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679673
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679673
 #EXTINF:-1,Telekom Eishockey 4 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679676
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679676
 #EXTINF:-1,Telekom Basketball 1 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679674
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679674
 #EXTINF:-1,Telekom Basketball 2 [Match Time] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679675
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679675
 #EXTINF:-1,Eurosport 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8218
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8218
 #EXTINF:-1,Eurosport 2 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9131
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9131
 #EXTINF:-1,Eurosport 2 Xtra FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13163
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13163
 #EXTINF:-1,Eurosport 2 Xtra HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9130
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9130
 #EXTINF:-1,Sport Digital FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8244
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8244
 #EXTINF:-1,Sport Digital HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6171
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6171
 #EXTINF:-1,Motorvision HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8222
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8222
 #EXTINF:-1,Auto Motor Sport FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9132
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9132
 #EXTINF:-1,FC Bayern TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9128
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9128
 #EXTINF:-1,------- Movies & Series -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678836
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678836
 #EXTINF:-1,Sky Action HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5093
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5093
 #EXTINF:-1,Sky Action DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6205
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6205
 #EXTINF:-1,Sky Cinema Special FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8217
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8217
 #EXTINF:-1,Sky Cinema Special HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6252
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6252
 #EXTINF:-1,Sky Cinema Thriller FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5089
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5089
 #EXTINF:-1,Sky Cinema Thriller HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7372
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7372
 #EXTINF:-1,Sky Cinema Thriller DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6193
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6193
 #EXTINF:-1,Sky Cinema Premieren FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6194
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6194
 #EXTINF:-1,Sky Cinema Premieren HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7373
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7373
 #EXTINF:-1,Sky Cinema Premieren +24 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6192
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6192
 #EXTINF:-1,Sky Cinema Premieren +24 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13133
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13133
 #EXTINF:-1,Sky Cinema Action HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7370
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7370
 #EXTINF:-1,Sky Cinema Action DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9146
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9146
 #EXTINF:-1,Sky Cinema Fun HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9144
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9144
 #EXTINF:-1,Sky Cinema Fun DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6190
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6190
 #EXTINF:-1,Sky Cinema Best Of FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7368
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7368
 #EXTINF:-1,Sky Cinema Best Of HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8223
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8223
 #EXTINF:-1,Sky Cinema Family FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9145
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9145
 #EXTINF:-1,Sky Cinema Family HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7369
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7369
 #EXTINF:-1,Sky Cinema Classics HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13131
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13131
 #EXTINF:-1,Sky Cinema Classics DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6186
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6186
 #EXTINF:-1,Sky Cinema Best of DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5088
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5088
 #EXTINF:-1,Sky Cinema Nostalgie HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688792
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688792
 #EXTINF:-1,Sky Cinema Comedy VIP HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688822
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688822
 #EXTINF:-1,Sky Crime VIP HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688821
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688821
 #EXTINF:-1,Sky Atlantic HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7367
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7367
 #EXTINF:-1,Sky Atlantic DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6204
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6204
 #EXTINF:-1,Sky Atlantic +1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13134
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13134
 #EXTINF:-1,Sky 13TH Street FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5098
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5098
 #EXTINF:-1,Sky 13TH Street HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7365
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7365
 #EXTINF:-1,Sky 13TH Street [B] HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8198
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8198
 #EXTINF:-1,Sky One FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9138
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9138
 #EXTINF:-1,One HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9147
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9147
 #EXTINF:-1,Fox FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13567
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13567
 #EXTINF:-1,Fox HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6245
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6245
 #EXTINF:-1,Fox DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23770
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23770
 #EXTINF:-1,Syfy FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7364
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7364
 #EXTINF:-1,Syfy HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5087
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5087
 #EXTINF:-1,Syfy DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6164
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6164
 #EXTINF:-1,Sky Krimi HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8220
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8220
 #EXTINF:-1,TNT Comedy FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6157
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6157
 #EXTINF:-1,TNT Comedy HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687541
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687541
 #EXTINF:-1,TNT Film FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6156
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6156
 #EXTINF:-1,TNT Film HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683894
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683894
 #EXTINF:-1,TNT Serie FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5084
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5084
 #EXTINF:-1,TNT Serie HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6155
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6155
 #EXTINF:-1,TNT Serie DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13154
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13154
 #EXTINF:-1,Universal FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5265
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5265
 #EXTINF:-1,Sony TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6167
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6167
 #EXTINF:-1,Kinowelt HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6240
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6240
 #EXTINF:-1,Kinowelt DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/672086
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/672086
 #EXTINF:-1,Eagle Cinema Premiere FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681946
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681946
 #EXTINF:-1,Eagle Cinema Horror FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681942
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681942
 #EXTINF:-1,Eagle Cinema Thriller FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681950
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681950
 #EXTINF:-1,Eagle Cinema Sci-Fi FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681949
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681949
 #EXTINF:-1,Eagle Cinema Animation HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681939
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681939
 #EXTINF:-1,Eagle Cinema Mythologie HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681945
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681945
 #EXTINF:-1,Eagle Cinema Lächeln HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681944
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681944
 #EXTINF:-1,Eagle Cinema Geschichte HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681941
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681941
 #EXTINF:-1,Eagle Cinema Romantisch FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/681948
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/681948
 #EXTINF:-1,Sky Select 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655131
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655131
 #EXTINF:-1,Sky Select 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7375
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7375
 #EXTINF:-1,Sky Select 2 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655130
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655130
 #EXTINF:-1,Sky Select 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7376
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7376
 #EXTINF:-1,Sky Select 3 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655129
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655129
 #EXTINF:-1,Sky Select 3 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7377
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7377
 #EXTINF:-1,Sky Select 4 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655128
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655128
 #EXTINF:-1,Sky Select 4 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/7378
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/7378
 #EXTINF:-1,Sky Select 5 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8977
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8977
 #EXTINF:-1,Sky Select 5 HD [demnächst] DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655127
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655127
 #EXTINF:-1,Sky Select 6 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8976
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8976
 #EXTINF:-1,Sky Select 6 FHD (demnächst) DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/655126
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/655126
 #EXTINF:-1,Sky Select 7 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8975
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8975
 #EXTINF:-1,Sky Select 8 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8974
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8974
 #EXTINF:-1,PopCorn Select 1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23778
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23778
 #EXTINF:-1,PopCorn Select 2 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683536
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683536
 #EXTINF:-1,PopCorn Select 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23777
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23777
 #EXTINF:-1,PopCorn Select 3 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683537
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683537
 #EXTINF:-1,PopCorn Select 3 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23776
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23776
 #EXTINF:-1,PopCorn Select 4 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23775
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23775
 #EXTINF:-1,PopCorn Select 5 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683540
-#EXTINF:-1,HiperCinema 4K DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683524
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683540
 #EXTINF:-1,HyperCinema Boxset FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683534
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683534
 #EXTINF:-1,HyperCinema INFO FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683523
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683523
 #EXTINF:-1,HyperCinema 1 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683535
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683535
 #EXTINF:-1,HyperCinema 2 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683525
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683525
 #EXTINF:-1,HyperCinema 3 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683526
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683526
 #EXTINF:-1,HyperCinema 4 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683527
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683527
 #EXTINF:-1,HyperCinema 5 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683528
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683528
 #EXTINF:-1,HyperCinema 6 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683529
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683529
 #EXTINF:-1,HyperCinema 7 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683530
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683530
 #EXTINF:-1,HyperCinema 8 FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683531
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683531
 #EXTINF:-1,AXN FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5097
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5097
 #EXTINF:-1,AXN HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6259
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6259
 #EXTINF:-1,Comedy Central FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6154
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6154
 #EXTINF:-1,Romance TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13152
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13152
 #EXTINF:-1,Romance TV DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6211
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6211
 #EXTINF:-1,Sky Heimat Kanal HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678481
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678481
 #EXTINF:-1,Sky Heimat Kanal DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6188
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6188
 #EXTINF:-1,Sixx FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6207
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6207
 #EXTINF:-1,Servus TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6208
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6208
 #EXTINF:-1,Tele 5 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9150
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9150
 #EXTINF:-1,Bibel TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/677497
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/677497
 #EXTINF:-1,FilMax Hits FHD VIP DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688717
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688717
 #EXTINF:-1,------- Documentary -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678919
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678919
 #EXTINF:-1,ZDF Info HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9148
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9148
 #EXTINF:-1,N24 Doku DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679837
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679837
 #EXTINF:-1,Kabel Eins Doku FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13147
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13147
 #EXTINF:-1,Kabel 1 Doku DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679843
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679843
 #EXTINF:-1,History Channel FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6244
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6244
 #EXTINF:-1,Spiegel Geschichte HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6174
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6174
 #EXTINF:-1,Spiegel TV Wissen HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9135
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9135
 #EXTINF:-1,Discovery FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13570
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13570
 #EXTINF:-1,Discovery HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5096
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5096
 #EXTINF:-1,DOXX HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679846
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679846
 #EXTINF:-1,Animal Planet FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8196
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8196
 #EXTINF:-1,Animal Planet HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13173
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13173
 #EXTINF:-1,National Geographic HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8194
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8194
 #EXTINF:-1,National Geographic DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6226
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6226
 #EXTINF:-1,Nat Geo wild FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6227
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6227
 #EXTINF:-1,Nat Geo Wild HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9136
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9136
 #EXTINF:-1,Nat Geo Wild DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5085
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5085
 #EXTINF:-1,HGTV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688723
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688723
 #EXTINF:-1,Welt der Wunder HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679838
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679838
 #EXTINF:-1,Welt der Wunder DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13129
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13129
 #EXTINF:-1,Anixe HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6264
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6264
 #EXTINF:-1,Dmax FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6249
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6249
 #EXTINF:-1,TLC HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8224
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8224
 #EXTINF:-1,Health TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688722
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688722
 #EXTINF:-1,Luxe TV FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/676714
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/676714
 #EXTINF:-1,Sky Arte FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5091
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5091
 #EXTINF:-1,Sky Arte HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9139
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9139
 #EXTINF:-1,Sky Arte DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6261
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6261
 #EXTINF:-1,ARD Alpha HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13171
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13171
 #EXTINF:-1,Light Channel DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688724
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688724
 #EXTINF:-1,Waidwerk FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/687566
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/687566
 #EXTINF:-1,------- News -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678922
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678922
 #EXTINF:-1,Euronews DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6248
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6248
 #EXTINF:-1,Welt HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6228
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6228
 #EXTINF:-1,N-TV FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13149
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13149
 #EXTINF:-1,N-TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/8195
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8195
 #EXTINF:-1,N-TV DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13566
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13566
 #EXTINF:-1,Munchen TV DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6229
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6229
 #EXTINF:-1,Phoenix HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6221
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6221
 #EXTINF:-1,Tagesschau 24 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6163
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6163
 #EXTINF:-1,------- Children -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678923
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678923
 #EXTINF:-1,Super RTL FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13554
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13554
 #EXTINF:-1,Super RTL HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6166
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6166
 #EXTINF:-1,KiKa FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679839
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679839
 #EXTINF:-1,Kika HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6241
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6241
 #EXTINF:-1,Baby TV DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13169
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13169
 #EXTINF:-1,Toggo Plus HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/5086
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/5086
 #EXTINF:-1,Toggo Plus DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/9133
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/9133
 #EXTINF:-1,Boomerang HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6258
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6258
 #EXTINF:-1,Cartoon Network FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6257
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6257
 #EXTINF:-1,Disney Channel FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6253
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6253
 #EXTINF:-1,Disney Junior FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13568
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13568
 #EXTINF:-1,Disney Junior HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6251
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6251
 #EXTINF:-1,Junior HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6239
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6239
 #EXTINF:-1,Nickelodeon HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6224
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6224
 #EXTINF:-1,Fix & Foxi DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/23771
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/23771
 #EXTINF:-1,------- Music -------
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/678925
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/678925
 #EXTINF:-1,MTV FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/35466
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/35466
 #EXTINF:-1,MTV +1 HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/679793
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/679793
 #EXTINF:-1,MTV 80s DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/638080
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/638080
 #EXTINF:-1,Sky Classica DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6191
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6191
 #EXTINF:-1,Classica HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13167
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13167
 #EXTINF:-1,GoldStar TV DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/683427
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683427
 #EXTINF:-1,Jukebox DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/13148
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13148
 #EXTINF:-1,Deluxe Music HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/6255
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6255
 #EXTINF:-1,Kronehit FHD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/14200
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/14200
 #EXTINF:-1,Pilatus Beatz TV HD DE
-http://mytv.fun:8080/9qgqfea5ia/nyk5elxs45/688787
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/688787
 #EXTINF:-1,Deutsches Musik Fernsehen DE
+http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/13165
