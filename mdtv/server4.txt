@@ -22,8 +22,6 @@ http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6216
 http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6210
 #EXTINF:-1,Sat.1 HD DE
 http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/683455
-#EXTINF:-1,ProSieben FHD DE
-http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/6220
 #EXTINF:-1,ProSieben [B] FHD DE
 http://mytv.fun:8080/Ismet Kukaj 1/1ok0yr3mu/8235
 #EXTINF:-1,ProSieben HD DE
