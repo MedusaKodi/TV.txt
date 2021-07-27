@@ -38,7 +38,7 @@
 
 <channels>
 <channel>
-<name>[COLOR green]Medusa TV 5[/COLOR]</name>
+<name>[COLOR red]Medusa TV 5[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server5.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
