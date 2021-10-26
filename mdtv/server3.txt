@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,# Juli 2022 #
+http://mytv.fun:8080/max3202/wejpwd37tw/6267
 #EXTINF:-1,Das Erste HD DE
 http://mytv.fun:8080/max3202/wejpwd37tw/13166
 #EXTINF:-1,Das Erste [B] HD DE
