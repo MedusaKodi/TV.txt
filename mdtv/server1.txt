@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,# Sep.2022 ##########
+#EXTINF:-1,# Sep.2022 #
 http://mytv.fun:8080/Hggtgg7/vvgfdt77/6267
 #EXTINF:-1,Das Erste HD DE
 http://mytv.fun:8080/Hggtgg7/vvgfdt77/13166
