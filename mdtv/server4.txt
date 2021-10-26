@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,# 27.Nov.2024 #
+EXTINF:-1,# 27.Nov.2024 #
 http://mytv.fun:8080/fvysbgpm6e/1qp4koi4wl/6267
 #EXTINF:-1,Das Erste HD DE
 http://mytv.fun:8080/fvysbgpm6e/1qp4koi4wl/13166
