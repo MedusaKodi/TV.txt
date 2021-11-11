@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Shahid VIP Live HD ARB" tvg-logo="" group-title="Arab Countries VIP",Shahid VIP Live HD ARB
-http://bggxq.funtogether.xyz:8080/saf003/IpobVN5yTZ/101750
-#EXTINF:-1 tvg-id="" tvg-name="Shahid Series 1 HD ARB" tvg-logo="" group-title="Arab Countries VIP",Shahid Series 1 HD ARB
-http://bggxq.funtogether.xyz:8080/saf003/IpobVN5yTZ/101749
