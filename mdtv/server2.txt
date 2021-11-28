@@ -639,3 +639,5 @@ http://mytv.fun:8080/Daniel/tgf56vbcxfu/14200
 http://mytv.fun:8080/Daniel/tgf56vbcxfu/688787
 #EXTINF:-1,Deutsches Musik Fernsehen DE
 http://mytv.fun:8080/Daniel/tgf56vbcxfu/13165
+#EXTINF:-1 tvg-id="" tvg-name="Marvels Runaways HD 24/7 VIP DE" tvg-logo="" group-title="24/7 Germany",Marvels Runaways HD 24/7 VIP DE
+http://tv.iptvsupport.live:8080/VspEICvlZ2
