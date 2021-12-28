@@ -95,7 +95,7 @@
 <channel>
 <name>[COLOR green]Medusa TV XXX[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/18.txt</externallink>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/18%2B.txt</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
 <info></info>
 </channel>
