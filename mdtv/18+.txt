@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Gold FHD (18+) US
 http://mytv.fun:8080/4vkm75m60g/hcqxdczewa/13863
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Quickies FHD (18+) US
