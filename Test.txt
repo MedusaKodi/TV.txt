@@ -3,9 +3,9 @@
 <channels>
 <channel>
 <name>[COLOR green]Medusa TV 1[/COLOR]</name>
-<thumbnail>https://github.com/MedusaKodi/TV.txt/raw/master/fanart.jpg</thumbnail>
+<thumbnail>https://github.com/MedusaKodi/TV.txt/raw/master/splash.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server1.txt</externallink>
-<fanart>https://github.com/MedusaKodi/TV.txt/raw/master/fanart.jpg</fanart>
+<fanart>https://github.com/MedusaKodi/TV.txt/raw/master/splash.jpg</fanart>
 <info></info>
 </channel>
 
