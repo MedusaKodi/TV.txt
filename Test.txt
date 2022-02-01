@@ -90,8 +90,8 @@
 <info></info>
 </channel>
 
-<channels>
-<channel>
+channels>
+channel>
 <name>[COLOR yellow]Medusa TV test[/COLOR]</name>
 <thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Vod.txt</externallink>
