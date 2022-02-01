@@ -90,6 +90,15 @@
 <info></info>
 </channel>
 
+<channels>
+<channel>
+<name>[COLOR yellow]Medusa TV test[/COLOR]</name>
+<thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/24.txt</externallink>
+<fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
+<info></info>
+</channel>
+
 
 <channels>
 <channel>
@@ -100,14 +109,6 @@
 <info></info>
 </channel>
 
-channels>
-channel>
-<name>[COLOR yellow]Medusa TV test[/COLOR]</name>
-<thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/24.txt</externallink>
-<fanart>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</fanart>
-<info></info>
-</channel>
 
 
 
