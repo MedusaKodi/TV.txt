@@ -112,8 +112,8 @@ channel>
 <channels>
 <channel>
 <name>[COLOR green]Medusa Test[/COLOR]</name>
-<thumbnail>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/24-7serien</thumbnail>
-<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/server1.txt</externallink>
+<thumbnail>https://github.com/MedusaKodi/TV.txt/blob/master/fanart.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/mdtv/24-7serien</externallink>
 <fanart>https://github.com/MedusaKodi/TV.txt/raw/master/splash.jpg</fanart>
 <info></info>
 </channel>
