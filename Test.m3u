@@ -1,0 +1,218 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13166
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B] HD DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste [B] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6262
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6256
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD DE" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Germany",ZDF FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6151
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD DE" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Germany",ZDF HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/17011
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Germany",ZDF Neo HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/17304
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD DE" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13565
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD [B] DE" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL FHD [B] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683243
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD DE" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6216
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 FHD DE" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Germany",Sat.1 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6210
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD DE" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Germany",Sat.1 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683455
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben FHD DE" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6220
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] FHD DE" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben [B] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8235
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD DE" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683393
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD DE" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben [B] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13144
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX FHD DE" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Germany",VOX FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13553
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD DE" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Germany",VOX HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6153
+#EXTINF:-1 tvg-id="" tvg-name="VOXup DE" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Germany",VOXup DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/679836
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel 1 FHD DE" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Germany",Kabel 1 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6242
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic HD DE" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Germany",Kabel 1 Classic HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9151
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic DE" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Germany",Kabel 1 Classic DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/679844
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 FHD DE" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Germany",RTL 2 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6215
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD DE" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Germany",RTL 2 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13136
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD DE" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Germany",RTL Nitro FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6212
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD DE" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Germany",RTL Nitro HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13137
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD DE" tvg-logo="http://pici.life/rtlpassion.png" group-title="Germany",RTL Passion FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8219
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup DE" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Germany",RTLup DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9152
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD DE" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Germany",RTL Crime FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6214
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD DE" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Germany",RTL Crime HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/17012
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation FHD DE" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Germany",Crime & Investigation FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6263
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation HD DE" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Germany",Crime & Investigation HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8197
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living FHD DE" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Germany",RTL Living FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6150
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD DE" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Germany",RTL Living HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6213
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion DE" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Germany",Sat1 Emotion DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13135
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold FHD DE" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Germany",Sat1 Gold FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6209
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun FHD DE" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6219
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD DE" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13145
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun [B] HD DE" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun [B] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13142
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx FHD DE" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Germany",ProSieben Maxx FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6218
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx HD DE" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Germany",ProSieben Maxx HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683394
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx HD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13143
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="Pro Sieben Maxx FHD DE" tvg-logo="http://pici.life/DE/prosiebenmaxxhd.png" group-title="Germany",Pro Sieben Maxx FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8234
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD DE" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13569
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment HD DE" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9137
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment DE" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/5095
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="SRF 1 DE" tvg-logo="https://i.postimg.cc/GtHQrM2f/SRF1.png" group-title="Germany",SRF 1 DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6170
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD DE" tvg-logo="https://i.postimg.cc/nVBrts79/MDR.jpg" group-title="Germany",MDR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6238
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD DE" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Germany",3Sat FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/16289
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD DE" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Germany",3sat HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6265
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD DE" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" group-title="Germany",NDR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6225
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FHD DE" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Germany",HR FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13150
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD DE" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Germany",HR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6243
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin HD DE" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" group-title="Germany",RBB Berlin HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6217
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR HD DE" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Germany",BR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/687568
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR DE" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Germany",BR DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13168
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD DE" tvg-logo="https://i.postimg.cc/NfWcDtp8/SWR-Fernsehen.jpg" group-title="Germany",SWR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6165
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD DE" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" group-title="Germany",WDR HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6152
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD DE" tvg-logo="https://i.postimg.cc/Z54h2Hz0/Franken-Fernsehen.jpg" group-title="Germany",Franken Fernsehen FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/677835
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV FHD DE" tvg-logo="https://i.postimg.cc/RVfkQ2DZ/Bw-family-tv.png" group-title="Germany",BW Family TV FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6246
+#EXTINF:-1 tvg-id="familytv.de" tvg-name="BW Family TV HD DE" tvg-logo="https://i.postimg.cc/RVfkQ2DZ/Bw-family-tv.png" group-title="Germany",BW Family TV HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/23772
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC HD DE" tvg-logo="https://i.postimg.cc/T3CBSXcH/QVC-2019.jpg" group-title="Germany",QVC HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13140
+#EXTINF:-1 tvg-id="qvcstyle.de" tvg-name="QVC Style FHD DE" tvg-logo="https://i.postimg.cc/WzTnTdNm/QVC-Style.jpg" group-title="Germany",QVC Style FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13141
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV FHD DE" tvg-logo="https://i.postimg.cc/25nhyCX0/Sonnenklar-tv.png" group-title="Germany",Sonnenklar TV FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13130
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ DE Sports ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ DE Sports ⭒✽✽
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/678834
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 FHD DE" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Germany",Sky Sport F1 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/687666
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 HD DE" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Germany",Sky Sport F1 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/687667
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD DE" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Germany",Sky Sports News FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13555
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD DE" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Germany",Sky Sports News HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/684431
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 FHD DE" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Germany",Sky Sport 1 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/684432
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Germany",Sky Sport 1 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683895
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 DE" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Germany",Sky Sport 1 DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9125
+#EXTINF:-1 tvg-id="skysport1.de" tvg-name="Sky Sport 1 [B] DE" tvg-logo="https://i.postimg.cc/bN8tVXrn/Sky-Sport-1-logo-2020.png" group-title="Germany",Sky Sport 1 [B] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/684429
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 FHD DE" tvg-logo="https://i.postimg.cc/xTC01gF7/Sky-Sport-2-2020.png" group-title="Germany",Sky Sport 2 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/7362
+#EXTINF:-1 tvg-id="skysport2.de" tvg-name="Sky Sport 2 HD DE" tvg-logo="https://i.postimg.cc/xTC01gF7/Sky-Sport-2-2020.png" group-title="Germany",Sky Sport 2 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683896
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Germany",Sky Sport 3 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13563
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Germany",Sky Sport 3 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6182
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Germany",Sky Sport 4 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13562
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Germany",Sky Sport 4 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9127
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD DE" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Germany",Sky Sport 5 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13561
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Germany",Sky Sport 5 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/9126
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/SR7FZYsw/Sky-Sport-6.png" group-title="Germany",Sky Sport 6 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6181
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/vZSRSsYH/Sky-Sport-7.png" group-title="Germany",Sky Sport 7 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6180
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/9fqk8wgJ/Sky-Sport-8.png" group-title="Germany",Sky Sport 8 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6179
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/9FMJgqrZ/Sky-Sport-9.png" group-title="Germany",Sky Sport 9 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6178
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/mk6NW8tM/Sky-Sport-10.png" group-title="Germany",Sky Sport 10 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6177
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/684430
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683408
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] HD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/683409
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/13538
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/73136
+#EXTINF:-1 tvg-id="skybundesliga1.de" tvg-name="Sky Sport Bundesliga 1 [Match Time-B] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 1 [Match Time-B] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/684005
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/62223
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time-B] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/135258
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/135671
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/62220
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 4 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/91235
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/135335
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/62002
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 6 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/619225
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 [Match Time] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 7 [Match Time] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6198
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 8 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6197
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time] DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 9 [Match Time] DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6196
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD DE" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 10 [Match Time] FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6195
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DAZN 1 HD DE" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 1 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/625243
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DAZN 2 HD DE" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 2 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/50775
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 FHD DE" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Germany",Sport1 FHD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/6173
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="Sport1 HD  DE" tvg-logo="http://pici.life/DE/sport1hd-duslelaslu.png" group-title="Germany",Sport1 HD  DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8221
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD DE" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Germany",Sport1 HD DE
+http://mytv.fun:8080/HenningTherkelsen/ko5tzzjyuj/8226
+#EXTINF:-1 tvg-id
