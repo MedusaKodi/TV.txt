@@ -268,6 +268,186 @@ http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5089
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD DE" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Germany",Sky Cinema Thriller HD DE
 http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7372
 #EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller DE" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Germany",Sky Cinema Thriller DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6193
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6194
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7373
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6192
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/13133
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD DE" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Germany",Sky Cinema Fun HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9144
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun DE" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Germany",Sky Cinema Fun DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6190
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of FHD DE" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Germany",Sky Cinema Best Of FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7368
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of HD DE" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Germany",Sky Cinema Best Of HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8223
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD DE" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Germany",Sky Cinema Family FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9145
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD DE" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Germany",Sky Cinema Family HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7369
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics HD DE" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Germany",Sky Cinema Classics HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/13131
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics DE" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Germany",Sky Cinema Classics DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6186
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="Sky Cinema Comedy VIP HD DE" tvg-logo="https://i.postimg.cc/mrHMqGV9/Sky-Comedy-logo.png" group-title="Germany",Sky Cinema Comedy VIP HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/688822
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name=" Sky Krimi VIP HD DE" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Germany", Sky Krimi VIP HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/688821
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name="Sky Krimi HD DE" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Germany",Sky Krimi HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8220
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic FHD DE" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Germany",Sky Atlantic FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7367
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD DE" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Germany",Sky Atlantic HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6204
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street FHD DE" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5098
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD DE" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7365
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street [B] HD DE" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street [B] HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8198
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One FHD DE" tvg-logo="https://i.postimg.cc/0jz3SjP3/Sky-One-2020.png" group-title="Germany",Sky One FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9138
+#EXTINF:-1 tvg-id="one.de" tvg-name="One HD DE" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" group-title="Germany",One HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9147
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD DE" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Germany",ZDF Neo HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/17304
+#EXTINF:-1 tvg-id="fox.de" tvg-name="Sky Replay FHD DE" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Germany",Sky Replay FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/23770
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy FHD DE" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Germany",Syfy FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7364
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy HD DE" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Germany",Syfy HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5087
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy DE" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Germany",Syfy DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6164
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy FHD DE" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Germany",WarnerTV Comedy FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6157
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy HD DE" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Germany",WarnerTV Comedy HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/687541
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="Warner Film FHD DE" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Germany",Warner Film FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6156
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie FHD DE" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Germany",WarnerTV Serie FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5084
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie HD DE" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Germany",WarnerTV Serie HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6155
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie DE" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Germany",WarnerTV Serie DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/13154
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal FHD DE" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Germany",Universal FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5265
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony Channel HD DE" tvg-logo="https://i.postimg.cc/kXnTZ9Gz/Sony-Channel-2019.png" group-title="Germany",Sony Channel HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6167
+#EXTINF:-1 tvg-id="axn.de" tvg-name="Sony AXN FHD DE" tvg-logo="https://i.postimg.cc/vHfC1N7S/Sony-AXN.png" group-title="Germany",Sony AXN FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/5097
+#EXTINF:-1 tvg-id="axn.de" tvg-name="Sony AXN HD DE" tvg-logo="https://i.postimg.cc/vHfC1N7S/Sony-AXN.png" group-title="Germany",Sony AXN HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6259
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt FHD DE" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Germany",Kinowelt FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6240
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt HD DE" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Germany",Kinowelt HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/672086
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere FHD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Premiere FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681946
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror FHD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Horror FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681942
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller FHD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Thriller FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681950
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi FHD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Sci-Fi FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681949
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Animation HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681939
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie HD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Mythologie HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681945
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Lächeln HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681944
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Geschichte HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681941
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch FHD DE" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Romantisch FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/681948
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 1 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/655131
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 1 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7375
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 FHD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 2 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/655130
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 2 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7376
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 FHD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 3 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/655129
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 3 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7377
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 FHD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 4 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/655128
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 4 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/7378
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 5 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8977
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD [demnächst] DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 5 HD [demnächst] DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/655127
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 6 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8976
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 7 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8975
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD DE" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 8 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/8974
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 HD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 1 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/23778
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 FHD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 2 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683536
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 HD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 2 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/23777
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 FHD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 3 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683537
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 HD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 3 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/23776
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="PopCorn Select 4 HD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 4 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/23775
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5 HD DE" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 5 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683540
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema Boxset FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683534
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema INFO FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683523
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 1 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683535
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2 HD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 2 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683525
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 3 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683526
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 4 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683527
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5 HD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 5 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683528
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 6 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683529
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 7 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683530
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 FHD DE" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 8 FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/683531
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD DE" tvg-logo="https://i.postimg.cc/KzgFSxHn/Comedy-Central-2018.jpg" group-title="Germany",Comedy Central FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6154
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD DE" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" group-title="Germany",Romance TV HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/13152
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV DE" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" group-title="Germany",Romance TV DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6211
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal HD DE" tvg-logo="https://i.postimg.cc/MKJVvY1S/Heimatkanal.png" group-title="Germany",Sky Heimat Kanal HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/678481
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal DE" tvg-logo="https://i.postimg.cc/MKJVvY1S/Heimatkanal.png" group-title="Germany",Sky Heimat Kanal DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6188
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD DE" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" group-title="Germany",Sixx FHD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6207
+#EXTINF:-1 tvg-id="ServusTV Deutschland DE" tvg-name="Servus TV HD DE" tvg-logo="https://i.postimg.cc/NGDBHsHj/ServusTV.jpg" group-title="Germany",Servus TV HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/6208
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD DE" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png" group-title="Germany",Tele 5 HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9150
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD DE" tvg-logo="https://i.postimg.cc/vZqvgVQt/bibel-tv.png" group-title="Germany",Bibel TV HD DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/677497
+#EXTINF:-1 tvg-id="" tvg-name="Genius Family DE" tvg-logo="https://i.postimg.cc/kGsb00Gv/Genius-Family.jpg" group-title="Germany",Genius Family DE
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/690457
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Documentary ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Documentary ⭒✽✽
+http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/678919
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info HD DE" tvg-logo="https://i.postimg.cc/28KnwfZ4/ZDFinfo-2011.jpg" group-title="Germany",ZDF Info HD DE
 http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/9148
 #EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 Doku DE" tvg-logo="https://i.postimg.cc/s2FSk9Kx/N24-Doku.jpg" group-title="Germany",N24 Doku DE
 http://mag.you24.online:8080/4xofplpjxh/p0t6nfy1dc/679837
