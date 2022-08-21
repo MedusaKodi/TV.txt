@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.MedusaTV2"
+       name="Medusa TV 2.0"
+       version="1.3.0"
+       provider-name="Medusa">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.f4mTester"/>
+	<import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+            library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">Documentales</summary>
+    <language>es</language>
+    <description lang="es">Todos los documentales en castellano, la videoteca que no deja de crecer ! ... Este addon requiere de plugin f4mTester de shani para funcionar.</description>
+     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.vavooto" name="VAVOO.TO" version="5.2" provider-name="michaz">
+    <requires>
+        <import addon="script.module.requests"/>
+        <import addon="inputstream.ffmpegdirect" optional="true" />
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="lib/main.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.xship" version="2022.04.01" name="Xship" provider-name="Xship-Team">
+    <requires>
+        <import addon="script.module.requests"/>
+        <import addon="script.module.resolveurl" version="5.1.54"/>
+        <!-- for remote debug -->
+        <import addon="script.module.pydevd" optional="true"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <!--<extension point="xbmc.service" library="service.py" start="startup" />-->
+    <extension point="xbmc.addon.metadata">
+        <summary lang="de">xShip</summary>
+        <description lang="de">
+Mit diesem Addon kannst du auf alle angebotenen Streams verschiedenster deutscher Quellen zugreifen.
+Beachte, dass Addon kein offizieller Teil des verwendeten Media Players ist, und daher nicht von den offiziellen Support-Kanälen abgedeckt wird.
+Es handelt sich lediglich um eine Drittanbieter-Erweiterung, die dem System hinzugefügt wurde.
+        </description>
+        <disclaimer lang="de">Die von diesem Addon dargestellten Inhalte werden von den Erstellern der Software weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
+        <license>GNU GPLv3</license>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+            <screenshot>fanart.jpg</screenshot>
+            <!--<screenshot>resources/media/screenshots/screenshot-02.jpg</screenshot>
+            <screenshot>resources/media/screenshots/screenshot-03.jpg</screenshot>-->
+        </assets>
+        <news>
+Xship 2021.07.01
+- englsiche Anbieter entfernt
+- die hohe CPU Last in der Episodenliste beseitigt
+- fix bookmarks in player.py
+- update movie4k-click
+- update kinoger
+- Sourcecode cleaned
+- edit sourcesFilter
+- settings.xml
+- neue Fuktion, Hoster ausschließen
+- streamworld
+        </news>
+    </extension>
+</addon>
+
+<addon id="plugin.video.xstream" name="xStream" version="9.9.9" provider-name="xStream-Team">
+ <requires>
+    <import addon="script.module.requests"/>
+    <import addon="script.module.resolveurl" version="5.1.54"/>
+    <import addon="script.module.six" version="1.11.0"/>
+    <!-- <import addon="repository.xstream" optional="true"/> -->
+    <import addon="script.module.inputstreamhelper" version="0.3.3" optional="true"/>
+    <!-- for remote debug -->
+    <import addon="script.module.pydevd" optional="true"/>
+ </requires>
+ <extension point="xbmc.python.pluginsource" library="default.py">
+   <provides>video</provides>
+ </extension>
+    <extension point="xbmc.service" library="service.py" start="startup" />
+ <extension point="xbmc.addon.metadata">
+   <summary lang="de">Watch xStream!</summary>
+   <description lang="de">Mit diesem Addon kannst du auf alle angebotenen Streams verschiedenster deutschen Quellen zugreifen</description>
+   <disclaimer lang="de">Die von diesem Addon dargestellten Inhalte werden von den Erstellern des Addons weder gehostet oder verbreitet, noch stehen die Ersteller in irgendeiner Beziehung zu den Content-Anbietern.</disclaimer>
+   <source>https://github.com/streamxstream/plugin.video.xstream</source>
+   <license>GNU GPLv3</license>
+   <platform>all</platform>
+   <news>
+Repository Release 3.5.31
+
+- Restart nach xStream Shut Down
+- xStream Stand 3.5.29
+
+Nightly Version
+
+- siehe Changelog
+   </news>
+   <assets>
+     <icon>icon.png</icon>
+     <fanart>fanart.jpg</fanart>
+     <screenshot>resources/art/screenshot.jpg</screenshot>
+   </assets>
+ </extension>
+</addon>
+</addons>
