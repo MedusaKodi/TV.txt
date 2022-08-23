@@ -1,0 +1,727 @@
+3.5.32~nightly4
+  26.04.2022
+ - Flimmerstube Info update
+ - settings.xml update
+ - Netzkino Globale Suche
+ - Fix Hosterlist Kinoger (Streamlare) thx @heptamer
+
+3.5.32~nightly3
+  25.04.2022
+ - Update kkiste domian  thx @heptamer
+ - SSL Fix thx @heptamer
+ - HD Filme.top thx @heptamer
+ - settings.xml update
+ 
+3.5.32~nightly2
+  24.04.2022
+ - Update kinox settings.xml
+ - Update movie4k domain
+ - movie4k.space entfernt
+ - xCine deaktiviert
+
+3.5.32~nightly1
+  24.04.2022
+ - Update kinox
+
+3.5.31
+- Restart nach xStream Shut Down
+- xStream Stand 3.5.29
+
+3.5.29
+- Update kinox
+
+3.5.28~nightly4
+  12.01.2022
+ - xcine deaktiviert (SITE_GLOBAL_SEARCH)
+ - fix megakino  - thx betegeuse46
+ - add kinokiste.tech  - thx betegeuse46
+ - guiElements extended -  thx betegeuse46
+ - edit gui.py
+ - Update README.md
+
+3.5.27
+  30.12.2021
+ - wechsel von UrlResolver zu resolveUrl
+ - remove hdfilme & hdstreams.org
+ - add anicloud
+
+3.5.26
+  27.11.2021
+- fix thumbnails in Serienstream
+- edit GUI
+
+3.5.25
+ 02.11.2021
+- Versionsnumer für URLResolver in die addon.xml hinzugefügt
+
+3.5.24
+  29.10.2021
+- Bugfix falscher Tokken
+
+3.5.23
+  28.10.2021
+- neuen URLResolver tokken erstellt
+- [Serienstream] IP anstatt Domainname
+- [alleserien] entfernt
+- [kinoger] fix hoster protonvideo und kinoger
+- [kinox] fix thevideo
+- [movieking] Seite hinzugefügt
+- [flimmerstube] Seite hinzugefügt
+- [kinoger] wieder hinzugefügt
+
+3.5.22
+  19.05.2021
+- [kinoag] entfernt
+- [kinoger] entfernt
+- fix Kodi-19-Favoriten-Thumbnails Problem
+- [kinofox] Seite hinzugefügt
+- [movie4k click] fix suche, episode
+- [kinokiste] Seite hinzugefügt
+- [kkiste] fix search Problem
+- [Serienstream] Domaincheck Funktion überarbeitet
+- [requestHandler] neue funktionen hinzugefügt, code cleanup
+- [kinobz] add site
+- [movieking] offline entfernt
+- [general] serienstream domain check bei kodistart TNX Kasi
+- [serienstream] add domain check TNX Kasi
+- [general] fix select hoster TNX kasi
+- [serienstream] update domain 28.3.21
+- [pureanime] fix hoster PureStream
+- [kinoger] fix serien erkennung
+- [netzkino] seite neu geschrieben
+- Implement My.JDownloader support TNX HPort-x
+
+3.5.21
+  09.03.2021
+- [kinoger] fix protonvideo
+- [requestHandler] add json post
+- [filmpalast] filmmenu an seite angepasst
+- [view4u] entfernt offline
+- [dokus4] fix hosterauswahl list
+- [general] www von hostername entfernt
+- [flimmerstube] entfernt
+- [netzkino] fix hosterauswahl list
+- [general] TMDB-Handler bei mehr als 99 einträge deaktivieren
+- [kinoger] fix protonvideo
+- [alleserien] code optimiert
+- [kinoger] hoster optimiert
+- [kkiste] fix serien
+- [kinoger] add hoster start.u-stream
+- [pureanime] add hoster Flex, PureStream
+
+3.5.20
+  03.01.2021
+- [view4u] seite überarbeitet
+- [general] code optimiert BIG TNX damnms
+- [streamworld] Seite hinzugefügt
+- [kinoger] fix hoster TNX kasi
+- [view4U] Seite hinzugefügt
+- [moviestream] Seite entfernt
+- [topstreamfilm] Seite entfernt
+- [kinox] fix hoster
+- [TMDB] Fix Problem mit Jahr
+- xStream Einstellungen TMDB neu gestaltet
+- [general] Globale Suche abbrechbar
+- [alleserien] fix year
+- [general] staffel erkennung verbessert
+- [kinoger] fix hoster protonvideo
+- [Erweiterte Info (TMDB)] Cast überarbeitet
+- [Erweiterte Info (TMDB)] Trailers überarbeitet
+- [TMDB] überarbeitet und code cleanup
+- [kinoag] add site
+- [hd-streams.to] entfernt
+- [stream_to] entfernt
+- [s.to] TMDB deaktiviert bei "Alle Serien"
+- [TMDB] fix ValueError invalid literal for int
+- [TMDB] serien erkennung erhöht, overhead reduziert, code cleanup
+- [topstreamfilm] add Beliebte, code cleanup
+- [TMDB] episodes add support crew
+- [filmpalast] fix episodes
+- [moviestream] fix episodes
+- [movietown] fix episodes
+- [TMDB] episodes unterstützung hinzugefügt
+- [Erweiterte Info (TMDB)] Info überarbeitet
+
+3.5.19
+  15.11.2020
+- [moviestream] Seite hinzugefügt
+- [general] Ersetzte script.module.metahandler durch TMDB scraper
+- [general] füge contextmenu Erweiterte Info TMDB hinzu
+- [general] add erkennung von jahr in title
+- [general] add einstellung Benutze Cover als Fanart
+- [hd-streams.to] fix episode
+- [kinox] update domains
+- entfernt moviestream
+- [Movie4k Click] add site
+- [kkiste] fix suche
+- [requestHandler] use socket.setdefaulttimeout
+- [streamkiste] fix Serien
+- entfernt alleserien, moviedream, movie4k
+- [hd-streams.to] fix site
+- fix hosterSelect List
+- [HD-Streams.org] fix site
+- [cinenator] fix nextpage
+
+3.5.18
+  06.10.2020
+- [flimmerstube] fix hoster
+- [streamkiste] Seite hinzugefügt
+- [hd-streams.org] fix für Kodi 19
+- [movie4k.space] Seite hinzugefügt
+- [general] fix für Kodi 19 Alpha2
+
+3.5.17
+  20.09.2020
+- [filmpalast] serien überarbeitet
+- [topstreamfilm] add rating fix duration
+- [kinoger] fix hoster (c|f)sst
+- [general] code optimiert
+- [movieking] fix cover
+- [kinoger] code optimiert
+- [hd-streams_org] neu geschrieben
+- [kinoger] fix serien und hoster
+- [stream.to] seite hinzugefügt
+- [general] code optimiert
+- [dokus4] fix setView
+- [filmpalast] fix setView
+- [movieking] fix setView
+- [moviestream] fix setView
+- [movietown] fix setView
+- [netzkino] fix setView
+- [topstreamfilm] fix setView
+- [general] kleiner fix für autoplay, mehrere für Kodi 19
+- [cinenator] fix hosterauswahl automatisch
+- [dokus4] fix  fix hosterauswahl automatisch
+- [hd-streams.to] fix hosterauswahl automatisch
+- [serienstream] Kodi 19 fix
+- [cinenator] fix next-page
+- [dokus4] add description
+- [filmpalast] add rating
+- [moviestream] add rating
+- [topstreamfilm] fix hoster
+- [movieking] code cleanup
+- [hd-streams_org] hinzugefügt und code cleanup
+- [xStream] Kodi 19 Contextmenu fix usw.
+
+3.5.16
+  18.08.2020
+- [xStream] Kodi 19 Support Beta
+- [ddl] entfernt keine streams
+- Suchergebnisse verbessert mehrere seiten
+- [HDfilme Suche fix 
+-  mehrere seiten py23 kompatibel
+- [xcine] remove cloudflare problem
+- [Cinenator] add duration fix year
+- [moviedream] add top10 fix for py23
+- [topstreamfilm] fix hoster
+- [kkiste] Add Serie und Release Jahre
+- [Pureanime] add konto und fix suche
+
+3.5.15.1
+  28.06.2020
+  Update:
+- script.module.six Anhängigkeit hinzugefügt
+
+3.5.15
+  02.06.2020
+  Update:
+- Update Manager (Change URLResolver master auf nightly branche)
+- [pureanime] fix hoster
+- [Flimmerstube] fix
+- Languages strings.po und strings.xml (Benutername umgestellt auf E-Mail für s.to)
+- [topstreamfilm] add again fix hoster
+- UpdateManager add 'enforce Update'
+
+3.5.14
+  02.04.2020
+- Nightly Updates select auto/manual
+- [cinenator] hoster add lang and qualy
+- [moviestream] code cleanup
+- [cinenator] code cleanup
+- [pureanime] cloudplayer add Qualy
+- [pureanime] add site
+- [hdfilme] hoster optimierung tnx loki and code cleanup
+- [xcine] code cleanup
+- [xcine] code optimierung tnx loki
+- [xcine] add site tnx loki
+- [hdfilme] fix hoster tnx loki
+- [dokus4] add site
+- [dokustream] remove offline
+- [alleserien] code cleanup
+- [filmpalast] code cleanup
+- [flimmerstube] code cleanup
+- [hd-streams.to] code cleanup
+- [hd-streams.org] cloudflare problem remove
+- [kino.cx] keine hoster remove
+- [kindertube] code cleanup
+- [kinoger] code cleanup
+- [kkiste] code cleanup
+- [moviedream] code cleanup
+- [movietown] code cleanup
+- [netzkino] code cleanup
+- [serienstream] code cleanup
+- [streamit.ws] keine hoster remove
+- [topstreamfilm] hoster problem remove 
+- [streamking] code cleanup add serien und jahr
+- Update service.py
+
+xStream 3.5.13
+  05.03.2020
+- Update settings.xml und service.py
+- Fix UpdateManager
+- Fix "Indexseiten" Übersicht im Einstellungs Menü
+- Update settings.xml und UpdateManager
+  URLResolver Update über xStream möglich
+  xStream bzw.URLResolver Update wird bei Kodistart ausgeführt, wenn im Einstellungsmenü aktiviert
+- [kinoger] add hoster cloudvideo.tv und kinoger.re
+- [hdfilme] fix hoster
+- [kinoger] add ddos guard support und fix site
+- [hd-streams.to] fix site
+- [hdfilme] fix hoster und Code cleanup
+
+xStream 3.5.12
+  03.01.2020
+- [streamking] fix filthy site
+- [kkiste.co] fix hoster supervideo
+- [kinox] fix
+- [movie4k] fix
+- [movietown] add site
+- [hdfilme] fix hoster
+- [parser] py23 kompatibel
+- add requestHandler2 beta for cloudflare
+- [moviedream] fix nextpage
+- [flimmerstube] fix search
+- [filmpalast] fix nextpage
+- [flimmerstube] youtube erkennung eingebaut und fix hoster youtube usw
+- [kindertube] youtube erkennung eingebaut usw
+- [iload] seite offline entfernt
+- [freikino] alles offline entfernt
+- [hdstreamfilme]  alles offline entfernt
+- [s.to] fix filme
+- [moviedream] fix genre
+- [kkiste.co] fix hoster supervideo
+- [movie4k] temporärer fix
+- [hdfilme] fix hoster
+
+xStream 3.5.11
+  14.10.2019
+- Update settings.xml und Language strings
+- [filmpalast_to] add vivo support
+- [streamking] wieder hinzugefügt
+- [cinemaxx.cc] Blazingfast problem entfernt
+- [foxx.to] offline
+- [movietown.org] cloudflare problem entfernt
+- [mykino.to] fast alle links offline
+- [streamking.eu] offline
+- [KKiste.co] Add supervideo support
+- [topstreamfilm] add description and duration usw
+- [KKiste.co] Add site
+- [MovieStream] fix such filter
+- [hdfilme] fix movie hoster and episodes tnx Ahnz
+- [Kinoger] add hoster newcloud aka fsst.online
+
+xStream 3.5.10
+  09.09.2019
+- [hd-streams.to] Fix
+- [kinoger.com] fix hoster add description and duration
+- [filmpalast] add partially year and duration
+- [foxx] add duration
+- [hd-streams.to] add site
+- [hd-streams.org] fix suche usw.
+- [foxx] fix suche
+- [alleserien] fix suche
+- [s.to] fix hoster Qualy
+- [moviedream] fix hoster tnx kasimodo
+- [alleserien] fix hoster
+- [kinox] update domains
+- [Foxx] Fix Regex
+- [topstreamfilm] Fix Hoster
+- [Update Manager] Resolver nightly Pfad erneuert
+
+xStream 3.5.9
+  21.07.2019
+- [kinox] update domains
+- [Foxx] Fix Regex
+- [topstreamfilm] Fix Hoster
+- [moviedream] fix nexpage problem
+- [s.to] Fix Thumbnail
+- [cinemaxx.cc] Fix Episodes
+- fix Blazingfast
+- [moviedream] fix Serien
+- [freikino] add site
+
+xStream 3.5.8
+  09.07.2019
+- [DirectDownLoad] fix Description
+- [kinox.one] remove offline site
+- [movie2k.sh] remove offline site
+- [movies.gg] remove offline site
+- [cinenator] fix regex
+- [Topstreamfilm] fix suche usw.
+- [Streamking] fix genre
+- [Moviestream] neu geschieben
+- [HDfilme] Fix Site
+- [cinemaxx] fix regex and episode description
+- [HDKino.to] remove offline site
+- [onlinefilme.to] remove offline site
+- [hdstreamfilme] add site
+- [filmpalast] fix hoster
+- [foxx] fix hoster
+- [hdfilme] Fix Episodes
+- [Foxx] fix Hoster and Search
+- [streamit.ws] fix
+
+xStream 3.5.7
+  04.05.2019
+- [filmpalast] fix hoster
+- [kinoger] fix hoster
+- [topstreamfilm] add site
+- [kinox] add support Thumbnails and code cleanup
+- [moviedream] add verystream support
+- [filmpalast] add verystream support
+- [watchbox.de] remove
+- [cinenator] add site
+- [kinox.one] add site
+- [Cinemaxx] fix search
+- fix blazingfast tnx TH3MA5K
+- [hdfilme] fix
+- [moviedream] fix Search
+- [movietown] fix
+- [Kinoger] fix Hoster
+- [Movies.GG] add site
+- [MovieDream] Fix Genre
+- [cinematrix.to] remove offline site
+- [kinostern.com] remove offline site
+- [movies.gg] remove offline site
+- [tmovie.to] remove offline site
+- fix cloudflare
+- [hdfilme] fix hoster
+
+xStream 3.5.6
+  24.02.2019
+- [cinenator] site offline
+- [kinox.one] no streams
+- [movie2k.ag] recaptcha
+- [kino.cx] add mystream hoster support
+- [Foxx.to] Fix regex
+- [Alleserien] Fix Hoster
+- Update cookie_helper.py
+
+xStream 3.5.5
+  13.01.2019
+- [szene-streamz.com] remove offline site
+- [view4u.co] remove offline site
+- [streamking] add Site
+- [gui] code cleanup
+- [HDfilme] fix
+- [TMovie] fix Serien
+- Homepagelink aktualisiert
+
+xStream 3.5.4
+  02.01.2019
+- [SerienStream] Add Popular and code cleanup
+- [kino.cx] fix Hoster
+- [autoupdate] Android K18 ZIP Fix
+- [HDfilme] fix Hoster
+- [Foxx.to] Fix Hoster
+- [cinemaxx.cc] fix episodes usw.
+- [onlinefilme.to] Add Search filter and Description and code cleanup
+- [dokustream.org] code cleanup
+- [cinematrix.to] add Description and code cleanup
+- [kinostern] code cleanup
+
+xStream 3.5.3
+  10.12.2018
+- [movie2k.sh] code cleanup
+- [tmovie.to] code cleanup
+- [kinoger.com] code cleanup
+- [alleserien.com] code cleanup
+- [Kindertube] code cleanup
+- [kinox] code cleanup
+- [moviedream.ws] Fix Search and next page usw
+- [filmpalast.to] Add Search filter
+- [kino.cx] Add Search filter and Fix Hoster
+- [HDFilme] optimize code
+- [HDKino.to] Add Year and optimize code
+- [kinostern.com] Add Search filter
+- [ddl.me] Add Search filter and optimize code
+- [watchbox.de] Add Search filter
+- [tmovie.to] Add Site
+- [streamit.ws] fix Serien
+- [xStream] Größe aller cover reduziert
+- [HDfilme] fix vip hoster
+- [View4U] neu geschrieben
+- [HDfilme] neu geschrieben
+- [flimmerstube] fix hoster tnx anonymous
+- [alleserien.com] Add Search filter
+- [cinenator] Add Search filter
+- [hd-streams.org] Add Search filter
+- [netzkino_de] Add Search filter
+- [kinox.one] fix hoster
+- [parser] add re.search
+- [Alleserien.com] Suche hinzugefügt
+- [Filmpalast] Fix
+- [moviestream] Add Seite
+- [Cinenator] Add Seite
+- [Movie2k AG] Fix Hoster and Search and Description
+- [Filmpalast.to] neu geschrieben
+- [HDFilme] Fix Thumbnails
+
+xStream 3.5.2
+  11.10.2018
+- [ddl.me] Fix Thumbnail and optimize code
+- [kinoger.com] Fix Hoster
+- [cinemaxx.cc] Fix Hoster
+- [watchbox.de] Add DRM DRM Support(Kodi 18+) zum abzuspielen von DRM streams wird mindestens Kodi 18 benötigt
+- [hd-streams.org] fix hoster and Search tnx sraedler.
+- [alleserien.com] Add Description
+- [alleserien.com] komplett neu geschrieben
+- [s.to] Fix Next Page
+- [hdfilme_tv] Fix Hoster
+- [kinoger.com] Fix Hoster
+- [iload.to] Fix Cover and next Page
+- [Foxx.to] Fix Hoster tnx sP4rK
+- [s.to] Fix Episode
+- [kinox.to] add new domains
+- Resolver Autoupdate ausgeblendet
+
+xStream 3.5.1
+  23.08.2018
+- [watchbox.de] Fix no DRM Support
+- [watchbox.to] entfernt (Seite offline)
+- [kinoger.com] Fix Hoster
+- [cinemaxx.cc] Fix Hoster
+- [kino.cx] Add Seite 
+- [StreamDream.ws] Domain zu MovieDream.ws
+- [hdfilme.tv] Fix Hoster
+- Fix Foxx
+- Fix Foxx hoster google
+
+xStream 3.5.0
+  04.08.2018
+- Abhängigkeit von script.module.mechanize entfernt
+- Code Optimierung
+- Update auf urllib2
+- add alleserien.com
+
+xStream 3.4.9
+   16.07.2018
+ - [Filmmerstube] Fix Next page
+ - [HDKino] Seite hinzugefügt
+ - [Cinemaxx_cc] Seite hinzugefügt
+ - Fix foxx
+ - kinodogs.to entfernt (Seite offline)
+ - seriesever.net entfernt (Seite offline)
+ - tmovie.to entfernt (Seite offline)
+ - foxx.to (Anpassung in der Bildanzeige und die Hosterermittlung wurde gefixt)
+ - [serienstream.to] Fix Suche tnx sP4rK
+ - [bs.to] entfernt API KEY funktioniert nicht mehr
+ - {xStream.py] code cleanup
+ - [serienstream.to] fix hoster & code cleanup
+ - Update CFScraper
+ - [watchbox.to] fix
+ - [movie4k] dirty fast fix
+ - [Foxx] Fix
+ - [moviex.co] entfernt seite aufgegeben ersetzt durch Movies.gg
+ - [cine.to] entfernt benutzt recaptcha
+  
+  xStream 3.4.8
+   21.04.2018
+ - [streamit.ws] fix Seite
+ - [Kinox.one] Seite hinzugefügt
+ - [Movies.gg] Seite hinzugefügt
+ - [Foxx.to] Fix Hoster
+ - [TMovie.to] Seite hinzugefügt
+ - [HD-Streams_org] Fix Hoster
+ - Cinenator entfernt (Seite offline)
+ - [Onlinefilme] Fix Hoster
+ - Update cCFScrape.py
+ 
+ xStream 3.4.7
+   03.03.2018
+- [Streamdream.ws] Fix Serien [tnx koditorsten] 
+- [Kinostern] Seite hinzugefügt
+- [Watchbox.de] Optimize code, Add Fanart, Seitenname angepasst & Globale Suche standartmäßig deaktiviert
+- [Watchbox.to] Seite hinzugefügt
+- [Kinoger.com] Seite hinzugefügt
+- [Cinematrix.to] Seite hinzugefügt 
+- [moviex.co] Seite hinzugefügt
+
+xStream 3.4.6
+
+- Kinostreamz und FilmeStreamz entfernt (Seiten offline)
+- Quick Fix Anmeldedaten Serienstream.to 
+- Add SzeneStreams
+- Foxx Fix search
+- Update util.py
+- HD-Streams Fix search und Code Cleanup
+- Update HDStreams (Fix Regex)
+- Streamit Suche hinzugefügt und Code optimiert
+
+xStream 3.4.5
+
+- Update jsunpacker.py
+- Fix Foxx
+- Cinenator Fix Bug's und Code optimiert
+- video2k entfernt
+- Add Movie2k AG
+- Fix CFScrape für HD-Streams
+- Add HD-Streams
+- Onlinefilme Code optimiert
+- Video4k entfernt (umleitung auf cine.to)
+- HD-Streams add Nxload direct
+
+xStream 3.4.4
+
+- URLResolver AutoUpdate - Standard deaktiviert
+- Update settings.xml
+- Fix DDL.me Genres
+- Watchbox Code Optimiert und Regex fix
+- Fix Streamdream Hoster Problem
+- Add OnlineFilme
+- Folgende Seiten entfernt:
+     1kino, Goldstream, Meinkino, Moviesever, RapidStream, streamkisteTV, SzeneStreams, 
+     tata (aktuell keine Filme und Serien mehr)
+
+xStream 3.4.3
+
+- Anmeldedaten für Serienstream.to eingefügt (Danke an WizzardMaker)
+- Fix hdfilme_tv (Danke an vka)
+- Watchbox hinzugefügt
+- Meinkino.to entfernt
+- Update Flimmerstube
+
+xStream 3.4.2
+
+- Fix Kinodogs (Next Page)
+- Fix Cinenator (Erscheinungsjahr)
+- Fix kinox
+- Fix hdfilme_tv
+
+xStream 3.4.1
+
+-  Fix Dokustream, 
+-  Fix Kinox 
+-  Fix Moviesever
+-  Fix Foxx
+
+
+xStream 3.4.0
+================================================================================
+
+- Add and Update animes-stream24_tv
+- Fix Movietown BLAZINGFAST Problem 
+- [Streamit] Fix Thumbnail & Genre usw
+- hdfilme.tv fix hoster 
+- Create Cinenator 
+- Create dokustream_org
+- Create NetzKino 
+- Fix search and fix single hoster and remove unnecessary code 
+- Fix DDL.me
+- fix [tata.to]
+
+
+
+xStream v3.3.0 - 18.01.2017
+================================================================================
+
+FIXES…
+ - [dokustream] fix for kategories
+ - [hdfilme] don’t resolve the google-links anymore
+ - [streamdream] fix for series
+ - [tata] fix for series
+ - [tata] fix for genres
+ - [tata] fix links in plugin
+ - [tata] fix useless spaces
+
+NEW…
+ - [general] add the new repo as dependency
+ - [general] add support for remote resolving of streams (e.g. via web interfaces)
+ - [filmpalast] show openload hd as hoster
+
+
+xStream v3.2.0 - 23.12.2016
+================================================================================
+
+FIXES…
+ - [general] allow default value on 'getsetting'
+ - [general] fix autoplay
+ - [general] fix nextpage for some sites
+ - [general] fix regex for hosterlist
+ - [general] fix sorting
+ - [general] some typo fixes
+ - [general] update gitignore (for the devs)
+ - [general] update local addons after xstream or urlesolver update
+ - [globalsearch] fix errors for many site-plugins
+ - [hoster] fix hosterlist for urls that has no valid url (redirect)
+ - [hoster] some fixes for chostergui
+ - [metahandler] check for exist
+ - [metahandler] fix season greater 10
+ - [metahandler] fix tmdb
+ - [metahandler] fixed replaced description/plots
+ - [requesthandler] optimize redirect cookie-handlin
+ - [requesthandler] fix error in error-handling
+ - [settings] fix enable after settings change
+ - [updatemanager] fix check
+ - [updatemanager] make foldercheck ignore case
+
+ - [bs] avoid consequential error after an api-error
+ - [flimmerstube] use new movie-urls
+ - [hdfilme] fix description in showEntries
+ - [hdfilme] fix „neu hinzugefügt“, „suchen" and „series“
+ - [hdfilme] hotfix for decoding error
+ - [hdfilme] sort genre
+ - [kinox] fix https hoster
+ - [kinox] fix openload-streams 
+ - [meinkino] fixed urls
+ - [movietown] exclude downloads in hosterlist
+ - [movietown] fix requests errors
+ - [mykino] use json for series
+ - [video2k] fix and redesign
+ - [tata] fix gethoster
+
+NEW…
+ - [general] add info to the https/tls error
+ - [general] renew addon-icon and add new color-scheme for icon and fanart
+ - [general] added jdownloader2 support
+ - [general]centralize text cleaning
+ - [general] more common universalresolver detection
+ - [general] update cJsUnpacker
+ - [globalsearch] allow optional parameter for searchterm
+ - [readme] update readme and push most stuff in wiki
+ - [requesthandler] support ignore_discard and ignore_expires on redirect
+ - [requestHanlder] use compression by default 
+ - [settings] add seperator to auto create site-plugins
+ - [settings] allow user to disable sites from global-search
+ - [updatemanger] ignore settings.xml
+ - [updatemanager] prevent dialog errors on autoupdate
+ - [utils2] update unescape and add cleanse_text
+
+ - [1kino] add new site-plugin
+ - [bs] add genres
+ - [iload] add new site-plugin
+ - [kinodogs] add new site-plugin
+ - [kinox] add 'new' mirros
+ - [movie2z] add new site-plugin
+ - [movie4k] add 'new' mirros 
+ - [mykino] add series
+ - [mykino] use json for series
+ - [rapidstream] add new site-plugin
+ - [serienstream.to] redirect on gethosterurl
+ - [tata] new hires-icon
+
+REMOVED…
+ - [general]remove debug-prints
+ - [general] remove except condition in cCFScrape
+ - [general] remove „nextpage" from globalsearch
+ - [logger] remove unnecessary code
+
+ - [anime-loads] delete site-plugin
+ - [cineplex] delete site-plugin
+ - [cine-dream] delete offline site-plugin
+ - [kino-streamz] remove "fake" stream
+ - [movie4k] support Stream4k as hoster
+ - [mykino] remove seperate ‚searchentries' for search
+ - [tata.to] remove unnecessary function and unused parameter
+
+
