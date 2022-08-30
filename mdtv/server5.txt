@@ -281,7 +281,8 @@ http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/7372.m3u8
 http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/6193.m3u8
 #EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren FHD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren FHD DE
 http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/6194.m3u8
-#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren HD DEhttp://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/7373.m3u8
+#EXTINF:-1 tvg-id="skycinemapremieren.de" tvg-name="Sky Cinema Premieren HD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren HD DE
+http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/7373.m3u8
 #EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 FHD DE
 http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/6192.m3u8
 #EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD DE" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 HD DE
