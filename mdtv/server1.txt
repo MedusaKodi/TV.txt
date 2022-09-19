@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste HD DE
-http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/13166.m3u8
+http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/13166
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B] HD DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste [B] HD DE
 http://mag.you24.online:80/live/c9ds9qwwb/tx7u13k4rr/6262.m3u8
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste DE
