@@ -1,798 +1,746 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Gold FHD (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13863
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13863.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse Quickies FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse Quickies FHD (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13862
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13862.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Vivid RED FHD (18+) US" tvg-logo="" group-title="For Adult",Vivid RED FHD (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13864
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13864.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Redlight FHD (18+)" tvg-logo="" group-title="For Adult",Redlight FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674061
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674061.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dorcel FHD (18+)" tvg-logo="" group-title="For Adult",Dorcel FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5529
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5529.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EroX (18+)" tvg-logo="" group-title="For Adult",EroX (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13867
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13867.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EroXXX FHD (18+)" tvg-logo="" group-title="For Adult",EroXXX FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13866
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13866.m3u8
 #EXTINF:-1 tvg-id="dusk.nl" tvg-name="Dusk (18+)" tvg-logo="" group-title="For Adult",Dusk (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19678
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19678.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hustler FHD (18+)" tvg-logo="" group-title="For Adult",Hustler FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674060
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674060.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hustler (18+) US" tvg-logo="" group-title="For Adult",Hustler (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5525
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5525.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maiden van Holland (18+)" tvg-logo="" group-title="For Adult",Maiden van Holland (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674125
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674125.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Balkan Erotik (18+)" tvg-logo="" group-title="For Adult",Balkan Erotik (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13404
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13404.m3u8
 #EXTINF:-1 tvg-id="brazzerstveurope.nl" tvg-name="Brazzers (18+) US" tvg-logo="" group-title="For Adult",Brazzers (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13403
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13403.m3u8
 #EXTINF:-1 tvg-id="playboy.ca" tvg-name="PlayBoy TV HD (18+)" tvg-logo="" group-title="For Adult",PlayBoy TV HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19674
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19674.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Play Boy CA (+18)" tvg-logo="" group-title="For Adult",Play Boy CA (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/17717
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/17717.m3u8
 #EXTINF:-1 tvg-id="playboy.ca" tvg-name="PlayBoy TV (18+)" tvg-logo="" group-title="For Adult",PlayBoy TV (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19673
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19673.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Playboy (18+) ES" tvg-logo="" group-title="For Adult",Playboy (18+) ES
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5512
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5512.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pink' o TV (18+) IT" tvg-logo="" group-title="For Adult",Pink' o TV (18+) IT
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/16348
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/16348.m3u8
 #EXTINF:-1 tvg-id="pinkerotic.rs" tvg-name="Pink Erotic 1 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 1 (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5521
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5521.m3u8
 #EXTINF:-1 tvg-id="pinkerotic2.rs" tvg-name="Pink Erotic 2 (18+)" tvg-logo="" group-title="For Adult",Pink Erotic 2 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5520
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5520.m3u8
 #EXTINF:-1 tvg-id="pinkerotic3.rs" tvg-name="Pink Erotic 3 (18+)" tvg-logo="" group-title="For Adult",Pink Erotic 3 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5519
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5519.m3u8
 #EXTINF:-1 tvg-id="pinkerotic4.rs" tvg-name="Pink Erotic 4 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 4 (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5518
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5518.m3u8
 #EXTINF:-1 tvg-id="pinkerotic5.rs" tvg-name="Pink Erotic 5 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 5 (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5517
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5517.m3u8
 #EXTINF:-1 tvg-id="pinkerotic6.rs" tvg-name="Pink Erotic 6 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 6 (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5516
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5516.m3u8
 #EXTINF:-1 tvg-id="pinkerotic7.rs" tvg-name="Pink Erotic 7 FHD (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 7 FHD (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5515
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5515.m3u8
 #EXTINF:-1 tvg-id="pinkerotic8.rs" tvg-name="Pink Erotic 8 (18+) EX-YU" tvg-logo="" group-title="For Adult",Pink Erotic 8 (18+) EX-YU
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5514
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 1 (18+)" tvg-logo="" group-title="For Adult",Porn 1 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5494
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5494.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 2 (18+)" tvg-logo="" group-title="For Adult",Porn 2 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5493
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5493.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 3 (18+)" tvg-logo="" group-title="For Adult",Porn 3 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5492
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5492.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 4 (18+)" tvg-logo="" group-title="For Adult",Porn 4 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5491
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5491.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 5 (18+)" tvg-logo="" group-title="For Adult",Porn 5 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5490
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5490.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 6 (18+)" tvg-logo="" group-title="For Adult",Porn 6 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5489
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5489.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 7 HD (18+)" tvg-logo="" group-title="For Adult",Porn 7 HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5488
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5488.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 8 (18+)" tvg-logo="" group-title="For Adult",Porn 8 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5487
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5487.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 9 (18+)" tvg-logo="" group-title="For Adult",Porn 9 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5486
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5486.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 10 (18+)" tvg-logo="" group-title="For Adult",Porn 10 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5485
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5485.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Porn 11 (18+)" tvg-logo="http://pici.life/logo.png" group-title="For Adult",Porn 11 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/680091
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/680091.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 2 HD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 2 HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5509
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5509.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 3 HD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 3 HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5508
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5508.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 4 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 4 FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5507
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5507.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 6 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 6 FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5505
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5505.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 7 (18+)" tvg-logo="http://pici.life/Adult.png" group-title="For Adult",Primafila Hot Club 7 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5504
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5504.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 8 FHD (18+)" tvg-logo="" group-title="For Adult",Primafila Hot Club 8 FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5503
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Primafila Hot Club 9 FHD (18+)" tvg-logo="http://pici.life/Adult.png" group-title="For Adult",Primafila Hot Club 9 FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5502
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Blacked FHD (18+)" tvg-logo="" group-title="For Adult",Blacked FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5495
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5495.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Bunga Bunga (18+)" tvg-logo="" group-title="For Adult",Bunga Bunga (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5532
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5532.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ButGo (18+)" tvg-logo="" group-title="For Adult",ButGo (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19684
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19684.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Candy (18+)" tvg-logo="" group-title="For Adult",Candy (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19683
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19683.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Centoxcento TV (18+)" tvg-logo="" group-title="For Adult",Centoxcento TV (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19682
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19682.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cento Cento HD (18+) IT" tvg-logo="" group-title="For Adult",Cento Cento HD (18+) IT
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5531
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5531.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Daughter Swap (18+)" tvg-logo="" group-title="For Adult",Daughter Swap (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19680
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dusk DeLuxe (18+)" tvg-logo="" group-title="For Adult",Dusk DeLuxe (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5528
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Desire FHD (18+)" tvg-logo="" group-title="For Adult",Desire FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5530
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5530.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot HD (18+)" tvg-logo="" group-title="For Adult",Hot HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13397
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot (18+) PT" tvg-logo="" group-title="For Adult",Hot (18+) PT
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5526
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5526.m3u8
 #EXTINF:-1 tvg-id="dorceltv.fr" tvg-name="Dorcel (18+)" tvg-logo="" group-title="For Adult",Dorcel (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19679
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19679.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Leo TV (18+) CZ" tvg-logo="" group-title="For Adult",Leo TV (18+) CZ
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/16350
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/16350.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jasmin TV (18+)" tvg-logo="" group-title="For Adult",Jasmin TV (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/16002
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/16002.m3u8
 #EXTINF:-1 tvg-id="passiexxx.nl" tvg-name="Passie (18+)" tvg-logo="" group-title="For Adult",Passie (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13402
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13402.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="O La La FHD (18+)" tvg-logo="" group-title="For Adult",O La La FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5523
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5523.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Moms Teach (18+)" tvg-logo="" group-title="For Adult",Moms Teach (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13401
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13401.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Meiden van Holland Hard (18+) NL" tvg-logo="" group-title="For Adult",Meiden van Holland Hard (18+) NL
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5524
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5524.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Penthouse FHD (18+) US" tvg-logo="" group-title="For Adult",Penthouse FHD (18+) US
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5522
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5522.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Platinum FHD (18+)" tvg-logo="" group-title="For Adult",Platinum FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5513
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5513.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Private (18+) NL" tvg-logo="" group-title="For Adult",Private (18+) NL
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5501
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5501.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reality Kings (18+)" tvg-logo="" group-title="For Adult",Reality Kings (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13399
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13399.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reality Sex (18+)" tvg-logo="" group-title="For Adult",Reality Sex (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19670
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19670.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Red Light (18+) NL" tvg-logo="" group-title="For Adult",Red Light (18+) NL
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5500
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCT HD (18+) IT" tvg-logo="" group-title="For Adult",SCT HD (18+) IT
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5498
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5498.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sext Senso (18+) IT" tvg-logo="" group-title="For Adult",Sext Senso (18+) IT
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5497
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5497.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sirina 1 (18+)" tvg-logo="" group-title="For Adult",Sirina 1 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5536
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5536.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sirina 2 (18+)" tvg-logo="" group-title="For Adult",Sirina 2 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5535
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5535.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sirina 3 (18+)" tvg-logo="" group-title="For Adult",Sirina 3 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5534
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5534.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Pleasure (18+)" tvg-logo="" group-title="For Adult",Pleasure (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19672
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19672.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TGirls (18+)" tvg-logo="" group-title="For Adult",TGirls (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13398
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13398.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Venus (18+) AR" tvg-logo="" group-title="For Adult",Venus (18+) AR
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/5496
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/5496.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SuperOne HD (18+)" tvg-logo="" group-title="For Adult",SuperOne HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/16347
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/16347.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot Club (18+)" tvg-logo="" group-title="For Adult",Hot Club (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19687
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19687.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Babes 2 (18+)" tvg-logo="" group-title="For Adult",Babes 2 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19701
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19701.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Babes 17 (18+)" tvg-logo="" group-title="For Adult",Babes 17 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/19703
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/19703.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nubiles Casting (18+)" tvg-logo="" group-title="For Adult",Nubiles Casting (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/13400
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/13400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XXX Adult (18+)" tvg-logo="" group-title="For Adult",XXX Adult (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/23178
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/23178.m3u8
 #EXTINF:-1 tvg-id="vividfr.ca" tvg-name="Vivid TV CA-FR (18+)" tvg-logo="" group-title="For Adult",Vivid TV CA-FR (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/53706
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/53706.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 1" tvg-logo="" group-title="For Adult",ALBA XXX 1
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666419
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666419.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 2" tvg-logo="" group-title="For Adult",ALBA XXX 2
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666420
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666420.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 3" tvg-logo="" group-title="For Adult",ALBA XXX 3
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666421
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666421.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 4" tvg-logo="" group-title="For Adult",ALBA XXX 4
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666422
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 5" tvg-logo="" group-title="For Adult",ALBA XXX 5
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666423
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666423.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ALBA XXX 6" tvg-logo="" group-title="For Adult",ALBA XXX 6
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666424
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666424.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fake Agent HD (18+)" tvg-logo="" group-title="For Adult",Fake Agent HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666425
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666425.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fake Agent 3 HD (18+)" tvg-logo="" group-title="For Adult",Fake Agent 3 HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666427
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666427.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fake Taxi HD (18+)" tvg-logo="" group-title="For Adult",Fake Taxi HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666428
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666428.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fake Taxi Female FHD (18+)" tvg-logo="" group-title="For Adult",Fake Taxi Female FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666429
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666429.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sext6senso (18+)" tvg-logo="" group-title="For Adult",Sext6senso (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666430
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666430.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Free-XTV (18+)" tvg-logo="" group-title="For Adult",Free-XTV (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/666431
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/666431.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Focus On Your Body " tvg-logo="" group-title="For Adult VOD",Adult | Focus On Your Body 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664634.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664634.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Bathing With Her Boyfriend " tvg-logo="" group-title="For Adult VOD",Adult | Bathing With Her Boyfriend 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664635.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664635.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Balls To Her Wall " tvg-logo="" group-title="For Adult VOD",Adult | Balls To Her Wall 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664636.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664636.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Gingervitis " tvg-logo="" group-title="For Adult VOD",Adult | Gingervitis 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664637.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664637.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Horny For The Holidays - Part 1 " tvg-logo="" group-title="For Adult VOD",Adult | Horny For The Holidays - Part 1 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664638.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664638.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Getting Good Vibes " tvg-logo="" group-title="For Adult VOD",Adult | Getting Good Vibes 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Helicockter Mom " tvg-logo="" group-title="For Adult VOD",Adult | Helicockter Mom 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664640.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664639.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Load Size - Jordi's Max " tvg-logo="" group-title="For Adult VOD",Adult | Load Size - Jordi's Max 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664641.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664641.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lessons From the Champ " tvg-logo="" group-title="For Adult VOD",Adult | Lessons From the Champ 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664642.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664642.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Nailed Through The Wall " tvg-logo="" group-title="For Adult VOD",Adult | Nailed Through The Wall 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664643.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664643.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Nurse's Orders " tvg-logo="" group-title="For Adult VOD",Adult | Nurse's Orders 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664644.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664644.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Night Walk " tvg-logo="" group-title="For Adult VOD",Adult | Night Walk 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664645.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664645.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | New To Nudism " tvg-logo="" group-title="For Adult VOD",Adult | New To Nudism 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Serviced In Her Room " tvg-logo="" group-title="For Adult VOD",Adult | Serviced In Her Room 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664647.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664646.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Sweet And Sour " tvg-logo="" group-title="For Adult VOD",Adult | Sweet And Sour 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664648.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664648.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Sex Tape Mistake " tvg-logo="" group-title="For Adult VOD",Adult | Sex Tape Mistake 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664649.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664649.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Tennis Balls Deep " tvg-logo="" group-title="For Adult VOD",Adult | Tennis Balls Deep 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | A Fair Deal " tvg-logo="" group-title="For Adult VOD",Adult | A Fair Deal 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | We'll Do That For You " tvg-logo="" group-title="For Adult VOD",Adult | We'll Do That For You 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/664878.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/664650.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | A Very Neighborly Affair " tvg-logo="" group-title="For Adult VOD",Adult | A Very Neighborly Affair 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665112.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665112.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Bingo Bang " tvg-logo="" group-title="For Adult VOD",Adult | Bingo Bang 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665113.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665113.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Backyard Banging " tvg-logo="" group-title="For Adult VOD",Adult | Backyard Banging 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665114.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Behind Her Husbands Back " tvg-logo="" group-title="For Adult VOD",Adult | Behind Her Husbands Back 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665115.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665115.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Black Out " tvg-logo="" group-title="For Adult VOD",Adult | Black Out 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665116.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Blindfolded Bride " tvg-logo="" group-title="For Adult VOD",Adult | Blindfolded Bride 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665117.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665117.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Cherie Peeping " tvg-logo="" group-title="For Adult VOD",Adult | Cherie Peeping 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665118.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665118.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Desert Desires " tvg-logo="" group-title="For Adult VOD",Adult | Desert Desires 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665119.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665119.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Day With A Pornstar - Angela White " tvg-logo="" group-title="For Adult VOD",Adult | Day With A Pornstar - Angela White 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665120.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665120.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Eating Out for Thanksgiving " tvg-logo="" group-title="For Adult VOD",Adult | Eating Out for Thanksgiving 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | En Suite Sneak " tvg-logo="" group-title="For Adult VOD",Adult | En Suite Sneak 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665122.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665121.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Eyes On The Prize " tvg-logo="" group-title="For Adult VOD",Adult | Eyes On The Prize 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665123.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665123.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Fighting Foot Domination " tvg-logo="" group-title="For Adult VOD",Adult | Fighting Foot Domination 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665124.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665124.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Here For My Boyfriend's Stuff " tvg-logo="" group-title="For Adult VOD",Adult | Here For My Boyfriend's Stuff 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665125.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | I'm A Giver And A Taker " tvg-logo="" group-title="For Adult VOD",Adult | I'm A Giver And A Taker 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665126.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665126.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Horny For The Holidays - Part 2 " tvg-logo="" group-title="For Adult VOD",Adult | Horny For The Holidays - Part 2 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665127.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665127.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | I'm Your Biggest Fan " tvg-logo="" group-title="For Adult VOD",Adult | I'm Your Biggest Fan 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665128.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665128.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Just Like That, Nurse " tvg-logo="" group-title="For Adult VOD",Adult | Just Like That, Nurse 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665129.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Laying Pipe with the Bros " tvg-logo="" group-title="For Adult VOD",Adult | Laying Pipe with the Bros 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665130.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665129.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lingerie Rubdown " tvg-logo="" group-title="For Adult VOD",Adult | Lingerie Rubdown 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665131.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665131.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Ladies, Twerk It Out! " tvg-logo="" group-title="For Adult VOD",Adult | Ladies, Twerk It Out! 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665132.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665132.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | More Than Just A Pretty Face " tvg-logo="" group-title="For Adult VOD",Adult | More Than Just A Pretty Face 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665133.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665133.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Pornstar Prey " tvg-logo="" group-title="For Adult VOD",Adult | Pornstar Prey 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665134.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665134.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Peen-ata Pounding " tvg-logo="" group-title="For Adult VOD",Adult | Peen-ata Pounding 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665135.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665135.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Sexercise " tvg-logo="" group-title="For Adult VOD",Adult | Sexercise 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665136.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665136.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Temp's Crush " tvg-logo="" group-title="For Adult VOD",Adult | The Temp's Crush 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665137.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665137.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Trippy Hula Hippie " tvg-logo="" group-title="For Adult VOD",Adult | Trippy Hula Hippie 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665138.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665138.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Upgrading My Room " tvg-logo="" group-title="For Adult VOD",Adult | Upgrading My Room 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665139.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665139.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Marsha Raises the Bar FIRST ANAL " tvg-logo="" group-title="For Adult VOD",Adult | Marsha Raises the Bar FIRST ANAL 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665328.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665328.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Milf And Cookies " tvg-logo="" group-title="For Adult VOD",Adult | Milf And Cookies 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665329.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665329.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mom's Got A Meeting " tvg-logo="" group-title="For Adult VOD",Adult | Mom's Got A Meeting 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665330.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665330.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Blindfolded Best Friend " tvg-logo="" group-title="For Adult VOD",Adult | My Blindfolded Best Friend 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665331.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Naughty Date With The Neighbor " tvg-logo="" group-title="For Adult VOD",Adult | Naughty Date With The Neighbor 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665334.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665334.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mom's Helping Hands " tvg-logo="" group-title="For Adult VOD",Adult | Mom's Helping Hands 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665335.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Neon Rain " tvg-logo="" group-title="For Adult VOD",Adult | Neon Rain 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665336.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665336.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Office 4-Play - Latina Edition " tvg-logo="" group-title="For Adult VOD",Adult | Office 4-Play - Latina Edition 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665337.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665337.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Poolside Fucking " tvg-logo="" group-title="For Adult VOD",Adult | Poolside Fucking 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665338.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665338.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Out Like A Light " tvg-logo="" group-title="For Adult VOD",Adult | Out Like A Light 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Put Your Body Into It " tvg-logo="" group-title="For Adult VOD",Adult | Put Your Body Into It 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Roadie Head " tvg-logo="" group-title="For Adult VOD",Adult | Roadie Head 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665341.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Roadie Head " tvg-logo="" group-title="For Adult VOD",Adult | Roadie Head
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665341.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Stepsibling Rivalry " tvg-logo="" group-title="For Adult VOD",Adult | Stepsibling Rivalry 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665342.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665342.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Shower Curtain Cock " tvg-logo="" group-title="For Adult VOD",Adult | Shower Curtain Cock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665343.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665343.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Size Stamina " tvg-logo="" group-title="For Adult VOD",Adult | Size Stamina 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665344.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665344.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Something For My Husband " tvg-logo="" group-title="For Adult VOD",Adult | Something For My Husband 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665345.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665345.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Voyeur Next Door - Part 3 " tvg-logo="" group-title="For Adult VOD",Adult | The Voyeur Next Door - Part 3 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665346.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665346.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Voyeur Next Door - Part 4 " tvg-logo="" group-title="For Adult VOD",Adult | The Voyeur Next Door - Part 4 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665347.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665347.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Two Can Play At Paige's Game " tvg-logo="" group-title="For Adult VOD",Adult | Two Can Play At Paige's Game 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665348.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665348.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | A Housewife Scorned - Brandi Love & Valentina Nappi" tvg-logo="" group-title="For Adult VOD",Adult | A Housewife Scorned - Brandi Love & Valentina Nappi
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665885.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665885.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AllOver30 19-12-30 Julia North Mature " tvg-logo="" group-title="For Adult VOD",Adult | AllOver30 19-12-30 Julia North Mature 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665886.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665886.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | All Over 30 - Ella Knox & Mindi Mink " tvg-logo="" group-title="For Adult VOD",Adult | All Over 30 - Ella Knox & Mindi Mink 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665887.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665887.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AuntJudys 19-11-06 Natie Lotions Up And Masturbates In Red Lingerie" tvg-logo="" group-title="For Adult VOD",Adult | AuntJudys 19-11-06 Natie Lotions Up And Masturbates In Red Lingerie
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665888.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665888.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Chanel Preston & Amarna Miller " tvg-logo="" group-title="For Adult VOD",Adult | Chanel Preston & Amarna Miller 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665889.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665889.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | CzechEscortGirls 19-11-18 Ali Bordeaux " tvg-logo="" group-title="For Adult VOD",Adult | CzechEscortGirls 19-11-18 Ali Bordeaux 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665890.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665890.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | CzechEscortGirls 19-12-02 Cayla Lyons " tvg-logo="" group-title="For Adult VOD",Adult | CzechEscortGirls 19-12-02 Cayla Lyons 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665891.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665891.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Dominant Games - Vanna Bardot, Sovereign Syre & Sabina Rouge " tvg-logo="" group-title="For Adult VOD",Adult | Dominant Games - Vanna Bardot, Sovereign Syre & Sabina Rouge 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665892.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665892.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FinishHim 17-08-10 Bella Ink " tvg-logo="" group-title="For Adult VOD",Adult | FinishHim 17-08-10 Bella Ink 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665893.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665893.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Fistful of Curves - Dido Angel & Angel Wicky " tvg-logo="" group-title="For Adult VOD",Adult | Fistful of Curves - Dido Angel & Angel Wicky 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665894.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665894.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Girl on Girl on Girl - Sovereign Syre, Penny Pax & Tia Kai " tvg-logo="" group-title="For Adult VOD",Adult | Girl on Girl on Girl - Sovereign Syre, Penny Pax & Tia Kai 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665895.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665895.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Here She Comes - August Ames & Kendra James " tvg-logo="" group-title="For Adult VOD",Adult | Here She Comes - August Ames & Kendra James 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665896.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665896.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbian Defloration - Arina Sunflower & Amy. Ledenez" tvg-logo="" group-title="For Adult VOD",Adult | Lesbian Defloration - Arina Sunflower & Amy. Ledenez
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665897.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665897.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | I'm Allergic to Clothes - India Summer & Gianna Dior " tvg-logo="" group-title="For Adult VOD",Adult | I'm Allergic to Clothes - India Summer & Gianna Dior 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665898.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665898.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | JacquieEtMichelTV 19-12-30 Angela 20 Years " tvg-logo="" group-title="For Adult VOD",Adult | JacquieEtMichelTV 19-12-30 Angela 20 Years 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665899.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665899.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Love Moms - Ilsa (50) & Lara " tvg-logo="" group-title="For Adult VOD",Adult | Love Moms - Ilsa (50) & Lara 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665900.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665900.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | OldYoungLesbianLove 19-11-18 Franny And Missy Luv Stylish And Dirty " tvg-logo="" group-title="For Adult VOD",Adult | OldYoungLesbianLove 19-11-18 Franny And Missy Luv Stylish And Dirty 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665901.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665901.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Pregnant Vicky - Me & My Bisexual Friend Going At It" tvg-logo="" group-title="For Adult VOD",Adult | Pregnant Vicky - Me & My Bisexual Friend Going At It
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665902.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665902.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Part of Being a Woman - Karla Kush & Mona Wales " tvg-logo="" group-title="For Adult VOD",Adult | Part of Being a Woman - Karla Kush & Mona Wales 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665903.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665903.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Samantha Ryan & Siri " tvg-logo="" group-title="For Adult VOD",Adult | Samantha Ryan & Siri 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665904.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665904.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Tied up Naked - Jessa Rhodes & Ryan Ryans " tvg-logo="" group-title="For Adult VOD",Adult | Tied up Naked - Jessa Rhodes & Ryan Ryans 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665905.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665905.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Daisy Chain - Alexis Fawx, Mindi Mink, Alex Grey & Jenna Foxx " tvg-logo="" group-title="For Adult VOD",Adult | The Daisy Chain - Alexis Fawx, Mindi Mink, Alex Grey & Jenna Foxx 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665906.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665906.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | WankItNow 19-12-07 Natalia Forrest Trying On Lingerie" tvg-logo="" group-title="For Adult VOD",Adult | WankItNow 19-12-07 Natalia Forrest Trying On Lingerie
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665907.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665907.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | WankItNow 19-12-06 Selene Second Thoughts " tvg-logo="" group-title="For Adult VOD",Adult | WankItNow 19-12-06 Selene Second Thoughts 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665908.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665908.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | vanessa " tvg-logo="" group-title="For Adult VOD",Adult | vanessa 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/665909.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/665909.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Assential Oil " tvg-logo="" group-title="For Adult VOD",Adult | Assential Oil 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666022.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666022.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | A Woman Scorned " tvg-logo="" group-title="For Adult VOD",Adult | A Woman Scorned 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666023.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666023.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Bianca's Bangin' Bod " tvg-logo="" group-title="For Adult VOD",Adult | Bianca's Bangin' Bod 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666024.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666024.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Bronzing In The Batter's Booth " tvg-logo="" group-title="For Adult VOD",Adult | Bronzing In The Batter's Booth 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666025.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666025.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Brook's Erotic Escape " tvg-logo="" group-title="For Adult VOD",Adult | Brook's Erotic Escape 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666026.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666026.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Classically Trained To Fuck " tvg-logo="" group-title="For Adult VOD",Adult | Classically Trained To Fuck 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666027.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666027.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Countdown To Cock " tvg-logo="" group-title="For Adult VOD",Adult | Countdown To Cock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666028.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666028.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Cock And Frisk " tvg-logo="" group-title="For Adult VOD",Adult | Cock And Frisk 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666029.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666029.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Cum-Shot Caller " tvg-logo="" group-title="For Adult VOD",Adult | Cum-Shot Caller 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666030.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666030.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Disciplining The Squirt " tvg-logo="" group-title="For Adult VOD",Adult | Disciplining The Squirt 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666031.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666031.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Horny For The Holidays - Part 3 " tvg-logo="" group-title="For Adult VOD",Adult | Horny For The Holidays - Part 3 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666032.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666032.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mutual Massage " tvg-logo="" group-title="For Adult VOD",Adult | Mutual Massage 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666033.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666033.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Professional Pussy Protection " tvg-logo="" group-title="For Adult VOD",Adult | Professional Pussy Protection 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666034.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666034.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Teachers' Lounge " tvg-logo="" group-title="For Adult VOD",Adult | Teachers' Lounge 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666035.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666035.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Tied Up " tvg-logo="" group-title="For Adult VOD",Adult | Tied Up 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666036.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666036.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Working Late " tvg-logo="" group-title="For Adult VOD",Adult | Working Late 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/666037.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/666037.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | An Eyeful Of Emma " tvg-logo="" group-title="For Adult VOD",Adult | An Eyeful Of Emma 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667323.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667323.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | An Extra Buck " tvg-logo="" group-title="For Adult VOD",Adult | An Extra Buck 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667324.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667324.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Boss For A Day " tvg-logo="" group-title="For Adult VOD",Adult | Boss For A Day 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667325.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667325.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Boss Me Around " tvg-logo="" group-title="For Adult VOD",Adult | Boss Me Around 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667326.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Bubble Butt Bride " tvg-logo="" group-title="For Adult VOD",Adult | Bubble Butt Bride 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667327.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667326.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Late Date " tvg-logo="" group-title="For Adult VOD",Adult | Late Date 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667328.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Getting Even And Getting Laid " tvg-logo="" group-title="For Adult VOD",Adult | Getting Even And Getting Laid 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667329.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667328.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Making Madison Wet " tvg-logo="" group-title="For Adult VOD",Adult | Making Madison Wet 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667330.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667330.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Library Lechery " tvg-logo="" group-title="For Adult VOD",Adult | Library Lechery 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667331.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667331.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mom's Got New Boobs " tvg-logo="" group-title="For Adult VOD",Adult | Mom's Got New Boobs 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667332.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667332.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Girlfriend's Girlfriend " tvg-logo="" group-title="For Adult VOD",Adult | My Girlfriend's Girlfriend 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667333.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667333.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Obedience And Orgasms " tvg-logo="" group-title="For Adult VOD",Adult | Obedience And Orgasms 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667334.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667334.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Robocock " tvg-logo="" group-title="For Adult VOD",Adult | Robocock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667335.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667335.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Snippity Snip " tvg-logo="" group-title="For Adult VOD",Adult | Snippity Snip 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667336.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667336.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Trading Up Times Two " tvg-logo="" group-title="For Adult VOD",Adult | Trading Up Times Two 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667337.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667337.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Stepmom's Got Game " tvg-logo="" group-title="For Adult VOD",Adult | Stepmom's Got Game 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667338.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667338.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Anilos 20-01-15 Madison Missina Lesbian " tvg-logo="" group-title="For Adult VOD",Adult | Anilos 20-01-15 Madison Missina Lesbian 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667356.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667356.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | ClubSeventeen 20-01-16 Angel Wicky And  Mina B Lesbian " tvg-logo="" group-title="For Adult VOD",Adult | ClubSeventeen 20-01-16 Angel Wicky And  Mina B Lesbian 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667357.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667357.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | BangBus 20-01-15 Binky Beaz " tvg-logo="" group-title="For Adult VOD",Adult | BangBus 20-01-15 Binky Beaz 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667358.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667358.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FakeTaxi - Amber Deen " tvg-logo="" group-title="For Adult VOD",Adult | FakeTaxi - Amber Deen 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667359.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667359.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son " tvg-logo="" group-title="For Adult VOD",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667360.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667360.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers " tvg-logo="" group-title="For Adult VOD",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667361.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667361.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-04-23 Nicolette Shea Chronic Humping Syndrome " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-04-23 Nicolette Shea Chronic Humping Syndrome 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667362.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667362.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea - Sarah Sultry And Soyivania " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea - Sarah Sultry And Soyivania 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667363.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667363.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LezCuties 20-01-15 Lingerie Models Magic " tvg-logo="" group-title="For Adult VOD",Adult | LezCuties 20-01-15 Lingerie Models Magic 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667364.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667364.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-04-30 Ryan Keely Periscoping Peeper " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-04-30 Ryan Keely Periscoping Peeper 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667365.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667365.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-05-07 London River Getting Off On Her Day Off " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-05-07 London River Getting Off On Her Day Off 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667366.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667366.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-05-14 Sybil Stallone A Persistent Little Humper " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-05-14 Sybil Stallone A Persistent Little Humper 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667367.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667367.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-05-28 Lexi Luna Pounding The Prankster " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-05-28 Lexi Luna Pounding The Prankster 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667368.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667368.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-06-18 Dee Williams Road Rage Load " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-06-18 Dee Williams Road Rage Load 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667369.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667369.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-05-21 Eva Notty Busty Study Buddy " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-05-21 Eva Notty Busty Study Buddy 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667370.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667370.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-07-09 Aubrey Black Massage Switcheroo " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-07-09 Aubrey Black Massage Switcheroo 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667371.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667371.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-08-06 Brittany Andrews Pounding The Panty Thief " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-08-06 Brittany Andrews Pounding The Panty Thief 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667372.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667372.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-08-20 Missy Martinez Hide And Peep " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-08-20 Missy Martinez Hide And Peep 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667373.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667373.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-10-01 Dana Dearmond The Great MILF Hunt " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-10-01 Dana Dearmond The Great MILF Hunt 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667374.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667374.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-12-03 Alena Croft Rickys Gang " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-12-03 Alena Croft Rickys Gang 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667375.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667375.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 19-09-17 Katie Morgan And Brandi Love Puzzled Over Pussy " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 19-09-17 Katie Morgan And Brandi Love Puzzled Over Pussy 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667376.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667376.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LilHumpers 20-01-07 Ryan Keely Window Washed " tvg-logo="" group-title="For Adult VOD",Adult | LilHumpers 20-01-07 Ryan Keely Window Washed 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667377.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667377.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time " tvg-logo="" group-title="For Adult VOD",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667378.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667378.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | PublicAgent 20-01-16 Lenina Crowne " tvg-logo="" group-title="For Adult VOD",Adult | PublicAgent 20-01-16 Lenina Crowne 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667379.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667379.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Publicpickups -  Gina Ferocious Sneaky Street Fuck " tvg-logo="" group-title="For Adult VOD",Adult | Publicpickups -  Gina Ferocious Sneaky Street Fuck 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667380.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667380.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Anilos 16-08-05 Alex Black Pretty In Pink " tvg-logo="" group-title="For Adult VOD",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Desperate Amateurs Caramel " tvg-logo="" group-title="For Adult VOD",Adult | Desperate Amateurs Caramel 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667551.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult | Desperate Amateurs Caramel " tvg-logo="" group-title="For Adult VOD",Adult | Desperate Amateurs Caramel
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667551.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Finish Him Jenni Noble " tvg-logo="" group-title="For Adult VOD",Adult | Finish Him Jenni Noble 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667552.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667552.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Heavy On Hotties 20-01-17 Nadya Basinger Cougar Town " tvg-logo="" group-title="For Adult VOD",Adult | Heavy On Hotties 20-01-17 Nadya Basinger Cougar Town 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Alecia Fox And Leanne Lace " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Alecia Fox And Leanne Lace 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667554.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667553.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Jade Presley And Honour May " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Jade Presley And Honour May 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667555.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667555.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Lady Bug And Madison Mcqueen " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Lady Bug And Madison Mcqueen 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Marilyn Sugar And Tiny Tina " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Marilyn Sugar And Tiny Tina 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Sarah Sultry And Soyivania " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Sarah Sultry And Soyivania 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667558.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667556.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Monsters Of Cock Khloe Kapri " tvg-logo="" group-title="For Adult VOD",Adult | Monsters Of Cock Khloe Kapri 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667559.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667559.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Pervy Family Paisley Pepper " tvg-logo="" group-title="For Adult VOD",Adult | My Pervy Family Paisley Pepper 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667560.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667560.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Share My BF Aria Kai And Indica Flower Not My Legs Challenge " tvg-logo="" group-title="For Adult VOD",Adult | Share My BF Aria Kai And Indica Flower Not My Legs Challenge 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667561.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667561.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Pervy Family Tucker Stevens " tvg-logo="" group-title="For Adult VOD",Adult | My Pervy Family Tucker Stevens 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667562.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667562.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Trip For Fuck 19-05-14 Jaa " tvg-logo="" group-title="For Adult VOD",Adult | Trip For Fuck 19-05-14 Jaa 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | TripForFuck - Gift " tvg-logo="" group-title="For Adult VOD",Adult | TripForFuck - Gift 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667564.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667563.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Balled-Room Dancing " tvg-logo="" group-title="For Adult VOD",Adult | Balled-Room Dancing 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667764.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667764.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | A Slippery Situation " tvg-logo="" group-title="For Adult VOD",Adult | A Slippery Situation 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667765.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667765.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | An Extra Buck " tvg-logo="" group-title="For Adult VOD",Adult | An Extra Buck 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667766.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667766.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Big Tits Save Lives " tvg-logo="" group-title="For Adult VOD",Adult | Big Tits Save Lives 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667767.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667767.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Assential Oil " tvg-logo="" group-title="For Adult VOD",Adult | Assential Oil 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667768.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667768.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | An Eyeful Of Emma " tvg-logo="" group-title="For Adult VOD",Adult | An Eyeful Of Emma 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667769.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667769.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Five-Star Dick " tvg-logo="" group-title="For Adult VOD",Adult | Five-Star Dick 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Day With A Pornstar - Gina Valentina " tvg-logo="" group-title="For Adult VOD",Adult | Day With A Pornstar - Gina Valentina 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667771.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667770.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Don't Toy With My Ass " tvg-logo="" group-title="For Adult VOD",Adult | Don't Toy With My Ass 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667772.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667772.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Fill My Quota " tvg-logo="" group-title="For Adult VOD",Adult | Fill My Quota 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667773.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667773.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Game Over, Man " tvg-logo="" group-title="For Adult VOD",Adult | Game Over, Man 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667774.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667774.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | A Woman Scorned " tvg-logo="" group-title="For Adult VOD",Adult | A Woman Scorned 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667775.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667775.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Fucking Her Friend's Mom " tvg-logo="" group-title="For Adult VOD",Adult | Fucking Her Friend's Mom 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667776.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667776.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Boss For A Day " tvg-logo="" group-title="For Adult VOD",Adult | Boss For A Day 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667777.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667777.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Bronzing In The Batter's Booth " tvg-logo="" group-title="For Adult VOD",Adult | Bronzing In The Batter's Booth 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667778.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667778.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Boss Me Around " tvg-logo="" group-title="For Adult VOD",Adult | Boss Me Around 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667779.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667779.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Brook's Erotic Escape " tvg-logo="" group-title="For Adult VOD",Adult | Brook's Erotic Escape 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Bubble Butt Bride " tvg-logo="" group-title="For Adult VOD",Adult | Bubble Butt Bride 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667781.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667780.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Cock And Frisk " tvg-logo="" group-title="For Adult VOD",Adult | Cock And Frisk 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667782.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667782.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Countdown To Cock " tvg-logo="" group-title="For Adult VOD",Adult | Countdown To Cock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667783.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667783.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Classically Trained To Fuck " tvg-logo="" group-title="For Adult VOD",Adult | Classically Trained To Fuck 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667784.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667784.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Cum-Shot Caller " tvg-logo="" group-title="For Adult VOD",Adult | Cum-Shot Caller 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Getting Even And Getting Laid " tvg-logo="" group-title="For Adult VOD",Adult | Getting Even And Getting Laid 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667786.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667785.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Covet Thy Neighbor's Ass " tvg-logo="" group-title="For Adult VOD",Adult | Covet Thy Neighbor's Ass 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667838.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667838.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Crawling To Another Cock " tvg-logo="" group-title="For Adult VOD",Adult | Crawling To Another Cock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667839.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667839.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Getting The Shot " tvg-logo="" group-title="For Adult VOD",Adult | Getting The Shot 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667840.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667840.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Feet First " tvg-logo="" group-title="For Adult VOD",Adult | Feet First 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667841.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667841.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Honour's All In " tvg-logo="" group-title="For Adult VOD",Adult | Honour's All In 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667842.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667842.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Horny For The Holidays - Part 3 " tvg-logo="" group-title="For Adult VOD",Adult | Horny For The Holidays - Part 3 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667843.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667843.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Late Date " tvg-logo="" group-title="For Adult VOD",Adult | Late Date 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667844.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667844.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | In The Pink " tvg-logo="" group-title="For Adult VOD",Adult | In The Pink 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667845.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667845.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Library Lechery " tvg-logo="" group-title="For Adult VOD",Adult | Library Lechery 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667846.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667846.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Making Madison Wet " tvg-logo="" group-title="For Adult VOD",Adult | Making Madison Wet 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667847.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667847.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mom's Got New Boobs! " tvg-logo="" group-title="For Adult VOD",Adult | Mom's Got New Boobs! 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667848.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667848.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Girlfriend's Girlfriend " tvg-logo="" group-title="For Adult VOD",Adult | My Girlfriend's Girlfriend 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667849.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667849.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Mutual Massage " tvg-logo="" group-title="For Adult VOD",Adult | Mutual Massage 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667850.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667850.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Overly Anal Secretary " tvg-logo="" group-title="For Adult VOD",Adult | My Overly Anal Secretary 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Nothing Like A Good Book " tvg-logo="" group-title="For Adult VOD",Adult | Nothing Like A Good Book 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667852.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667851.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Not Too Sick For Dick " tvg-logo="" group-title="For Adult VOD",Adult | Not Too Sick For Dick 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667853.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667853.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Obedience And Orgasms " tvg-logo="" group-title="For Adult VOD",Adult | Obedience And Orgasms 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667854.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667854.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Our Not-So-Timid Tenant " tvg-logo="" group-title="For Adult VOD",Adult | Our Not-So-Timid Tenant 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667855.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667855.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Pussy Unlocked " tvg-logo="" group-title="For Adult VOD",Adult | Pussy Unlocked 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667856.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667856.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Read My Lips " tvg-logo="" group-title="For Adult VOD",Adult | Read My Lips 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667857.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667857.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Sibling Rivalry 4 " tvg-logo="" group-title="For Adult VOD",Adult | Sibling Rivalry 4 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667858.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667858.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Sex With The Therapist " tvg-logo="" group-title="For Adult VOD",Adult | Sex With The Therapist 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667859.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667859.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Snippity Snip " tvg-logo="" group-title="For Adult VOD",Adult | Snippity Snip 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667860.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667860.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Stretching Skylar Out " tvg-logo="" group-title="For Adult VOD",Adult | Stretching Skylar Out 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667861.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667861.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Stepmom's Got Game " tvg-logo="" group-title="For Adult VOD",Adult | Stepmom's Got Game 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667862.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667862.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Tats, Tits And Ass " tvg-logo="" group-title="For Adult VOD",Adult | Tats, Tits And Ass 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667863.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667863.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Dommes Next Door - Double Dommed " tvg-logo="" group-title="For Adult VOD",Adult | The Dommes Next Door - Double Dommed 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667864.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667864.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Teachers' Lounge " tvg-logo="" group-title="For Adult VOD",Adult | Teachers' Lounge 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667865.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667865.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Stuck In The Copier " tvg-logo="" group-title="For Adult VOD",Adult | Stuck In The Copier 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667866.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667866.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Slutty Surveillance " tvg-logo="" group-title="For Adult VOD",Adult | Slutty Surveillance 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667867.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667867.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Track And Feel Her " tvg-logo="" group-title="For Adult VOD",Adult | Track And Feel Her 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667868.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667868.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Trading Up Times Two " tvg-logo="" group-title="For Adult VOD",Adult | Trading Up Times Two 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667869.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667869.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Working Her Ass Off " tvg-logo="" group-title="For Adult VOD",Adult | Working Her Ass Off 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667870.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667870.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | The Trip - Part 1 " tvg-logo="" group-title="For Adult VOD",Adult | The Trip - Part 1 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667871.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667871.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Tied Up " tvg-logo="" group-title="For Adult VOD",Adult | Tied Up 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667872.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667872.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Working Late " tvg-logo="" group-title="For Adult VOD",Adult | Working Late 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667873.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667873.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Yes, In Front of My Salad " tvg-logo="" group-title="For Adult VOD",Adult | Yes, In Front of My Salad 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667874.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667874.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Robocock " tvg-logo="" group-title="For Adult VOD",Adult | Robocock 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/667875.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/667875.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AllOver30 20-01-06 Sofie Marie " tvg-logo="" group-title="For Adult VOD",Adult | AllOver30 20-01-06 Sofie Marie 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668060.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668060.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AllOver30 20-01-25 Jessie G " tvg-logo="" group-title="For Adult VOD",Adult | AllOver30 20-01-25 Jessie G 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668061.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668061.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AllOver30 20-01-07 Tiffany Cane Ladies In Action " tvg-logo="" group-title="For Adult VOD",Adult | AllOver30 20-01-07 Tiffany Cane Ladies In Action 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668062.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668062.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | AmateriPremium 17-07-06 Foxy Sanie " tvg-logo="" group-title="For Adult VOD",Adult | AmateriPremium 17-07-06 Foxy Sanie 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668063.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668063.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Anilos 16-08-05 Alex Black Pretty In Pink " tvg-logo="" group-title="For Adult VOD",Adult | Anilos 16-08-05 Alex Black Pretty In Pink 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668064.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668064.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Anilos 20-01-10 Lira Kissy Lip Gloss Love " tvg-logo="" group-title="For Adult VOD",Adult | Anilos 20-01-10 Lira Kissy Lip Gloss Love 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668065.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668065.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | BlowBangGirls 19-11-08 Tee " tvg-logo="" group-title="For Adult VOD",Adult | BlowBangGirls 19-11-08 Tee 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668066.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668066.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | BlowBangGirls 19-11-15 Melody " tvg-logo="" group-title="For Adult VOD",Adult | BlowBangGirls 19-11-15 Melody 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668067.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668067.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | BlowBangGirls 19-11-28 Girls Want BBC OnBlack Friday " tvg-logo="" group-title="For Adult VOD",Adult | BlowBangGirls 19-11-28 Girls Want BBC OnBlack Friday 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668068.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668068.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | EuroGirlsOnGirls 20-01-27 Katy Rose And Inna Innaki Lesbian Dildo Fucking " tvg-logo="" group-title="For Adult VOD",Adult | EuroGirlsOnGirls 20-01-27 Katy Rose And Inna Innaki Lesbian Dildo Fucking 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668069.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668069.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son " tvg-logo="" group-title="For Adult VOD",Adult | FamilyScrew 19-12-25 Nasty Present For Youngest Son 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668070.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668070.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers " tvg-logo="" group-title="For Adult VOD",Adult | FamilyScrew 20-01-15 Brothers Hires Old And Young Strippers 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668071.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | FinishHim Jenni Noble " tvg-logo="" group-title="For Adult VOD",Adult | FinishHim Jenni Noble 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668072.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668071.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | GrandMams 19-04-23 The Triangle Of Mature Love " tvg-logo="" group-title="For Adult VOD",Adult | GrandMams 19-04-23 The Triangle Of Mature Love 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668073.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668073.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | GrandMams 19-08-20 Amanda And Her Young Secret Lover " tvg-logo="" group-title="For Adult VOD",Adult | GrandMams 19-08-20 Amanda And Her Young Secret Lover 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668074.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668074.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | GrandMams 19-10-08 Young Gigolo Fucks Horny Granny " tvg-logo="" group-title="For Adult VOD",Adult | GrandMams 19-10-08 Young Gigolo Fucks Horny Granny 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668075.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | GrandMams 19-10-29 Three Old Lesbians Sharing Their Toys " tvg-logo="" group-title="For Adult VOD",Adult | GrandMams 19-10-29 Three Old Lesbians Sharing Their Toys 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668076.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668075.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | GrandMams 19-11-05 Mature Danny Visits A Secret Sex Club " tvg-logo="" group-title="For Adult VOD",Adult | GrandMams 19-11-05 Mature Danny Visits A Secret Sex Club 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668077.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Alecia Fox And Leanne Lace " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Alecia Fox And Leanne Lace 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668078.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668077.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Jade Presley And Honour May " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Jade Presley And Honour May 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668079.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668079.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Lady Bug And Madison Mcqueen " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Lady Bug And Madison Mcqueen 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668080.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Marilyn Sugar And Tiny Tina " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Marilyn Sugar And Tiny Tina 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668081.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668080.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea - Sarah Sultry And Soyivania " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea - Sarah Sultry And Soyivania 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Sarah Sultry And Soyivania " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Sarah Sultry And Soyivania 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668083.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668082.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | LezCuties 20-01-15 Lingerie Models Magic " tvg-logo="" group-title="For Adult VOD",Adult | LezCuties 20-01-15 Lingerie Models Magic 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668084.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668084.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | MagmaFilm 20-01-28 Dacada Mature Homemade Threesome " tvg-logo="" group-title="For Adult VOD",Adult | MagmaFilm 20-01-28 Dacada Mature Homemade Threesome 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668085.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668085.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time " tvg-logo="" group-title="For Adult VOD",Adult | PornMegaLoad 20-01-15 Ruby Oconnor Shower Time 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668086.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668086.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | PublicAgent 20-01-28 Tori Cummings " tvg-logo="" group-title="For Adult VOD",Adult | PublicAgent 20-01-28 Tori Cummings 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668087.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668087.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Welivetogether  Karlee Grey And Abella Danger Take Them Off " tvg-logo="" group-title="For Adult VOD",Adult | Welivetogether  Karlee Grey And Abella Danger Take Them Off 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668088.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668088.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | All Sex Casino " tvg-logo="" group-title="For Adult VOD",Adult | All Sex Casino 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668099.avi
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668099.avi
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Grand Mams 19-04-23 The Triangle Of Mature Love " tvg-logo="" group-title="For Adult VOD",Adult | Grand Mams 19-04-23 The Triangle Of Mature Love 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668100.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668100.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Casting AllaItaliana - Debby Love 01-06-17 " tvg-logo="" group-title="For Adult VOD",Adult | Casting AllaItaliana - Debby Love 01-06-17 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668101.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668101.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Grand Mams 19-08-20 Amanda And Her Young Secret Lover " tvg-logo="" group-title="For Adult VOD",Adult | Grand Mams 19-08-20 Amanda And Her Young Secret Lover 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome " tvg-logo="" group-title="For Adult VOD",Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668103.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome " tvg-logo="" group-title="For Adult VOD",Adult |  ExposedCasting - Ukrainian and Italian Ivana Sugar & Silvia Dellai audition for threesome
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668103.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Grand Mams 19-10-08 Young Gigolo Fucks Horny Granny " tvg-logo="" group-title="For Adult VOD",Adult | Grand Mams 19-10-08 Young Gigolo Fucks Horny Granny 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668104.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668104.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Incesti Italian 22 Non dirlo a papa " tvg-logo="" group-title="For Adult VOD",Adult | Incesti Italian 22 Non dirlo a papa 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668105.avi
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668105.avi
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Grand Mams 19-10-29 Three Old Lesbians Sharing Their Toys " tvg-logo="" group-title="For Adult VOD",Adult | Grand Mams 19-10-29 Three Old Lesbians Sharing Their Toys 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668106.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668106.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Magma Film 20-01-28 Dacada Mature Homemade Threesome " tvg-logo="" group-title="For Adult VOD",Adult | Magma Film 20-01-28 Dacada Mature Homemade Threesome 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668107.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | My Italian Muse Abella Danger And Valentina Nappi " tvg-logo="" group-title="For Adult VOD",Adult | My Italian Muse Abella Danger And Valentina Nappi 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668108.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668107.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Pervy Family Paisley Pepper " tvg-logo="" group-title="For Adult VOD",Adult | My Pervy Family Paisley Pepper 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668109.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668109.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | My Pervy Family Tucker Stevens " tvg-logo="" group-title="For Adult VOD",Adult | My Pervy Family Tucker Stevens 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668110.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668110.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Public Agent 20-01-28 Tori Cummings " tvg-logo="" group-title="For Adult VOD",Adult | Public Agent 20-01-28 Tori Cummings 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668111.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668111.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Storia di un vero Incesto all italiana " tvg-logo="" group-title="For Adult VOD",Adult | Storia di un vero Incesto all italiana 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668112.avi
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Alecia Fox And Leanne Lace " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Alecia Fox And Leanne Lace 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668113.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668112.avi
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Jade Presley And Honour May " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Jade Presley And Honour May 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668114.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668114.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Lady Bug And Madison Mcqueen " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Lady Bug And Madison Mcqueen 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668115.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668115.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Adult | All Over30 20-01-25 Jessie G " tvg-logo="" group-title="For Adult VOD",Adult | All Over30 20-01-25 Jessie G 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668116.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Marilyn Sugar And Tiny Tina " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Marilyn Sugar And Tiny Tina 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668117.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adult | Lesbea Sarah Sultry And Soyivania " tvg-logo="" group-title="For Adult VOD",Adult | Lesbea Sarah Sultry And Soyivania 
-http://mag.you24.online:8080/movie/Svetlana79241273/spdd49m9cm/668118.mp4
+http://mag.you24.online:80/movie/cd2vzpwvnm/haggi6290/668116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="AST 1 (18+)" tvg-logo="" group-title="For Adult",AST 1 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/672082
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/672082.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AST 2 (18+)" tvg-logo="" group-title="For Adult",AST 2 (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/672084
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/672084.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Lalkan Erotic (18+)" tvg-logo="" group-title="For Adult",Lalkan Erotic (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674059
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674059.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Legal Porno HD (18+)" tvg-logo="" group-title="For Adult",Legal Porno HD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674063
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674063.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Lesbian Channel (18+)" tvg-logo="" group-title="For Adult",Max Lesbian Channel (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674065
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674065.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Big Dick (18+)" tvg-logo="" group-title="For Adult",Max Big Dick (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674066
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674066.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Big Tits (18+)" tvg-logo="" group-title="For Adult",Max Big Tits (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674067
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674067.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Blonde (18+)" tvg-logo="" group-title="For Adult",Max Blonde (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674068
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674068.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Blowjob (18+)" tvg-logo="" group-title="For Adult",Max Blowjob (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674069
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674069.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Brunette (18+)" tvg-logo="" group-title="For Adult",Max Brunette (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674070
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674070.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Compilation (18+)" tvg-logo="" group-title="For Adult",Max Compilation (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674071
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674071.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Fetish (18+)" tvg-logo="" group-title="For Adult",Max Fetish (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674072
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674072.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Hardcore (18+)" tvg-logo="" group-title="For Adult",Max Hardcore (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674074
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674074.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Interracial (18+)" tvg-logo="" group-title="For Adult",Max Interracial (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674075
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674075.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Milf (18+)" tvg-logo="" group-title="For Adult",Max Milf (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674076
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674076.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Max Russian (18+)" tvg-logo="" group-title="For Adult",Max Russian (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674077
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674077.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PassionXXX (+18)" tvg-logo="" group-title="For Adult",PassionXXX (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674118
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="xxx1 (+18)" tvg-logo="" group-title="For Adult",xxx1 (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674119
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="xxx2 (+18)" tvg-logo="" group-title="For Adult",xxx2 (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674120
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Stars XXX (+18)" tvg-logo="" group-title="For Adult",Stars XXX (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674121
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674121.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Super One (+18)" tvg-logo="" group-title="For Adult",Super One (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674122
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674122.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sexx1 (+18)" tvg-logo="" group-title="For Adult",Sexx1 (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674123
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674123.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Redlight HD (+18)" tvg-logo="" group-title="For Adult",Redlight HD (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674124
-#EXTINF:-1 tvg-id="" tvg-name="Hot Club 1 (+18)" tvg-logo="" group-title="For Adult",Hot Club 1 (+18)http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674126
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674124.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hot Club 1 (+18)" tvg-logo="" group-title="For Adult",Hot Club 1 (+18)
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674126.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Hot Club 2 (+18)" tvg-logo="" group-title="For Adult",Hot Club 2 (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674127
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dreamporn (+18)" tvg-logo="" group-title="For Adult",Dreamporn (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674128
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EROXXX HD (+18)" tvg-logo="" group-title="For Adult",EROXXX HD (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674129
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674129.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SeXtreme (+18)" tvg-logo="" group-title="For Adult",SeXtreme (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674130
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674130.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic (+18)" tvg-logo="" group-title="For Adult",Balkan Erotic (+18)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/674131
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/674131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Nuart TV (18+)" tvg-logo="" group-title="For Adult",Nuart TV (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/680092
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/680092.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Orgy Channel FHD (18+)" tvg-logo="http://pici.life/logo.png" group-title="For Adult",Orgy Channel FHD (18+)
-http://mag.you24.online:8080/Svetlana79241273/spdd49m9cm/680239
+http://mag.you24.online:80/live/cd2vzpwvnm/haggi6290/680239.m3u8
