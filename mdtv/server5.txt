@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE HD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/das_erste.png" group-title="DE GERMANY",DE: DAS ERSTE HD
 http://poyraz67.com:8080/xA0YbTPe25/ZnFJzl723r/3463
 #EXTINF:-1 tvg-id="ard.de" tvg-name="DE: DAS ERSTE FHD" tvg-logo="http://logo.kll1ll120qazwed.site/logo/germanynew/das_erste.png" group-title="DE GERMANY",DE: DAS ERSTE FHD
