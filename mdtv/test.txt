@@ -188,7 +188,7 @@ plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113499
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.vavooto/?name=SWR
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
-plugin://plugin.video.vavooto/?name=SYFY
+plugin://plugin.video.livetv/?name=SYFY
 #EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=tlc-de-hd&mode=play_video
 #EXTINF:-1 tvg-id="tagesschau24" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png",Tagesschau 24
