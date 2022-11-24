@@ -8,7 +8,7 @@ plugin://plugin.video.livetv/?name=A%26E
 #EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png",ARD
 plugin://plugin.video.livetv/?name=ARD
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.zappntv/category/livestream/atv
+plugin://plugin.video.livetv/?name=atv
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
 plugin://plugin.video.zappntv/category/livestream/atv2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png",AXN
