@@ -28,7 +28,7 @@ plugin://plugin.video.livetv/?name=BOOMERANG
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.livetv/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=comedy-central-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=Comedy Central
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
 plugin://plugin.video.livetv/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
