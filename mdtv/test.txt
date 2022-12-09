@@ -108,9 +108,9 @@ plugin://plugin.video.zappntv/category/livestream/puls24
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.livetv/?name=PRO+7
 #EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosiebenfun-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=PRO+7+FUN
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosiebenmaxx-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=PRO+7+MAXX
 #EXTINF:-1 tvg-id="RBB" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
 plugin://plugin.video.livetv/?name=RBB
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
