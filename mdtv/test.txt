@@ -166,7 +166,7 @@ plugin://plugin.video.livetv/?name=SPORT+1
 #EXTINF:-1 tvg-id="SPORT1+" group-title="Sport" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/548.png",SPORT1+
 plugin://plugin.video.livetv/?name=SPORT+1+
 #EXTINF:-1 tvg-id="Super RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png",Super RTL
-plugin://plugin.video.livetv/?name=SUPER+RTL
+plugin://plugin.video.livetv/?name=SUPERRTL
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.livetv/?name=SWR
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
