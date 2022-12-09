@@ -8,9 +8,9 @@ plugin://plugin.video.livetv/?name=A%26E
 #EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png",ARD
 plugin://plugin.video.livetv/?name=ARD
 #EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.zappntv/category/livestream/atv
+plugin://plugin.video.livetv/?name=ATV
 #EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
-plugin://plugin.video.zappntv/category/livestream/atv2
+plugin://plugin.video.livetv/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png",AXN
 plugin://plugin.video.livetv/?name=AXN
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
@@ -28,7 +28,7 @@ plugin://plugin.video.livetv/?name=BOOMERANG
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
 plugin://plugin.video.livetv/?name=CARTOON+NETWORK
 #EXTINF:-1 tvg-id="Comedy Central" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=comedy-central-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=COMEDY+CENTRAL
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
 plugin://plugin.video.livetv/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
