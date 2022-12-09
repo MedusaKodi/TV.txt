@@ -14,7 +14,7 @@ plugin://plugin.video.livetv/?name=ATV+2
 #EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png",AXN
 plugin://plugin.video.livetv/?name=AXN
 #EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=animalplanet-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=ANIMAL+PLANET
 #EXTINF:-1 tvg-id="ANIXE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe
 plugin://plugin.video.livetv/?name=ANIXE
 #EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
@@ -34,21 +34,19 @@ plugin://plugin.video.livetv/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
 plugin://plugin.video.livetv/?name=DELUXE MUSIC
 #EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=dmax-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=DMAX
 #EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/502.png",Discovery
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=discoverychannel-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=DISCOVERY+CHANNEL
 #EXTINF:-1 tvg-id="Disney Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
 plugin://plugin.video.livetv/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
 plugin://plugin.video.livetv/?name=E!+ENTERTAINMENT
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
-plugin://plugin.video.dazn/?mode=play&title=Eurosport+1&id=1lgmsk2b5xn7d1uux7vn4noqep&params=884uhofskjiyp81uqidjkljtl&verify_age=False
+plugin://plugin.video.livetv/?name=EUROSPORT
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
-plugin://plugin.video.dazn/?mode=play&title=Eurosport+2&id=1glc8nr85cpa21r4ahv8074dqs&params=f5lgatefogdowhxxv80ndf3ve&verify_age=False
+plugin://plugin.video.livetv/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
 plugin://plugin.video.livetv/?name=FIX+%26+FOXI
-#EXTINF:-1 tvg-id="GEO Television" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Logo_of_GEO_HD.png",Geo
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113637
 #EXTINF:-1 tvg-id="gotv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png",Go tv
 plugin://plugin.video.livetv/?name=GOTV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
@@ -62,11 +60,11 @@ plugin://plugin.video.livetv/?name=JUKEBOX
 #EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/320px-Junior_Logo_2015.png",Junior
 plugin://plugin.video.livetv/?name=JUNIOR
 #EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=kabeleins-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=KABEL1
 #EXTINF:-1 tvg-id="Kabel Eins CLASSICS" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=kabeleinsclassics-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=KABEL1+CLASSICS
 #EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=kabeleinsdoku-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=KABEL1+DOKU
 #EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
 plugin://plugin.video.livetv/?name=KiKA
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/912.png",Kinowelt
