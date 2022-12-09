@@ -106,7 +106,7 @@ plugin://plugin.video.zappntv/category/livestream/puls4
 #EXTINF:-1 tvg-id="PULS24" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1403.png",PULS 24
 plugin://plugin.video.zappntv/category/livestream/puls24
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
-plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosieben-de-hd&mode=play_video
+plugin://plugin.video.livetv/?name=PROSIEBEN
 #EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
 plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosiebenfun-de-hd&mode=play_video
 #EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
@@ -114,7 +114,7 @@ plugin://plugin.video.joyn/?stream_type=LIVE&video_id=prosiebenmaxx-de-hd&mode=p
 #EXTINF:-1 tvg-id="RBB" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
 plugin://plugin.video.livetv/?name=RBB
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5142874
+plugin://plugin.video.livetv/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113424
 #EXTINF:-1 tvg-id="RTL Crime" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png",RTL Crime
