@@ -1,134 +1,26 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",Dazn 1
-plugin://plugin.video.livetv/?name=DAZN+1
-#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street
-plugin://plugin.video.livetv/?name=13TH+STREET
-#EXTINF:-1 tvg-id="3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
-plugin://plugin.video.livetv/?name=3SAT
-#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",A&E
-plugin://plugin.video.livetv/?name=A%26E
-#EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png",ARD
-plugin://plugin.video.livetv/?name=ARD
-#EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
-plugin://plugin.video.livetv/?name=ATV
-#EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
-plugin://plugin.video.livetv/?name=ATV+2
-#EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png",AXN
-plugin://plugin.video.livetv/?name=AXN
-#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
-plugin://plugin.video.livetv/?name=ANIMAL+PLANET
-#EXTINF:-1 tvg-id="ANIXE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe
-plugin://plugin.video.livetv/?name=ANIXE
-#EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
-plugin://plugin.video.livetv/?name=ARTE
-#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
-plugin://plugin.video.livetv/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="Boomerang" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png",Boomerang
-plugin://plugin.video.livetv/?name=BOOMERANG
-#EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
-plugin://plugin.video.livetv/?name=CARTOON+NETWORK
-#EXTINF:-1 tvg-id="Comedy Central" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
-plugin://plugin.video.livetv/?name=COMEDY+CENTRAL
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
 plugin://plugin.video.livetv/?name=DAS+ERSTE
-#EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
-plugin://plugin.video.livetv/?name=DELUXE MUSIC
-#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
-plugin://plugin.video.livetv/?name=DMAX
-#EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/502.png",Discovery
-plugin://plugin.video.livetv/?name=DISCOVERY+CHANNEL
-#EXTINF:-1 tvg-id="Disney Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
-plugin://plugin.video.livetv/?name=DISNEY+CHANNEL
-#EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
-plugin://plugin.video.livetv/?name=E!+ENTERTAINMENT
-#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
-plugin://plugin.video.livetv/?name=EUROSPORT+1
-#EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
-plugin://plugin.video.livetv/?name=EUROSPORT+2
-#EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
-plugin://plugin.video.livetv/?name=FIX+%26+FOXI
-#EXTINF:-1 tvg-id="gotv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png",Go tv
-plugin://plugin.video.livetv/?name=GOTV
-#EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
-plugin://plugin.video.livetv/?name=HEIMATKANAL
-#EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
-plugin://plugin.video.livetv/?name=HISTORY
-#EXTINF:-1 tvg-id="HR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png",HR
-plugin://plugin.video.livetv/?name=HR
-#EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Jukebox_HD_Logo_2014.png",Jukebox
-plugin://plugin.video.livetv/?name=JUKEBOX
-#EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/320px-Junior_Logo_2015.png",Junior
-plugin://plugin.video.livetv/?name=JUNIOR
-#EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
-plugin://plugin.video.livetv/?name=KABEL+1
-#EXTINF:-1 tvg-id="Kabel Eins CLASSICS" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
-plugin://plugin.video.livetv/?name=KABEL+1+CLASSICS
-#EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
-plugin://plugin.video.livetv/?name=KABEL+1+DOKU
-#EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
-plugin://plugin.video.livetv/?name=KIKA
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
+plugin://plugin.video.livetv/?name=ZDF
 #EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
 plugin://plugin.video.livetv/?name=MDR
-#EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
-plugin://plugin.video.livetv/?name=MTV
-#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
-plugin://plugin.video.livetv/?name=MOTORVISION
-#EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113402
-#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
-plugin://plugin.video.livetv/?name=N24+DOKU
-#EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
-plugin://plugin.video.livetv/?name=NDR
-#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/493.png",Nat Geo Wild
-plugin://plugin.video.livetv/?name=NAT+GEO+WILD
-#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/507.png",Nat Geo
-plugin://plugin.video.livetv/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="Nick Austria" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",Nick austria
-plugin://plugin.video.livetv/?name=NICKELODEON
-#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
-plugin://plugin.video.livetv/?name=ONE
-#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
-plugin://plugin.video.livetv/?name=ORF+1
-#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
-plugin://plugin.video.livetv/?name=ORF+2
-#EXTINF:-1 tvg-id="ORF III" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1058.png",ORF 3
-plugin://plugin.video.livetv/?name=ORF+3
-#EXTINF:-1 tvg-id="ORF SPORT +" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png",ORF Sport
-plugin://plugin.video.livetv/?name=ORF+SPORT
-#EXTINF:-1 tvg-id="PHOENIX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
-plugin://plugin.video.livetv/?name=PHOENIX
-#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
-plugin://plugin.video.livetv/?name=PRO+7
-#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
-plugin://plugin.video.livetv/?name=PRO+7+FUN
-#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
-plugin://plugin.video.livetv/?name=PRO+7+MAXX
-#EXTINF:-1 tvg-id="RBB" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
-plugin://plugin.video.livetv/?name=RBB
+#EXTINF:-1 tvg-id="3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
+plugin://plugin.video.livetv/?name=3SAT
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
 plugin://plugin.video.livetv/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.livetv/?name=RTL+2
-#EXTINF:-1 tvg-id="RTL Crime" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png",RTL Crime
-plugin://plugin.video.livetv/?name=RTL+CRIME
-#EXTINF:-1 tvg-id="RTL Living" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png",RTL Living
-plugin://plugin.video.livetv/?name=RTL+LIVING
-#EXTINF:-1 tvg-id="NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
-plugin://plugin.video.livetv/?name=RTL+NITRO
-#EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
-plugin://plugin.video.livetv/?name=RTL+PASSION
-#EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
-plugin://plugin.video.livetv/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
+plugin://plugin.video.livetv/?name=PRO+7
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
 plugin://plugin.video.livetv/?name=SAT+1
-#EXTINF:-1 tvg-id="SAT.1 emotions" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png",Sat 1 Emotions
-plugin://plugin.video.livetv/?name=SAT+1+EMOTIONS
-#EXTINF:-1 tvg-id="SAT.1 GOLD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
-plugin://plugin.video.livetv/?name=SAT+1+GOLD
-#EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
-plugin://plugin.video.livetv/?name=SILVERLINE
-#EXTINF:-1 tvg-id="sixx" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
-plugin://plugin.video.livetv/?name=SIXX
+#EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
+plugin://plugin.video.livetv/?name=KABEL+1
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox
+plugin://plugin.video.livetv/?name=VOX
+#EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
+plugin://plugin.video.livetv/?name=SYFY
 #EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.livetv/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
@@ -157,6 +49,122 @@ plugin://plugin.video.livetv/?name=SKY+KRIMI
 plugin://plugin.video.livetv/?name=SKY+NATURE
 #EXTINF:-1 tvg-id="Sky One" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Sky One
 plugin://plugin.video.livetv/?name=SKY+1
+#EXTINF:-1 tvg-id="ARTE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1009.png",Arte
+plugin://plugin.video.livetv/?name=ARTE
+#EXTINF:-1 tvg-id="sixx" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/942.png",Sixx
+plugin://plugin.video.livetv/?name=SIXX
+#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png",Tele 5
+plugin://plugin.video.livetv/?name=TELE+5
+#EXTINF:-1 tvg-id="ProSieben Fun" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/5/52/ProSieben_Fun_HD_2012.png/320px-ProSieben_Fun_HD_2012.png",ProSieben Fun
+plugin://plugin.video.livetv/?name=PRO+7+FUN
+#EXTINF:-1 tvg-id="ProSieben MAXX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/955.png",ProSieben MAXX
+plugin://plugin.video.livetv/?name=PRO+7+MAXX
+#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",Dazn 1
+plugin://plugin.video.livetv/?name=DAZN+1
+#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street
+plugin://plugin.video.livetv/?name=13TH+STREET
+#EXTINF:-1 tvg-id="CRIME + INVESTIGATION" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/945.png",A&E
+plugin://plugin.video.livetv/?name=A%26E
+#EXTINF:-1 tvg-id="ARD alpha" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/lightbg/100x100/1007.png",ARD
+plugin://plugin.video.livetv/?name=ARD
+#EXTINF:-1 tvg-id="ATV"group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/925.png",ATV
+plugin://plugin.video.livetv/?name=ATV
+#EXTINF:-1 tvg-id="ATV II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/926.png",ATV2
+plugin://plugin.video.livetv/?name=ATV+2
+#EXTINF:-1 tvg-id="AXN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/539.png",AXN
+plugin://plugin.video.livetv/?name=AXN
+#EXTINF:-1 tvg-id="Animal Planet" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/994.png",Animal Planet
+plugin://plugin.video.livetv/?name=ANIMAL+PLANET
+#EXTINF:-1 tvg-id="ANIXE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1008.png",Anixe
+plugin://plugin.video.livetv/?name=ANIXE
+#EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
+plugin://plugin.video.livetv/?name=AUTO+MOTOR+SPORT
+#EXTINF:-1 tvg-id="Boomerang" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png",Boomerang
+plugin://plugin.video.livetv/?name=BOOMERANG
+#EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
+plugin://plugin.video.livetv/?name=CARTOON+NETWORK
+#EXTINF:-1 tvg-id="Comedy Central" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1073.png",Comedy Central
+plugin://plugin.video.livetv/?name=COMEDY+CENTRAL
+#EXTINF:-1 tvg-id="DELUXE MUSIC" group-title="Alle" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1034.png",DELUXE MUSIC
+plugin://plugin.video.livetv/?name=DELUXE MUSIC
+#EXTINF:-1 tvg-id="DMAX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/969.png",DMAX
+plugin://plugin.video.livetv/?name=DMAX
+#EXTINF:-1 tvg-id="Discovery HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/502.png",Discovery
+plugin://plugin.video.livetv/?name=DISCOVERY+CHANNEL
+#EXTINF:-1 tvg-id="Disney Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1035.png",Disney Channel
+plugin://plugin.video.livetv/?name=DISNEY+CHANNEL
+#EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
+plugin://plugin.video.livetv/?name=E!+ENTERTAINMENT
+#EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
+plugin://plugin.video.livetv/?name=EUROSPORT+1
+#EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
+plugin://plugin.video.livetv/?name=EUROSPORT+2
+#EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
+plugin://plugin.video.livetv/?name=FIX+%26+FOXI
+#EXTINF:-1 tvg-id="gotv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png",Go tv
+plugin://plugin.video.livetv/?name=GOTV
+#EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
+plugin://plugin.video.livetv/?name=HEIMATKANAL
+#EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
+plugin://plugin.video.livetv/?name=HISTORY
+#EXTINF:-1 tvg-id="HR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1147.png",HR
+plugin://plugin.video.livetv/?name=HR
+#EXTINF:-1 tvg-id="Jukebox" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Jukebox_HD_Logo_2014.png",Jukebox
+plugin://plugin.video.livetv/?name=JUKEBOX
+#EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/320px-Junior_Logo_2015.png",Junior
+plugin://plugin.video.livetv/?name=JUNIOR
+#EXTINF:-1 tvg-id="Kabel Eins CLASSICS" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
+plugin://plugin.video.livetv/?name=KABEL+1+CLASSICS
+#EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
+plugin://plugin.video.livetv/?name=KABEL+1+DOKU
+#EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
+plugin://plugin.video.livetv/?name=KIKA
+#EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
+plugin://plugin.video.livetv/?name=MTV
+#EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
+plugin://plugin.video.livetv/?name=MOTORVISION
+#EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
+plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113402
+#EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
+plugin://plugin.video.livetv/?name=N24+DOKU
+#EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
+plugin://plugin.video.livetv/?name=NDR
+#EXTINF:-1 tvg-id="NAT GEO WILD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/493.png",Nat Geo Wild
+plugin://plugin.video.livetv/?name=NAT+GEO+WILD
+#EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/507.png",Nat Geo
+plugin://plugin.video.livetv/?name=NATIONAL+GEOGRAPHIC
+#EXTINF:-1 tvg-id="Nick Austria" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",Nick austria
+plugin://plugin.video.livetv/?name=NICKELODEON
+#EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
+plugin://plugin.video.livetv/?name=ONE
+#EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
+plugin://plugin.video.livetv/?name=ORF+1
+#EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
+plugin://plugin.video.livetv/?name=ORF+2
+#EXTINF:-1 tvg-id="ORF III" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1058.png",ORF 3
+plugin://plugin.video.livetv/?name=ORF+3
+#EXTINF:-1 tvg-id="ORF SPORT +" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1051.png",ORF Sport
+plugin://plugin.video.livetv/?name=ORF+SPORT
+#EXTINF:-1 tvg-id="PHOENIX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1019.png",PHOENIX
+plugin://plugin.video.livetv/?name=PHOENIX
+#EXTINF:-1 tvg-id="RBB" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1047.png",RBB
+plugin://plugin.video.livetv/?name=RBB
+#EXTINF:-1 tvg-id="RTL Crime" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/RTL_Crime_Logo_2015.png",RTL Crime
+plugin://plugin.video.livetv/?name=RTL+CRIME
+#EXTINF:-1 tvg-id="RTL Living" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/RTL_living_Logo_2015.png",RTL Living
+plugin://plugin.video.livetv/?name=RTL+LIVING
+#EXTINF:-1 tvg-id="NITRO" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1059.png",RTL Nitro
+plugin://plugin.video.livetv/?name=RTL+NITRO
+#EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
+plugin://plugin.video.livetv/?name=RTL+PASSION
+#EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
+plugin://plugin.video.livetv/?name=ROMANCE+TV
+#EXTINF:-1 tvg-id="SAT.1 emotions" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1042.png",Sat 1 Emotions
+plugin://plugin.video.livetv/?name=SAT+1+EMOTIONS
+#EXTINF:-1 tvg-id="SAT.1 GOLD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/956.png",Sat 1 Gold
+plugin://plugin.video.livetv/?name=SAT+1+GOLD
+#EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
+plugin://plugin.video.livetv/?name=SILVERLINE
 #EXTINF:-1 tvg-id="Sony Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/961.png",Sony Channel
 plugin://plugin.video.livetv/?name=SONY+TV
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/486.png",Spiegel Geschichte
@@ -171,20 +179,14 @@ plugin://plugin.video.livetv/?name=SPORT+1+
 plugin://plugin.video.livetv/?name=SUPERRTL
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.livetv/?name=SWR
-#EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
-plugin://plugin.video.livetv/?name=SYFY
 #EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
 plugin://plugin.video.livetv/?name=TLC
 #EXTINF:-1 tvg-id="tagesschau24" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1046.png",Tagesschau 24
 plugin://plugin.video.livetv/?name=TAGESSCHAU 24
-#EXTINF:-1 tvg-id="Tele 5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1018.png",Tele 5
-plugin://plugin.video.livetv/?name=TELE+5
 #EXTINF:-1 tvg-id="TOGGO plus" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/TOGGOPLUS/logosd.png?width=100&height=100",Toggo
 plugin://plugin.video.livetv/?name=TOGGO+PLUS
 #EXTINF:-1 tvg-id="Universal Channel HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/438.png",Universal Channel
 plugin://plugin.video.livetv/?name=UNIVERSAL
-#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox
-plugin://plugin.video.livetv/?name=VOX
 #EXTINF:-1 tvg-id="VOXup" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/VOXUP/logosd.png?width=100&height=100",Vox UP
 plugin://plugin.video.livetv/?name=VOX+UP
 #EXTINF:-1 tvg-id="TNT Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/889.png",WarnerTV Comedy
@@ -197,8 +199,6 @@ plugin://plugin.video.livetv/?name=WARNER+TV+SERIE
 plugin://plugin.video.livetv/?name=WDR
 #EXTINF:-1 tvg-id="Welt der Wunder TV" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/WELTDERWUNDER/logosd.png?width=100&height=100",WELT DER WUNDER
 plugin://plugin.video.livetv/?name=WELT+DER+Wunder
-#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
-plugin://plugin.video.livetv/?name=ZDF
 #EXTINF:-1 tvg-id="ZDFinfo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1013.png",ZDF info
 plugin://plugin.video.livetv/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
