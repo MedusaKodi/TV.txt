@@ -64,7 +64,7 @@ plugin://plugin.video.livetv/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
 plugin://plugin.video.livetv/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
-plugin://plugin.video.livetv/?name=KiKA
+plugin://plugin.video.livetv/?name=KIKA
 #EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
 plugin://plugin.video.livetv/?name=MDR
 #EXTINF:-1 tvg-id="MTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1395.png",MTV
