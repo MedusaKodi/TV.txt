@@ -81,8 +81,8 @@ plugin://plugin.video.livetv/?name=NDR
 plugin://plugin.video.livetv/?name=NAT+GEO+WILD
 #EXTINF:-1 tvg-id="Nat Geo HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/507.png",Nat Geo
 plugin://plugin.video.livetv/?name=NATIONAL+GEOGRAPHIC
-#EXTINF:-1 tvg-id="Nicktoons" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",nickelodeon
-plugin://plugin.video.livetv/?name=NICKTOONS
+#EXTINF:-1 tvg-id="Nickelodeon" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/943.png",nickelodeon
+plugin://plugin.video.livetv/?name=NICKELODEON
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
 plugin://plugin.video.livetv/?name=ONE
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
