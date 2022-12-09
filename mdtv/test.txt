@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",DAZN
+plugin://plugin.video.livetv/?name=DAZN
 #EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street
 plugin://plugin.video.livetv/?name=13TH+STREET
 #EXTINF:-1 tvg-id="3sat" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
