@@ -88,7 +88,7 @@ plugin://plugin.video.livetv/?name=NICKTOONS
 #EXTINF:-1 tvg-id="ONE" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1024.png",ONE
 plugin://plugin.video.livetv/?name=ONE
 #EXTINF:-1 tvg-id="ORF 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/996.png",ORF 1
-plugin://plugin.video.livetv/?name=OFR+1
+plugin://plugin.video.livetv/?name=ORF+1
 #EXTINF:-1 tvg-id="ORF 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1151.png",ORF 2
 plugin://plugin.video.livetv/?name=ORF+2
 #EXTINF:-1 tvg-id="ORF III" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1058.png",ORF 3
@@ -118,7 +118,7 @@ plugin://plugin.video.livetv/?name=RTL+NITRO
 #EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
 plugin://plugin.video.livetv/?name=RTL+PASSION
 #EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL plus
-plugin://plugin.video.livetv/?name=RTLPLUS
+plugin://plugin.video.livetv/?name=RTL+PLUS
 #EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
 plugin://plugin.video.livetv/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
