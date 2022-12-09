@@ -21,8 +21,6 @@ plugin://plugin.video.livetv/?name=ANIXE
 plugin://plugin.video.livetv/?name=ARTE
 #EXTINF:-1 tvg-id="Auto Motor Sport" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1031.png",Auto Motor Sport
 plugin://plugin.video.livetv/?name=AUTO+MOTOR+SPORT
-#EXTINF:-1 tvg-id="BR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/959.png",BR
-plugin://plugin.video.livetv/?name=BR
 #EXTINF:-1 tvg-id="Boomerang" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1044.png",Boomerang
 plugin://plugin.video.livetv/?name=BOOMERANG
 #EXTINF:-1 tvg-id="Cartoon Network" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1032.png",Cartoon Network
@@ -117,8 +115,6 @@ plugin://plugin.video.livetv/?name=RTL+LIVING
 plugin://plugin.video.livetv/?name=RTL+NITRO
 #EXTINF:-1 tvg-id="RTL Passion" group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/RTL_Passion_Logo_2015.png",RTL Passion
 plugin://plugin.video.livetv/?name=RTL+PASSION
-#EXTINF:-1 tvg-id="RTLplus" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1187.png",RTL plus
-plugin://plugin.video.livetv/?name=RTL+PLUS
 #EXTINF:-1 tvg-id="Romance TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1179.png",Romance
 plugin://plugin.video.livetv/?name=ROMANCE+TV
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
