@@ -42,7 +42,7 @@ plugin://plugin.video.livetv/?name=DISNEY+CHANNEL
 #EXTINF:-1 tvg-id="E! Entertainment" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/547.png",E! ENTERTAINMENT
 plugin://plugin.video.livetv/?name=E!+ENTERTAINMENT
 #EXTINF:-1 tvg-id="Eurosport 1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/890.png",Eurosport 1
-plugin://plugin.video.livetv/?name=EUROSPORT
+plugin://plugin.video.livetv/?name=EUROSPORT+1
 #EXTINF:-1 tvg-id="Eurosport 2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/450.png",Eurosport 2
 plugin://plugin.video.livetv/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
@@ -60,11 +60,11 @@ plugin://plugin.video.livetv/?name=JUKEBOX
 #EXTINF:-1 tvg-id="Nick Jr." group-title="Standart" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Junior_Logo_2015.png/320px-Junior_Logo_2015.png",Junior
 plugin://plugin.video.livetv/?name=JUNIOR
 #EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
-plugin://plugin.video.livetv/?name=KABEL1
+plugin://plugin.video.livetv/?name=KABEL+1
 #EXTINF:-1 tvg-id="Kabel Eins CLASSICS" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1037.png",Kabel 1 Classics
-plugin://plugin.video.livetv/?name=KABEL1+CLASSICS
+plugin://plugin.video.livetv/?name=KABEL+1+CLASSICS
 #EXTINF:-1 tvg-id="kabel eins Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1142.png",Kabel 1 Doku
-plugin://plugin.video.livetv/?name=KABEL1+DOKU
+plugin://plugin.video.livetv/?name=KABEL+1+DOKU
 #EXTINF:-1 tvg-id="KiKA" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1010.png",KiKA
 plugin://plugin.video.livetv/?name=KiKA
 #EXTINF:-1 tvg-id="KinoweltTV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/912.png",Kinowelt
