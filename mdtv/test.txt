@@ -203,3 +203,11 @@ plugin://plugin.video.livetv/?name=ZDF+INFO
 plugin://plugin.video.livetv/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 1
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+1+(1)
+#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 2
+plugin://plugin.video.livetv/?name=MAGENTA+SPORT+2+(1)
+#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 3
+plugin://plugin.video.livetv/?name=MAGENTA+SPORT+3+(1)
+#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 4
+plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4+(1)
+#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 5
+plugin://plugin.video.livetv/?name=MAGENTA+SPORT+5+(1)
