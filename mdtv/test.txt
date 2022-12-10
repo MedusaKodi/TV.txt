@@ -202,4 +202,4 @@ plugin://plugin.video.livetv/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
 plugin://plugin.video.livetv/?name=ZDF+NEO
 #EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 1
-plugin://plugin.video.livetv/?name=MAGENTA+1
+plugin://plugin.video.livetv/?name=MAGENTA+SPORT+1
