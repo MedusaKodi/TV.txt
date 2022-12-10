@@ -201,8 +201,8 @@ plugin://plugin.video.livetv/?name=WELT+DER+Wunder
 plugin://plugin.video.livetv/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
 plugin://plugin.video.livetv/?name=ZDF+NEO
-#EXTINF:-1 tvg-id="" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 1
-plugin://plugin.video.livetv/?name=MAGENTA+SPORT+1+(1)
+#EXTINF:-1 tvg-id="Sky Bundesliga" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Sky Bundesliga 1
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+1+(3)
 #EXTINF:-1 tvg-id="Magenta2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 2
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+2+(1)
 #EXTINF:-1 tvg-id="Magenta3" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 3
