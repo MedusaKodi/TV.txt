@@ -35,6 +35,8 @@ plugin://plugin.video.livetv/?name=SKY+CINEMA+FAMILY
 plugin://plugin.video.livetv/?name=SKY+CINEMA+FUN
 #EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren
 plugin://plugin.video.livetv/?name=SKY+CINEMA+PREMIEREN
+#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Resident Evil
+plugin://plugin.video.livetv/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Thriller
 plugin://plugin.video.livetv/?name=SKY+CINEMA+THRILLER
 #EXTINF:-1 tvg-id="Sky Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png",Sky Comedy
