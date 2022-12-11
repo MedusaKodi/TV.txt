@@ -130,7 +130,7 @@ plugin://plugin.video.livetv/?name=MTV
 #EXTINF:-1 tvg-id="Motorvision TV" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1181.png",Motorvision
 plugin://plugin.video.livetv/?name=MOTORVISION
 #EXTINF:-1 tvg-id="n-tv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1004.png",N-TV
-plugin://plugin.video.tvnow.de?action=playLive&vod_url=5113402
+plugin://plugin.video.livetv/?name=N24
 #EXTINF:-1 tvg-id="N24 Doku" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1012.png",N24 Doku
 plugin://plugin.video.livetv/?name=N24+DOKU
 #EXTINF:-1 tvg-id="NDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1040.png",NDR
@@ -171,12 +171,8 @@ plugin://plugin.video.livetv/?name=SAT+1+EMOTIONS
 plugin://plugin.video.livetv/?name=SAT+1+GOLD
 #EXTINF:-1 tvg-id="Silverline" group-title="Standart" tvg-logo="https://images.waipu.tv/api/channels/SILVERLINE/logosamsungsd.png?width=256&height=256",Silverline
 plugin://plugin.video.livetv/?name=SILVERLINE
-#EXTINF:-1 tvg-id="Sony Channel" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/961.png",Sony Channel
-plugin://plugin.video.livetv/?name=SONY+TV
 #EXTINF:-1 tvg-id="Spiegel Geschichte" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/486.png",Spiegel Geschichte
 plugin://plugin.video.livetv/?name=SPIEGEL+GESCHICHTE
-#EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
-plugin://plugin.video.livetv/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.livetv/?name=SWR
 #EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
