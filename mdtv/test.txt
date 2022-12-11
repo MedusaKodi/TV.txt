@@ -207,7 +207,7 @@ plugin://plugin.video.livetv/?name=MAGENTA+SPORT+2
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+3
 #EXTINF:-1 tvg-id="Magenta4" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/1616165234.png",Magenta 4
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/2153126951.png",Dazn 1
+#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 1
 plugin://plugin.video.livetv/?name=DAZN+1
-#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/2153126951.png",Dazn 1
+#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 1
 plugin://plugin.video.livetv/?name=DAZN+2
