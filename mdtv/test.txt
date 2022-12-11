@@ -109,8 +109,6 @@ plugin://plugin.video.livetv/?name=EUROSPORT+1
 plugin://plugin.video.livetv/?name=EUROSPORT+2
 #EXTINF:-1 tvg-id="Fix &amp; Foxi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/60x60/960.png",Fix und Foxi
 plugin://plugin.video.livetv/?name=FIX+%26+FOXI
-#EXTINF:-1 tvg-id="gotv" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1050.png",Go tv
-plugin://plugin.video.livetv/?name=GOTV
 #EXTINF:-1 tvg-id="Heimatkanal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/498.png",Heimatkanal
 plugin://plugin.video.livetv/?name=HEIMATKANAL
 #EXTINF:-1 tvg-id="History HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/542.png",History
