@@ -1,4 +1,4 @@
-#EXTM3U
+Nj8#EXTM3U
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
 plugin://plugin.video.livetv/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
@@ -199,16 +199,14 @@ plugin://plugin.video.livetv/?name=WELT+DER+Wunder
 plugin://plugin.video.livetv/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
 plugin://plugin.video.livetv/?name=ZDF+NEO
-#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Sky Bundesliga 1
+#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 1
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+1
-#EXTINF:-1 tvg-id="Magenta2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta
+#EXTINF:-1 tvg-id="Magenta2" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/599755765.png",Magenta 2
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+2
-#EXTINF:-1 tvg-id="Magenta3" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 3
+#EXTINF:-1 tvg-id="Magenta3" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/599755765.png",Magenta 3
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+3
-#EXTINF:-1 tvg-id="Magenta4" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 4
+#EXTINF:-1 tvg-id="Magenta4" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/599755765.png",Magenta 4
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4
-#EXTINF:-1 tvg-id="Magenta5" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/img/station/darkbg/320x39/1158.png",Magenta 5
-plugin://plugin.video.livetv/?name=MAGENTA+SPORT+5
 #EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/2153126951.png",Dazn 1
 plugin://plugin.video.livetv/?name=DAZN+1
 #EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/blob/master/Logo/2153126951.png",Dazn 1
