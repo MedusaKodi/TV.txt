@@ -168,7 +168,7 @@ plugin://plugin.video.livetv/?name=SPIEGEL+GESCHICHTE
 #EXTINF:-1 tvg-id="Spiegel TV Wissen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1246.png",Spiegel TV Wissen
 plugin://plugin.video.livetv/?name=SPIEGEL+WISSEN
 #EXTINF:-1 tvg-id="Super RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/993.png",Super RTL
-plugin://plugin.video.livetv/?name=SUPER+RTL
+plugin://plugin.video.livetv/?name=SUPER+RTL+HD
 #EXTINF:-1 tvg-id="SWR/SR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1030.png",SWR
 plugin://plugin.video.livetv/?name=SWR
 #EXTINF:-1 tvg-id="TLC" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/944.png",TLC
@@ -205,5 +205,5 @@ plugin://plugin.video.livetv/?name=MAGENTA+SPORT+3
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4
 #EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 1
 plugin://plugin.video.livetv/?name=DAZN+1
-#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 1
+#EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 2
 plugin://plugin.video.livetv/?name=DAZN+2
