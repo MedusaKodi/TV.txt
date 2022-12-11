@@ -207,3 +207,5 @@ plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4
 plugin://plugin.video.livetv/?name=DAZN+1
 #EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://vavoo.to/live2/logo/562636003.png",Dazn 2
 plugin://plugin.video.livetv/?name=DAZN+2
+#EXTINF:-1 tvg-id="Sky Select" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Select 1
+plugin://plugin.video.livetv/?name=SKY+SELECT+1
