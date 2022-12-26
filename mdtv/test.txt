@@ -211,3 +211,5 @@ plugin://plugin.video.livetv/?name=MAGENTA+SPORT+4
 plugin://plugin.video.livetv/?name=DAZN+1
 #EXTINF:-1 tvg-id="DAZN" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Dazn-logo.jpg",Dazn 2
 plugin://plugin.video.livetv/?name=DAZN+2
+#EXTINF:-1 tvg-id="" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Dazn-logo.jpg",Super Rtl
+plugin://plugin.video.livetv/?name=SUPER+RTL
