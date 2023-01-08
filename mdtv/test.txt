@@ -25,7 +25,7 @@ plugin://plugin.video.livetv/?name=SYFY
 plugin://plugin.video.livetv/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
 plugin://plugin.video.livetv/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="Sky Cinema" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema
 plugin://plugin.video.livetv/?name=SKY+CINEMA
 #EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best of
 plugin://plugin.video.livetv/?name=SKY+CINEMA+BEST+OF
