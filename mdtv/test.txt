@@ -12,7 +12,7 @@ plugin://plugin.video.livetv/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.livetv/?name=RTL+2
 #EXTINF:-1 tvg-id="Super RTL" group-title="JUGEND" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/super-rtl-logo.jpg",SUPER RTL
-http://ottsansat.com:25461/02020502772292/KJs9FZO0qo/116453
+http://ottsansat.com:25461/CAOG4e5oZnpbNKt/8nHXENmM14/116453
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.livetv/?name=PRO+7
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
