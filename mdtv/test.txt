@@ -214,5 +214,5 @@ plugin://plugin.video.livetv/?name=DAZN+2
 #EXTINF:-1 tvg-id="Sky Sport 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Sport 1
 plugin://plugin.video.livetv/?name=SKY+SPORT+1
 #EXTINF:-1 tvg-id="Sky Sport 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Super RTL
-plugin://plugin.video.livetv/?name=SUPER+RTL+HEVC
+plugin://plugin.video.livetv/?name=SUPER+RTLHEVC
 
