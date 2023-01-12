@@ -11,6 +11,8 @@ plugin://plugin.video.livetv/?name=3+SAT
 plugin://plugin.video.livetv/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.livetv/?name=RTL+2
+#EXTINF:-1 tvg-id="Super RTL" group-title="JUGEND" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Dazn-logo.jpg",SUPER RTL
+http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116453
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.livetv/?name=PRO+7
 #EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
@@ -213,5 +215,3 @@ plugin://plugin.video.livetv/?name=DAZN+1
 plugin://plugin.video.livetv/?name=DAZN+2
 #EXTINF:-1 tvg-id="Sky Sport 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Dazn-logo.jpg",Sky Sport 1
 plugin://plugin.video.livetv/?name=SKY+SPORT+1
-#EXTINF:-1 tvg-id="Super RTL" group-title="JUGEND" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Dazn-logo.jpg",SUPER RTL
-http://ottsansat.com:25461/simon/jfhd734DF173hdsfnaf/116453
