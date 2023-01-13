@@ -201,7 +201,7 @@ plugin://plugin.video.livetv/?name=WELT+DER+Wunder
 plugin://plugin.video.livetv/?name=ZDF+INFO
 #EXTINF:-1 tvg-id="ZDFneo" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1015.png",ZDF neo
 plugin://plugin.video.livetv/?name=ZDF+NEO
-#EXTINF:-1 tvg-id="Magenta1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Magenta-Sport-Magentasport-Logo-1024x576.jpg",Magenta 1
+#EXTINF:-1 tvg-id="Magenta 1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Magenta-Sport-Magentasport-Logo-1024x576.jpg",Magenta 1
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+1
 #EXTINF:-1 tvg-id="Magenta2" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/Magenta-Sport-Magentasport-Logo-1024x576.jpg",Magenta 2
 plugin://plugin.video.livetv/?name=MAGENTA+SPORT+2
