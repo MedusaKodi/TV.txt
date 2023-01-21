@@ -217,4 +217,22 @@ plugin://plugin.video.livetv/?name=DAZN+2
 plugin://plugin.video.livetv/?name=SKY+SPORT+1
 #EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 1 TEST
 plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+1
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 2 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+2
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 3 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+3
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 4 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+4
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 5 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+5
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 6 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+6
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 7 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+7
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 8 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+8
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 9 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+9
+#EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 10 TEST
+plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+10
 
