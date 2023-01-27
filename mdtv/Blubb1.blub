@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE (1)" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Das Erste",Das Erste HD DE (1)
 http://mytv.fun:80/k6ria1gzbm/rvxtbnrou/13166
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B] HD DE (2)" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste [B] HD DE (2)
