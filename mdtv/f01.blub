@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ard.de" tvg-name="↺DAS ERSTE FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | DEUTSCHLAND",↺DAS ERSTE FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/154591.m3u8
+#EXTINF:-1 tvg-id="ard.de" tvg-name="DAS ERSTE HD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/daserste1.png" group-title="DE | DEUTSCHLAND",DAS ERSTE HD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95550.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="↺ZDF FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | DEUTSCHLAND",↺ZDF FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95552.m3u8
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/zdf.png" group-title="DE | DEUTSCHLAND",ZDF HD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95551.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="↺RTL FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | DEUTSCHLAND",↺RTL FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95556.m3u8
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtlhd.png" group-title="DE | DEUTSCHLAND",RTL HD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95557.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="↺RTL 2 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | DEUTSCHLAND",↺RTL 2 FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95558.m3u8
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/rtl2.png" group-title="DE | DEUTSCHLAND",RTL 2 HD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95559.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="↺SAT 1 FHD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | DEUTSCHLAND",↺SAT 1 FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95566.m3u8
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="SAT 1 HD" tvg-logo="http://logo.eu01.live:8888//LOGOS/DEUTSCHLAND/sat1.png" group-title="DE | DEUTSCHLAND",SAT 1 HD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95567.m3u8
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="↺PROSIEBEN FHD" tvg-logo="http://logo.eu01.live:8888/LOGOS/DEUTSCHLAND/ProSieben_HD_Logo.svg.png" group-title="DE | DEUTSCHLAND",↺PROSIEBEN FHD
+http://f01.live:8080/live/LYSnsDYU6a/3Ra37mqAsB/95560.m3u8
