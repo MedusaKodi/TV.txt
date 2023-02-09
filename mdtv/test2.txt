@@ -245,11 +245,11 @@ http://my.vavoo
 http://my.blubb
 #EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="blubb",;-) 
 http://my.vavoo
-#EXTINF:-1,Das Erste HD DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste HD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
-#EXTINF:-1,Das Erste [B] HD DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das ErsteHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
-#EXTINF:-1,Das Erste DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
 #EXTINF:-1,ZDF FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6151
