@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
-plugin://plugin.video.livetv/?name=DAS+ERSTE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste md
+plugin://plugin.video.MedusaTV2/?name=Das Erste HD DE
 #EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
 plugin://plugin.video.livetv/?name=ZDF
 #EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
