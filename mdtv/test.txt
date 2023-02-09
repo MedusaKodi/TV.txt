@@ -239,9 +239,99 @@ plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+9
 plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 2 ***********
 http://my.blubb
-#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste HD DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste (1)
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
-#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das ErsteHD DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste (2)
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
-#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste DE
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste (3)
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6151
+#EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/17011
+#EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6238
+#EXTINF:-1 tvg-id="3SAT" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/16289
+#EXTINF:-1 tvg-id="3SAT" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6265
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13565
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683243
+#EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL (3)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6216
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2 (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6215
+#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2 (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13136
+#EXTINF:0 tvg-id="SRTL.de" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/super-rtl-logo.jpg",SUPER RTL
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6166
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/694060
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8235
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben (3)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683393
+#EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben (4)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13144
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1 (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6210
+#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1 (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/683455
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13553
+#EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6153
+#EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6242
+#EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7364
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5093
+#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6205
+#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/special.jpg",Sky Cinema Special (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8217
+#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/special.jpg",Sky Cinema Special (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6252
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Thriller (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5089
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Thriller (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7372
+#EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Thriller (3)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6193
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6192
+#EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13133
+#EXTINF:-1 tvg-id="Sky Cinema Fun" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/440.png",Sky Cinema Fun (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6190
+#EXTINF:-1 tvg-id="Sky Cinema Fun" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/440.png",Sky Cinema Fun (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9144
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best of (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7368
+#EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best of (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8223
+#EXTINF:-1 tvg-id="Sky Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png",Sky Cinema Family (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9145
+#EXTINF:-1 tvg-id="Sky Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png",Sky Cinema Family (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7369
+#EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13131
+#EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6186
+#EXTINF:-1 tvg-id="Sky Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png",Sky Comedy
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688822
+#EXTINF:-1 tvg-id="Sky Krimi" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/436.png",Sky Krimi
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/688821
+#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png",Sky Atlantic (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7367
+#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png",Sky Atlantic (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6204
+#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street (1)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/5098
+#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street (2)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/7365
+#EXTINF:-1 tvg-id="13th Street Universal" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/442.png",13TH Street (3)
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8198
