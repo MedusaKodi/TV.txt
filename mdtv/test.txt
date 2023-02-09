@@ -377,3 +377,547 @@ http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6225
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6165
 #EXTINF:-1 tvg-id="WDR Fernsehen" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1000.png",WDR
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6152
+#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 3***********
+http://my.blubb
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13166
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste [B] HD" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6262
+#EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6256
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF FHD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Germany",ZDF FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6151
+#EXTINF:-1 tvg-id="zdf.de" tvg-name="ZDF HD" tvg-logo="https://i.postimg.cc/D0Nmws2t/ZDF-logo.png" group-title="Germany",ZDF HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/17011
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13565
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL FHD [B]" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL FHD [B]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683243
+#EXTINF:-1 tvg-id="rtl.de" tvg-name="RTL HD" tvg-logo="https://i.postimg.cc/FFYL2sF2/RTL.png" group-title="Germany",RTL HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6216
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 FHD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Germany",Sat.1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6210
+#EXTINF:-1 tvg-id="sat1.de" tvg-name="Sat.1 HD" tvg-logo="https://i.postimg.cc/nLwLkBmM/Sat-1-logo-2016.png" group-title="Germany",Sat.1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683455
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben FHD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694060
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] FHD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben [B] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8235
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683393
+#EXTINF:-1 tvg-id="pro7.de" tvg-name="ProSieben [B] HD" tvg-logo="https://i.postimg.cc/Sxk7FFvC/Pro-Sieben.png" group-title="Germany",ProSieben [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13144
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX FHD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Germany",VOX FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13553
+#EXTINF:-1 tvg-id="vox.de" tvg-name="VOX HD" tvg-logo="https://i.postimg.cc/nMb8ccDH/VOX-Logo-2013.jpg" group-title="Germany",VOX HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6153
+#EXTINF:-1 tvg-id="" tvg-name="VOXup" tvg-logo="https://i.postimg.cc/mr5TW48r/VOXup.jpg" group-title="Germany",VOXup
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679836
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel Eins FHD" tvg-logo="https://i.postimg.cc/Dwp98gsj/Kabel-eins-2015.png" group-title="Germany",Kabel Eins FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6242
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel 1 Classic FHD" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Germany",Kabel 1 Classic FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679844
+#EXTINF:-1 tvg-id="kabeleinsclassic.de" tvg-name="Kabel Eins Classic HD" tvg-logo="https://i.postimg.cc/Bv8dDKBq/Kabel-Eins-Classics-2021.png" group-title="Germany",Kabel Eins Classic HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9151
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 FHD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Germany",RTL 2 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6215
+#EXTINF:-1 tvg-id="rtl2.de" tvg-name="RTL 2 HD" tvg-logo="https://i.postimg.cc/RVkf4rpX/RTL-Zwei-2019-black.jpg" group-title="Germany",RTL 2 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13136
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro FHD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Germany",RTL Nitro FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6212
+#EXTINF:-1 tvg-id="rtlnitro.de" tvg-name="RTL Nitro HD" tvg-logo="https://i.postimg.cc/0yNNTVPc/Nitro.jpg" group-title="Germany",RTL Nitro HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13137
+#EXTINF:-1 tvg-id="rtlpassion.de" tvg-name="RTL Passion FHD" tvg-logo="https://i.postimg.cc/fLQvW0Ld/RTL-Passion-2021.jpg" group-title="Germany",RTL Passion FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8219
+#EXTINF:-1 tvg-id="rtlplus.de" tvg-name="RTLup HD" tvg-logo="https://i.postimg.cc/mrG5c5kS/RTL-Up.png" group-title="Germany",RTLup HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9152
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime FHD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Germany",RTL Crime FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6214
+#EXTINF:-1 tvg-id="rtlcrime.de" tvg-name="RTL Crime HD" tvg-logo="https://i.postimg.cc/pXHCJFR2/RTL-Crime.jpg" group-title="Germany",RTL Crime HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/17012
+#EXTINF:-1 tvg-id="rtlliving.de" tvg-name="RTL Living HD" tvg-logo="https://i.postimg.cc/NMRJQ7Bz/RTL-Living.jpg" group-title="Germany",RTL Living HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6213
+#EXTINF:-1 tvg-id="sat1emotions.de" tvg-name="Sat1 Emotion" tvg-logo="https://i.postimg.cc/d0rmCsp7/SAT-1-emotions-Logo-2019.jpg" group-title="Germany",Sat1 Emotion
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13135
+#EXTINF:-1 tvg-id="sat1gold.de" tvg-name="Sat1 Gold FHD" tvg-logo="https://i.postimg.cc/Yq063fTB/Sat-1-Gold-2019.png" group-title="Germany",Sat1 Gold FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6209
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun FHD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6219
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13145
+#EXTINF:-1 tvg-id="prosiebenfun.de" tvg-name="ProSieben Fun [B] HD" tvg-logo="https://i.postimg.cc/jdB7hVzy/7Fun.jpg" group-title="Germany",ProSieben Fun [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13142
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx FHD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Germany",ProSieben Maxx FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13143
+#EXTINF:-1 tvg-id="prosiebenmaxx.de" tvg-name="ProSieben Maxx HD" tvg-logo="https://i.postimg.cc/ZRf9BXbB/Pro-Sieben-Maxx.jpg" group-title="Germany",ProSieben Maxx HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683394
+#EXTINF:-1 tvg-id="srf1.ch" tvg-name="SRF 1" tvg-logo="https://i.postimg.cc/GtHQrM2f/SRF1.png" group-title="Germany",SRF 1
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6170
+#EXTINF:-1 tvg-id="mdr.de" tvg-name="MDR HD" tvg-logo="https://i.postimg.cc/nVBrts79/MDR.jpg" group-title="Germany",MDR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6238
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3Sat FHD" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Germany",3Sat FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/16289
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat HD" tvg-logo="https://i.postimg.cc/C5QmNvNd/3sat-2019.jpg" group-title="Germany",3sat HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6265
+#EXTINF:-1 tvg-id="ndr.de" tvg-name="NDR HD" tvg-logo="https://i.postimg.cc/L8fNt3Z6/NDR.jpg" group-title="Germany",NDR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6225
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR FHD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Germany",HR FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13150
+#EXTINF:-1 tvg-id="hr.de" tvg-name="HR HD" tvg-logo="https://i.postimg.cc/ydrm4DSb/Hr-fernsehen.jpg" group-title="Germany",HR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6243
+#EXTINF:-1 tvg-id="rbb.de" tvg-name="RBB Berlin HD" tvg-logo="https://i.postimg.cc/J0z1fQkb/RBB-Fernsehen-2017.png" group-title="Germany",RBB Berlin HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6217
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR HD" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Germany",BR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687568
+#EXTINF:-1 tvg-id="br.de" tvg-name="BR" tvg-logo="https://i.postimg.cc/kGYnqtQL/BR.png" group-title="Germany",BR
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13168
+#EXTINF:-1 tvg-id="swrsr.de" tvg-name="SWR HD" tvg-logo="https://i.postimg.cc/NfWcDtp8/SWR-Fernsehen.jpg" group-title="Germany",SWR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6165
+#EXTINF:-1 tvg-id="wdr.de" tvg-name="WDR HD" tvg-logo="https://i.postimg.cc/Kjwd07rc/WDR-2012.jpg" group-title="Germany",WDR HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6152
+#EXTINF:-1 tvg-id="" tvg-name="Franken Fernsehen FHD" tvg-logo="https://i.postimg.cc/Z54h2Hz0/Franken-Fernsehen.jpg" group-title="Germany",Franken Fernsehen FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/677835
+#EXTINF:-1 tvg-id="qvc.de" tvg-name="QVC HD" tvg-logo="https://i.postimg.cc/T3CBSXcH/QVC-2019.jpg" group-title="Germany",QVC HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13140
+#EXTINF:-1 tvg-id="qvcstyle.de" tvg-name="QVC Style FHD" tvg-logo="https://i.postimg.cc/WzTnTdNm/QVC-Style.jpg" group-title="Germany",QVC Style FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13141
+#EXTINF:-1 tvg-id="sonnenklar.de" tvg-name="Sonnenklar TV FHD" tvg-logo="https://i.postimg.cc/25nhyCX0/Sonnenklar-tv.png" group-title="Germany",Sonnenklar TV FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13130
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Sports ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Sports ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678834
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News FHD" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Germany",Sky Sports News FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13555
+#EXTINF:-1 tvg-id="skysportnews.de" tvg-name="Sky Sports News HD" tvg-logo="https://i.postimg.cc/q7gnc8RZ/Sky-Sport-News-2020.png" group-title="Germany",Sky Sports News HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/684431
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="Sky Sport Top Event FHD" tvg-logo="https://i.postimg.cc/zBCQXT3T/Sky-Sport-Top-Event.png" group-title="Germany",Sky Sport Top Event FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/684432
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://i.postimg.cc/zBCQXT3T/Sky-Sport-Top-Event.png" group-title="Germany",Sky Sport Top Event HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683895
+#EXTINF:-1 tvg-id="skysporttopevent.de" tvg-name="Sky Sport Top Event [B] HD" tvg-logo="https://i.postimg.cc/zBCQXT3T/Sky-Sport-Top-Event.png" group-title="Germany",Sky Sport Top Event [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/684429
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga FHD VIP" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga FHD VIP
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/684005
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/684430
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga [B] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga [B] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683408
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683409
+#EXTINF:-1 tvg-id="skysportbundesliga.de" tvg-name="Sky Sport Bundesliga [B] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13538
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 FHD" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Germany",Sky Sport F1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687666
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 [B] FHD" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Germany",Sky Sport F1 [B] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695025
+#EXTINF:-1 tvg-id="skysportf1.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://i.postimg.cc/bvMy7nRM/Sky-Sport-F1-2020.png" group-title="Germany",Sky Sport F1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687667
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="Sky Sport Premier League HD" tvg-logo="https://i.postimg.cc/jjQqmcyt/Sky-Sport-Premier-League.png" group-title="Germany",Sky Sport Premier League HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695691
+#EXTINF:-1 tvg-id="skysportpremierleague.de" tvg-name="Sky Sport Premier League [B] HD" tvg-logo="https://i.postimg.cc/jjQqmcyt/Sky-Sport-Premier-League.png" group-title="Germany",Sky Sport Premier League [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695844
+#EXTINF:-1 tvg-id="skysportmix.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://i.postimg.cc/SQfmV2KF/Sky-Sport-Mix.png" group-title="Germany",Sky Sport Mix HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695690
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis FHD" tvg-logo="https://i.postimg.cc/90VQrPb2/Sky-Sport-Tennis.png" group-title="Germany",Sky Sport Tennis FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694261
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis HD" tvg-logo="https://i.postimg.cc/90VQrPb2/Sky-Sport-Tennis.png" group-title="Germany",Sky Sport Tennis HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683896
+#EXTINF:-1 tvg-id="skysporttennis.de" tvg-name="Sky Sport Tennis [B] HD" tvg-logo="https://i.postimg.cc/90VQrPb2/Sky-Sport-Tennis.png" group-title="Germany",Sky Sport Tennis [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694262
+#EXTINF:-1 tvg-id="skysportgolf.de" tvg-name="Sky Sport Golf HD" tvg-logo="https://i.postimg.cc/hhW3kkFG/Sky-Sport-Golf.png" group-title="Germany",Sky Sport Golf HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695692
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] FHD" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Germany",Sky Sport 3 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13563
+#EXTINF:-1 tvg-id="skysport3.de" tvg-name="Sky Sport 3 [Match Time] HD" tvg-logo="https://i.postimg.cc/kG5dDXw8/Sky-Sport-3-2020.png" group-title="Germany",Sky Sport 3 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6182
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] FHD" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Germany",Sky Sport 4 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13562
+#EXTINF:-1 tvg-id="skysport4.de" tvg-name="Sky Sport 4 [Match Time] HD" tvg-logo="https://i.postimg.cc/MT27Wn6P/Sky-Sport-4-2020.png" group-title="Germany",Sky Sport 4 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9127
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 FHD" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Germany",Sky Sport 5 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13561
+#EXTINF:-1 tvg-id="skysport5.de" tvg-name="Sky Sport 5 [Match Time] FHD" tvg-logo="https://i.postimg.cc/RZ2fRWHS/Sky-Sport-5-2020.png" group-title="Germany",Sky Sport 5 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9126
+#EXTINF:-1 tvg-id="skysport6.de" tvg-name="Sky Sport 6 [Match Time] HD" tvg-logo="https://i.postimg.cc/SR7FZYsw/Sky-Sport-6.png" group-title="Germany",Sky Sport 6 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6181
+#EXTINF:-1 tvg-id="skysport7.de" tvg-name="Sky Sport 7 [Match Time] HD" tvg-logo="https://i.postimg.cc/vZSRSsYH/Sky-Sport-7.png" group-title="Germany",Sky Sport 7 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6180
+#EXTINF:-1 tvg-id="skysport8.de" tvg-name="Sky Sport 8 [Match Time] HD" tvg-logo="https://i.postimg.cc/9fqk8wgJ/Sky-Sport-8.png" group-title="Germany",Sky Sport 8 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6179
+#EXTINF:-1 tvg-id="skysport9.de" tvg-name="Sky Sport 9 [Match Time] HD" tvg-logo="https://i.postimg.cc/9FMJgqrZ/Sky-Sport-9.png" group-title="Germany",Sky Sport 9 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6178
+#EXTINF:-1 tvg-id="skysport10.de" tvg-name="Sky Sport 10 [Match Time] HD" tvg-logo="https://i.postimg.cc/mk6NW8tM/Sky-Sport-10.png" group-title="Germany",Sky Sport 10 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6177
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/62223
+#EXTINF:-1 tvg-id="skybundesliga2.de" tvg-name="Sky Sport Bundesliga 2 [Match Time-B] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 2 [Match Time-B] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/135258
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/135671
+#EXTINF:-1 tvg-id="skybundesliga3.de" tvg-name="Sky Sport Bundesliga 3 [Match Time] HD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 3 [Match Time] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/62220
+#EXTINF:-1 tvg-id="skybundesliga4.de" tvg-name="Sky Sport Bundesliga 4 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 4 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/91235
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/135335
+#EXTINF:-1 tvg-id="skybundesliga5.de" tvg-name="Sky Sport Bundesliga 5 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 5 [Match Time]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/62002
+#EXTINF:-1 tvg-id="skybundesliga6.de" tvg-name="Sky Sport Bundesliga 6 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 6 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/619225
+#EXTINF:-1 tvg-id="skybundesliga7.de" tvg-name="Sky Sport Bundesliga 7 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 7 [Match Time]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6198
+#EXTINF:-1 tvg-id="skybundesliga8.de" tvg-name="Sky Sport Bundesliga 8 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 8 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6197
+#EXTINF:-1 tvg-id="skybundesliga9.de" tvg-name="Sky Sport Bundesliga 9 [Match Time]" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 9 [Match Time]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6196
+#EXTINF:-1 tvg-id="skybundesliga10.de" tvg-name="Sky Sport Bundesliga 10 [Match Time] FHD" tvg-logo="https://i.postimg.cc/28hFKFCq/Sky-Sport-Bundesliga-2020.png" group-title="Germany",Sky Sport Bundesliga 10 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6195
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DAZN 1 FHD" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/661090
+#EXTINF:-1 tvg-id="daznbar1.de" tvg-name="DAZN 1 HD" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/625243
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DAZN 2 FHD" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 2 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/661089
+#EXTINF:-1 tvg-id="daznbar2.de" tvg-name="DAZN 2 HD" tvg-logo="https://i.postimg.cc/LX9XqXcd/DAZN-2019-logo.jpg" group-title="Germany",DAZN 2 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/50775
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 FHD" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Germany",Sport1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6173
+#EXTINF:-1 tvg-id="sport1.de" tvg-name="Sport1 HD" tvg-logo="https://i.postimg.cc/m2P2L8PD/Sport1.jpg" group-title="Germany",Sport1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8221
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="Sport1+ FHD" tvg-logo="https://i.postimg.cc/YC43xKhH/Sport1plus.jpg" group-title="Germany",Sport1+ FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679847
+#EXTINF:-1 tvg-id="sport1plus.de" tvg-name="Sport1+ HD [B]" tvg-logo="https://i.postimg.cc/YC43xKhH/Sport1plus.jpg" group-title="Germany",Sport1+ HD [B]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679848
+#EXTINF:-1 tvg-id="esports1.de" tvg-name="eSports 1 HD" tvg-logo="https://i.postimg.cc/0QdR2Jsc/ESports1.jpg" group-title="Germany",eSports 1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687730
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 1 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 1 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679823
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 2 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 2 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679822
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 3 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 3 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695829
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 4 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 4 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679824
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 5 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 5 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679825
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 6 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 6 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679826
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 7 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 7 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679827
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 8 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 8 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/688721
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 9 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 9 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679675
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 10 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 10 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695830
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 11 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 11 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695831
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 12 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 12 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695832
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 13 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 13 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695833
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 14 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 14 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695834
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 15 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 15 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695835
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 16 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 16 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695836
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 17 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 17 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695837
+#EXTINF:-1 tvg-id="" tvg-name="Magenta Sport 18 [Match Time] FHD" tvg-logo="https://i.postimg.cc/5tVs9K2W/Magenta-Telekom-2021.png" group-title="Germany",Magenta Sport 18 [Match Time] FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/695838
+#EXTINF:-1 tvg-id="fcbayern.de" tvg-name="FC Bayern TV HD" tvg-logo="https://i.postimg.cc/JzNwnyZy/FC-Bayern.png" group-title="Germany",FC Bayern TV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9128
+#EXTINF:-1 tvg-id="eurosport1.de" tvg-name="Eurosport 1 FHD" tvg-logo="https://i.postimg.cc/Tw2tT1JX/Eurosport-1.jpg" group-title="Germany",Eurosport 1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8218
+#EXTINF:-1 tvg-id="eurosport2.de" tvg-name="Eurosport 2 FHD" tvg-logo="https://i.postimg.cc/pTdJg7PW/Eurosport-2.jpg" group-title="Germany",Eurosport 2 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9131
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital FHD" tvg-logo="https://i.postimg.cc/BZT2m4TT/Sportdigital-tv-logo.jpg" group-title="Germany",Sport Digital FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8244
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="Sport Digital HD" tvg-logo="https://i.postimg.cc/BZT2m4TT/Sportdigital-tv-logo.jpg" group-title="Germany",Sport Digital HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6171
+#EXTINF:-1 tvg-id="motorvision.de" tvg-name="Motorvision HD" tvg-logo="https://i.postimg.cc/zvzvtZN7/Motorvision-TV-2009.jpg" group-title="Germany",Motorvision HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8222
+#EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD" tvg-logo="https://i.postimg.cc/nrhVK4Kw/Auto-Motor-und-Sport-Channel.png" group-title="Germany",Auto Motor Sport FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9132
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Movies & Series ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Movies & Series ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678836
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name="Sky Cinema Action FHD" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Germany",Sky Cinema Action FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5093
+#EXTINF:-1 tvg-id="skycinemaaction.de" tvg-name=" Sky Cinema Action HD" tvg-logo="https://i.postimg.cc/K8HFWdDN/Sky-Cinema-Action-2020.png" group-title="Germany", Sky Cinema Action HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6205
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special FHD" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Germany",Sky Cinema Special FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8217
+#EXTINF:-1 tvg-id="skycinemaspecialhd.de" tvg-name="Sky Cinema Special HD" tvg-logo="https://i.postimg.cc/ZRgf3zpW/Sky-Cinema-Special-2020.png" group-title="Germany",Sky Cinema Special HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6252
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller FHD" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Germany",Sky Cinema Thriller FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5089
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller HD" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Germany",Sky Cinema Thriller HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7372
+#EXTINF:-1 tvg-id="skycinemathrillerhd.de" tvg-name="Sky Cinema Thriller" tvg-logo="https://i.postimg.cc/85hFdhrL/Sky-Cinema-Thriller-2020.png" group-title="Germany",Sky Cinema Thriller
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6193
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 FHD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6192
+#EXTINF:-1 tvg-id="skycinemapremieren24.de" tvg-name="Sky Cinema Premieren +24 HD" tvg-logo="https://i.postimg.cc/SsXBHrGz/Sky-Cinema-Premieren-2020.png" group-title="Germany",Sky Cinema Premieren +24 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13133
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun FHD" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Germany",Sky Cinema Fun FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6190
+#EXTINF:-1 tvg-id="skycinemafun.de" tvg-name="Sky Cinema Fun HD" tvg-logo="https://i.postimg.cc/wMg9zhzz/Sky-Cinema-Fun-2020.png" group-title="Germany",Sky Cinema Fun HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9144
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of FHD" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Germany",Sky Cinema Best Of FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7368
+#EXTINF:-1 tvg-id="skycinemabestofhd.de" tvg-name="Sky Cinema Best Of HD" tvg-logo="https://i.postimg.cc/QxrZRgbn/Sky-Cinema-Best-Of-2020.png" group-title="Germany",Sky Cinema Best Of HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8223
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family FHD" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Germany",Sky Cinema Family FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9145
+#EXTINF:-1 tvg-id="skycinemafamily.de" tvg-name="Sky Cinema Family HD" tvg-logo="https://i.postimg.cc/TYy1c2Vv/Sky_Cinema_Family_2020.png" group-title="Germany",Sky Cinema Family HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7369
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics HD" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Germany",Sky Cinema Classics HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13131
+#EXTINF:-1 tvg-id="skycinemaclassics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://i.postimg.cc/MZmNr1Yy/Sky-Cinema-Classics-2020.png" group-title="Germany",Sky Cinema Classics
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6186
+#EXTINF:-1 tvg-id="skycomedyhd.de" tvg-name="Sky Comedy FHD VIP" tvg-logo="https://i.postimg.cc/mrHMqGV9/Sky-Comedy-logo.png" group-title="Germany",Sky Comedy FHD VIP
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/688822
+#EXTINF:-1 tvg-id="skykrimi.de" tvg-name=" Sky Krimi VIP HD" tvg-logo="https://i.postimg.cc/tJWxT0Y6/Sky-Krimi-2020.jpg" group-title="Germany", Sky Krimi VIP HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/688821
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic FHD" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Germany",Sky Atlantic FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7367
+#EXTINF:-1 tvg-id="skyatlantic.de" tvg-name="Sky Atlantic HD" tvg-logo="https://i.postimg.cc/wBzVzvPz/Sky-Atlantic-2020.jpg" group-title="Germany",Sky Atlantic HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6204
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street FHD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5098
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7365
+#EXTINF:-1 tvg-id="13thstreet.de" tvg-name="Sky 13TH Street [B] HD" tvg-logo="https://i.postimg.cc/ZRt02BDP/13th-Street-Universal.jpg" group-title="Germany",Sky 13TH Street [B] HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8198
+#EXTINF:-1 tvg-id="sky1.de" tvg-name="Sky One FHD" tvg-logo="https://i.postimg.cc/0jz3SjP3/Sky-One-2020.png" group-title="Germany",Sky One FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9138
+#EXTINF:-1 tvg-id="skyreplay.de" tvg-name="Sky Replay FHD" tvg-logo="https://i.postimg.cc/J7g72BDs/SKYREPLAY.png" group-title="Germany",Sky Replay FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23770
+#EXTINF:-1 tvg-id="one.de" tvg-name="One HD" tvg-logo="https://i.postimg.cc/0j5SXKbW/One.png" group-title="Germany",One HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9147
+#EXTINF:-1 tvg-id="zdfneo.de" tvg-name="ZDF Neo HD" tvg-logo="https://i.postimg.cc/RCY0f7BY/ZDFneo.jpg" group-title="Germany",ZDF Neo HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/17304
+#EXTINF:-1 tvg-id="syfy.de" tvg-name="Syfy FHD" tvg-logo="https://i.postimg.cc/YSsqB4nD/Syfy.jpg" group-title="Germany",Syfy FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7364
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy FHD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Germany",WarnerTV Comedy FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6157
+#EXTINF:-1 tvg-id="warnercomedy.de" tvg-name="WarnerTV Comedy HD" tvg-logo="https://i.postimg.cc/FsqB88S4/Warner-TV-Comedy.png" group-title="Germany",WarnerTV Comedy HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687541
+#EXTINF:-1 tvg-id="warnerfilm.de" tvg-name="Warner Film FHD" tvg-logo="https://i.postimg.cc/3JHBGh2W/Warner-TV-Film.png" group-title="Germany",Warner Film FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6156
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie FHD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Germany",WarnerTV Serie FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5084
+#EXTINF:-1 tvg-id="warnerserie.de" tvg-name="WarnerTV Serie HD" tvg-logo="https://i.postimg.cc/ZKM5gbj5/Warner-TV-Serie.png" group-title="Germany",WarnerTV Serie HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13154
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal FHD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Germany",Universal FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/696610
+#EXTINF:-1 tvg-id="universal.de" tvg-name="Universal HD" tvg-logo="https://i.postimg.cc/mrVqXDNd/Universal-TV-logo.png" group-title="Germany",Universal HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/696611
+#EXTINF:-1 tvg-id="sonyentertainmenttv.de" tvg-name="Sony Channel HD" tvg-logo="https://i.postimg.cc/kXnTZ9Gz/Sony-Channel-2019.png" group-title="Germany",Sony Channel HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6167
+#EXTINF:-1 tvg-id="axn.de" tvg-name="Sony AXN HD" tvg-logo="https://i.postimg.cc/vHfC1N7S/Sony-AXN.png" group-title="Germany",Sony AXN HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6259
+#EXTINF:-1 tvg-id="kinowelt.de" tvg-name="Kinowelt FHD" tvg-logo="https://i.postimg.cc/3R5BZQzL/Kinowelt-Television-2020.jpg" group-title="Germany",Kinowelt FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6240
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Premiere FHD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Premiere FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681946
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Horror FHD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Horror FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681942
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Thriller FHD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Thriller FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681950
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Sci-Fi FHD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Sci-Fi FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681949
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Animation HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Animation HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681939
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Mythologie HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Mythologie HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681945
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Lächeln HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Lächeln HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681944
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Geschichte HD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Geschichte HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681941
+#EXTINF:-1 tvg-id="" tvg-name="Eagle Cinema Romantisch FHD" tvg-logo="https://i.postimg.cc/7Lq8tS3r/eaglecinema.jpg" group-title="Germany",Eagle Cinema Romantisch FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/681948
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 FHD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/655131
+#EXTINF:-1 tvg-id="skyselect1.de" tvg-name="Sky Select 1 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7375
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 FHD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 2 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/655130
+#EXTINF:-1 tvg-id="skyselect2.de" tvg-name="Sky Select 2 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 2 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7376
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 FHD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 3 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/655129
+#EXTINF:-1 tvg-id="skyselect3.de" tvg-name="Sky Select 3 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 3 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7377
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 FHD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 4 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/655128
+#EXTINF:-1 tvg-id="skyselect4.de" tvg-name="Sky Select 4 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 4 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/7378
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 5 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8977
+#EXTINF:-1 tvg-id="skyselect5.de" tvg-name="Sky Select 5 HD [demnächst]" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 5 HD [demnächst]
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/655127
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="Sky Select 6 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 6 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8976
+#EXTINF:-1 tvg-id="skyselect7.de" tvg-name="Sky Select 7 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 7 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8975
+#EXTINF:-1 tvg-id="skyselect8.de" tvg-name="Sky Select 8 HD" tvg-logo="https://i.postimg.cc/yNrKJkRq/Sky-Select-Logo-2016.png" group-title="Germany",Sky Select 8 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8974
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 1 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 1 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23778
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 FHD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 2 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683536
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 2 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 2 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23777
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 FHD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 3 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683537
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 3 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 3 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23776
+#EXTINF:-1 tvg-id="skyselect6.de" tvg-name="PopCorn Select 4 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 4 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23775
+#EXTINF:-1 tvg-id="" tvg-name="PopCorn Select 5 HD" tvg-logo="https://i.postimg.cc/fbVFr5VF/popcorn.png" group-title="Germany",PopCorn Select 5 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683540
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema Boxset FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema Boxset FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683534
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema INFO FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema INFO FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683523
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 1 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 1 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683535
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 2 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 2 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683525
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 3 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 3 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683526
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 4 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 4 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683527
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 5 HD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 5 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683528
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 6 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 6 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683529
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 7 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 7 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683530
+#EXTINF:-1 tvg-id="" tvg-name="HyperCinema 8 FHD" tvg-logo="https://i.postimg.cc/vZD92PTg/HCinema.png" group-title="Germany",HyperCinema 8 FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/683531
+#EXTINF:-1 tvg-id="comedycentral.de" tvg-name="Comedy Central FHD" tvg-logo="https://i.postimg.cc/KzgFSxHn/Comedy-Central-2018.jpg" group-title="Germany",Comedy Central FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6154
+#EXTINF:-1 tvg-id="romance.de" tvg-name="Romance TV HD" tvg-logo="https://i.postimg.cc/6QrLHv9R/Romance-TV-2015.jpg" group-title="Germany",Romance TV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13152
+#EXTINF:-1 tvg-id="heimatkanal.de" tvg-name="Sky Heimat Kanal" tvg-logo="https://i.postimg.cc/MKJVvY1S/Heimatkanal.png" group-title="Germany",Sky Heimat Kanal
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6188
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="Sixx FHD" tvg-logo="https://i.postimg.cc/66rT1x4k/Sixx.png" group-title="Germany",Sixx FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6207
+#EXTINF:-1 tvg-id="ServusTVutschland" tvg-name="Servus TV HD" tvg-logo="https://i.postimg.cc/NGDBHsHj/ServusTV.jpg" group-title="Germany",Servus TV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6208
+#EXTINF:-1 tvg-id="tele5.de" tvg-name="Tele 5 HD" tvg-logo="https://i.postimg.cc/43PB1SbV/Tele-5-2021.png" group-title="Germany",Tele 5 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9150
+#EXTINF:-1 tvg-id="bibeltv.de" tvg-name="Bibel TV HD" tvg-logo="https://i.postimg.cc/vZqvgVQt/bibel-tv.png" group-title="Germany",Bibel TV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/677497
+#EXTINF:-1 tvg-id="" tvg-name="Genius Family" tvg-logo="https://i.postimg.cc/kGsb00Gv/Genius-Family.jpg" group-title="Germany",Genius Family
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/690457
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Documentary ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Documentary ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678919
+#EXTINF:-1 tvg-id="zdfinfo.de" tvg-name="ZDF Info HD" tvg-logo="https://i.postimg.cc/28KnwfZ4/ZDFinfo-2011.jpg" group-title="Germany",ZDF Info HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9148
+#EXTINF:-1 tvg-id="n24doku.de" tvg-name="N24 Doku" tvg-logo="https://i.postimg.cc/s2FSk9Kx/N24-Doku.jpg" group-title="Germany",N24 Doku
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679837
+#EXTINF:-1 tvg-id="kabel1.de" tvg-name="Kabel Eins Doku FHD" tvg-logo="https://i.postimg.cc/jqkWV4ST/Kabel-eins-Doku.png" group-title="Germany",Kabel Eins Doku FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13147
+#EXTINF:-1 tvg-id="history.de" tvg-name="History Channel FHD" tvg-logo="https://i.postimg.cc/0NckY96v/History.jpg" group-title="Germany",History Channel FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6244
+#EXTINF:-1 tvg-id="spiegelgeschichte.de" tvg-name="Spiegel Geschichte HD" tvg-logo="https://i.postimg.cc/gJ1nhG5J/Spiegel-Geschichte-2016.png" group-title="Germany",Spiegel Geschichte HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6174
+#EXTINF:-1 tvg-id="spiegeltvwissen.de" tvg-name="Curiosity Channel HD" tvg-logo="https://i.postimg.cc/vBsRvMj1/Curiosity-Channel.jpg" group-title="Germany",Curiosity Channel HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9135
+#EXTINF:-1 tvg-id="discoverychannel.de" tvg-name="Discovery FHD" tvg-logo="https://i.postimg.cc/W4nG0q64/Discovery-Channel-2019.jpg" group-title="Germany",Discovery FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13570
+#EXTINF:-1 tvg-id="crimeplusinvestigation.de" tvg-name="Crime & Investigation FHD" tvg-logo="https://i.postimg.cc/fRwhpyjs/ci.jpg" group-title="Germany",Crime & Investigation FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694569
+#EXTINF:-1 tvg-id="planet.de" tvg-name="Bergblick HD" tvg-logo="https://i.postimg.cc/bwRg95q8/Bergblick-logo.jpg" group-title="Germany",Bergblick HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679846
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet FHD" tvg-logo="https://i.postimg.cc/tCQzQbTp/Animal_Planet_2018.jpg" group-title="Germany",Animal Planet FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8196
+#EXTINF:-1 tvg-id="animalplanet.de" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/tCQzQbTp/Animal_Planet_2018.jpg" group-title="Germany",Animal Planet HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13173
+#EXTINF:-1 tvg-id="natgeo.de" tvg-name="National Geographic FHD" tvg-logo="https://i.postimg.cc/7LRqbmGM/National-Geographic-2008.jpg" group-title="Germany",National Geographic FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8194
+#EXTINF:-1 tvg-id="natgeowild.de" tvg-name="Nat Geo Wild HD" tvg-logo="http://pici.life/natgeowildhd_2.png" group-title="Germany",Nat Geo Wild HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5085
+#EXTINF:-1 tvg-id="skynaturehd.de" tvg-name="Sky Nature FHD" tvg-logo="https://i.postimg.cc/ZYDqZPs6/Sky-Nature-2020.png" group-title="Germany",Sky Nature FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694399
+#EXTINF:-1 tvg-id="skydocumentarieshd.de" tvg-name="Sky Documentaries FHD" tvg-logo="https://i.postimg.cc/5NgWbf2T/Sky-Documentaries-2020.png" group-title="Germany",Sky Documentaries FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/694398
+#EXTINF:-1 tvg-id="skycrimehd.de" tvg-name="Sky Crime FHD" tvg-logo="https://i.postimg.cc/cLj0Zcwk/Sky-Crime.jpg" group-title="Germany",Sky Crime FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/696723
+#EXTINF:-1 tvg-id="hgtv.de" tvg-name="HGTV HD" tvg-logo="https://i.postimg.cc/wM2fjx0t/HGTV-2015-Blue.png" group-title="Germany",HGTV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/688723
+#EXTINF:-1 tvg-id="weltderwunder.de" tvg-name="Weltr Wunder HD" tvg-logo="https://i.postimg.cc/SN6nv2j7/welt-der-wunder.jpg" group-title="Germany",Weltr Wunder HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/679838
+#EXTINF:-1 tvg-id="anixe.de" tvg-name="Anixe HD" tvg-logo="https://i.postimg.cc/d04dS7HS/ANIXE.png" group-title="Germany",Anixe HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6264
+#EXTINF:-1 tvg-id="dmax.de" tvg-name="Dmax FHD" tvg-logo="https://i.postimg.cc/Jz7j3cKB/DMAX-logo.png" group-title="Germany",Dmax FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6249
+#EXTINF:-1 tvg-id="tlc.de" tvg-name="TLC HD" tvg-logo="https://i.postimg.cc/1znnMWF4/TLC.png" group-title="Germany",TLC HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8224
+#EXTINF:-1 tvg-id="eentertainment.de" tvg-name="E! Entertainment FHD" tvg-logo="https://i.postimg.cc/Ls8g9HRK/E-entertainment.jpg" group-title="Germany",E! Entertainment FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13569
+#EXTINF:-1 tvg-id="arte.de" tvg-name="Sky Arte HD" tvg-logo="https://i.postimg.cc/3rGscy7k/Arte.png" group-title="Germany",Sky Arte HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5091
+#EXTINF:-1 tvg-id="ardalpha.de" tvg-name="ARD Alpha FHD" tvg-logo="https://i.postimg.cc/j5j7PsX0/ARD-alpha.jpg" group-title="Germany",ARD Alpha FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13171
+#EXTINF:-1 tvg-id="waidwerk.de" tvg-name="Waidwerk FHD" tvg-logo="https://i.postimg.cc/dtDhqssg/waidwerk.jpg" group-title="Germany",Waidwerk FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/687566
+#EXTINF:-1 tvg-id="" tvg-name="UHD1 4K" tvg-logo="https://i.postimg.cc/zvzC3QXQ/UHD1.png" group-title="Germany",UHD1 4K
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/698309
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ News ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ News ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678922
+#EXTINF:-1 tvg-id="euronews.de" tvg-name="Euronews" tvg-logo="https://i.postimg.cc/524YZBHq/Euronews-2016.jpg" group-title="Germany",Euronews
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6248
+#EXTINF:-1 tvg-id="welt.de" tvg-name="Welt HD" tvg-logo="https://i.postimg.cc/gkr145sv/Welt.jpg" group-title="Germany",Welt HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6228
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV FHD" tvg-logo="https://i.postimg.cc/pTFJpfJ5/N-tv-Logo-2017.png" group-title="Germany",N-TV FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13149
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="N-TV HD" tvg-logo="https://i.postimg.cc/pTFJpfJ5/N-tv-Logo-2017.png" group-title="Germany",N-TV HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/8195
+#EXTINF:-1 tvg-id="munchentv.de" tvg-name="München TV FHD" tvg-logo="https://i.postimg.cc/hPPM0dS6/munchen.jpg" group-title="Germany",München TV FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6229
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="Phoenix HD" tvg-logo="https://i.postimg.cc/QtdwKnnY/Phoenix-2018.jpg" group-title="Germany",Phoenix HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6221
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="Tagesschau 24 HD" tvg-logo="https://i.postimg.cc/KzgqTkyw/Tagesschau-2003.jpg" group-title="Germany",Tagesschau 24 HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6163
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Children ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Children ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678923
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL FHD" tvg-logo="https://i.postimg.cc/pLzKKf9D/Superrtl-orange-2019.png" group-title="Germany",Super RTL FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13554
+#EXTINF:-1 tvg-id="superrtl.de" tvg-name="Super RTL HD" tvg-logo="https://i.postimg.cc/pLzKKf9D/Superrtl-orange-2019.png" group-title="Germany",Super RTL HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6166
+#EXTINF:-1 tvg-id="kika.de" tvg-name="Kika HD" tvg-logo="https://i.postimg.cc/7Lx6W068/Kika-2012.png" group-title="Germany",Kika HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6241
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus HD" tvg-logo="https://i.postimg.cc/zBY1Q1pL/Toggo-Plus.png" group-title="Germany",Toggo Plus HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/5086
+#EXTINF:-1 tvg-id="toggoplus.de" tvg-name="Toggo Plus" tvg-logo="https://i.postimg.cc/zBY1Q1pL/Toggo-Plus.png" group-title="Germany",Toggo Plus
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/9133
+#EXTINF:-1 tvg-id="boomerang.de" tvg-name="Boomerang HD" tvg-logo="https://i.postimg.cc/yxPgdjWP/Boomerang-2015.jpg" group-title="Germany",Boomerang HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6258
+#EXTINF:-1 tvg-id="cartoonnetwork.de" tvg-name="Cartoon Network FHD" tvg-logo="https://i.postimg.cc/nzwVwWsN/Cartoon-Network-2010.jpg" group-title="Germany",Cartoon Network FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6257
+#EXTINF:-1 tvg-id="disneychannel.de" tvg-name="Disney Channel FHD" tvg-logo="https://i.postimg.cc/sDMm8GLL/Disney-channel-2019.png" group-title="Germany",Disney Channel FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6253
+#EXTINF:-1 tvg-id="nickelodeon.de" tvg-name="Nickelodeon HD" tvg-logo="https://i.postimg.cc/SN8dk26t/Nickelodeon.png" group-title="Germany",Nickelodeon HD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6224
+#EXTINF:-1 tvg-id="fixandfoxi.de" tvg-name="Fix & Foxi" tvg-logo="https://i.postimg.cc/vmvSMgsd/Fix-and-Fox-Channel-Logo.png" group-title="Germany",Fix & Foxi
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/23771
+#EXTINF:-1 tvg-id="" tvg-name="✽✽⭒ Music ⭒✽✽" tvg-logo="https://i.postimg.cc/BQH58QKd/DEFlag.png" group-title="Germany",✽✽⭒ Music ⭒✽✽
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/678925
+#EXTINF:-1 tvg-id="mtvgermany.de" tvg-name="MTV FHD" tvg-logo="https://i.postimg.cc/pV545dQK/MTV-2021.jpg" group-title="Germany",MTV FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/35466
+#EXTINF:-1 tvg-id="vh1classic.de" tvg-name="MTV 80s" tvg-logo="https://i.postimg.cc/L6d7tMvw/Mtv-80s-logo.png" group-title="Germany",MTV 80s
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/638080
+#EXTINF:-1 tvg-id="classica.de" tvg-name="Stingray Classica FHD" tvg-logo="https://i.postimg.cc/0NNHk52M/STINGRAY-CLASSICA.jpg" group-title="Germany",Stingray Classica FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6191
+#EXTINF:-1 tvg-id="jukebox.de" tvg-name="Jukebox" tvg-logo="https://i.postimg.cc/L6MCq38M/Jukebox.png" group-title="Germany",Jukebox
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13148
+#EXTINF:-1 tvg-id="deluxemusic.de" tvg-name="Deluxe Music FHD" tvg-logo="https://i.postimg.cc/3x8t1rGS/DELUXE-MUSIC-Logo-2019.png" group-title="Germany",Deluxe Music FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/6255
+#EXTINF:-1 tvg-id="" tvg-name="Kronehit FHD" tvg-logo="https://i.postimg.cc/G2yKt402/kronehit.png" group-title="Germany",Kronehit FHD
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/14200
+#EXTINF:-1 tvg-id="deutschesmusikfernsehen.de" tvg-name="Deutsches Musik Fernsehen" tvg-logo="https://i.postimg.cc/W4sX9NJY/Deutsches-Musik-Fernsehen.jpg" group-title="Germany",Deutsches Musik Fernsehen
+http://mytv.fun:80/MladenCacicGerd/mctylb6zr/13165
