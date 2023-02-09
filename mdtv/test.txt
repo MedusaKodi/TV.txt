@@ -239,3 +239,9 @@ plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+9
 plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+10
 #EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 2 ***********
 http://my.blubb
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste HD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/13166
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das ErsteHD DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6262
+#EXTINF:-1 tvg-id="Das Erste" group-title="Germany" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste DE
+http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6256
