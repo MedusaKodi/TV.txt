@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/vavoo.png",Vavoo
+#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/vavoo.png",          Vavoo
 http://my.vavoo
 #EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="blubb",;-) 
 http://my.vavoo
