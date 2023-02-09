@@ -237,3 +237,7 @@ plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+8
 plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 10 VV
 plugin://plugin.video.livetv/?name=SKY+BUNDESLIGA+10
+#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="blubb",
+http://my.vavoo
+#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/vavoo.png",My TV
+http://my.blubb
