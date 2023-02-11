@@ -531,7 +531,7 @@ http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/6171
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/8222
 #EXTINF:-1 tvg-id="automotorundsportchannel.de" tvg-name="Auto Motor Sport FHD DE" tvg-logo="https://i.postimg.cc/nrhVK4Kw/Auto-Motor-und-Sport-Channel.png" group-title="Germany",Auto Motor Sport FHD DE
 http://mytv.fun:80/a0mk0hbhfb/ttaauba0c8/9132
-#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 1 ***********
+#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 3 ***********
 http://my.blubb
 #EXTINF:-1 tvg-id="ard.de" tvg-name="Das Erste HD DE" tvg-logo="https://i.postimg.cc/QMgDy7vj/Das-Erste2014.jpg" group-title="Germany",Das Erste HD DE
 http://tv.eoiptv.mydns.live:80/MladenCacicGerd/mctylb6zr/13166
