@@ -13,7 +13,7 @@ plugin://plugin.video.livetv/?name=3+SAT
 plugin://plugin.video.livetv/?name=RTL
 #EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.livetv/?name=RTL+2
-#EXTINF:-1,Super RTL
+#EXTINF:-1 tvg-id="SUPER RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",Super RTL
 http://kuchini.site:8080/9a7c64ba/PJnnJEHm8BxxyKdg/896
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.livetv/?name=PRO+7
