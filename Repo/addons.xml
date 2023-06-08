@@ -3,7 +3,7 @@
   <extension point="xbmc.addon.repository" name="Medusa Repository">
     <dir>
       <info compressed="false">https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Repo/addons.xml</info>
-      <checksum>https://github.com/MedusaKodi/TV.txt/blob/master/Repo/addons.xml.md5</checksum>
+      <checksum>https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Repo/addons.xml.md5</checksum>
       <datadir zip="true">https://github.com/MedusaKodi/TV.txt/tree/master/Repo</datadir>
     </dir>
   </extension>
