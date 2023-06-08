@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.medusa" name="Medusa Repository" provider-name="Medusa" version="4.0">
+  <extension point="xbmc.addon.repository" name="Medusa Repository">
+    <dir>
+      <info compressed="false">https://https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Repo/addons.xml</info>
+      <checksum>https://https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Repo/addons.xml.md5</checksum>
+      <datadir zip="true">https://https://github.com/MedusaKodi/TV.txt/tree/master/Repo</datadir>
+    </dir>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <description lang="en"></description>
+    <license></license>
+    <language></language>
+    <website></website>
+    <news></news>
+    <assets>
+      <icon>icon.png</icon>
+    </assets> 
+  </extension>
+</addon>
+
 <addon id="plugin.video.vavooto" name="VAVOO.TO" version="5.8.6" provider-name="kasi,michaz">
     <requires>
         <import addon="script.module.requests"/>
