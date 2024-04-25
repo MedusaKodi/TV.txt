@@ -42,3 +42,69 @@
 	</extension>	
 	
 </addon>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+	id="plugin.video.medusamac" version="1.81" name="[COLOR white]Medusa-MAC[/COLOR]" provider-name="MEDUSA">
+<requires>    		
+    	<import addon="script.module.resolveurl"/>
+	    <import addon="script.module.requests"/>	
+		<import addon="script.module.six"/>	
+	
+  </requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	
+	<extension point="xbmc.addon.metadata">
+        <platform>all</platform>
+		<summary lang="ro"></summary>
+		<description lang="ro"></description>
+		<website>https://github.com/</website>
+		<license>GPL 3.0</license>
+		<platform>all</platform>
+		<disclaimer lang="ro"></disclaimer>
+	<assets>
+        <icon>icon.gif</icon>  
+        <fanart>fanart.png</fanart>
+    </assets>        
+		<language>ro</language>
+	</extension>	
+	
+</addon>
+/assets>        
+		<language>ro</language>
+	</extension>	
+	
+</addon>
+</assets>        
+		<language>ro</language>
+	</extension>	
+	
+</addon>
+/assets>        
+		<language>ro</language>
+	</extension>	
+	
+</addon>
+
+<addon id="repository.castagnait" name="CastagnaIT Repository" version="2.0.1" provider-name="castagnait">
+  	<extension point="xbmc.addon.repository" name="CastagnaIT Repository">
+  		<dir minversion="19.0.0">
+  			<info compressed="false">https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19/addons.xml</info>
+  			<checksum>https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19/addons.xml.md5</checksum>
+  			<datadir zip="true">https://github.com/CastagnaIT/repository.castagnait/raw/kodi/kodi19</datadir>
+  			<hashes>false</hashes>
+  		</dir>
+  	</extension>
+  	<extension point="xbmc.addon.metadata">
+  		<summary>CastagnaIT Repository</summary>
+  		<description>Castagna IT repository</description>
+  		<platform>all</platform>
+  		<assets>
+  			<icon>icon.jpg</icon>
+  		</assets>
+  	</extension>
+  </addon>
+</addons>
+
