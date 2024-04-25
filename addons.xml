@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<addons>
 <addon
 	id="plugin.video.medusamac" version="1.81" name="[COLOR white]Medusa-MAC[/COLOR]" provider-name="MEDUSA">
 <requires>    		
@@ -42,3 +43,4 @@
 	</extension>	
 	
 </addon>
+</addons>
