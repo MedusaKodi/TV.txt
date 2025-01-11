@@ -25,19 +25,19 @@ plugin://plugin.video.vavooto/?name=KABEL+1
 plugin://plugin.video.vavooto/?name=VOX
 #EXTINF:-1 tvg-id="Syfy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/537.png",Syfy
 plugin://plugin.video.vavooto/?name=SYFY
-#EXTINF:-1 tvg-id="Sky Atlantic HD" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png",Sky Atlantic
+#EXTINF:-1 tvg-id="SKYAT" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/529.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="Sky Action" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
+#EXTINF:-1 tvg-id="SKY-A" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
-#EXTINF:-1 tvg-id="Sky Cinema Classics" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics
+#EXTINF:-1 tvg-id="SKY-N" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
-#EXTINF:-1 tvg-id="Sky Family" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png",Sky Cinema Family
+#EXTINF:-1 tvg-id="SKY-F" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png",Sky Cinema Family
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 #EXTINF:-1 tvg-id="Sky Cinema Fun" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/440.png",Sky Cinema Fun
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
-#EXTINF:-1 tvg-id="Sky Cinema Premieren" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren
+#EXTINF:-1 tvg-id="CIN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
 #EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/special.jpg",Sky Cinema Special
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
