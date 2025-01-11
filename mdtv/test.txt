@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 1 ***********
-http://my.blubb
 #EXTINF:-1 tvg-id="Das Erste" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.png",Das Erste
 plugin://plugin.video.vavooto/?name=DAS+ERSTE
 #EXTINF:-1 tvg-id="ZDF" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1063.png",ZDF
@@ -29,8 +27,8 @@ plugin://plugin.video.vavooto/?name=SYFY
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY-A" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="Sky Cinema Best Of" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best of
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
+#EXTINF:-1 tvg-id="SKYCH" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Highlights
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHTS
 #EXTINF:-1 tvg-id="SKY-N" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+CLASSICS
 #EXTINF:-1 tvg-id="SKY-F" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1140.png",Sky Cinema Family
@@ -237,5 +235,3 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 10 TEST
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
-#EXTINF:-1 tvg-id="blubb" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/waipu.tv-Senderliste.jpg",************ Liste 2 ***********
-http://my.blubb
