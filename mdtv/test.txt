@@ -17,9 +17,9 @@ plugin://plugin.video.vavooto/?name=RTL+2
 plugin://plugin.video.vavooto/?name=SUPER+RTL
 #EXTINF:-1 tvg-id="ProSieben" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/936.png",ProSieben
 plugin://plugin.video.vavooto/?name=PRO+7
-#EXTINF:-1 tvg-id="SAT.1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
+#EXTINF:-1 tvg-id="SAT1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/937.png",Sat 1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="Kabel Eins" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
+#EXTINF:-1 tvg-id="K1" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/928.png",Kabel 1
 plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1057.png",Vox
 plugin://plugin.video.vavooto/?name=VOX
