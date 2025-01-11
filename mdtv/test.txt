@@ -11,7 +11,7 @@ plugin://plugin.video.vavooto/?name=MDR
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
-#EXTINF:-1 tvg-id="RTL II" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
+#EXTINF:-1 tvg-id="RTL2" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1056.png",RTL 2
 plugin://plugin.video.vavooto/?name=RTL+2
 #EXTINF:-1 tvg-id="SUPER RTL" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/super-rtl-logo.jpg",SUPER RTL
 plugin://plugin.video.vavooto/?name=SUPER+RTL
