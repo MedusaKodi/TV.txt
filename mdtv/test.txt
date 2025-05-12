@@ -5,7 +5,7 @@ plugin://plugin.video.vavooto/?name=DAS+ERSTE
 plugin://plugin.video.vavooto/?name=ZDF
 #EXTINF:-1 tvg-id="MDR" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1011.png",MDR
 plugin://plugin.video.vavooto/?name=MDR
-#EXTINF:-1 tvg-id="3SAT" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/1006.png",3 Sat
+#EXTINF:-1 tvg-id="3SAT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/mdr.png",3 Sat
 plugin://plugin.video.vavooto/?name=3+SAT
 #EXTINF:-1 tvg-id="RTL" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/999.png",RTL
 plugin://plugin.video.vavooto/?name=RTL
