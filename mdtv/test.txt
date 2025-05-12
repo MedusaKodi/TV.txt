@@ -25,9 +25,9 @@ plugin://plugin.video.vavooto/?name=VOX
 plugin://plugin.video.vavooto/?name=SYFY
 #EXTINF:-1 tvg-id="SKYAT" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/skyatlantic.png",Sky Atlantic
 plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
-#EXTINF:-1 tvg-id="SKY-A" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/456.png",Sky Cinema Action
+#EXTINF:-1 tvg-id="SKY-A" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/skycinemaaction.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
-#EXTINF:-1 tvg-id="SKYCH" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Highlights
+#EXTINF:-1 tvg-id="SKYCH" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/skycinemahighlights.png",Sky Cinema Highlights
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
 #EXTINF:-1 tvg-id="aaa" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best Of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
