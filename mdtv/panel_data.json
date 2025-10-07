@@ -1,279 +1,60 @@
 {
-  "http://90309-fri.ott-cdn.me/c/": [
-    {
-      "mac": "00:1A:79:79:78:BB",
-      "valid_until": "September 22, 2026",
-      "days_left": 349
-    },
-    {
-      "mac": "00:1A:79:D7:8C:09",
-      "valid_until": "August 17, 2026",
-      "days_left": 313
-    },
-    {
-      "mac": "00:1A:79:B6:7A:F7",
-      "valid_until": "February 4, 2026",
-      "days_left": 119
-    },
-    {
-      "mac": "00:1A:79:42:57:8B",
-      "valid_until": "January 25, 2026",
-      "days_left": 109
-    },
-    {
-      "mac": "00:1A:79:CB:C7:40",
-      "valid_until": "November 2, 2025",
-      "days_left": 25
-    },
-    {
-      "mac": "00:1A:79:67:5A:A5",
-      "valid_until": "June 6, 2026",
-      "days_left": 241
-    },
-    {
-      "mac": "00:1A:79:25:C9:D8",
-      "valid_until": "September 28, 2026",
-      "days_left": 355
-    },
-    {
-      "mac": "00:1A:79:70:88:AA",
-      "valid_until": "March 29, 2026",
-      "days_left": 172
-    },
-    {
-      "mac": "00:1A:79:36:33:31",
-      "valid_until": "April 24, 2026",
-      "days_left": 198
-    },
-    {
-      "mac": "00:1A:79:5A:74:D1",
-      "valid_until": "April 26, 2026",
-      "days_left": 200
-    },
-    {
-      "mac": "00:1A:79:77:84:26",
-      "valid_until": "August 13, 2026",
-      "days_left": 309
-    },
-    {
-      "mac": "00:1A:79:B4:30:92",
-      "valid_until": "November 7, 2025",
-      "days_left": 30
-    },
-    {
-      "mac": "00:1A:79:7D:A3:D2",
-      "valid_until": "November 1, 2025",
-      "days_left": 24
-    },
-    {
-      "mac": "00:1A:79:CC:0F:54",
-      "valid_until": "May 6, 2026",
-      "days_left": 210
-    },
-    {
-      "mac": "00:1A:79:E2:44:CC",
-      "valid_until": "February 19, 2026",
-      "days_left": 134
-    },
-    {
-      "mac": "00:1A:79:BF:65:5B",
-      "valid_until": "July 5, 2026",
-      "days_left": 270
-    },
-    {
-      "mac": "00:1A:79:D6:93:FA",
-      "valid_until": "November 22, 2025",
-      "days_left": 45
-    },
-    {
-      "mac": "00:1A:79:BC:0E:E1",
-      "valid_until": "March 22, 2026",
-      "days_left": 165
-    },
-    {
-      "mac": "00:1A:79:1A:CE:08",
-      "valid_until": "March 31, 2027",
-      "days_left": 539
-    },
-    {
-      "mac": "00:1A:79:3C:FA:04",
-      "valid_until": "March 4, 2026",
-      "days_left": 147
-    },
-    {
-      "mac": "00:1A:79:10:C8:9A",
-      "valid_until": "April 29, 2026",
-      "days_left": 203
-    },
-    {
-      "mac": "00:1A:79:01:69:C2",
-      "valid_until": "October 30, 2025",
-      "days_left": 22
-    },
-    {
-      "mac": "00:1A:79:70:67:02",
-      "valid_until": "May 25, 2026",
-      "days_left": 229
-    },
-    {
-      "mac": "00:1A:79:B2:62:AB",
-      "valid_until": "January 19, 2026",
-      "days_left": 103
-    },
-    {
-      "mac": "00:1A:79:82:69:07",
-      "valid_until": "October 24, 2025",
-      "days_left": 16
-    },
-    {
-      "mac": "00:1A:79:E5:E0:99",
-      "valid_until": "March 10, 2026",
-      "days_left": 153
-    },
-    {
-      "mac": "00:1A:79:C7:5C:73",
-      "valid_until": "March 1, 2026",
-      "days_left": 144
-    },
-    {
-      "mac": "00:1A:79:D9:EA:69",
-      "valid_until": "January 1, 2026",
-      "days_left": 85
-    },
-    {
-      "mac": "00:1A:79:6B:5B:3E",
-      "valid_until": "September 23, 2026",
-      "days_left": 350
-    },
-    {
-      "mac": "00:1A:79:F5:6B:4A",
-      "valid_until": "December 20, 2025",
-      "days_left": 73
-    },
-    {
-      "mac": "00:1A:79:39:35:66",
-      "valid_until": "June 29, 2026",
-      "days_left": 264
-    },
-    {
-      "mac": "00:1A:79:A1:EC:EC",
-      "valid_until": "December 9, 2025",
-      "days_left": 62
-    },
-    {
-      "mac": "00:1A:79:24:82:63",
-      "valid_until": "November 20, 2025",
-      "days_left": 43
-    },
-    {
-      "mac": "00:1A:79:2E:9B:A9",
-      "valid_until": "October 30, 2025",
-      "days_left": 22
-    },
-    {
-      "mac": "00:1A:79:A1:98:64",
-      "valid_until": "November 25, 2025",
-      "days_left": 48
-    },
-    {
-      "mac": "00:1A:79:7F:C2:A0",
-      "valid_until": "January 4, 2026",
-      "days_left": 88
-    },
-    {
-      "mac": "00:1A:79:42:BB:3B",
-      "valid_until": "November 2, 2025",
-      "days_left": 25
-    },
-    {
-      "mac": "00:1A:79:4F:AE:C4",
-      "valid_until": "April 28, 2026",
-      "days_left": 202
-    },
-    {
-      "mac": "00:1A:79:05:FE:D3",
-      "valid_until": "October 30, 2025",
-      "days_left": 22
-    },
-    {
-      "mac": "00:1A:79:1A:88:39",
-      "valid_until": "December 13, 2025",
-      "days_left": 66
-    },
-    {
-      "mac": "00:1A:79:A1:E1:52",
-      "valid_until": "February 3, 2026",
-      "days_left": 118
-    },
-    {
-      "mac": "00:1A:79:F5:79:C2",
-      "valid_until": "November 26, 2025",
-      "days_left": 49
-    },
-    {
-      "mac": "00:1A:79:54:0C:63",
-      "valid_until": "January 6, 2026",
-      "days_left": 90
-    },
-    {
-      "mac": "00:1A:79:28:3A:48",
-      "valid_until": "November 5, 2025",
-      "days_left": 28
-    },
-    {
-      "mac": "00:1A:79:45:36:4A",
-      "valid_until": "December 8, 2025",
-      "days_left": 61
-    },
-    {
-      "mac": "00:1A:79:A3:CC:EA",
-      "valid_until": "November 21, 2025",
-      "days_left": 44
-    },
-    {
-      "mac": "00:1A:79:AE:B1:25",
-      "valid_until": "March 27, 2026",
-      "days_left": 170
-    },
-    {
-      "mac": "00:1A:79:4B:C0:57",
-      "valid_until": "April 21, 2026",
-      "days_left": 195
-    },
-    {
-      "mac": "00:1A:79:6F:2D:FA",
-      "valid_until": "November 29, 2025",
-      "days_left": 52
-    },
-    {
-      "mac": "00:1A:79:79:B7:B5",
-      "valid_until": "October 28, 2025",
-      "days_left": 20
-    },
-    {
-      "mac": "00:1A:79:30:61:65",
-      "valid_until": "December 3, 2025",
-      "days_left": 56
-    },
-    {
-      "mac": "00:1A:79:CF:0C:36",
-      "valid_until": "April 12, 2026",
-      "days_left": 186
-    },
-    {
-      "mac": "00:1A:79:AC:1D:35",
-      "valid_until": "October 28, 2025",
-      "days_left": 20
-    },
-    {
-      "mac": "00:1A:79:A6:9D:41",
-      "valid_until": "September 3, 2026",
-      "days_left": 330
-    },
-    {
-      "mac": "00:1A:79:40:3C:DC",
-      "valid_until": "January 23, 2026",
-      "days_left": 107
-    }
+  "portal": "http://90309-fri.ott-cdn.me/c/",
+  "macs": [
+    "00:1A:79:79:78:BB",
+    "00:1A:79:D7:8C:09",
+    "00:1A:79:B6:7A:F7",
+    "00:1A:79:42:57:8B",
+    "00:1A:79:CB:C7:40",
+    "00:1A:79:67:5A:A5",
+    "00:1A:79:25:C9:D8",
+    "00:1A:79:70:88:AA",
+    "00:1A:79:36:33:31",
+    "00:1A:79:5A:74:D1",
+    "00:1A:79:77:84:26",
+    "00:1A:79:B4:30:92",
+    "00:1A:79:7D:A3:D2",
+    "00:1A:79:CC:0F:54",
+    "00:1A:79:E2:44:CC",
+    "00:1A:79:BF:65:5B",
+    "00:1A:79:D6:93:FA",
+    "00:1A:79:BC:0E:E1",
+    "00:1A:79:1A:CE:08",
+    "00:1A:79:3C:FA:04",
+    "00:1A:79:10:C8:9A",
+    "00:1A:79:01:69:C2",
+    "00:1A:79:70:67:02",
+    "00:1A:79:B2:62:AB",
+    "00:1A:79:82:69:07",
+    "00:1A:79:E5:E0:99",
+    "00:1A:79:C7:5C:73",
+    "00:1A:79:D9:EA:69",
+    "00:1A:79:6B:5B:3E",
+    "00:1A:79:F5:6B:4A",
+    "00:1A:79:39:35:66",
+    "00:1A:79:A1:EC:EC",
+    "00:1A:79:24:82:63",
+    "00:1A:79:2E:9B:A9",
+    "00:1A:79:A1:98:64",
+    "00:1A:79:7F:C2:A0",
+    "00:1A:79:42:BB:3B",
+    "00:1A:79:4F:AE:C4",
+    "00:1A:79:05:FE:D3",
+    "00:1A:79:1A:88:39",
+    "00:1A:79:A1:E1:52",
+    "00:1A:79:F5:79:C2",
+    "00:1A:79:54:0C:63",
+    "00:1A:79:28:3A:48",
+    "00:1A:79:45:36:4A",
+    "00:1A:79:A3:CC:EA",
+    "00:1A:79:AE:B1:25",
+    "00:1A:79:4B:C0:57",
+    "00:1A:79:6F:2D:FA",
+    "00:1A:79:79:B7:B5",
+    "00:1A:79:30:61:65",
+    "00:1A:79:CF:0C:36",
+    "00:1A:79:AC:1D:35",
+    "00:1A:79:A6:9D:41",
+    "00:1A:79:40:3C:DC"
   ]
 }
