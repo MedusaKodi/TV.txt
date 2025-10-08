@@ -1,4 +1,4 @@
-Portal"http://mag.ukhd.tv/c"
+Portal"http://mag.ukhd.tv/"
 00:1A:79:2B:99:D4
 00:1A:79:68:3F:42
 00:1A:79:52:20:55
