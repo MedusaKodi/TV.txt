@@ -1,0 +1,23 @@
+from pathlib import Path
+
+# Inhalt der M3U-Liste
+m3u_content = """#EXTM3U
+
+# ===== Server 1 =====
+#EXTINF:-1,GitPast – Server 1 – Live TV
+plugin://plugin.video.gitpast/server1/livetv
+#EXTINF:-1,GitPast – Server 1 – VOD
+plugin://plugin.video.gitpast/server1/vod
+
+# ===== Server 2 =====
+#EXTINF:-1,GitPast – Server 2 – Live TV
+plugin://plugin.video.gitpast/server2/livetv
+#EXTINF:-1,GitPast – Server 2 – VOD
+plugin://plugin.video.gitpast/server2/vod
+"""
+
+# Datei erstellen
+file_path = Path("/mnt/data/gitpast_servers.m3u")
+file_path.write_text(m3u_content, encoding="utf-8")
+
+file_path
