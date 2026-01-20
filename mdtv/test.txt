@@ -28,7 +28,7 @@ plugin://plugin.video.vavooto/?name=SKY+ATLANTIC
 #EXTINF:-1 tvg-id="SKY-A" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/skycinemaaction.png",Sky Cinema Action
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+ACTION
 #EXTINF:-1 tvg-id="SKYCH" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/skycinemahighlights.png",Sky Cinema Highlights
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+HIGHLIGHT
+plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="aaa" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/527.png",Sky Cinema Best Of
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+BEST+OF
 #EXTINF:-1 tvg-id="SKY-N" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/483.png",Sky Cinema Classics
@@ -39,8 +39,6 @@ plugin://plugin.video.vavooto/?name=SKY+CINEMA+FAMILY
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+FUN
 #EXTINF:-1 tvg-id="CIN" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/453.png",Sky Cinema Premieren
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+PREMIEREN
-#EXTINF:-1 tvg-id="Sky Cinema Special" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/MedusaKodi/TV.txt/master/Logo/special.jpg",Sky Cinema Special
-plugin://plugin.video.vavooto/?name=SKY+CINEMA+SPECIAL
 #EXTINF:-1 tvg-id="Sky Cinema Thriller" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/470.png",Sky Cinema Thriller
 plugin://plugin.video.vavooto/?name=SKY+CINEMA+THRILLER
 #EXTINF:-1 tvg-id="Sky Comedy" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/320x39/1425.png",Sky Comedy
