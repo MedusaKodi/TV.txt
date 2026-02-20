@@ -235,5 +235,3 @@ plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+8
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+9
 #EXTINF:-1 tvg-id="Sky Bundesliga 1" group-title="Standart" tvg-logo="https://github.com/MedusaKodi/TV.txt/raw/master/Logo/Sky_Sport_1_HD_-_Logo_2020.png",Sky Bundesliga 10 TEST
 plugin://plugin.video.vavooto/?name=SKY+BUNDESLIGA+10
-#EXTINF:-1 tvg-id="RTL+" group-title="Standart" tvg-logo="http://epggw.a1.net/img/station/darkbg/100x100/997.pn",RTL+
-plugin://plugin.video.vavooto/?name=RTL++EVENT+3
