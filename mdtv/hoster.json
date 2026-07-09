@@ -1,12 +1,40 @@
 {
-  "_comment": "StreamVault Hoster-Config – einfach bearbeiten, Addon aktualisiert sich automatisch",
-  "version": "1.0",
+  "_comment": "StreamVault Config – alle Domains zentral hier anpassen, kein ZIP noetig",
+  "version": "1.2",
   "updated": "2026-07-09",
+
+  "sites": {
+    "_comment": "Scraper-Sites: eine Domain ODER eine Liste [primaer, fallback1, fallback2, ...]",
+
+    "kkiste":       ["kkiste-to.com", "kkiste.to"],
+    "kinokiste":    ["kkiste-io.top", "kinokiste.club"],
+    "fhdfilme":     ["hdfilme.legal", "hdfilme.my", "hdfilme.garden"],
+    "hdfilme":      ["hdfilme.legal", "hdfilme.my", "hdfilme.deals"],
+    "streamkiste":  ["streamkiste.top", "streamkiste.taxi"],
+    "topstreamfilm":["www.topstreamfilm.live"],
+    "streamcloud":  ["streamcloud.plus", "streamcloud.uno", "streamcloud.my", "streamcloud.cc"],
+    "filmpalast":   ["filmpalast.to"],
+    "kinoger":      ["kinoger.com", "kinoger.re"],
+    "megakino":     ["megakino.live", "megakino3.org"],
+    "movie2k":      ["movie2k.ch", "movie2k.cx", "movie2k.to", "movie2k.ac"],
+    "movie2k2":     ["movie2k.ch", "movie2k.cx"],
+    "kinox":        ["kinoz.to", "kinox.to", "www22.kinox.to", "kinox.pub", "kinox.fan"],
+    "primekiste":   ["primekiste.com"],
+    "huhu":         ["www.huhu.to"],
+    "serienstream": ["serienstream.to", "s.to", "serienstream.sx"],
+    "netzkino":     ["netzkino.de"],
+    "einschalten":  ["einschalten.in"],
+    "moflix":       ["moflix-stream.xyz", "moflix-stream.days"]
+  },
+
   "hosters": {
-    "voe":         ["voe.sx", "voe.to", "launchreliantcleavage.com", "whirlwinddrift.com",
-                    "redrove.com", "audacious-cat.com"],
+    "_comment": "Hoster-Resolver: typ → [domains]",
+
+    "voe":         ["voe.sx", "voe.to", "launchreliantcleavage.com",
+                    "whirlwinddrift.com", "redrove.com", "audacious-cat.com"],
     "mixdrop":     ["mixdrop.ag", "mixdrop.bz", "mixdrop.co", "mixdrop.gl",
-                    "mixdrop.club", "mixdrop.vc", "mixdrop.ws", "mixdrop.to", "mixdrop.sx", "mixdrp.to"],
+                    "mixdrop.club", "mixdrop.vc", "mixdrop.ws", "mixdrop.to",
+                    "mixdrop.sx", "mixdrp.to"],
     "doodstream":  ["doodstream.com", "doodstream.co", "dood.to", "dood.re", "dood.yt",
                     "dood.watch", "dood.so", "dood.cx", "dood.la", "dood.ws",
                     "dood.sh", "dood.pm", "doods.pro", "dooood.com"],
@@ -29,7 +57,7 @@
     "upstream":    ["upstream.to", "upvid.co"],
     "xupload":     ["dr0pstream.com", "dropstream.to", "dropgalaxy.in"],
     "generic":     ["kinoger.ru", "kinoger.be", "fsst.to", "fsst.me",
-                    "firestream.to", "vidsonic.net", "flyfile.to", "vidmatrixa.com",
+                    "firestream.to", "vidsonic.net", "flyfile.to",
                     "wolfstream.tv", "streamruby.com", "sendvid.com",
                     "vudeo.net", "vudeo.co", "speedvid.net",
                     "luluvdo.com", "goupload.me", "tubeload.co"]
