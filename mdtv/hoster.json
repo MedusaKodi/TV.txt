@@ -1,65 +1,229 @@
 {
-  "_comment": "StreamVault Config – alle Domains zentral hier anpassen, kein ZIP noetig",
-  "version": "1.2",
-  "updated": "2026-07-09",
-
+  "_comment": "StreamVault Config – alle Domains zentral hier anpassen",
+  "version": "1.3",
+  "updated": "2026-07-13",
   "sites": {
-    "_comment": "Scraper-Sites: eine Domain ODER eine Liste [primaer, fallback1, fallback2, ...]",
-
-    "kkiste":       ["kkiste.to"],
-    "kinokiste":    ["kinokiste.club"],
-    "fhdfilme":     ["hdfilme.legal", "hdfilme.my", "hdfilme.garden"],
-    "hdfilme":      ["hdfilme1.co", "hdfilme.my", "hdfilme.deals"],
-    "streamkiste":  ["streamkiste.top", "streamkiste.taxi"],
-    "topstreamfilm":["www.topstreamfilm.live"],
-    "streamcloud":  ["streamcloud.plus", "streamcloud.uno", "streamcloud.my", "streamcloud.cc"],
-    "filmpalast":   ["filmpalast.to"],
-    "kinoger":      ["kinoger.com", "kinoger.re"],
-    "megakino":     ["megakino10.com", "megakino3.org"],
-    "movie2k":      ["movie2k.cx", "movie2k.to", "movie2k.ac"],
-    "movie2k2":     ["movie2k.ch", "movie2k.cx"],
-    "kinox":        ["kinox.to", "kinoz.to", "kinox.pub", "kinox.fan"],
-    "primekiste":   ["primekiste.com"],
-    "huhu":         ["www.huhu.to"],
-    "serienstream": ["serienstream.to", "s.to", "serienstream.sx"],
-    "netzkino":     ["netzkino.de"],
-    "einschalten":  ["einschalten.in"],
-    "moflix":       ["moflix-stream.xyz", "moflix-stream.days"]
+    "_comment": "Scraper-Sites – Service-Discovery + bekannte Fallbacks",
+    "kkiste": [
+      "kkiste-to.com",
+      "kkiste.to"
+    ],
+    "kinokiste": [
+      "kkiste-io.top",
+      "kinokiste.club"
+    ],
+    "fhdfilme": [
+      "hdfilme.win",
+      "hdfilme.legal",
+      "hdfilme.my"
+    ],
+    "hdfilme": [
+      "hdfilme.deals",
+      "hdfilme.legal",
+      "hdfilme.garden"
+    ],
+    "streamkiste": [
+      "streamkiste.taxi",
+      "streamkiste.top"
+    ],
+    "topstreamfilm": [
+      "www.topstreamfilm.live"
+    ],
+    "streamcloud": [
+      "streamcloud.forum",
+      "streamcloud.plus",
+      "streamcloud.uno",
+      "streamcloud.my"
+    ],
+    "filmpalast": [
+      "filmpalast.to"
+    ],
+    "kinoger": [
+      "kinoger.com",
+      "kinoger.re"
+    ],
+    "megakino": [
+      "megakino10.com",
+      "megakino.live",
+      "megakino3.org"
+    ],
+    "movie2k": [
+      "movie2k.to",
+      "movie2k.ch",
+      "movie2k.cx",
+      "movie2k.ac"
+    ],
+    "movie2k2": [
+      "movie2k.cx",
+      "movie2k.ch"
+    ],
+    "kinox": [
+      "kinox.to",
+      "kinoz.to",
+      "kinox.pub",
+      "kinox.fan"
+    ],
+    "primekiste": [
+      "primekiste.com"
+    ],
+    "huhu": [
+      "www.huhu.to"
+    ],
+    "serienstream": [
+      "serienstream.to",
+      "s.to",
+      "serienstream.sx"
+    ],
+    "netzkino": [
+      "netzkino.de"
+    ],
+    "einschalten": [
+      "einschalten.in"
+    ],
+    "moflix": [
+      "moflix-stream.xyz",
+      "moflix-stream.days"
+    ]
   },
-
   "hosters": {
     "_comment": "Hoster-Resolver: typ → [domains]",
-
-    "voe":         ["voe.sx", "voe.to", "launchreliantcleavage.com",
-                    "whirlwinddrift.com", "redrove.com", "audacious-cat.com"],
-    "mixdrop":     ["mixdrop.ag", "mixdrop.bz", "mixdrop.co", "mixdrop.gl",
-                    "mixdrop.club", "mixdrop.vc", "mixdrop.ws", "mixdrop.to",
-                    "mixdrop.sx", "mixdrp.to"],
-    "doodstream":  ["doodstream.com", "doodstream.co", "dood.to", "dood.re", "dood.yt",
-                    "dood.watch", "dood.so", "dood.cx", "dood.la", "dood.ws",
-                    "dood.sh", "dood.pm", "doods.pro", "dooood.com"],
-    "streamtape":  ["streamtape.com", "streamtape.net", "streamtape.to",
-                    "streamtape.cc", "streamtape.ca", "streamta.pe", "strcloud.in"],
-    "streamwish":  ["streamwish.com", "streamwish.to", "streamwish.pro",
-                    "wishfast.top", "wishonly.com", "strmwish.com",
-                    "alions.pro", "bestx.stream", "awish.pro", "dwish.eu",
-                    "mwish.pro", "flaswish.com", "embedwish.com", "mlike.top"],
-    "filemoon":    ["filemoon.sx", "filemoon.to", "filemoon.in", "filemoon.nl",
-                    "moonmov.pro", "kerapoxy.cc", "fmoonembed.com"],
-    "vidguard":    ["vidguard.to", "vgfplay.com", "listeamed.net",
-                    "bembed.net", "v6embed.xyz", "vembed.net"],
-    "vidhide":     ["vidhide.to", "vidhidepro.com", "streamhide.to",
-                    "guccihide.to", "boosterx.stream", "swiftload.io"],
-    "supervideo":  ["supervideo.cc", "supervideo.tv"],
-    "vidoza":      ["vidoza.net", "vidoza.org"],
-    "dropload":    ["dropload.io", "dropload.cc"],
-    "streamcloud": ["streamcloud.plus", "streamcloud.uno", "streamcloud.my", "streamcloud.cc"],
-    "upstream":    ["upstream.to", "upvid.co"],
-    "xupload":     ["dr0pstream.com", "dropstream.to", "dropgalaxy.in"],
-    "generic":     ["kinoger.ru", "kinoger.be", "fsst.to", "fsst.me",
-                    "firestream.to", "vidsonic.net", "flyfile.to",
-                    "wolfstream.tv", "streamruby.com", "sendvid.com",
-                    "vudeo.net", "vudeo.co", "speedvid.net",
-                    "luluvdo.com", "goupload.me", "tubeload.co"]
+    "voe": [
+      "voe.sx",
+      "voe.to",
+      "launchreliantcleavage.com",
+      "whirlwinddrift.com",
+      "redrove.com",
+      "audacious-cat.com"
+    ],
+    "mixdrop": [
+      "mixdrop.ag",
+      "mixdrop.bz",
+      "mixdrop.co",
+      "mixdrop.gl",
+      "mixdrop.club",
+      "mixdrop.vc",
+      "mixdrop.ws",
+      "mixdrop.to",
+      "mixdrop.sx",
+      "mixdrp.to"
+    ],
+    "doodstream": [
+      "doodstream.com",
+      "doodstream.co",
+      "dood.to",
+      "dood.re",
+      "dood.yt",
+      "dood.watch",
+      "dood.so",
+      "dood.cx",
+      "dood.la",
+      "dood.ws",
+      "dood.sh",
+      "dood.pm",
+      "doods.pro",
+      "dooood.com"
+    ],
+    "streamtape": [
+      "streamtape.com",
+      "streamtape.net",
+      "streamtape.to",
+      "streamtape.cc",
+      "streamtape.ca",
+      "streamta.pe",
+      "strcloud.in"
+    ],
+    "streamwish": [
+      "streamwish.com",
+      "streamwish.to",
+      "streamwish.pro",
+      "wishfast.top",
+      "wishonly.com",
+      "strmwish.com",
+      "alions.pro",
+      "bestx.stream",
+      "awish.pro",
+      "dwish.eu",
+      "mwish.pro",
+      "flaswish.com",
+      "embedwish.com",
+      "mlike.top"
+    ],
+    "filemoon": [
+      "filemoon.sx",
+      "filemoon.to",
+      "filemoon.in",
+      "filemoon.nl",
+      "moonmov.pro",
+      "kerapoxy.cc",
+      "fmoonembed.com"
+    ],
+    "vidguard": [
+      "vidguard.to",
+      "vgfplay.com",
+      "listeamed.net",
+      "bembed.net",
+      "v6embed.xyz",
+      "vembed.net"
+    ],
+    "vidhide": [
+      "vidhide.to",
+      "vidhidepro.com",
+      "streamhide.to",
+      "guccihide.to",
+      "boosterx.stream",
+      "swiftload.io"
+    ],
+    "vinovo": [
+      "vinovo.to",
+      "vinovo.net"
+    ],
+    "supervideo": [
+      "supervideo.cc",
+      "supervideo.tv"
+    ],
+    "vidoza": [
+      "vidoza.net",
+      "vidoza.org"
+    ],
+    "dropload": [
+      "dropload.io",
+      "dropload.cc"
+    ],
+    "streamcloud": [
+      "streamcloud.forum",
+      "streamcloud.plus",
+      "streamcloud.uno",
+      "streamcloud.my",
+      "streamcloud.cc"
+    ],
+    "upstream": [
+      "upstream.to",
+      "upvid.co"
+    ],
+    "xupload": [
+      "dr0pstream.com",
+      "dropstream.to",
+      "dropgalaxy.in"
+    ],
+    "generic": [
+      "kinoger.pw",
+      "kinoger.ru",
+      "kinoger.be",
+      "fsst.online",
+      "fsst.to",
+      "fsst.me",
+      "firestream.to",
+      "vidsonic.net",
+      "flyfile.to",
+      "wolfstream.tv",
+      "streamruby.com",
+      "sendvid.com",
+      "vudeo.net",
+      "vudeo.co",
+      "speedvid.net",
+      "luluvdo.com",
+      "goupload.me",
+      "tubeload.co"
+    ]
   }
 }
