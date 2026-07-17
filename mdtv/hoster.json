@@ -1,16 +1,17 @@
-{
+    {
   "_comment": "StreamVault Config – alle Domains zentral hier anpassen",
   "version": "1.3",
   "updated": "2026-07-17",
   "sites": {
     "_comment": "Scraper-Sites – Service-Discovery + bekannte Fallbacks",
     "kkiste": [
+      "kkiste.eu",
       "kkiste-to.com",
       "kkiste.to"
     ],
     "kinokiste": [
-      "kkiste-io.top",
-      "kinokiste.club"
+      "kinokiste.club",
+      "kkiste-io.top"
     ],
     "fhdfilme": [
       "hdfilme.win",
@@ -18,9 +19,9 @@
       "hdfilme.my"
     ],
     "hdfilme": [
-      "hdfilme.deals",
+      "hdfilme1.co",
       "hdfilme.legal",
-      "hdfilme.garden"
+      "hdfilme.deals"
     ],
     "streamkiste": [
       "streamkiste.taxi",
@@ -32,15 +33,15 @@
     "streamcloud": [
       "streamcloud.forum",
       "streamcloud.plus",
-      "streamcloud.uno",
-      "streamcloud.my"
+      "streamcloud.uno"
     ],
     "filmpalast": [
       "filmpalast.to"
     ],
     "kinoger": [
       "kinoger.com",
-      "kinoger.re"
+      "kinoger.re",
+      "kinoger.ru"
     ],
     "megakino": [
       "megakino10.com",
