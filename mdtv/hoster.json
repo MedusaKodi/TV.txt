@@ -1,7 +1,7 @@
-    {
+{
   "_comment": "StreamVault Config – alle Domains zentral hier anpassen",
   "version": "1.3",
-  "updated": "2026-07-17",
+  "updated": "2026-07-18",
   "sites": {
     "_comment": "Scraper-Sites – Service-Discovery + bekannte Fallbacks",
     "kkiste": [
@@ -60,7 +60,7 @@
     ],
     "kinox": [
       "kinox.to",
-      "www22.kinox.to/",
+      "kinoz.to",
       "kinox.pub",
       "kinox.fan"
     ],
@@ -164,7 +164,15 @@
       "listeamed.net",
       "bembed.net",
       "v6embed.xyz",
-      "vembed.net"
+      "vembed.net",
+      "kinoger.pw",
+      "go-streamer.net",
+      "fslinks.org",
+      "vgembed.com",
+      "vid-guard.com",
+      "embedv.net",
+      "vgfplay.xyz",
+      "gsfjzmqu.sbs"
     ],
     "vidhide": [
       "vidhide.to",
