@@ -1,252 +1,3035 @@
 {
-  "_comment": "StreamVault Config – alle Domains zentral hier anpassen",
-  "version": "1.3",
-  "updated": "2026-07-18",
-  "sites": {
-    "_comment": "Scraper-Sites – Service-Discovery + bekannte Fallbacks",
-    "kkiste": [
-      "kkiste.eu",
-      "kkiste-to.com",
-      "kkiste.to"
-    ],
-    "kinokiste": [
-      "kinokiste.club",
-      "kkiste-io.top"
-    ],
-    "fhdfilme": [
-      "hdfilme.win",
-      "hdfilme.legal",
-      "hdfilme.my"
-    ],
-    "hdfilme": [
-      "hdfilme1.co",
-      "hdfilme.legal",
-      "hdfilme.deals"
-    ],
-    "streamkiste": [
-      "streamkiste.taxi",
-      "streamkiste.top"
-    ],
-    "topstreamfilm": [
-      "www.topstreamfilm.live"
-    ],
-    "streamcloud": [
-      "streamcloud.forum",
-      "streamcloud.plus",
-      "streamcloud.uno"
-    ],
-    "filmpalast": [
-      "filmpalast.to"
-    ],
-    "kinoger": [
-      "kinoger.com",
-      "kinoger.re",
-      "kinoger.ru"
-    ],
-    "megakino": [
-      "megakino10.com",
-      "megakino.live",
-      "megakino3.org"
-    ],
-    "movie2k": [
-      "movie2k.to",
-      "movie2k.ch",
-      "movie2k.cx",
-      "movie2k.ac"
-    ],
-    "movie2k2": [
-      "movie2k.cx",
-      "movie2k.ch"
-    ],
-    "kinox": [
-      "kinox.to",
-      "kinoz.to",
-      "kinox.pub",
-      "kinox.fan"
-    ],
-    "primekiste": [
-      "primekiste.com"
-    ],
-    "huhu": [
-      "www.huhu.to"
-    ],
-    "serienstream": [
-      "serienstream.to",
-      "s.to",
-      "serienstream.sx"
-    ],
-    "netzkino": [
-      "netzkino.de"
-    ],
-    "einschalten": [
-      "einschalten.in"
-    ],
-    "moflix": [
-      "moflix-stream.xyz",
-      "moflix-stream.days"
-    ]
+ "_hinweis": "Hoster- und Site-Konfiguration. Je Hoster: domains (Pflicht), template (Player-URL mit {host} und {id}), pattern (zusaetzliches Suchmuster mit Gruppe url), resolver (erzwingt eine eingebaute Funktion).",
+ "sites": {
+  "kkiste": [
+   "kkiste-to.com",
+   "kkiste.to"
+  ],
+  "kinokiste": [
+   "kkiste-io.top",
+   "kinokiste.club"
+  ],
+  "fhdfilme": [
+   "hdfilme.win",
+   "hdfilme.legal"
+  ],
+  "hdfilme": [
+   "hdfilme.deals",
+   "hdfilme.legal"
+  ],
+  "streamkiste": [
+   "streamkiste.taxi",
+   "streamkiste.top"
+  ],
+  "topstreamfilm": [
+   "www.topstreamfilm.live"
+  ],
+  "streamcloud": [
+   "streamcloud.forum",
+   "streamcloud.plus"
+  ],
+  "filmpalast": [
+   "filmpalast.to"
+  ],
+  "kinoger": [
+   "kinoger.com",
+   "kinoger.re"
+  ],
+  "megakino": [
+   "megakino10.com",
+   "megakino.live"
+  ],
+  "movie2k": [
+   "movie2k.to",
+   "movie2k.ch"
+  ],
+  "movie2k2": [
+   "movie2k.cx",
+   "movie2k.ch"
+  ],
+  "kinox": [
+   "kinox.to",
+   "kinoz.to",
+   "kinox.pub"
+  ],
+  "primekiste": [
+   "primekiste.com"
+  ],
+  "huhu": [
+   "www.huhu.to"
+  ],
+  "serienstream": [
+   "serienstream.to",
+   "s.to"
+  ],
+  "netzkino": [
+   "netzkino.de"
+  ],
+  "einschalten": [
+   "einschalten.in"
+  ],
+  "moflix": [
+   "moflix-stream.xyz"
+  ]
+ },
+ "hosters": {
+  "abstream": {
+   "domains": [
+    "abstream.to"
+   ],
+   "template": "https://{host}/embed-{id}.html"
   },
-  "hosters": {
-    "_comment": "Hoster-Resolver: typ → [domains]",
-    "voe": [
-      "voe.sx",
-      "voe.to",
-      "launchreliantcleavage.com",
-      "whirlwinddrift.com",
-      "redrove.com",
-      "audacious-cat.com"
-    ],
-    "mixdrop": [
-      "mixdrop.ag",
-      "mixdrop.bz",
-      "mixdrop.co",
-      "mixdrop.gl",
-      "mixdrop.club",
-      "mixdrop.vc",
-      "mixdrop.ws",
-      "mixdrop.to",
-      "mixdrop.sx",
-      "mixdrp.to"
-    ],
-    "doodstream": [
-      "doodstream.com",
-      "doodstream.co",
-      "dood.to",
-      "dood.re",
-      "dood.yt",
-      "dood.watch",
-      "dood.so",
-      "dood.cx",
-      "dood.la",
-      "dood.ws",
-      "dood.sh",
-      "dood.pm",
-      "doods.pro",
-      "dooood.com"
-    ],
-    "streamtape": [
-      "streamtape.com",
-      "streamtape.net",
-      "streamtape.to",
-      "streamtape.cc",
-      "streamtape.ca",
-      "streamta.pe",
-      "strcloud.in"
-    ],
-    "streamwish": [
-      "streamwish.com",
-      "streamwish.to",
-      "streamwish.pro",
-      "wishfast.top",
-      "wishonly.com",
-      "strmwish.com",
-      "alions.pro",
-      "bestx.stream",
-      "awish.pro",
-      "dwish.eu",
-      "mwish.pro",
-      "flaswish.com",
-      "embedwish.com",
-      "mlike.top"
-    ],
-    "filemoon": [
-      "filemoon.sx",
-      "filemoon.to",
-      "filemoon.in",
-      "filemoon.nl",
-      "moonmov.pro",
-      "kerapoxy.cc",
-      "fmoonembed.com"
-    ],
-    "vidguard": [
-      "vidguard.to",
-      "vgfplay.com",
-      "listeamed.net",
-      "bembed.net",
-      "v6embed.xyz",
-      "vembed.net",
-      "kinoger.pw",
-      "go-streamer.net",
-      "fslinks.org",
-      "vgembed.com",
-      "vid-guard.com",
-      "embedv.net",
-      "vgfplay.xyz",
-      "gsfjzmqu.sbs"
-    ],
-    "vidhide": [
-      "vidhide.to",
-      "vidhidepro.com",
-      "streamhide.to",
-      "guccihide.to",
-      "boosterx.stream",
-      "swiftload.io"
-    ],
-    "vinovo": [
-      "vinovo.to",
-      "vinovo.net"
-    ],
-    "supervideo": [
-      "supervideo.cc",
-      "supervideo.tv"
-    ],
-    "vidoza": [
-      "vidoza.net",
-      "vidoza.org"
-    ],
-    "dropload": [
-      "dropload.io",
-      "dropload.cc"
-    ],
-    "streamcloud": [
-      "streamcloud.forum",
-      "streamcloud.plus",
-      "streamcloud.uno",
-      "streamcloud.my",
-      "streamcloud.cc"
-    ],
-    "upstream": [
-      "upstream.to",
-      "upvid.co"
-    ],
-    "xupload": [
-      "dr0pstream.com",
-      "dropstream.to",
-      "dropgalaxy.in"
-    ],
-    "generic": [
-      "kinoger.pw",
-      "kinoger.ru",
-      "kinoger.be",
-      "fsst.online",
-      "fsst.to",
-      "fsst.me",
-      "firestream.to",
-      "vidsonic.net",
-      "flyfile.to",
-      "wolfstream.tv",
-      "streamruby.com",
-      "sendvid.com",
-      "vudeo.net",
-      "vudeo.co",
-      "speedvid.net",
-      "luluvdo.com",
-      "goupload.me",
-      "tubeload.co",
-      "veev.to",
-      "veev.cc",
-      "strmup.to",
-      "strmup.cc",
-      "savefiles.com",
-      "viewdara.com",
-      "playmate.to",
-      "thebesthosterv.com",
-      "vidara.cc",
-      "vidaraa.com",
-      "vidmatrixa.com",
-      "ds2video.com",
-      "meinecloud.click",
-      "meinecloud.to"
-    ]
+  "abyss": {
+   "domains": [
+    "abysscdn.com",
+    "hydraxcdn.biz",
+    "short.icu",
+    "embedplayabyss.top",
+    "abyssplayer.com"
+   ]
+  },
+  "adramas": {
+   "domains": [
+    "vb.adramas.se"
+   ],
+   "template": "https://{host}/v/{id}.html"
+  },
+  "adultswim": {
+   "domains": [
+    "adultswim.com"
+   ],
+   "template": "http://{host}/videos/{id}"
+  },
+  "aliez": {
+   "domains": [
+    "aliez.me"
+   ],
+   "template": "http://{host}/video/{id}/"
+  },
+  "allviid": {
+   "domains": [
+    "allviid.xyz",
+    "all-vid.autos"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "amazonclouddrive": {
+   "domains": [
+    "amazon.com"
+   ],
+   "template": "https://www.{host}/drive/v1/shares/{id}?shareId={id}&resourceVersion=V2&ContentType=JSON&_=%s322"
+  },
+  "amdahost": {
+   "domains": [
+    "amdahost.com"
+   ],
+   "template": "https://www.{host}/watch.php?id={id}"
+  },
+  "anafast": {
+   "domains": [
+    "anafast.online",
+    "anafasts.com",
+    "anafast.org"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "anistream": {
+   "domains": [
+    "ani-stream.com"
+   ]
+  },
+  "anonfiles": {
+   "domains": [
+    "anonfiles.com",
+    "bayfiles.com",
+    "letsupload.cc",
+    "openload.cc",
+    "hotfile.io"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "anonmp4": {
+   "domains": [
+    "anonmp4.help"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "anonymfile": {
+   "domains": [
+    "anonymfile.com"
+   ],
+   "template": "https://{host}/{id}/",
+   "pattern": "(?P<url>[^"
+  },
+  "aparat": {
+   "domains": [
+    "aparat.cam",
+    "wolfstream.tv"
+   ]
+  },
+  "archiveorg": {
+   "domains": [
+    "archive.org"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "asianload": {
+   "domains": [
+    "asianload.cfd",
+    "embedload.cfd"
+   ],
+   "template": "https://{host}/watch?v={id}",
+   "pattern": "(?P<url>[^"
+  },
+  "asumanaksoy": {
+   "domains": [
+    "cdn.asumanaksoy.com"
+   ],
+   "template": "https://{host}/player/index.php?data={id}&do=getVideo"
+  },
+  "avideo": {
+   "domains": [
+    "avideo.host"
+   ],
+   "template": "https://{host}/{id}.html"
+  },
+  "bannedvideo": {
+   "domains": [
+    "banned.video",
+    "freeworldnews.tv",
+    "electionnight.news",
+    "futurenews.news",
+    "battleplan.news",
+    "theinfowar.tv",
+    "conspiracyfact.info",
+    "madmaxworld.tv"
+   ],
+   "template": "https://freeworldnews.tv/watch?id={id}",
+   "pattern": "(?P<url>[^"
+  },
+  "bewab": {
+   "domains": [
+    "cdn.bewab.co"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "bigshare": {
+   "domains": [
+    "bigshare.io"
+   ],
+   "template": "https://{host}/watch/{id}/e",
+   "pattern": "(?P<url>[^"
+  },
+  "bigwarp": {
+   "domains": [
+    "bigwarp.io",
+    "bgwp.cc",
+    "bigwarp.art",
+    "bigwarp.cc",
+    "bigwarp.pro"
+   ],
+   "template": "https://bigwarp.io/e/{id}"
+  },
+  "bitchute": {
+   "domains": [
+    "bitchute.com"
+   ]
+  },
+  "boodstream": {
+   "domains": [
+    "boodstream.cc",
+    "boodstream.club",
+    "boodstream.cam",
+    "glunvropix.space",
+    "flowveins.online",
+    "bleedtube.site"
+   ],
+   "template": "https://share.{host}/{id}"
+  },
+  "bowfile": {
+   "domains": [
+    "bowfile.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "brainzaps": {
+   "domains": [
+    "brainzaps.tv"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "brbeast": {
+   "domains": [
+    "brbeast.com"
+   ]
+  },
+  "brighteon": {
+   "domains": [
+    "brighteon.com"
+   ],
+   "template": "https://www.{host}/embed/{id}"
+  },
+  "brplayer": {
+   "domains": [
+    "brplayer.site"
+   ]
+  },
+  "brupload": {
+   "domains": [
+    "brupload.net"
+   ],
+   "template": "https://www.{host}/{id}"
+  },
+  "bunny": {
+   "domains": [
+    "mediadelivery.net"
+   ],
+   "template": "https://iframe.{host}/embed/{id}"
+  },
+  "bunnycdn": {
+   "domains": [
+    "netcinepy.lat",
+    "rrrv.lol"
+   ]
+  },
+  "buzz": {
+   "domains": [
+    "buzzheavier.com"
+   ],
+   "template": "https://{host}/{id}/preview"
+  },
+  "byse": {
+   "domains": [
+    "f16px.com",
+    "bysesayeveum.com",
+    "bysetayico.com",
+    "bysevepoin.com",
+    "bysezejataos.com",
+    "bysekoze.com",
+    "bysesukior.com",
+    "bysejikuar.com",
+    "bysefujedu.com",
+    "bysedikamoum.com",
+    "bysebuho.com",
+    "byse.sx",
+    "filemoon.sx",
+    "filemoon.to",
+    "filemoon.in",
+    "filemoon.link",
+    "filemoon.wf",
+    "cinegrab.com",
+    "filemoon.eu",
+    "filemoon.art",
+    "moonmov.pro",
+    "96ar.com",
+    "kerapoxy.cc",
+    "furher.in",
+    "1azayf9w.xyz",
+    "81u6xl9d.xyz",
+    "smdfs40r.skin",
+    "c1z39.com",
+    "bf0skv.org",
+    "z1ekv717.fun",
+    "l1afav.net",
+    "222i8x.lol",
+    "8mhlloqo.fun",
+    "f51rm.com",
+    "xcoic.com",
+    "filemoon.nl",
+    "boosteradx.online",
+    "streamlyplayer.online",
+    "bysewihe.com",
+    "byselapuix.com",
+    "embedplaybyse.top",
+    "sb1254w9megshle.org",
+    "streamlyplayero.online"
+   ]
+  },
+  "castamp": {
+   "domains": [
+    "castamp.com"
+   ]
+  },
+  "casthq": {
+   "domains": [
+    "casthq.to",
+    "vidspeeds.com",
+    "vidoba.org"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "cda": {
+   "domains": [
+    "m.cda.pl",
+    "cda.pl",
+    "www.cda.pl",
+    "ebd.cda.pl"
+   ],
+   "template": "https://ebd.cda.pl/647x500/{id}/vfilm"
+  },
+  "chillx": {
+   "domains": [
+    "chillx.top",
+    "watchx.top",
+    "bestx.stream"
+   ],
+   "template": "https://{host}/v/{id}/"
+  },
+  "chromecast": {
+   "domains": [
+    "chromecast.video"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "cimanow": {
+   "domains": [
+    "cimanowtv.com"
+   ],
+   "template": "https://{host}/e/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "clicknupload": {
+   "domains": [
+    "clicknupload.to",
+    "clicknupload.cc",
+    "clicknupload.co",
+    "clicknupload.com",
+    "clicknupload.me",
+    "clicknupload.link",
+    "clicknupload.red",
+    "clicknupload.org",
+    "clicknupload.club",
+    "clicknupload.click",
+    "clicknupload.download",
+    "clicknupload.vip",
+    "clickndownload.org",
+    "clicknupload.space",
+    "clickndownload.click",
+    "clickndownload.link",
+    "clicknupload.name"
+   ],
+   "template": "https://clicknupload.vip/{id}"
+  },
+  "clipwatching": {
+   "domains": [
+    "clipwatching.com",
+    "highstream.tv"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "cloudb": {
+   "domains": [
+    "cloudb.me",
+    "cloudb2.me",
+    "gamatotv.site",
+    "cloudb.site",
+    "gmtvdb.com",
+    "gmtdb.me",
+    "streamclood.com",
+    "gmtv1.com",
+    "gamatotv.ws"
+   ],
+   "template": "http://{host}/{id}/",
+   "pattern": "(?P<url>[^"
+  },
+  "cloudfile": {
+   "domains": [
+    "1cloudfile.com"
+   ]
+  },
+  "cloudmailru": {
+   "domains": [
+    "cloud.mail.ru"
+   ],
+   "template": "https://{host}/public/{id}"
+  },
+  "cloudvideo": {
+   "domains": [
+    "cloudvideo.tv"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "costv": {
+   "domains": [
+    "cos.tv"
+   ],
+   "template": "https://{host}/api/v1/feed/video/video_info?vid={id}"
+  },
+  "dailymotion": {
+   "domains": [
+    "dailymotion.com",
+    "dai.ly"
+   ],
+   "template": "https://www.dailymotion.com/player/metadata/video/{id}"
+  },
+  "dailyuploads": {
+   "domains": [
+    "dailyuploads.net"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "darkibox": {
+   "domains": [
+    "darkibox.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "daxab": {
+   "domains": [
+    "daxab.com"
+   ],
+   "template": "https://{host}/player/{id}"
+  },
+  "dembed2": {
+   "domains": [
+    "dembed2.com",
+    "asianplay.net",
+    "asianplay.pro",
+    "asianstream.pro",
+    "asianhdplay.net",
+    "asianhdplay.pro",
+    "asianhd1.com",
+    "playc.pro",
+    "pladrac.net",
+    "streamcool.pro",
+    "asianbxkiun.pro"
+   ]
+  },
+  "desiupload": {
+   "domains": [
+    "desiupload.co",
+    "desiupload.to",
+    "quotesread.org"
+   ],
+   "template": "https://desiupload.co/{id}"
+  },
+  "doodstream": {
+   "domains": [
+    "dood.watch",
+    "doodstream.com",
+    "dood.to",
+    "dood.so",
+    "dood.cx",
+    "dood.la",
+    "dood.ws",
+    "dood.sh",
+    "doodstream.co",
+    "dood.pm",
+    "dood.wf",
+    "dood.re",
+    "dood.yt",
+    "dooood.com",
+    "dood.stream",
+    "ds2play.com",
+    "doods.pro",
+    "ds2video.com",
+    "d0o0d.com",
+    "do0od.com",
+    "d0000d.com",
+    "d000d.com",
+    "dood.li",
+    "dood.work",
+    "dooodster.com",
+    "vidply.com",
+    "all3do.com",
+    "do7go.com",
+    "doodcdn.io",
+    "doply.net",
+    "vide0.net",
+    "vvide0.com",
+    "d-s.io",
+    "dsvplay.com",
+    "myvidplay.com",
+    "playmogo.com"
+   ],
+   "template": "https://{host}/d/{id}",
+   "resolver": "doodstream"
+  },
+  "downace": {
+   "domains": [
+    "downace.com"
+   ]
+  },
+  "drakkar": {
+   "domains": [
+    "drakkar.st"
+   ]
+  },
+  "dramacoolmen": {
+   "domains": [
+    "dramacool.men"
+   ],
+   "pattern": "(?P<url>[^\\"
+  },
+  "drkvid": {
+   "domains": [
+    "drkvid.site",
+    "allviid.online",
+    "telvod.site",
+    "allviid.info",
+    "allviidss.buzz"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "drop": {
+   "domains": [
+    "drop.download"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "droplare": {
+   "domains": [
+    "droplare.cc",
+    "droplare.ws",
+    "droplaress.cc"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "dropload": {
+   "domains": [
+    "dropload.io",
+    "dropload.tv",
+    "dropload.pro",
+    "dropload.co",
+    "dr0pstream.com"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "dropload"
+  },
+  "duboku": {
+   "domains": [
+    "duboku.ru",
+    "duboku.tv",
+    "duboku.fun",
+    "duboku.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "dzen": {
+   "domains": [
+    "dzen.ru"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>https://[^\\\""
+  },
+  "embedgram": {
+   "domains": [
+    "embedgram.com"
+   ],
+   "template": "https://{host}/v/{id}"
+  },
+  "embedojo": {
+   "domains": [
+    "embedojo.net",
+    "embedplayer1.xyz",
+    "llanfairpwllgwyngyll.com",
+    "llanfairpwllgwyngy.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "embedrise": {
+   "domains": [
+    "embedrise.com"
+   ],
+   "template": "https://{host}/v/{id}"
+  },
+  "entervideo": {
+   "domains": [
+    "entervideo.net",
+    "eplayvid.com",
+    "eplayvid.net"
+   ],
+   "template": "http://eplayvid.net/watch/{id}"
+  },
+  "f16px": {
+   "domains": [
+    "f16px.com"
+   ]
+  },
+  "facebook": {
+   "domains": [
+    "facebook.com"
+   ]
+  },
+  "fastdrive": {
+   "domains": [
+    "fastdrive.io"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "fastplay": {
+   "domains": [
+    "fastplay.sx",
+    "fastplay.cc",
+    "fastplay.to"
+   ],
+   "template": "https://fastplay.to/embed-{id}.html"
+  },
+  "fastream": {
+   "domains": [
+    "fastream.to"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "fastupload": {
+   "domains": [
+    "fastupload.io"
+   ],
+   "template": "https://{host}/en/{id}/file"
+  },
+  "fembed": {
+   "domains": [
+    "fembed.com",
+    "anime789.com",
+    "24hd.club",
+    "vcdn.io",
+    "sharinglink.club",
+    "votrefiles.club",
+    "femoload.xyz",
+    "feurl.com",
+    "dailyplanet.pw",
+    "jplayer.net",
+    "xstreamcdn.com",
+    "gcloud.live",
+    "vcdnplay.com",
+    "vidohd.com",
+    "vidsource.me",
+    "votrefile.xyz",
+    "zidiplay.com",
+    "fcdn.stream",
+    "mediashore.org",
+    "there.to",
+    "femax20.com",
+    "sexhd.co",
+    "viplayer.cc",
+    "mrdhan.com",
+    "embedsito.com",
+    "dutrag.com",
+    "youvideos.ru",
+    "streamm4u.club",
+    "moviepl.xyz",
+    "asianclub.tv",
+    "vidcloud.fun",
+    "fplayer.info",
+    "diasfem.com",
+    "fembad.org",
+    "moviemaniac.org",
+    "albavido.xyz",
+    "ncdnstm.com",
+    "fembed-hd.com",
+    "superplayxyz.club",
+    "cinegrabber.com",
+    "ndrama.xyz",
+    "javstream.top",
+    "javpoll.com",
+    "suzihaza.com",
+    "fembed.net",
+    "ezsubz.com",
+    "reeoov.tube",
+    "diampokusy.com",
+    "filmvi.xyz",
+    "vidsrc.xyz",
+    "i18n.pw",
+    "vanfem.com",
+    "fembed9hd.com",
+    "votrefilms.xyz",
+    "watchjavnow.xyz",
+    "ncdnstm.xyz",
+    "albavide.xyz",
+    "kitabmarkaz.xyz",
+    "mycloudzz.com",
+    "dmcdn.xyz",
+    "dmcdn2.xyz",
+    "gdstream.net"
+   ]
+  },
+  "filegram": {
+   "domains": [
+    "filegram.to"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "filekeeper": {
+   "domains": [
+    "filekeeper.net"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "filelions": {
+   "domains": [
+    "filelions.com",
+    "filelions.to",
+    "ajmidyadfihayh.sbs",
+    "alhayabambi.sbs",
+    "vidhideplus.com",
+    "moflix-stream.click",
+    "azipcdn.com",
+    "mlions.pro",
+    "alions.pro",
+    "dlions.pro",
+    "filelions.live",
+    "motvy55.store",
+    "filelions.xyz",
+    "lumiawatch.top",
+    "filelions.online",
+    "javplaya.com",
+    "fviplions.com",
+    "egsyxutd.sbs",
+    "filelions.site",
+    "filelions.co",
+    "vidhide.com",
+    "vidhidepro.com",
+    "vidhidevip.com",
+    "javlion.xyz",
+    "fdewsdc.sbs",
+    "techradar.ink",
+    "anime7u.com",
+    "coolciima.online",
+    "gsfomqu.sbs",
+    "vidhidepre.com",
+    "katomen.online",
+    "vidhide.fun",
+    "vidhidehub.com",
+    "dhtpre.com",
+    "6sfkrspw4u.sbs",
+    "streamvid.su",
+    "movearnpre.com",
+    "bingezove.com",
+    "dingtezuni.com",
+    "dinisglows.com",
+    "ryderjet.com",
+    "e4xb5c2xnz.sbs",
+    "smoothpre.com",
+    "videoland.sbs",
+    "taylorplayer.com",
+    "mivalyo.com",
+    "vidhidefast.com",
+    "peytonepre.com",
+    "dintezuvio.com",
+    "callistanise.com",
+    "minochinos.com",
+    "earnvids.xyz",
+    "lookmovie2.skin",
+    "morencius.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "filemoon": {
+   "domains": [
+    "filemoon.sx",
+    "filemoon.to",
+    "filemoon.in",
+    "filemoon.link",
+    "filemoon.nl",
+    "filemoon.wf",
+    "cinegrab.com",
+    "filemoon.eu",
+    "filemoon.art",
+    "moonmov.pro",
+    "kerapoxy.cc",
+    "furher.in",
+    "1azayf9w.xyz",
+    "81u6xl9d.xyz",
+    "smdfs40r.skin",
+    "bf0skv.org",
+    "z1ekv717.fun",
+    "l1afav.net",
+    "222i8x.lol",
+    "8mhlloqo.fun",
+    "96ar.com",
+    "xcoic.com",
+    "f51rm.com"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "filemoon"
+  },
+  "fileone": {
+   "domains": [
+    "fileone.tv"
+   ],
+   "template": "https://{host}/v/{id}"
+  },
+  "filepup": {
+   "domains": [
+    "filepup.net"
+   ]
+  },
+  "filerio": {
+   "domains": [
+    "filerio.in"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "filesfm": {
+   "domains": [
+    "files.fm",
+    "file.fm"
+   ],
+   "template": "https://{host}/f/{id}"
+  },
+  "filesim": {
+   "domains": [
+    "files.im"
+   ]
+  },
+  "fileupload": {
+   "domains": [
+    "file-upload.org",
+    "file-upload.in",
+    "file-upload.com"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "fileved": {
+   "domains": [
+    "fileved.cam"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "film77": {
+   "domains": [
+    "film77.xyz"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "flashx": {
+   "domains": [
+    "flashx.tv",
+    "flashx.to",
+    "flashx.sx",
+    "flashx.bz",
+    "flashx.cc"
+   ],
+   "template": "https://www.flashx.tv/embed.php?c={id}"
+  },
+  "flyfile": {
+   "domains": [
+    "flyfile.app",
+    "flyfile.to"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "forafile": {
+   "domains": [
+    "forafile.com",
+    "asjp1j93c1.sbs",
+    "cd189tryo7.sbs"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "frame": {
+   "domains": [
+    "f.io"
+   ]
+  },
+  "freedl": {
+   "domains": [
+    "frdl.to",
+    "freedl.ink",
+    "frdl.io",
+    "frdl.is"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "gamovideo": {
+   "domains": [
+    "gamovideo.com"
+   ],
+   "template": "http://{host}/{id}"
+  },
+  "gett": {
+   "domains": [
+    "gett.su"
+   ],
+   "template": "http://{host}/file/{id}/embed.html"
+  },
+  "gofile": {
+   "domains": [
+    "gofile.io"
+   ]
+  },
+  "goload": {
+   "domains": [
+    "goload.io",
+    "goload.pro",
+    "gogohd.net",
+    "streamani.net",
+    "gogo-play.net",
+    "vidstreaming.io",
+    "gogohd.pro",
+    "gembedhd.com",
+    "playgo1.cc",
+    "anihdplay.com",
+    "playtaku.net",
+    "playtaku.online",
+    "gotaku1.com",
+    "goone.pro"
+   ],
+   "template": "https://{host}/streaming.php?id={id}"
+  },
+  "gomoplayer": {
+   "domains": [
+    "gomoplayer.com",
+    "tunestream.net",
+    "xvideosharing.com"
+   ]
+  },
+  "goodstream": {
+   "domains": [
+    "goodstream.uno",
+    "goodstream.one"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "goodstreamcc": {
+   "domains": [
+    "goodstream.cc"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "googlephotos": {
+   "domains": [
+    "photos.google.com",
+    "photos.app.goo.gl"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "googlevideo": {
+   "domains": [
+    "googlevideo.com",
+    "googleusercontent.com",
+    "get.google.com",
+    "plus.google.com",
+    "googledrive.com",
+    "drive.google.com",
+    "docs.google.com",
+    "youtube.googleapis.com",
+    "bp.blogspot.com",
+    "blogger.com"
+   ]
+  },
+  "goostream": {
+   "domains": [
+    "goostream.net"
+   ]
+  },
+  "gostream": {
+   "domains": [
+    "gostream.pro"
+   ]
+  },
+  "govad": {
+   "domains": [
+    "govad.xyz",
+    "goveed.autos",
+    "goveed.boats",
+    "goveed.cfd",
+    "goveed.beauty",
+    "goveed1.space",
+    "goveed.click"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "gupload": {
+   "domains": [
+    "gupload.xyz"
+   ]
+  },
+  "hdvid": {
+   "domains": [
+    "hdvid.tv",
+    "hdvid.fun",
+    "vidhdthe.online",
+    "hdvid.website",
+    "hdthevid.online",
+    "hdthevid.xyz",
+    "bestvidhd.site",
+    "tovidhd5.space",
+    "tohidvrd.space",
+    "vidhdnow2.space"
+   ],
+   "template": "https://hdvid.tv/embed-{id}.html"
+  },
+  "hexupload": {
+   "domains": [
+    "hexupload.net",
+    "hexload.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "holavid": {
+   "domains": [
+    "holavid.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "hurrystream": {
+   "domains": [
+    "hurry.stream"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "hxfile": {
+   "domains": [
+    "hxfile.co"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "indavideo": {
+   "domains": [
+    "indavideo.hu"
+   ]
+  },
+  "itemfix": {
+   "domains": [
+    "itemfix.com"
+   ],
+   "template": "https://www.{host}/v?t={id}"
+  },
+  "justok": {
+   "domains": [
+    "justok.click"
+   ],
+   "template": "https://{host}/vplo.php?cid={id}",
+   "pattern": "(?P<url>[^"
+  },
+  "full30": {
+   "domains": [
+    "juxxi.com"
+   ],
+   "template": "https://{host}/videoEmbed/{id}/"
+  },
+  "k2s": {
+   "domains": [
+    "k2s.cc",
+    "publish2.me",
+    "tezfiles.com"
+   ]
+  },
+  "kinoger": {
+   "domains": [
+    "kinoger.re",
+    "shiid4u.upn.one",
+    "moflix.upns.xyz",
+    "player.upn.one",
+    "disneycdn.net",
+    "wasuytm.store",
+    "ultrastream.online",
+    "moflix.rpmplay.xyz",
+    "tuktuk.rpmvid.com",
+    "w1tv.xyz",
+    "filedecrypt.link",
+    "asianembed.cam",
+    "videoshar.uns.bio",
+    "videoland.cfd",
+    "dzo.vidplayer.live",
+    "watch.ezplayer.me",
+    "watch.streamcasthub.store",
+    "ultra.rpmvid.site",
+    "securecdn.shop",
+    "srbe84.vidplayer.live",
+    "flimmer.rpmvip.com",
+    "t1.p2pplay.pro",
+    "flixfilmesonline.strp2p.site",
+    "filma365.strp2p.site",
+    "strp2p.site",
+    "vidmoly.cc",
+    "animeshqip.uns.bio",
+    "cimanow.upns.online",
+    "kinoger.p2pplay.pro",
+    "embedplay.upns.ink",
+    "moviehax.strp2p.site",
+    "filmi9.upns.xyz",
+    "embedplayapiupn.upns.xyz"
+   ],
+   "template": "https://{host}/api/v1/video?id={id}"
+  },
+  "koramaup": {
+   "domains": [
+    "koramaup.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "krakenfiles": {
+   "domains": [
+    "krakenfiles.com"
+   ],
+   "template": "https://{host}/embed-video/{id}"
+  },
+  "kwik": {
+   "domains": [
+    "kwik.cx"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "larhu": {
+   "domains": [
+    "larhu.com",
+    "larhu.website"
+   ],
+   "pattern": "(?P<url>[^"
+  },
+  "latestview": {
+   "domains": [
+    "latestview.co"
+   ],
+   "template": "https://{host}/player/index.php?data={id}&do=getVideo"
+  },
+  "lbry": {
+   "domains": [
+    "lbry.tv",
+    "lbry.science",
+    "odysee.com",
+    "madiator.com"
+   ],
+   "template": "https://lbry.tv/{id}"
+  },
+  "letsupload": {
+   "domains": [
+    "letsupload.io",
+    "letsupload.org"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "lewdhost": {
+   "domains": [
+    "stream.lewd.host"
+   ],
+   "template": "http://{host}/embed/{id}/"
+  },
+  "liivideo": {
+   "domains": [
+    "liivideo.com",
+    "liiivideo.com",
+    "cimastream.xyz"
+   ],
+   "template": "https://liiivideo.com/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "linkbox": {
+   "domains": [
+    "linkbox.to",
+    "sharezweb.com"
+   ],
+   "template": "https://www.linkbox.to/api/file/detail?itemId={id}"
+  },
+  "loadx": {
+   "domains": [
+    "loadx.ws"
+   ],
+   "template": "https://{host}/player/index.php?data={id}&do=getVideo"
+  },
+  "lulustream": {
+   "domains": [
+    "lulustream.com",
+    "luluvdo.com",
+    "lulu.st",
+    "luluvid.com",
+    "732eg54de642sa.sbs",
+    "cdn1.site",
+    "streamhihi.com",
+    "luluvdoo.com",
+    "d00ds.site"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "mailru": {
+   "domains": [
+    "mail.ru",
+    "my.mail.ru",
+    "m.my.mail.ru",
+    "videoapi.my.mail.ru",
+    "api.video.mail.ru"
+   ]
+  },
+  "maxstream": {
+   "domains": [
+    "maxstream.org"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "media": {
+   "domains": [
+    "media.cm"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "megaupnet": {
+   "domains": [
+    "megaup.net"
+   ],
+   "template": "https://{host}/{id}/"
+  },
+  "megogo": {
+   "domains": [
+    "megogo.net",
+    "megogo.ru"
+   ],
+   "template": "https://embed.megogo.ru/aprx/stream?video_id={id}"
+  },
+  "mightyupload": {
+   "domains": [
+    "mightyupload.com"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "mixdrop": {
+   "domains": [
+    "mixdrop.co",
+    "mixdrop.to",
+    "mixdrop.sx",
+    "mixdrop.bz",
+    "mixdrop.ch",
+    "mixdrp.co",
+    "mixdrp.to",
+    "mixdrop.gl",
+    "mixdrop.club",
+    "mixdroop.bz",
+    "mixdroop.co",
+    "mixdrop.vc",
+    "mixdrop.ag",
+    "mdy48tn97.com",
+    "md3b0j6hj.com",
+    "mdbekjwqa.pw",
+    "mdfx9dc8n.net",
+    "mixdropjmk.pw",
+    "mixdrop21.net",
+    "mixdrop.is",
+    "mixdrop.si",
+    "mixdrop23.net",
+    "mixdrop.nu",
+    "mixdrop.ms",
+    "mdzsmutpcvykb.net",
+    "mixdrop.ps",
+    "mxdrop.to",
+    "mixdrop.sb",
+    "mixdrop.my",
+    "m1xdrop.net",
+    "m1xdrop.com",
+    "m1xdrop.click",
+    "mxdrop.sx",
+    "mixdrop.top",
+    "mixdrp.click",
+    "miixdrop.net"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "mixdrop"
+  },
+  "moflixstream": {
+   "domains": [
+    "moflix-stream.fans",
+    "mov18plus.cloud",
+    "newer.stream",
+    "moviesapi.club",
+    "boosterx.stream",
+    "vidstreamnew.xyz",
+    "plyrxcdn.site",
+    "boltx.stream",
+    "chillx.top",
+    "watchx.top",
+    "bestx.stream",
+    "playerx.stream",
+    "vidstreaming.xyz",
+    "raretoonsindia.co",
+    "bestmovies4u.top"
+   ],
+   "template": "https://{host}/v/{id}"
+  },
+  "mp4upload": {
+   "domains": [
+    "mp4upload.com"
+   ],
+   "template": "https://www.{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "mvidoo": {
+   "domains": [
+    "mvidoo.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "mycloud": {
+   "domains": [
+    "mycloud.to",
+    "mcloud.to",
+    "vizcloud.digital",
+    "vizcloud.cloud"
+   ],
+   "template": "https://{host}/mediainfo/{id}?key=Q1nbJDsdM2BpgXNU"
+  },
+  "myfeminist": {
+   "domains": [
+    "myfeminist.com"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "myupload": {
+   "domains": [
+    "myupload.co"
+   ]
+  },
+  "neohd": {
+   "domains": [
+    "neohd.xyz",
+    "ninjahd.one"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "newtube": {
+   "domains": [
+    "newtube.app"
+   ]
+  },
+  "okru": {
+   "domains": [
+    "ok.ru",
+    "odnoklassniki.ru"
+   ]
+  },
+  "oneupload": {
+   "domains": [
+    "oneupload.to"
+   ]
+  },
+  "pandafiles": {
+   "domains": [
+    "pandafiles.com"
+   ],
+   "template": "https://{host}/pandadocument"
+  },
+  "peertube": {
+   "domains": [
+    "peertube.tv",
+    "peertube.co.uk",
+    "peertube.uno",
+    "peertube.stream"
+   ],
+   "template": "https://{host}/api/v1/videos/{id}"
+  },
+  "pixeldrain": {
+   "domains": [
+    "pixeldrain.com"
+   ]
+  },
+  "pkspeed": {
+   "domains": [
+    "pkspeed.net",
+    "pkembed.com",
+    "vkplus.net",
+    "pkembed.online"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "playhd": {
+   "domains": [
+    "playhd.one",
+    "playdrive.xyz",
+    "prohd.one",
+    "rajtamil.org"
+   ]
+  },
+  "playwire": {
+   "domains": [
+    "playwire.com"
+   ]
+  },
+  "poophd": {
+   "domains": [
+    "poophd.me",
+    "videy.ro",
+    "videy.to",
+    "videy.cx",
+    "pooo.st",
+    "dood.lu",
+    "dood.tips",
+    "poopstream.net"
+   ]
+  },
+  "prefiles": {
+   "domains": [
+    "prefiles.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "qiwi": {
+   "domains": [
+    "qiwi.gg"
+   ],
+   "template": "https://{host}/file/{id}"
+  },
+  "racaty": {
+   "domains": [
+    "racaty.net",
+    "racaty.io"
+   ],
+   "template": "https://racaty.io/{id}"
+  },
+  "rapidgator": {
+   "domains": [
+    "rapidgator.net",
+    "rg.to"
+   ]
+  },
+  "reviewrate": {
+   "domains": [
+    "reviewrate.net",
+    "w5.gamezone.cam",
+    "w5.gameshop4u.com",
+    "w.gamehub.cam",
+    "m.reviewrate.net"
+   ],
+   "template": "https://{host}/embed-{id}"
+  },
+  "reviewtech": {
+   "domains": [
+    "reviewtech.me"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "rootz": {
+   "domains": [
+    "rootz.so",
+    "www.rootz.so"
+   ],
+   "template": "https://{host}/api/files/download-by-short/{id}"
+  },
+  "rovideo": {
+   "domains": [
+    "rovideo.net"
+   ],
+   "template": "https://www.{host}/embed/{id}/"
+  },
+  "rumble": {
+   "domains": [
+    "rumble.com"
+   ],
+   "template": "https://{host}/embedJS/u3/?request=video&ver=2&v={id}"
+  },
+  "rutube": {
+   "domains": [
+    "rutube.ru"
+   ],
+   "template": "https://{host}/api/play/options/{id}/?format=json&no_404=true"
+  },
+  "sapo": {
+   "domains": [
+    "videos.sapo.pt"
+   ]
+  },
+  "saruch": {
+   "domains": [
+    "saruch.co"
+   ]
+  },
+  "savefiles": {
+   "domains": [
+    "savefiles.com",
+    "streamhls.to",
+    "savefiles.to"
+   ],
+   "post": {
+    "pfad": "/dl",
+    "felder": {
+     "op": "embed",
+     "file_code": "{id}",
+     "auto": "0",
+     "referer": ""
+    }
+   }
+  },
+  "secvideo": {
+   "domains": [
+    "www.secvideo1.online",
+    "secvideo1.online",
+    "csst.online"
+   ],
+   "template": "https://{host}/embed/{id}/"
+  },
+  "send": {
+   "domains": [
+    "send.cm",
+    "sendit.cloud",
+    "send.now"
+   ],
+   "template": "https://send.now/{id}"
+  },
+  "sendvid": {
+   "domains": [
+    "sendvid.com"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "sharevideo": {
+   "domains": [
+    "sharevideo.pl"
+   ]
+  },
+  "sibnet": {
+   "domains": [
+    "sibnet.ru"
+   ],
+   "template": "https://video.{host}/shell.php?videoid={id}"
+  },
+  "slicedrive": {
+   "domains": [
+    "slicedrive.com",
+    "videy.co"
+   ]
+  },
+  "solidfiles": {
+   "domains": [
+    "solidfiles.com"
+   ],
+   "template": "http://www.{host}/v/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "speedfiles": {
+   "domains": [
+    "speedfiles.net"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "speedostream": {
+   "domains": [
+    "speedostream.com",
+    "speedostream.nl",
+    "speedostream.pm",
+    "speedostream.mom",
+    "speedostream.bond",
+    "minoplres.xyz",
+    "embdproxy.xyz",
+    "spedostream.com",
+    "speedostream1.com"
+   ],
+   "template": "https://{host}/embed-{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "streama2z": {
+   "domains": [
+    "streama2z.com",
+    "streama2z.xyz"
+   ],
+   "template": "https://streama2z.com/embed-{id}.html"
+  },
+  "streamable": {
+   "domains": [
+    "streamable.com"
+   ],
+   "template": "https://{host}/s/{id}"
+  },
+  "streamcommunity": {
+   "domains": [
+    "streamingcommunity.xyz",
+    "streamingcommunity.one",
+    "streamingcommunity.vip",
+    "streamingcommunity.work",
+    "streamingcommunity.name",
+    "streamingcommunity.video",
+    "streamingcommunity.live",
+    "streamingcommunity.tv",
+    "streamingcommunity.space",
+    "streamingcommunity.art",
+    "streamingcommunity.fun",
+    "streamingcommunity.website",
+    "streamingcommunity.host",
+    "streamingcommunity.site",
+    "streamingcommunity.bond",
+    "streamingcommunity.icu",
+    "streamingcommunity.bar",
+    "streamingcommunity.top",
+    "streamingcommunity.cc",
+    "streamingcommunity.monster",
+    "streamingcommunity.press",
+    "streamingcommunity.business",
+    "streamingcommunity.org",
+    "streamingcommunity.best",
+    "streamingcommunity.agency",
+    "streamingcommunity.blog",
+    "streamingcommunity.tech",
+    "streamingcommunity.golf",
+    "streamingcommunity.city",
+    "streamingcommunity.help",
+    "streamingcommunity.blue",
+    "streamingcommunity.codes",
+    "streamingcommunity.bet",
+    "streamingcommunity.photos",
+    "streamingcommunityz.li",
+    "streamingcommunityz.bz",
+    "streamingcommunityz.tv",
+    "streamingcommunityz.lu",
+    "streamingcommunityz.ch"
+   ],
+   "template": "https://{host}/it/iframe/{id}"
+  },
+  "streamdav": {
+   "domains": [
+    "streamdav.com"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "streamembed": {
+   "domains": [
+    "bullstream.xyz",
+    "mp4player.site",
+    "watch.gxplayer.xyz",
+    "watch.brstream.cc"
+   ],
+   "template": "https://{host}/watch?v={id}"
+  },
+  "streamgzzz": {
+   "domains": [
+    "streamgzzz.com"
+   ],
+   "template": "https://{host}/player/index.php?data={id}&do=getVideo"
+  },
+  "streamhide": {
+   "domains": [
+    "streamhide.to",
+    "guccihide.com",
+    "moviesm4u.com",
+    "movhide.pro",
+    "streamhide.com",
+    "louishide.com",
+    "ahvsh.com",
+    "javb1.com",
+    "bikurathulw.sbs",
+    "fanakishtuna.sbs"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "streamhub": {
+   "domains": [
+    "streamhub.to",
+    "streamhub.gg",
+    "streamhub.ink",
+    "streamhub.top"
+   ],
+   "template": "https://{host}/e/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "streamix": {
+   "domains": [
+    "streamix.so",
+    "stmix.io",
+    "vidara.so",
+    "vidara.to",
+    "vidaraa.cc",
+    "streamix.cc"
+   ],
+   "template": "https://{host}/api/stream"
+  },
+  "streamlare": {
+   "domains": [
+    "streamlare.com",
+    "slmaxed.com",
+    "sltube.org",
+    "slwatch.co"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "streamoupload": {
+   "domains": [
+    "streamoupload.com",
+    "streamoupload.xyz"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "streamrapid": {
+   "domains": [
+    "streamrapid.ru",
+    "rabbitstream.net",
+    "mzzcloud.life",
+    "dokicloud.one"
+   ],
+   "template": "https://{host}/embed-{id}"
+  },
+  "streamruby": {
+   "domains": [
+    "streamruby.com",
+    "sruby.xyz",
+    "rubystream.xyz",
+    "tuktukcimamulti.buzz",
+    "stmruby.com",
+    "rubystm.com",
+    "rubyvid.com",
+    "kinoger.be",
+    "rubyvidhub.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "streamsb": {
+   "domains": [
+    "sbembed.com",
+    "sbembed1.com",
+    "sbplay.org",
+    "sbvideo.net",
+    "streamsb.net",
+    "sbplay.one",
+    "cloudemb.com",
+    "playersb.com",
+    "tubesb.com",
+    "sbplay1.com",
+    "embedsb.com",
+    "watchsb.com",
+    "sbplay2.com",
+    "japopav.tv",
+    "viewsb.com",
+    "sbplay2.xyz",
+    "sbfast.com",
+    "sbfull.com",
+    "javplaya.com",
+    "ssbstream.net",
+    "p1ayerjavseen.com",
+    "sbthe.com",
+    "vidmovie.xyz",
+    "sbspeed.com",
+    "streamsss.net",
+    "sblanh.com",
+    "tvmshow.com",
+    "sbanh.com",
+    "streamovies.xyz",
+    "embedtv.fun",
+    "sblongvu.com",
+    "arslanrocky.xyz",
+    "sbchill.com",
+    "sbrity.com",
+    "sbhight.com",
+    "sbbrisk.com",
+    "gomovizplay.com",
+    "sbface.com",
+    "lvturbo.com",
+    "sbnet.one",
+    "sbone.pro",
+    "sbasian.pro",
+    "sbani.pro",
+    "sbrapid.com",
+    "javside.com",
+    "aintahalu.sbs",
+    "sbsonic.com",
+    "finaltayibin.sbs",
+    "sblona.com",
+    "yahlusubh.sbs",
+    "taeyabathuna.sbs",
+    "likessb.com",
+    "kharabnahk.sbs",
+    "sbnmp.bar"
+   ],
+   "template": "https://{host}/d/{id}.html"
+  },
+  "streamsilk": {
+   "domains": [
+    "streamsilk.com"
+   ],
+   "template": "https://{host}/p/{id}"
+  },
+  "streamtape": {
+   "domains": [
+    "streamtape.com",
+    "strtape.cloud",
+    "streamtape.net",
+    "streamta.pe",
+    "streamtape.site",
+    "strcloud.link",
+    "strcloud.club",
+    "strtpe.link",
+    "streamtape.cc",
+    "scloud.online",
+    "stape.fun",
+    "streamadblockplus.com",
+    "shavetape.cash",
+    "streamtape.to",
+    "streamta.site",
+    "streamadblocker.xyz",
+    "tapewithadblock.org",
+    "adblocktape.wiki",
+    "antiadtape.com",
+    "streamtape.xyz",
+    "tapeblocker.com",
+    "streamnoads.com",
+    "tapeadvertisement.com",
+    "tapeadsenjoyer.com",
+    "watchadsontape.com",
+    "tpead.net",
+    "advertape.net"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "streamtape"
+  },
+  "streamup": {
+   "domains": [
+    "streamup.ws",
+    "streamup.cc",
+    "strmup.to",
+    "strmup.cc",
+    "vfaststream.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "streamvid": {
+   "domains": [
+    "streamvid.co",
+    "streamvid.cc"
+   ],
+   "template": "https://{host}/player/{id}/"
+  },
+  "streamvids": {
+   "domains": [
+    "streamvid.net"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "streamvidsu": {
+   "domains": [
+    "streamvid.su"
+   ],
+   "template": "https://{host}/embed/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "streamwish": {
+   "domains": [
+    "streamwish.com",
+    "streamwish.to",
+    "ajmidyad.sbs",
+    "khadhnayad.sbs",
+    "yadmalik.sbs",
+    "hayaatieadhab.sbs",
+    "kharabnahs.sbs",
+    "atabkhha.sbs",
+    "atabknha.sbs",
+    "atabknhk.sbs",
+    "atabknhs.sbs",
+    "abkrzkr.sbs",
+    "abkrzkz.sbs",
+    "wishembed.pro",
+    "mwish.pro",
+    "strmwis.xyz",
+    "awish.pro",
+    "dwish.pro",
+    "vidmoviesb.xyz",
+    "embedwish.com",
+    "cilootv.store",
+    "uqloads.xyz",
+    "tuktukcinema.store",
+    "doodporn.xyz",
+    "ankrzkz.sbs",
+    "volvovideo.top",
+    "streamwish.site",
+    "wishfast.top",
+    "ankrznm.sbs",
+    "sfastwish.com",
+    "eghjrutf.sbs",
+    "eghzrutw.sbs",
+    "guxhag.com",
+    "playembed.online",
+    "egsyxurh.sbs",
+    "egtpgrvh.sbs",
+    "flaswish.com",
+    "obeywish.com",
+    "cdnwish.com",
+    "javsw.me",
+    "cinemathek.online",
+    "trgsfjll.sbs",
+    "fsdcmo.sbs",
+    "hailindihg.com",
+    "anime4low.sbs",
+    "mohahhda.site",
+    "ma2d.store",
+    "dancima.shop",
+    "swhoi.com",
+    "aiavh.com",
+    "gsfqzmqu.sbs",
+    "jodwish.com",
+    "swdyu.com",
+    "strwish.com",
+    "asnwish.com",
+    "kravaxxa.com",
+    "wishonly.site",
+    "playerwish.com",
+    "katomen.store",
+    "hlswish.com",
+    "streamwish.fun",
+    "swishsrv.com",
+    "iplayerhls.com",
+    "hlsflast.com",
+    "4yftwvrdz7.sbs",
+    "ghbrisk.com",
+    "hgbazooka.com",
+    "eb8gfmjn71.sbs",
+    "cybervynx.com",
+    "edbrdl7pab.sbs",
+    "stbhg.click",
+    "dhcplay.com",
+    "strwish.xyz",
+    "gradehgplus.com",
+    "tryzendm.com",
+    "hglink.to",
+    "dumbalag.com",
+    "haxloppd.com",
+    "davioad.com",
+    "uasopt.com",
+    "hgcloud.to",
+    "alions.pro"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "streamwish"
+  },
+  "streamz": {
+   "domains": [
+    "streamz.cc",
+    "streamz.vg",
+    "streamzz.to",
+    "streamz.ws"
+   ],
+   "template": "https://streamzz.to/{id}"
+  },
+  "superembeds": {
+   "domains": [
+    "superembeds.com"
+   ],
+   "template": "https://{host}/embed{id}"
+  },
+  "superitu": {
+   "domains": [
+    "superitu.com"
+   ]
+  },
+  "supervideo": {
+   "domains": [
+    "supervideo.tv",
+    "supervideo.cc"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "resolver": "supervideo"
+  },
+  "swiftload": {
+   "domains": [
+    "swiftload.io"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "terabox": {
+   "domains": [
+    "terabox.com",
+    "terabox.app"
+   ],
+   "template": "https://www.{host}/sharing/embed?surl={id}"
+  },
+  "tokyvideo": {
+   "domains": [
+    "www.tokyvideo.com"
+   ],
+   "template": "https://{host}/video/{id}"
+  },
+  "truhd": {
+   "domains": [
+    "truhd.xyz"
+   ],
+   "template": "https://{host}/embed/{id}/"
+  },
+  "tubeload": {
+   "domains": [
+    "tubeload.co",
+    "redload.co"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "tubitv": {
+   "domains": [
+    "tubitv.com"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "tudou": {
+   "domains": [
+    "tudou.com"
+   ]
+  },
+  "turbovid": {
+   "domains": [
+    "turbovid.eu"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "turboviplay": {
+   "domains": [
+    "turboviplay.com",
+    "emturbovid.com",
+    "tuborstb.co",
+    "javggvideo.xyz",
+    "stbturbo.xyz",
+    "turbovidhls.com"
+   ],
+   "template": "https://{host}/t/{id}"
+  },
+  "tusfiles": {
+   "domains": [
+    "tusfiles.net",
+    "tusfiles.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "tvlogy": {
+   "domains": [
+    "tvlogy.to"
+   ],
+   "template": "https://{host}/player/index.php?data={id}&do=getVideo",
+   "pattern": "(?P<url>[^"
+  },
+  "twitch": {
+   "domains": [
+    "twitch.tv"
+   ]
+  },
+  "udrop": {
+   "domains": [
+    "udrop.com"
+   ],
+   "template": "https://www.{host}/{id}"
+  },
+  "up4stream": {
+   "domains": [
+    "up4stream.com",
+    "ups2up.fun",
+    "up4fun.top"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "upbaam": {
+   "domains": [
+    "upbaam.com",
+    "cdnupbom.com",
+    "uupbom.com",
+    "upgobom.space",
+    "top15top.shop"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "updown": {
+   "domains": [
+    "updown.sbs",
+    "updown.icu",
+    "updown.cam"
+   ],
+   "template": "https://updown.cam/embed-{id}.html"
+  },
+  "uperbox": {
+   "domains": [
+    "www.uperbox.net",
+    "www.uperbox.io",
+    "www.uperbox.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "uploadbaz": {
+   "domains": [
+    "uploadbaz.me"
+   ],
+   "template": "http://{host}/{id}"
+  },
+  "uploaddo": {
+   "domains": [
+    "upload.do"
+   ]
+  },
+  "uploadever": {
+   "domains": [
+    "uploadever.com",
+    "uploadever.in"
+   ],
+   "template": "https://uploadever.in/{id}"
+  },
+  "uploadflix": {
+   "domains": [
+    "uploadflix.org",
+    "uploadflix.com",
+    "1uploadflix.net"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "uploadhub": {
+   "domains": [
+    "uploadhub.wf"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "uploadingsite": {
+   "domains": [
+    "uploadingsite.com",
+    "uploadingsite.info",
+    "uploadingsite.lol"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "uploadraja": {
+   "domains": [
+    "uploadraja.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "uploady": {
+   "domains": [
+    "uploady.io"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "uppit": {
+   "domains": [
+    "uppit.com"
+   ],
+   "template": "http://{host}/{id}"
+  },
+  "upstream": {
+   "domains": [
+    "upstream.to"
+   ],
+   "template": "https://{host}/{id}",
+   "resolver": "upstream"
+  },
+  "uptobox": {
+   "domains": [
+    "uptobox.com",
+    "uptostream.com"
+   ]
+  },
+  "uptomega": {
+   "domains": [
+    "uptomega.net"
+   ]
+  },
+  "upvid": {
+   "domains": [
+    "upvid.co",
+    "upvid.pro",
+    "upvid.live",
+    "upvid.host",
+    "upvid.biz",
+    "upvid.cloud",
+    "opvid.org",
+    "opvid.online",
+    "turbovid.org",
+    "turbovid.co"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "upvideo": {
+   "domains": [
+    "upvideo.to",
+    "videoloca.xyz",
+    "tnaket.xyz",
+    "makaveli.xyz",
+    "highload.to",
+    "embedo.co"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "upzur": {
+   "domains": [
+    "upzur.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "uqload": {
+   "domains": [
+    "uqload.com",
+    "uqload.co",
+    "uqload.io",
+    "uqload.to",
+    "uqload.ws",
+    "uqload.net",
+    "uqload.cx",
+    "uqload.bz",
+    "uqload.org",
+    "uqload.is"
+   ]
+  },
+  "userload": {
+   "domains": [
+    "userload.co"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "userscloud": {
+   "domains": [
+    "userscloud.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "vcdnlare": {
+   "domains": [
+    "vcdnlare.com"
+   ],
+   "template": "https://{host}/v/{id}"
+  },
+  "veehd": {
+   "domains": [
+    "veehd.com"
+   ],
+   "template": "http://{host}/video/{id}"
+  },
+  "veev": {
+   "domains": [
+    "veev.to",
+    "poophq.com",
+    "doods.to"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "vembx": {
+   "domains": [
+    "vembx.one",
+    "embed.icu",
+    "vidplay.one"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "veoh": {
+   "domains": [
+    "veoh.com"
+   ],
+   "template": "https://www.{host}/watch/getVideo/{id}"
+  },
+  "vevocloud": {
+   "domains": [
+    "vevocloud.com"
+   ],
+   "template": "https://{host}/play/index/{id}"
+  },
+  "vidbasic": {
+   "domains": [
+    "vidbasic.top"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "vidbob": {
+   "domains": [
+    "vidbob.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "vidbom": {
+   "domains": [
+    "vidbom.com",
+    "vidbem.com",
+    "vidbm.com",
+    "vedpom.com",
+    "vedbom.com",
+    "vedbom.org",
+    "vedbam.xyz",
+    "myvid.com",
+    "vidshar.org",
+    "vedbam1.space",
+    "vedbam1.store",
+    "vadbom.com",
+    "vidbam.org",
+    "vadbam.com",
+    "vadbam.net",
+    "myviid.com",
+    "myviid.net",
+    "vidshare.com",
+    "vedsharr.com",
+    "vedshar.com",
+    "vedshare.com",
+    "vadshar.com",
+    "viidshar.com",
+    "vedbam1.online",
+    "qaz2.vedbam1.online",
+    "vedbam1.sbs",
+    "1vid1shar.space",
+    "vdbtm.shop"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidcloud": {
+   "domains": [
+    "vidcloud.co",
+    "vidcloud.pro",
+    "vidcloud.is"
+   ]
+  },
+  "vidcloud9": {
+   "domains": [
+    "vidcloud9.com",
+    "vidnode.net",
+    "vidnext.net",
+    "vidembed.net",
+    "vidembed.cc",
+    "vidembed.io",
+    "vidembed.me",
+    "membed.net",
+    "membed1.com",
+    "membed.co",
+    "movembed.cc",
+    "movstreamhd.pro"
+   ],
+   "template": "https://movembed.cc/loadserver.php?id={id}"
+  },
+  "videa": {
+   "domains": [
+    "videa.hu",
+    "videakid.hu"
+   ]
+  },
+  "vidello": {
+   "domains": [
+    "vidello.net"
+   ]
+  },
+  "vidembed": {
+   "domains": [
+    "vidembed.re"
+   ],
+   "template": "https://{host}/api/source/{id}?type=live"
+  },
+  "videoapne": {
+   "domains": [
+    "videoapne.co"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "videobin": {
+   "domains": [
+    "videobin.co"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "videooo": {
+   "domains": [
+    "videooo.news",
+    "goplayer1.com",
+    "goplayer3.com"
+   ],
+   "template": "https://{host}/embed-{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "videoseyred": {
+   "domains": [
+    "videoseyred.in"
+   ]
+  },
+  "videowood": {
+   "domains": [
+    "videowood.tv"
+   ]
+  },
+  "videozoo": {
+   "domains": [
+    "byzoo.org",
+    "playpanda.net",
+    "videozoo.me",
+    "videowing.me",
+    "easyvideo.me",
+    "play44.net",
+    "playbb.me",
+    "video44.net"
+   ]
+  },
+  "vidfast": {
+   "domains": [
+    "vidfast.co"
+   ],
+   "pattern": "(?P<url>[^"
+  },
+  "vidguard": {
+   "domains": [
+    "vidguard.to",
+    "vgfplay.com",
+    "vgembed.com",
+    "moflix-stream.day",
+    "v6embed.xyz",
+    "vid-guard.com",
+    "vembed.net",
+    "embedv.net",
+    "fslinks.org",
+    "bembed.net",
+    "listeamed.net",
+    "gsfjzmqu.sbs",
+    "go-streamer.net",
+    "6tnutl8knw.sbs",
+    "dhmu4p2hkp.sbs"
+   ],
+   "resolver": "vidguard"
+  },
+  "vidhd": {
+   "domains": [
+    "vidhd.best"
+   ]
+  },
+  "vidhidepro": {
+   "domains": [
+    "vidhidepro.com"
+   ],
+   "template": "https://{host}/f/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "vidlook": {
+   "domains": [
+    "vidlook.net"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidmojo": {
+   "domains": [
+    "vidmojo.net",
+    "vidflare.net",
+    "embedojo.com"
+   ],
+   "template": "https://{host}/embed-{id}"
+  },
+  "vidmoly": {
+   "domains": [
+    "vidmoly.me",
+    "vidmoly.to",
+    "vidmoly.net",
+    "vidmoly.biz"
+   ],
+   "template": "https://vidmoly.biz/embed-{id}.html"
+  },
+  "vidmx": {
+   "domains": [
+    "vidmx.xyz"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidneo": {
+   "domains": [
+    "vidneo.cc"
+   ]
+  },
+  "vidnest": {
+   "domains": [
+    "vidnest.io",
+    "vidnest.live"
+   ],
+   "template": "https://{host}/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "vido": {
+   "domains": [
+    "vido.lol",
+    "vido.cool",
+    "vidon.to"
+   ]
+  },
+  "vidora": {
+   "domains": [
+    "vidora.stream"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "vidorg": {
+   "domains": [
+    "vidorg.net",
+    "vidpiz.xyz"
+   ],
+   "template": "http://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidoza": {
+   "domains": [
+    "vidoza.net",
+    "vidoza.co",
+    "videzz.net"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "resolver": "vidoza"
+  },
+  "vidpro": {
+   "domains": [
+    "vidpro.net"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidsst": {
+   "domains": [
+    "vids.st"
+   ],
+   "template": "https://{host}/e/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "vidsonic": {
+   "domains": [
+    "vidsonic.net"
+   ]
+  },
+  "vidspeed": {
+   "domains": [
+    "vidroba.com",
+    "vidspeeds.com",
+    "vidspeed.cc",
+    "vidspeed.org",
+    "vidspeeds.org"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "vidstore": {
+   "domains": [
+    "vidstore.me"
+   ],
+   "template": "https://www.{host}/{id}"
+  },
+  "vidtube": {
+   "domains": [
+    "vidtube.pro",
+    "vidtube.cam",
+    "vidtube.one"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vidxgo": {
+   "domains": [
+    "vidxgo.co"
+   ]
+  },
+  "vidzstore": {
+   "domains": [
+    "vidzstore.com"
+   ],
+   "template": "https://{host}/video_emb.php?{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "vimeo": {
+   "domains": [
+    "vimeo.com",
+    "player.vimeo.com"
+   ],
+   "template": "https://player.vimeo.com/video/{id}"
+  },
+  "vimeos": {
+   "domains": [
+    "vimeos.net"
+   ],
+   "pattern": "(?P<url>[^"
+  },
+  "vinovo": {
+   "domains": [
+    "vinovo.to",
+    "vinovo.si"
+   ],
+   "template": "https://vinovo.to/e/{id}",
+   "resolver": "vinovo"
+  },
+  "vipss": {
+   "domains": [
+    "vipss.club"
+   ],
+   "template": "https://{host}/{id}/",
+   "pattern": "file:\\s*\"(?P<url>[^\""
+  },
+  "viralweb8": {
+   "domains": [
+    "viralweb8.com"
+   ],
+   "template": "https://{host}/video/{id}"
+  },
+  "virstream": {
+   "domains": [
+    "virvid.cc"
+   ],
+   "template": "https://{host}/e/{id}",
+   "pattern": "(?P<url>[^"
+  },
+  "vixstream": {
+   "domains": [
+    "vixstream.co"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "vk": {
+   "domains": [
+    "vk.com",
+    "vkvideo.ru"
+   ]
+  },
+  "vkprime": {
+   "domains": [
+    "vkprime.com"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "vkspeed": {
+   "domains": [
+    "vkspeed.com",
+    "speedwatch.us"
+   ],
+   "template": "https://vkspeed.com/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "vlalacom": {
+   "domains": [
+    "videoslala.com"
+   ],
+   "template": "https://{host}/embed/{id}"
+  },
+  "vlalanet": {
+   "domains": [
+    "videoslala.net"
+   ],
+   "template": "https://cdn1.{host}/embed/{id}"
+  },
+  "voe": {
+   "domains": [
+    "voe.sx",
+    "voe-unblock.com",
+    "voe-unblock.net",
+    "voeunblock.com",
+    "un-block-voe.net",
+    "voeunbl0ck.com",
+    "voeunblck.com",
+    "voeunblk.com",
+    "voe-un-block.com",
+    "jonathansociallike.com",
+    "voeun-block.net",
+    "v-o-e-unblock.com",
+    "edwardarriveoften.com",
+    "nathanfromsubject.com",
+    "audaciousdefaulthouse.com",
+    "launchreliantcleaverriver.com",
+    "kennethofficialitem.com",
+    "reputationsheriffkennethsand.com",
+    "fittingcentermondaysunday.com",
+    "lukecomparetwo.com",
+    "housecardsummerbutton.com",
+    "fraudclatterflyingcar.com",
+    "wolfdyslectic.com",
+    "bigclatterhomesguideservice.com",
+    "uptodatefinishconferenceroom.com",
+    "jayservicestuff.com",
+    "realfinanceblogcenter.com",
+    "tinycat-voe-fashion.com",
+    "35volitantplimsoles5.com",
+    "20demidistance9elongations.com",
+    "telyn610zoanthropy.com",
+    "toxitabellaeatrebates306.com",
+    "greaseball6eventual20.com",
+    "745mingiestblissfully.com",
+    "19turanosephantasia.com",
+    "30sensualizeexpression.com",
+    "321naturelikefurfuroid.com",
+    "449unceremoniousnasoseptal.com",
+    "guidon40hyporadius9.com",
+    "cyamidpulverulence530.com",
+    "boonlessbestselling244.com",
+    "antecoxalbobbing1010.com",
+    "matriculant401merited.com",
+    "scatch176duplicities.com",
+    "availedsmallest.com",
+    "counterclockwisejacky.com",
+    "simpulumlamerop.com",
+    "paulkitchendark.com",
+    "metagnathtuggers.com",
+    "gamoneinterrupted.com",
+    "chromotypic.com",
+    "crownmakermacaronicism.com",
+    "generatesnitrosate.com",
+    "yodelswartlike.com",
+    "figeterpiazine.com",
+    "strawberriesporail.com",
+    "valeronevijao.com",
+    "timberwoodanotia.com",
+    "apinchcaseation.com",
+    "nectareousoverelate.com",
+    "nonesnanking.com",
+    "kathleenmemberhistory.com",
+    "stevenimaginelittle.com",
+    "jamiesamewalk.com",
+    "bradleyviewdoctor.com",
+    "sandrataxeight.com",
+    "graceaddresscommunity.com",
+    "shannonpersonalcost.com",
+    "cindyeyefinal.com",
+    "michaelapplysome.com",
+    "sethniceletter.com",
+    "brucevotewithin.com",
+    "rebeccaneverbase.com",
+    "loriwithinfamily.com",
+    "roberteachfinal.com",
+    "erikcoldperson.com",
+    "jasminetesttry.com",
+    "heatherdiscussionwhen.com",
+    "robertplacespace.com",
+    "alleneconomicmatter.com",
+    "josephseveralconcern.com",
+    "donaldlineelse.com",
+    "lisatrialidea.com",
+    "toddpartneranimal.com",
+    "jamessoundcost.com",
+    "brittneystandardwestern.com",
+    "sandratableother.com",
+    "robertordercharacter.com",
+    "maxfinishseveral.com",
+    "chuckle-tube.com",
+    "kristiesoundsimply.com",
+    "adrianmissionminute.com",
+    "richardsignfish.com",
+    "jennifercertaindevelopment.com",
+    "diananatureforeign.com",
+    "goofy-banana.com",
+    "mariatheserepublican.com",
+    "johnalwayssame.com",
+    "kellywhatcould.com",
+    "jilliandescribecompany.com",
+    "lukesitturn.com",
+    "mikaylaarealike.com",
+    "christopheruntilpoint.com",
+    "walterprettytheir.com",
+    "crystaltreatmenteast.com",
+    "lauradaydo.com",
+    "smoki.cc",
+    "lancewhosedifficult.com",
+    "ogladaj.me",
+    "dianaavoidthey.com",
+    "jefferycontrolmodel.com",
+    "marissasharecareer.com",
+    "charlestoughrace.com",
+    "ianrequireadult.com",
+    "timmaybealready.com",
+    "jessicayeahcatch.com",
+    "voe.to"
+   ],
+   "template": "https://{host}/e/{id}",
+   "resolver": "voe"
+  },
+  "voxzer": {
+   "domains": [
+    "voxzer.org"
+   ],
+   "pattern": "(?P<url>[^"
+  },
+  "vrratop": {
+   "domains": [
+    "vrra.top"
+   ],
+   "template": "https://{host}/e/{id}"
+  },
+  "vshare": {
+   "domains": [
+    "vshare.eu"
+   ]
+  },
+  "vtube": {
+   "domains": [
+    "vtube.to",
+    "vtplay.net",
+    "vtbe.net",
+    "vtbe.to",
+    "vtube.network"
+   ],
+   "template": "https://vtbe.to/embed-{id}.html"
+  },
+  "vudeo": {
+   "domains": [
+    "vudeo.net",
+    "vudeo.io",
+    "vudeo.co",
+    "vudeo.ws"
+   ],
+   "template": "https://{host}/embed-{id}.html",
+   "pattern": "(?P<url>[^"
+  },
+  "waaw": {
+   "domains": [
+    "waaw.ac",
+    "netu.ac",
+    "hqq.ac",
+    "waaw.tv",
+    "netu.tv",
+    "hqq.tv",
+    "waaw.to",
+    "netu.to",
+    "hqq.to",
+    "doplay.store",
+    "younetu.com",
+    "stbnetu.xyz",
+    "brightmindwave.com",
+    "ncdn22.xyz",
+    "oyohd.one",
+    "player.sorozatok.me",
+    "vidmoly.cam",
+    "0gomovies.beer"
+   ],
+   "pattern": "(?P<url>(?!data:)[^"
+  },
+  "wecima": {
+   "domains": [
+    "wecima.show",
+    "wecima.movie",
+    "wecima.stream",
+    "wecima.watch",
+    "vbn1.t4ce4ma.shop",
+    "vbn2.t4ce4ma.shop",
+    "vbn3.t4ce4ma.shop",
+    "wecima.film",
+    "wecima.tube",
+    "wecima.video",
+    "wecima.tv"
+   ],
+   "template": "https://{host}/run/{id}"
+  },
+  "wootly": {
+   "domains": [
+    "www.wootly.ch"
+   ],
+   "template": "https://{host}/?v={id}"
+  },
+  "worlduploads": {
+   "domains": [
+    "worlduploads.com"
+   ],
+   "template": "https://{host}/{id}"
+  },
+  "wrzucaj": {
+   "domains": [
+    "wrzucaj.pl"
+   ],
+   "template": "https://{host}/embed/{id}/v"
+  },
+  "yandex": {
+   "domains": [
+    "disk.yandex.ru",
+    "disk.yandex.com",
+    "yadi.sk"
+   ],
+   "template": "https://yadi.sk/i/{id}"
+  },
+  "youdbox": {
+   "domains": [
+    "youdbox.com",
+    "youdbox.net",
+    "youdbox.org",
+    "yodbox.com",
+    "youdboox.com",
+    "youdbox.site",
+    "youdboox.site"
+   ],
+   "template": "https://{host}/embed-{id}.html"
+  },
+  "yourupload": {
+   "domains": [
+    "yourupload.com",
+    "yucache.net"
+   ],
+   "template": "http://www.yourupload.com/embed/{id}"
+  },
+  "youtube": {
+   "domains": [
+    "youtube.com",
+    "youtu.be",
+    "youtube-nocookie.com"
+   ],
+   "template": "https://www.youtube.com/get_video_info?html5=1&video_id={id}"
+  },
+  "zplayer": {
+   "domains": [
+    "zplayer.live"
+   ],
+   "template": "https://v2.{host}/video/{id}"
+  },
+  "ztreamhub": {
+   "domains": [
+    "ztreamhub.com",
+    "lylxan.com",
+    "zxhulu.com"
+   ]
+  },
+  "vidhide": {
+   "domains": [
+    "vidhide.to",
+    "streamhide.to",
+    "boosterx.stream"
+   ]
+  },
+  "streamcloud": {
+   "domains": [
+    "streamcloud.forum",
+    "streamcloud.plus",
+    "streamcloud.uno"
+   ]
+  },
+  "xupload": {
+   "domains": [
+    "dr0pstream.com",
+    "dropgalaxy.in"
+   ]
+  },
+  "wolfstream": {
+   "domains": [
+    "wolfstream.tv"
+   ]
+  },
+  "thebesthoster": {
+   "domains": [
+    "thebesthosterv.com",
+    "viewdara.com",
+    "vidmatrixa.com"
+   ]
+  },
+  "firestream": {
+   "domains": [
+    "firestream.to",
+    "fsst.online"
+   ]
+  },
+  "playmogo": {
+   "domains": [
+    "playmogo.com"
+   ]
+  },
+  "generic": {
+   "domains": [
+    "kinoger.ru",
+    "kinoger.be",
+    "kinoger.pw",
+    "kinoger.ru",
+    "fsst.to",
+    "fsst.me",
+    "fsst.online",
+    "firestream.to",
+    "wolfstream.tv",
+    "vidsonic.net",
+    "flyfile.to",
+    "vudeo.net",
+    "vudeo.co",
+    "vidmatrixa.com",
+    "vidara.cc",
+    "vidaraa.com",
+    "veev.to",
+    "veev.cc",
+    "strmup.to",
+    "strmup.cc",
+    "savefiles.com",
+    "viewdara.com",
+    "playmate.to",
+    "thebesthosterv.com",
+    "ds2video.com",
+    "meinecloud.click",
+    "meinecloud.to"
+   ]
   }
+ }
 }
