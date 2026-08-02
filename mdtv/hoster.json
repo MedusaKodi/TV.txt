@@ -1155,7 +1155,7 @@
     "filmi9.upns.xyz",
     "embedplayapiupn.upns.xyz"
    ],
-   "template": "https://{host}/api/v1/video?id={id}"
+   "resolver": "kinoger"
   },
   "koramaup": {
    "domains": [
@@ -1771,10 +1771,10 @@
     "stmruby.com",
     "rubystm.com",
     "rubyvid.com",
-    "kinoger.be",
     "rubyvidhub.com"
    ],
-   "template": "https://{host}/embed-{id}.html"
+   "template": "https://{host}/embed-{id}.html",
+   "resolver": "streamwish"
   },
   "streamsb": {
    "domains": [
@@ -2810,7 +2810,8 @@
     "ianrequireadult.com",
     "timmaybealready.com",
     "jessicayeahcatch.com",
-    "voe.to"
+    "voe.to",
+    "kinoger.ru"
    ],
    "template": "https://{host}/e/{id}",
    "resolver": "voe"
@@ -3030,6 +3031,12 @@
     "meinecloud.click",
     "meinecloud.to"
    ]
+  },
+  "kinoger_be": {
+   "domains": [
+    "kinoger.be"
+   ],
+   "resolver": "kinoger_be"
   }
  }
 }
