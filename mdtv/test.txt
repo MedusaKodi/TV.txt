@@ -17,7 +17,7 @@ plugin://plugin.video.vavooto/?name=SUPER+RTL
 plugin://plugin.video.vavooto/?name=PRO+7
 #EXTINF:-1 tvg-id="SAT1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/sat1.png",Sat 1
 plugin://plugin.video.vavooto/?name=SAT+1
-#EXTINF:-1 tvg-id="K1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/kabeleins.png",Kabel 1
+#EXTINF:-1 tvg-id="K1" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/kabel1.png",Kabel 1
 plugin://plugin.video.vavooto/?name=KABEL+1
 #EXTINF:-1 tvg-id="VOX" group-title="Standart" tvg-logo="https://raw.githubusercontent.com/michaz1988/michaz1988.github.io/refs/heads/main/logos/vox.png",Vox
 plugin://plugin.video.vavooto/?name=VOX
